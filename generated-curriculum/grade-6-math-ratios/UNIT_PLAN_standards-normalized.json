@@ -1,0 +1,248 @@
+{
+  "source": "Kansas Mathematics Standards Grade 6",
+  "subject": "Mathematics",
+  "grade": "6",
+  "unit": "Ratios and Proportional Relationships",
+  "unit_code": "6.RP",
+  "duration_weeks": 3,
+  "standards_count": 3,
+  "learning_objectives_count": 12,
+  "estimated_lessons": 3,
+  "created_date": "2025-11-14",
+  "standards": [
+    {
+      "id": "6.RP.1",
+      "code": "6.RP.1",
+      "statement": "Understand the concept of a ratio and use ratio language to describe a ratio relationship between two quantities.",
+      "depth_of_knowledge": 2,
+      "cognitive_domain": "Understand",
+      "learning_objectives": {
+        "know": [
+          "Definition of a ratio as a comparison of two quantities",
+          "Three different ways to write a ratio (3:1, 3 to 1, 3/1)",
+          "The meaning of 'part-to-part' and 'part-to-whole' ratios",
+          "That order matters in ratios (3:1 ≠ 1:3)"
+        ],
+        "do": [
+          "Identify ratios in real-world contexts (classroom, school, home)",
+          "Express the same ratio in three different notations",
+          "Describe a ratio relationship using proper vocabulary",
+          "Create simple ratios from given quantities"
+        ],
+        "demonstrate": [
+          "Given a context, write a ratio in at least two forms",
+          "Explain what a ratio tells you about a situation",
+          "Identify when two descriptions refer to the same ratio"
+        ]
+      },
+      "prerequisites": [
+        "Multiplication and division facts (fluency helpful, not required)",
+        "Understanding of whole numbers and basic comparison concepts"
+      ],
+      "related_standards": [
+        "6.RP.2",
+        "6.RP.3"
+      ],
+      "common_misconceptions": [
+        "Students confuse ratios with fractions (3:1 is not 3/1 as a fraction)",
+        "Students don't understand that order matters (think 3:1 = 1:3)",
+        "Students treat ratios as requiring simplification like fractions",
+        "Students confuse ratio with just counting one quantity"
+      ],
+      "centric_alignment": {
+        "grade": 6,
+        "strand": "Ratios and Proportional Reasoning",
+        "proficiency_basic": "I can explain the concept of a ratio and identify ratios in real-world situations",
+        "proficiency_intermediate": "I can express ratios in multiple forms and explain how ratios describe relationships",
+        "proficiency_advanced": "I can analyze and create ratios in complex situations and justify my reasoning"
+      }
+    },
+    {
+      "id": "6.RP.2",
+      "code": "6.RP.2",
+      "statement": "Understand the concept of a unit rate a/b associated with a ratio a:b with b ≠ 0, and use rate language in the context of a ratio relationship.",
+      "depth_of_knowledge": 2,
+      "cognitive_domain": "Understand",
+      "learning_objectives": {
+        "know": [
+          "Definition of a unit rate (quantity per 1 unit of another quantity)",
+          "How to find a unit rate by dividing the first quantity by the second",
+          "Notation and language for unit rates (miles per hour, cost per item, etc.)",
+          "That equivalent ratios produce the same unit rate"
+        ],
+        "do": [
+          "Calculate unit rates from given ratios",
+          "Identify unit rates in real-world contexts (speed, price, density)",
+          "Use rate language to describe relationships",
+          "Determine which unit rate is better (e.g., lower price per item)"
+        ],
+        "demonstrate": [
+          "Given a ratio, calculate the unit rate and explain what it means",
+          "Compare unit rates to make decisions (which is a better deal)",
+          "Convert between different unit rates (mph vs. meters per second)"
+        ]
+      },
+      "prerequisites": [
+        "Understanding of ratios (6.RP.1)",
+        "Division skills and understanding of division as sharing",
+        "Decimal fluency helpful for real-world rates"
+      ],
+      "related_standards": [
+        "6.RP.1",
+        "6.RP.3"
+      ],
+      "common_misconceptions": [
+        "Students calculate unit rate incorrectly by reversing the division",
+        "Students don't understand that different unit rates for same ratio are equivalent",
+        "Students forget the 'per' language when describing unit rates",
+        "Students can't connect unit rate back to the original ratio"
+      ],
+      "centric_alignment": {
+        "grade": 6,
+        "strand": "Ratios and Proportional Reasoning",
+        "proficiency_basic": "I can calculate a unit rate and explain what it means in a given context",
+        "proficiency_intermediate": "I can identify and calculate unit rates in various contexts and use them to make comparisons",
+        "proficiency_advanced": "I can analyze complex rate situations, convert between different units, and justify decisions based on unit rate comparisons"
+      }
+    },
+    {
+      "id": "6.RP.3",
+      "code": "6.RP.3",
+      "statement": "Use ratio and rate reasoning to solve real-world and mathematical problems, e.g., by reasoning about tables of equivalent ratios, tape diagrams, double number lines, or equations.",
+      "depth_of_knowledge": 3,
+      "cognitive_domain": "Apply / Analyze",
+      "learning_objectives": {
+        "know": [
+          "Multiple strategies for solving ratio problems (tables, tape diagrams, number lines, equations)",
+          "When each strategy is most useful",
+          "How to set up and solve multi-step ratio problems",
+          "That equivalent ratios can be found by multiplying or dividing both parts"
+        ],
+        "do": [
+          "Solve one-step ratio problems using multiple strategies",
+          "Solve multi-step ratio problems with real-world context",
+          "Create and use tables of equivalent ratios",
+          "Use tape diagrams or number lines to solve problems",
+          "Write and solve simple equations based on ratios"
+        ],
+        "demonstrate": [
+          "Select appropriate strategy for given problem",
+          "Solve problems and justify solution method",
+          "Explain why a solution makes sense in context",
+          "Create word problems for given ratio solutions"
+        ]
+      },
+      "prerequisites": [
+        "Fluent understanding of ratios (6.RP.1)",
+        "Understanding of unit rates (6.RP.2)",
+        "Multiplication and division fluency",
+        "Basic equation solving concepts"
+      ],
+      "related_standards": [
+        "6.RP.1",
+        "6.RP.2"
+      ],
+      "common_misconceptions": [
+        "Students add instead of multiply when finding equivalent ratios",
+        "Students don't check if their answer makes sense in the context",
+        "Students use wrong operation or strategy for problem type",
+        "Students set up equations incorrectly",
+        "Students confuse which quantity corresponds to which in tables or diagrams"
+      ],
+      "centric_alignment": {
+        "grade": 6,
+        "strand": "Ratios and Proportional Reasoning",
+        "proficiency_basic": "I can solve simple ratio problems using one strategy and explain my work",
+        "proficiency_intermediate": "I can solve multi-step ratio problems using multiple strategies and explain why my solution makes sense",
+        "proficiency_advanced": "I can solve complex ratio problems, select the most efficient strategy, and justify my reasoning with multiple representations"
+      }
+    }
+  ],
+  "unit_arc": [
+    {
+      "week": 1,
+      "focus": "Foundation - Understanding Ratios (6.RP.1)",
+      "lessons": 1,
+      "dok_level": 2,
+      "description": "Students develop conceptual understanding of what a ratio is and learn to represent ratios in multiple ways"
+    },
+    {
+      "week": 2,
+      "focus": "Extension - Unit Rates and Rates (6.RP.2)",
+      "lessons": 1,
+      "dok_level": 2,
+      "description": "Students apply ratio understanding to calculate and compare unit rates in real-world contexts"
+    },
+    {
+      "week": 3,
+      "focus": "Application - Solve Problems Using Ratios (6.RP.3)",
+      "lessons": 1,
+      "dok_level": 3,
+      "description": "Students use multiple strategies to solve multi-step ratio and rate problems"
+    }
+  ],
+  "cross_curricular_connections": [
+    {
+      "subject": "Science",
+      "connection": "Density, mixing solutions, scale models",
+      "example": "Ratio of salt to water in solutions"
+    },
+    {
+      "subject": "Social Studies",
+      "connection": "Map scales, population density, economic comparisons",
+      "example": "Scale on maps (1 inch = 10 miles)"
+    },
+    {
+      "subject": "Practical Arts",
+      "connection": "Cooking, recipe scaling, mixing paints",
+      "example": "Recipe ratios (3 cups flour to 1 cup water)"
+    }
+  ],
+  "materials_needed": [
+    "Colored tiles or counters for manipulatives",
+    "Ratio cards or picture cards",
+    "Chart paper and markers",
+    "Tape diagrams template sheets",
+    "Double number line templates",
+    "Graph paper",
+    "Real-world examples (menus, recipes, store prices)",
+    "Optional: ratio discovery app or interactive tool"
+  ],
+  "assessment_overview": {
+    "formative": [
+      "Exit tickets after each lesson",
+      "Observation during guided practice",
+      "Think-pair-share responses",
+      "Quick write prompts"
+    ],
+    "summative": [
+      "Mid-unit check (after Lesson 1 & 2)",
+      "Unit performance task (multi-step ratio problem)",
+      "Unit test with multiple choice and short answer"
+    ]
+  },
+  "differentiation_strategies": {
+    "for_struggling_learners": [
+      "Pre-teach vocabulary and concepts",
+      "Use manipulatives and concrete models longer",
+      "Provide templates and graphic organizers",
+      "Reduce complexity of problems initially",
+      "Allow alternative representations (drawing, acting out)"
+    ],
+    "for_on_level_learners": [
+      "Standard activities as designed",
+      "Progress through strategies in sequence",
+      "Mix concrete and abstract representations"
+    ],
+    "for_advanced_learners": [
+      "Introduce additional strategies earlier (equations)",
+      "Create word problems for peers",
+      "Explore ratios with irrational numbers or decimals",
+      "Connect to proportional functions",
+      "Challenge with real-world scenario analysis"
+    ]
+  },
+  "status": "DRAFT - AI Generated, Awaiting SME Review",
+  "review_checklist_file": "sme_review_checklist.md",
+  "next_step": "Submit to 2-3 SME teachers for feedback using the SME Review Checklist"
+}
