@@ -80,10 +80,19 @@ def main():
         parser.print_help()
         return
 
-    # Initialize services
-    settings = get_settings()
-    agent = CentricLearningAgent(api_key=settings.anthropic_api_key)
-    loader = StandardsLoader(data_dir=settings.data_directory)
+    # Initialize loader (doesn't need API key)
+    loader = StandardsLoader(data_dir="extracted_data")
+
+    # Agent will be initialized only when needed
+    agent = None
+
+    def get_agent():
+        """Lazy load agent when needed."""
+        nonlocal agent
+        if agent is None:
+            settings = get_settings()
+            agent = CentricLearningAgent(api_key=settings.anthropic_api_key)
+        return agent
 
     try:
         if args.command == 'search':
@@ -94,7 +103,7 @@ def main():
                 grade=args.grade,
                 limit=args.limit
             )
-            results = agent.search_standards_ai(request)
+            results = get_agent().search_standards_ai(request)
 
             if results:
                 for i, result in enumerate(results, 1):
@@ -115,7 +124,7 @@ def main():
                 duration_minutes=args.duration,
                 additional_context=args.context
             )
-            lesson_plan = agent.generate_lesson_plan(request)
+            lesson_plan = get_agent().generate_lesson_plan(request)
             print(lesson_plan)
 
         elif args.command == 'assess':
@@ -126,7 +135,7 @@ def main():
                 strand_code=args.code,
                 student_work=args.work
             )
-            result = agent.assess_student_work(request)
+            result = get_agent().assess_student_work(request)
 
             print(f"Standard: {result.strand_code}")
             print(f"Assessed Level: {result.assessed_level.value.replace('_', ' ').title()}")
@@ -144,7 +153,7 @@ def main():
 
         elif args.command == 'activities':
             print_header(f"Generating Learning Activities")
-            activities = agent.generate_learning_activities(
+            activities = get_agent().generate_learning_activities(
                 args.code,
                 ProficiencyLevel(args.level)
             )
@@ -182,7 +191,7 @@ def main():
 
         elif args.command == 'chat':
             print_header("Chat with Centric Learning Agent")
-            response = agent.chat(args.query, args.context)
+            response = get_agent().chat(args.query, args.context)
             print(response)
 
     except Exception as e:

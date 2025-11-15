@@ -61,13 +61,69 @@ class StandardsLoader:
             subject: Subject of the standards
 
         Returns:
-            GradeStandards object
+            GradeStandards object or None if sheet should be skipped
         """
-        # Extract grade from sheet name (e.g., "ELA 06" -> 6)
+        # Extract grade from sheet name
         sheet_name = worksheet.title
+        grade = None
+
+        # Skip overview/info sheets
+        skip_sheets = ["overview", "grade level timeline"]
+        if sheet_name.lower() in skip_sheets:
+            return None
+
+        # Try different naming patterns
         try:
-            grade = int(sheet_name.split()[-1])
+            # Pattern 1: "ELA 06", "Science 06" -> 6
+            if sheet_name.split()[-1].isdigit():
+                grade = int(sheet_name.split()[-1])
+
+            # Pattern 2: "Grade 6 - World Geography" -> 6
+            elif "grade" in sheet_name.lower():
+                parts = sheet_name.lower().split("grade")
+                if len(parts) > 1:
+                    num_str = parts[1].strip().split()[0]
+                    if num_str.isdigit():
+                        grade = int(num_str)
+
+            # Pattern 3: High school courses map to grade 9-12
+            # For Science: Biology=9, Chemistry=10, Physics=11, etc.
+            # For Social Studies: use sheet order
+            elif subject == Subject.SCIENCE:
+                high_school_courses = {
+                    "biology": 9,
+                    "chemistry": 10,
+                    "earth & space science": 11,
+                    "physics": 11,
+                    "anatomy and physiology": 12
+                }
+                grade = high_school_courses.get(sheet_name.lower())
+
+            elif subject == Subject.SOCIAL_STUDIES:
+                high_school_courses = {
+                    "u.s. history & geography": 9,
+                    "world history & geography": 10,
+                    "civics": 11,
+                    "economics": 12
+                }
+                grade = high_school_courses.get(sheet_name.lower())
+
+            # Pattern 4: Math courses
+            elif subject == Subject.MATH:
+                math_courses = {
+                    "algebra readiness": 8,
+                    "algebra 1": 9,
+                    "geometry": 10,
+                    "algebra 2": 11,
+                    "precalculus": 12
+                }
+                grade = math_courses.get(sheet_name.lower())
+
         except (ValueError, IndexError):
+            pass
+
+        # If we couldn't determine a grade, skip this sheet
+        if grade is None:
             return None
 
         strands: Dict[str, Strand] = {}
@@ -76,15 +132,17 @@ class StandardsLoader:
         # Skip header row
         rows = list(worksheet.iter_rows(values_only=True))
         for row in rows[1:]:
-            if not row or not row[1]:  # Skip empty rows
+            if not row or len(row) < 2 or not row[1]:  # Skip empty or malformed rows
                 continue
 
-            strand_title = row[0]
-            strand_code = row[1]
-            prof_1 = row[2] or ""
-            prof_2 = row[3] or ""
-            prof_3 = row[4] or ""
-            cc_alignment = row[5] or ""
+            # Safely extract values with bounds checking
+            # Convert None to empty string for all fields
+            strand_title = row[0] if len(row) > 0 else None
+            strand_code = row[1] if len(row) > 1 else None
+            prof_1 = str(row[2] or "") if len(row) > 2 else ""
+            prof_2 = str(row[3] or "") if len(row) > 3 else ""
+            prof_3 = str(row[4] or "") if len(row) > 4 else ""
+            cc_alignment = str(row[5] or "") if len(row) > 5 else ""
 
             # Update current strand title
             if strand_title:
@@ -116,21 +174,25 @@ class StandardsLoader:
         """Find a specific strand part by its code.
 
         Args:
-            code: Strand part code (e.g., "ELA06.RLa")
+            code: Strand part code (e.g., "ELA06.RLa", "SCI06.SPMa", "SS06.DQa")
 
         Returns:
             Tuple of (StrandPart, GradeStandards) or (None, None) if not found
         """
-        # Extract subject from code
-        subject_prefix = code[:3].lower()
-        subject_map = {
-            "ela": Subject.ELA,
-            "mat": Subject.MATH,
-            "sci": Subject.SCIENCE,
-            "soc": Subject.SOCIAL_STUDIES
-        }
+        # Extract subject from code prefix
+        code_upper = code.upper()
 
-        subject = subject_map.get(subject_prefix)
+        # Determine subject based on prefix
+        subject = None
+        if code_upper.startswith("ELA"):
+            subject = Subject.ELA
+        elif code_upper.startswith("MAT") or code_upper.startswith("MATH"):
+            subject = Subject.MATH
+        elif code_upper.startswith("SCI"):
+            subject = Subject.SCIENCE
+        elif code_upper.startswith("SS") or code_upper.startswith("SOC"):
+            subject = Subject.SOCIAL_STUDIES
+
         if not subject:
             return None, None
 
