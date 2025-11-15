@@ -1,0 +1,776 @@
+/* ============================================
+   Centric Learning - Main Stylesheet
+   ============================================ */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary-color: #2563eb;
+    --primary-dark: #1e40af;
+    --primary-light: #3b82f6;
+    --secondary-color: #10b981;
+    --accent-color: #f59e0b;
+    --dark-bg: #1f2937;
+    --light-bg: #f9fafb;
+    --border-color: #e5e7eb;
+    --text-dark: #111827;
+    --text-light: #6b7280;
+    --success: #10b981;
+    --warning: #f59e0b;
+    --error: #ef4444;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    line-height: 1.6;
+    color: var(--text-dark);
+    background-color: #ffffff;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* ============================================
+   Navigation
+   ============================================ */
+
+.navbar {
+    background-color: var(--dark-bg);
+    color: white;
+    padding: 1rem 0;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.navbar .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-brand h1 {
+    font-size: 1.5rem;
+    margin-bottom: 0.25rem;
+}
+
+.nav-brand .tagline {
+    font-size: 0.85rem;
+    color: #9ca3af;
+}
+
+.nav-menu {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+}
+
+.nav-menu a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s;
+    padding: 0.5rem 0;
+    border-bottom: 2px solid transparent;
+}
+
+.nav-menu a:hover,
+.nav-menu a.active {
+    color: var(--primary-light);
+    border-bottom-color: var(--primary-light);
+}
+
+.dropdown {
+    position: relative;
+}
+
+.dropdown-toggle {
+    cursor: pointer;
+}
+
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: var(--primary-dark);
+    list-style: none;
+    padding: 0.5rem 0;
+    border-radius: 4px;
+    min-width: 250px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    margin-top: 0.5rem;
+}
+
+.dropdown.active .dropdown-menu {
+    display: block;
+}
+
+.dropdown-menu li {
+    padding: 0;
+}
+
+.dropdown-menu a {
+    display: block;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-left: 3px solid transparent;
+}
+
+.dropdown-menu a:hover {
+    background-color: rgba(255,255,255,0.1);
+    border-left-color: var(--primary-light);
+}
+
+/* ============================================
+   Hero Section
+   ============================================ */
+
+.hero {
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--primary-dark) 100%);
+    color: white;
+    padding: 4rem 0;
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    font-weight: 700;
+}
+
+.hero-subtitle {
+    font-size: 1.25rem;
+    margin-bottom: 2rem;
+    opacity: 0.95;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hero-buttons {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+/* ============================================
+   Buttons
+   ============================================ */
+
+.btn {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 600;
+    cursor: pointer;
+    border: none;
+    transition: all 0.3s;
+    font-size: 1rem;
+}
+
+.btn-primary {
+    background-color: var(--secondary-color);
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: #059669;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(16,185,129,0.3);
+}
+
+.btn-secondary {
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+}
+
+.btn-secondary:hover {
+    background-color: white;
+    color: var(--primary-color);
+}
+
+.btn-small {
+    padding: 0.5rem 1rem;
+    font-size: 0.9rem;
+    background-color: var(--primary-color);
+    color: white;
+}
+
+.btn-small:hover {
+    background-color: var(--primary-dark);
+}
+
+/* ============================================
+   Stats Section
+   ============================================ */
+
+.stats-section {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    margin: 3rem 0;
+    padding: 2rem 0;
+}
+
+.stat-card {
+    background: linear-gradient(135deg, var(--light-bg), #ffffff);
+    padding: 2rem;
+    border-radius: 8px;
+    text-align: center;
+    border: 1px solid var(--border-color);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    transition: all 0.3s;
+}
+
+.stat-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+}
+
+.stat-number {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--primary-color);
+    margin-bottom: 0.5rem;
+}
+
+.stat-label {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+
+.stat-detail {
+    font-size: 0.9rem;
+    color: var(--text-light);
+}
+
+/* ============================================
+   Curriculum Section
+   ============================================ */
+
+.curriculum-section,
+.impact-section,
+.getting-started,
+.quick-links,
+.project-status {
+    margin: 3rem 0;
+    padding: 2rem 0;
+}
+
+.curriculum-section h2,
+.impact-section h2,
+.getting-started h2,
+.quick-links h2,
+.project-status h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: var(--text-dark);
+    text-align: center;
+}
+
+.section-intro {
+    text-align: center;
+    color: var(--text-light);
+    margin-bottom: 2rem;
+    font-size: 1.1rem;
+}
+
+.curriculum-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+    margin-bottom: 2rem;
+}
+
+.curriculum-card {
+    background: white;
+    border: 2px solid var(--border-color);
+    border-radius: 8px;
+    padding: 2rem;
+    transition: all 0.3s;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.curriculum-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));
+}
+
+.curriculum-card:hover {
+    border-color: var(--primary-color);
+    box-shadow: 0 8px 24px rgba(37,99,235,0.15);
+    transform: translateY(-4px);
+}
+
+.card-icon {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.curriculum-card h3 {
+    font-size: 1.3rem;
+    margin-bottom: 0.5rem;
+    color: var(--primary-color);
+}
+
+.curriculum-card p {
+    margin-bottom: 0.75rem;
+    color: var(--text-light);
+}
+
+.card-desc {
+    color: var(--text-dark);
+    font-size: 0.95rem;
+    margin: 1rem 0;
+}
+
+.card-time {
+    color: var(--accent-color);
+    font-weight: 600;
+    margin: 1rem 0;
+}
+
+.unit-info {
+    text-align: center;
+    padding: 2rem;
+    background-color: var(--light-bg);
+    border-radius: 8px;
+    border-left: 4px solid var(--secondary-color);
+}
+
+.info-link {
+    color: var(--primary-color);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1.1rem;
+    transition: all 0.3s;
+}
+
+.info-link:hover {
+    color: var(--primary-dark);
+}
+
+/* ============================================
+   Impact Section
+   ============================================ */
+
+.impact-comparison {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    margin: 2rem 0;
+}
+
+@media (max-width: 768px) {
+    .impact-comparison {
+        grid-template-columns: 1fr;
+    }
+}
+
+.impact-column {
+    background: white;
+    border: 2px solid var(--border-color);
+    border-radius: 8px;
+    padding: 2rem;
+    transition: all 0.3s;
+}
+
+.impact-column h3 {
+    color: var(--text-dark);
+    margin-bottom: 1.5rem;
+    font-size: 1.3rem;
+}
+
+.impact-column.highlight {
+    border-color: var(--secondary-color);
+    background: linear-gradient(135deg, rgba(16,185,129,0.05), rgba(16,185,129,0.02));
+}
+
+.impact-list {
+    list-style: none;
+}
+
+.impact-list li {
+    padding: 0.75rem 0;
+    color: var(--text-dark);
+    font-size: 0.95rem;
+}
+
+.impact-metric {
+    text-align: center;
+    font-size: 1.3rem;
+    color: var(--secondary-color);
+    font-weight: 600;
+    margin-top: 2rem;
+}
+
+/* ============================================
+   Getting Started Steps
+   ============================================ */
+
+.steps {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    margin: 2rem 0;
+}
+
+.step {
+    position: relative;
+    padding-left: 4rem;
+}
+
+.step-number {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 3rem;
+    height: 3rem;
+    background: linear-gradient(135deg, var(--primary-color), var(--primary-dark));
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 1.3rem;
+}
+
+.step h3 {
+    color: var(--primary-color);
+    margin-bottom: 0.5rem;
+}
+
+.step p {
+    color: var(--text-light);
+    font-size: 0.95rem;
+}
+
+/* ============================================
+   Quick Links
+   ============================================ */
+
+.links-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+}
+
+.link-card {
+    background: white;
+    border: 2px solid var(--border-color);
+    border-radius: 8px;
+    padding: 1.5rem;
+    text-decoration: none;
+    color: var(--text-dark);
+    transition: all 0.3s;
+    display: block;
+}
+
+.link-card:hover {
+    border-color: var(--primary-color);
+    box-shadow: 0 8px 16px rgba(37,99,235,0.15);
+    transform: translateY(-2px);
+}
+
+.link-card h4 {
+    color: var(--primary-color);
+    margin-bottom: 0.5rem;
+    font-size: 1.1rem;
+}
+
+.link-card p {
+    color: var(--text-light);
+    font-size: 0.9rem;
+}
+
+/* ============================================
+   Project Status Timeline
+   ============================================ */
+
+.status-timeline {
+    position: relative;
+    padding: 2rem 0;
+}
+
+.status-timeline::before {
+    content: '';
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 2px;
+    height: 100%;
+    background: var(--border-color);
+}
+
+@media (max-width: 768px) {
+    .status-timeline::before {
+        left: 20px;
+    }
+}
+
+.timeline-item {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 2rem;
+    margin-bottom: 3rem;
+    position: relative;
+}
+
+@media (max-width: 768px) {
+    .timeline-item {
+        grid-template-columns: 50px 1fr;
+        gap: 1.5rem;
+    }
+}
+
+.timeline-marker {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    position: relative;
+    z-index: 1;
+}
+
+.timeline-item.completed .timeline-marker {
+    background: var(--success);
+}
+
+.timeline-item.in-progress .timeline-marker {
+    background: var(--accent-color);
+    animation: pulse 2s infinite;
+}
+
+.timeline-item.pending .timeline-marker {
+    background: #d1d5db;
+}
+
+@keyframes pulse {
+    0%, 100% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.7;
+    }
+}
+
+.timeline-content {
+    background: white;
+    border: 2px solid var(--border-color);
+    border-radius: 8px;
+    padding: 1.5rem;
+}
+
+.timeline-content h4 {
+    color: var(--primary-color);
+    margin-bottom: 0.5rem;
+}
+
+.timeline-content p {
+    color: var(--text-light);
+    font-size: 0.95rem;
+}
+
+/* ============================================
+   Footer
+   ============================================ */
+
+.footer {
+    background-color: var(--dark-bg);
+    color: white;
+    padding: 2rem 0;
+    margin-top: 4rem;
+    border-top: 1px solid #374151;
+}
+
+.footer p {
+    margin: 0.5rem 0;
+    color: #9ca3af;
+}
+
+.footer a {
+    color: var(--primary-light);
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.footer a:hover {
+    color: white;
+}
+
+/* ============================================
+   Lesson Page Styles
+   ============================================ */
+
+.lesson-header {
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--primary-dark) 100%);
+    color: white;
+    padding: 2rem 0;
+    margin-bottom: 3rem;
+}
+
+.lesson-header h1 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+.lesson-meta {
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+}
+
+.meta-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.lesson-content {
+    line-height: 1.8;
+    color: var(--text-dark);
+}
+
+.lesson-content h2 {
+    font-size: 1.5rem;
+    margin: 2rem 0 1rem;
+    color: var(--primary-color);
+    border-bottom: 2px solid var(--primary-light);
+    padding-bottom: 0.5rem;
+}
+
+.lesson-content h3 {
+    font-size: 1.2rem;
+    margin: 1.5rem 0 0.75rem;
+    color: var(--text-dark);
+}
+
+.lesson-content ul,
+.lesson-content ol {
+    margin: 1rem 0 1rem 2rem;
+}
+
+.lesson-content li {
+    margin-bottom: 0.5rem;
+}
+
+.lesson-content table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+    background: white;
+}
+
+.lesson-content th {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 0.75rem;
+    text-align: left;
+    font-weight: 600;
+}
+
+.lesson-content td {
+    border: 1px solid var(--border-color);
+    padding: 0.75rem;
+}
+
+.lesson-content tr:nth-child(even) {
+    background-color: var(--light-bg);
+}
+
+.info-box {
+    background: linear-gradient(135deg, rgba(37,99,235,0.05), rgba(16,185,129,0.05));
+    border-left: 4px solid var(--primary-color);
+    padding: 1.5rem;
+    margin: 1.5rem 0;
+    border-radius: 4px;
+}
+
+.info-box strong {
+    color: var(--primary-color);
+}
+
+.draft-status {
+    background-color: #fef3c7;
+    border: 2px solid #f59e0b;
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin: 2rem 0;
+    text-align: center;
+}
+
+.draft-status p {
+    color: #92400e;
+    font-weight: 600;
+}
+
+/* ============================================
+   Responsive Design
+   ============================================ */
+
+@media (max-width: 768px) {
+    .nav-menu {
+        gap: 1rem;
+        font-size: 0.9rem;
+    }
+
+    .hero h1 {
+        font-size: 1.8rem;
+    }
+
+    .hero-subtitle {
+        font-size: 1rem;
+    }
+
+    .hero-buttons {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .btn {
+        width: 100%;
+        text-align: center;
+    }
+}
+
+@media (max-width: 480px) {
+    .navbar .container {
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .nav-menu {
+        width: 100%;
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+    .hero h1 {
+        font-size: 1.5rem;
+    }
+}
