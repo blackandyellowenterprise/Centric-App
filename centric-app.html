@@ -1,0 +1,749 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centric Learning Claude Agent</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+
+        h1 {
+            color: #2d3748;
+            margin-bottom: 10px;
+            font-size: 2.5em;
+        }
+
+        .subtitle {
+            color: #718096;
+            margin-bottom: 30px;
+            font-size: 1.1em;
+        }
+
+        .status {
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            font-weight: 600;
+        }
+
+        .status.connected {
+            background: #c6f6d5;
+            color: #22543d;
+            border: 2px solid #48bb78;
+        }
+
+        .status.disconnected {
+            background: #fed7d7;
+            color: #742a2a;
+            border: 2px solid #f56565;
+        }
+
+        .status.loading {
+            background: #feebc8;
+            color: #7c2d12;
+            border: 2px solid #ed8936;
+        }
+
+        .config-section {
+            background: #f7fafc;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+
+        .config-section h3 {
+            color: #2d3748;
+            margin-bottom: 15px;
+        }
+
+        .input-group {
+            margin-bottom: 15px;
+        }
+
+        .input-group label {
+            display: block;
+            color: #4a5568;
+            margin-bottom: 5px;
+            font-weight: 600;
+        }
+
+        .input-group input,
+        .input-group select,
+        .input-group textarea {
+            width: 100%;
+            padding: 10px;
+            border: 2px solid #e2e8f0;
+            border-radius: 8px;
+            font-size: 14px;
+            font-family: inherit;
+        }
+
+        .input-group input:focus,
+        .input-group select:focus,
+        .input-group textarea:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .button-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-bottom: 30px;
+        }
+
+        button {
+            padding: 15px 25px;
+            font-size: 16px;
+            font-weight: 600;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: all 0.3s;
+            color: white;
+        }
+
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+        }
+
+        button:active {
+            transform: translateY(0);
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+
+        .btn-success {
+            background: linear-gradient(135deg, #48bb78 0%, #38a169 100%);
+        }
+
+        .btn-info {
+            background: linear-gradient(135deg, #4299e1 0%, #3182ce 100%);
+        }
+
+        .btn-warning {
+            background: linear-gradient(135deg, #ed8936 0%, #dd6b20 100%);
+        }
+
+        .btn-secondary {
+            background: linear-gradient(135deg, #718096 0%, #4a5568 100%);
+        }
+
+        .result-container {
+            margin-top: 30px;
+            display: none;
+        }
+
+        .result-container.show {
+            display: block;
+        }
+
+        .result-header {
+            background: #2d3748;
+            color: white;
+            padding: 15px 20px;
+            border-radius: 10px 10px 0 0;
+            font-weight: 600;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .result-content {
+            background: #1a202c;
+            color: #e2e8f0;
+            padding: 20px;
+            border-radius: 0 0 10px 10px;
+            font-family: 'Monaco', 'Courier New', monospace;
+            font-size: 14px;
+            max-height: 500px;
+            overflow-y: auto;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+        }
+
+        .copy-btn {
+            background: #4299e1;
+            color: white;
+            border: none;
+            padding: 8px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 12px;
+        }
+
+        .copy-btn:hover {
+            background: #3182ce;
+        }
+
+        .loading-spinner {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 3px solid rgba(255,255,255,.3);
+            border-radius: 50%;
+            border-top-color: white;
+            animation: spin 1s ease-in-out infinite;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        .feature-section {
+            margin-bottom: 40px;
+        }
+
+        .feature-section h2 {
+            color: #2d3748;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 3px solid #667eea;
+        }
+
+        .tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+
+        .tab {
+            padding: 10px 20px;
+            background: #e2e8f0;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 600;
+            color: #4a5568;
+        }
+
+        .tab.active {
+            background: #667eea;
+            color: white;
+        }
+
+        .tab-content {
+            display: none;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        .info-box {
+            background: #ebf8ff;
+            border-left: 4px solid #4299e1;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+        }
+
+        .info-box strong {
+            color: #2c5282;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎓 Centric Learning Claude Agent</h1>
+        <p class="subtitle">AI-Powered Educational Assistant for Standards-Based Learning</p>
+
+        <div id="status" class="status disconnected">
+            ⚠️ Not Connected - Click "Test Connection" to check server status
+        </div>
+
+        <!-- Configuration Section -->
+        <div class="config-section">
+            <h3>⚙️ Server Configuration</h3>
+            <div class="input-group">
+                <label>API Server URL:</label>
+                <input type="text" id="apiUrl" value="http://localhost:8000/api/v1" placeholder="http://localhost:8000/api/v1">
+                <small style="color: #718096; display: block; margin-top: 5px;">
+                    Try: http://localhost:8000/api/v1 or http://127.0.0.1:8000/api/v1 or http://21.0.0.146:8000/api/v1
+                </small>
+            </div>
+            <button onclick="testConnection()" class="btn-info" style="width: 100%;">
+                🔗 Test Connection
+            </button>
+        </div>
+
+        <!-- Tabs for Features -->
+        <div class="tabs">
+            <button class="tab active" onclick="switchTab('quick')">⚡ Quick Tests</button>
+            <button class="tab" onclick="switchTab('lesson')">📚 Lesson Plan</button>
+            <button class="tab" onclick="switchTab('assess')">✅ Assess Work</button>
+            <button class="tab" onclick="switchTab('search')">🔍 Search</button>
+            <button class="tab" onclick="switchTab('chat')">💬 Chat</button>
+        </div>
+
+        <!-- Quick Tests Tab -->
+        <div id="tab-quick" class="tab-content active">
+            <div class="feature-section">
+                <h2>⚡ Quick Tests</h2>
+                <div class="button-grid">
+                    <button onclick="testHealth()" class="btn-success">✅ Health Check</button>
+                    <button onclick="listSubjects()" class="btn-info">📖 List Subjects</button>
+                    <button onclick="listGrades()" class="btn-info">📊 List Grades</button>
+                    <button onclick="getStandard()" class="btn-primary">🔍 Get Standard</button>
+                    <button onclick="getELAStandards()" class="btn-secondary">📚 Get ELA Standards</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Lesson Plan Tab -->
+        <div id="tab-lesson" class="tab-content">
+            <div class="feature-section">
+                <h2>📚 Generate Lesson Plan</h2>
+                <div class="info-box">
+                    <strong>Note:</strong> This uses AI and takes 10-20 seconds to generate a complete lesson plan.
+                </div>
+                <div class="input-group">
+                    <label>Subject:</label>
+                    <select id="lessonSubject">
+                        <option value="ela">English Language Arts</option>
+                        <option value="math">Mathematics</option>
+                        <option value="science">Science</option>
+                        <option value="social_studies">Social Studies</option>
+                    </select>
+                </div>
+                <div class="input-group">
+                    <label>Grade Level:</label>
+                    <select id="lessonGrade">
+                        <option value="6">6th Grade</option>
+                        <option value="7">7th Grade</option>
+                        <option value="8">8th Grade</option>
+                        <option value="9">9th Grade</option>
+                        <option value="10">10th Grade</option>
+                        <option value="11">11th Grade</option>
+                        <option value="12">12th Grade</option>
+                    </select>
+                </div>
+                <div class="input-group">
+                    <label>Standard Codes (comma separated):</label>
+                    <input type="text" id="lessonCodes" value="ELA06.RLa" placeholder="ELA06.RLa, ELA06.RLb">
+                </div>
+                <div class="input-group">
+                    <label>Duration (minutes):</label>
+                    <input type="number" id="lessonDuration" value="45" min="15" max="180">
+                </div>
+                <div class="input-group">
+                    <label>Additional Context (optional):</label>
+                    <textarea id="lessonContext" rows="3" placeholder="Focus on character analysis and citing evidence..."></textarea>
+                </div>
+                <button onclick="generateLessonPlan()" class="btn-primary" style="width: 100%;">
+                    📚 Generate Lesson Plan
+                </button>
+            </div>
+        </div>
+
+        <!-- Assess Work Tab -->
+        <div id="tab-assess" class="tab-content">
+            <div class="feature-section">
+                <h2>✅ Assess Student Work</h2>
+                <div class="info-box">
+                    <strong>Note:</strong> AI will evaluate the work and provide detailed feedback (takes 5-10 seconds).
+                </div>
+                <div class="input-group">
+                    <label>Subject:</label>
+                    <select id="assessSubject">
+                        <option value="ela">English Language Arts</option>
+                        <option value="math">Mathematics</option>
+                        <option value="science">Science</option>
+                        <option value="social_studies">Social Studies</option>
+                    </select>
+                </div>
+                <div class="input-group">
+                    <label>Grade Level:</label>
+                    <select id="assessGrade">
+                        <option value="6">6th Grade</option>
+                        <option value="7">7th Grade</option>
+                        <option value="8">8th Grade</option>
+                        <option value="9">9th Grade</option>
+                        <option value="10">10th Grade</option>
+                        <option value="11">11th Grade</option>
+                        <option value="12">12th Grade</option>
+                    </select>
+                </div>
+                <div class="input-group">
+                    <label>Standard Code:</label>
+                    <input type="text" id="assessCode" value="ELA06.RLa" placeholder="ELA06.RLa">
+                </div>
+                <div class="input-group">
+                    <label>Student Work:</label>
+                    <textarea id="assessWork" rows="5" placeholder="Enter the student's work here...">The main character in the story shows bravery when he helps his friend escape from danger. This proves that he is a courageous person who cares about others.</textarea>
+                </div>
+                <button onclick="assessStudentWork()" class="btn-warning" style="width: 100%;">
+                    ✅ Assess Work
+                </button>
+            </div>
+        </div>
+
+        <!-- Search Tab -->
+        <div id="tab-search" class="tab-content">
+            <div class="feature-section">
+                <h2>🔍 Search Standards</h2>
+                <div class="info-box">
+                    <strong>Note:</strong> AI-powered search ranks results by relevance (takes 5-10 seconds).
+                </div>
+                <div class="input-group">
+                    <label>Search Query:</label>
+                    <input type="text" id="searchQuery" value="reading comprehension" placeholder="Enter your search...">
+                </div>
+                <div class="input-group">
+                    <label>Subject (optional):</label>
+                    <select id="searchSubject">
+                        <option value="">All Subjects</option>
+                        <option value="ela" selected>English Language Arts</option>
+                        <option value="math">Mathematics</option>
+                        <option value="science">Science</option>
+                        <option value="social_studies">Social Studies</option>
+                    </select>
+                </div>
+                <div class="input-group">
+                    <label>Grade (optional):</label>
+                    <select id="searchGrade">
+                        <option value="">All Grades</option>
+                        <option value="6" selected>6th Grade</option>
+                        <option value="7">7th Grade</option>
+                        <option value="8">8th Grade</option>
+                        <option value="9">9th Grade</option>
+                        <option value="10">10th Grade</option>
+                        <option value="11">11th Grade</option>
+                        <option value="12">12th Grade</option>
+                    </select>
+                </div>
+                <div class="input-group">
+                    <label>Max Results:</label>
+                    <input type="number" id="searchLimit" value="5" min="1" max="20">
+                </div>
+                <button onclick="searchStandards()" class="btn-info" style="width: 100%;">
+                    🔍 Search Standards
+                </button>
+            </div>
+        </div>
+
+        <!-- Chat Tab -->
+        <div id="tab-chat" class="tab-content">
+            <div class="feature-section">
+                <h2>💬 Chat with AI Teacher Assistant</h2>
+                <div class="info-box">
+                    <strong>Note:</strong> Ask any teaching-related question (takes 3-8 seconds).
+                </div>
+                <div class="input-group">
+                    <label>Your Question:</label>
+                    <textarea id="chatQuery" rows="4" placeholder="Ask a teaching question...">How can I help struggling readers in 6th grade?</textarea>
+                </div>
+                <div class="input-group">
+                    <label>Context (optional):</label>
+                    <input type="text" id="chatContext" placeholder="e.g., Urban school, diverse learners">
+                </div>
+                <button onclick="chatWithAI()" class="btn-success" style="width: 100%;">
+                    💬 Ask Question
+                </button>
+            </div>
+        </div>
+
+        <!-- Results Section -->
+        <div id="resultContainer" class="result-container">
+            <div class="result-header">
+                <span id="resultTitle">Response</span>
+                <button class="copy-btn" onclick="copyResult()">📋 Copy</button>
+            </div>
+            <div id="resultContent" class="result-content"></div>
+        </div>
+    </div>
+
+    <script>
+        let API_URL = 'http://localhost:8000/api/v1';
+
+        // Update API URL from input
+        document.getElementById('apiUrl').addEventListener('change', function() {
+            API_URL = this.value;
+        });
+
+        // Tab switching
+        function switchTab(tabName) {
+            // Hide all tabs
+            document.querySelectorAll('.tab-content').forEach(tab => {
+                tab.classList.remove('active');
+            });
+            document.querySelectorAll('.tab').forEach(tab => {
+                tab.classList.remove('active');
+            });
+
+            // Show selected tab
+            document.getElementById('tab-' + tabName).classList.add('active');
+            event.target.classList.add('active');
+        }
+
+        // Show result
+        function showResult(title, data, isError = false) {
+            const container = document.getElementById('resultContainer');
+            const titleEl = document.getElementById('resultTitle');
+            const contentEl = document.getElementById('resultContent');
+
+            titleEl.textContent = title;
+
+            if (typeof data === 'object') {
+                contentEl.textContent = JSON.stringify(data, null, 2);
+            } else {
+                contentEl.textContent = data;
+            }
+
+            container.classList.add('show');
+            container.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+        }
+
+        // Show loading
+        function showLoading(message) {
+            const container = document.getElementById('resultContainer');
+            const titleEl = document.getElementById('resultTitle');
+            const contentEl = document.getElementById('resultContent');
+
+            titleEl.innerHTML = message + ' <span class="loading-spinner"></span>';
+            contentEl.textContent = 'Please wait...';
+            container.classList.add('show');
+        }
+
+        // Update status
+        function updateStatus(connected, message) {
+            const statusEl = document.getElementById('status');
+            if (connected) {
+                statusEl.className = 'status connected';
+                statusEl.textContent = '✅ ' + message;
+            } else {
+                statusEl.className = 'status disconnected';
+                statusEl.textContent = '❌ ' + message;
+            }
+        }
+
+        // Copy result
+        function copyResult() {
+            const content = document.getElementById('resultContent').textContent;
+            navigator.clipboard.writeText(content).then(() => {
+                alert('Copied to clipboard!');
+            });
+        }
+
+        // Test connection
+        async function testConnection() {
+            updateStatus(false, 'Testing connection...');
+            showLoading('Testing Connection');
+
+            try {
+                const response = await fetch(`${API_URL}/health`);
+                const data = await response.json();
+
+                if (response.ok) {
+                    updateStatus(true, 'Connected to server!');
+                    showResult('✅ Connection Successful', data);
+                } else {
+                    updateStatus(false, 'Server responded with error');
+                    showResult('❌ Connection Error', data, true);
+                }
+            } catch (error) {
+                updateStatus(false, 'Cannot reach server - Check URL and make sure server is running');
+                showResult('❌ Connection Failed', {
+                    error: error.message,
+                    suggestion: 'Make sure the server is running and the URL is correct. Try: http://localhost:8000/api/v1 or http://127.0.0.1:8000/api/v1'
+                }, true);
+            }
+        }
+
+        // Test health
+        async function testHealth() {
+            showLoading('Checking Health');
+            try {
+                const response = await fetch(`${API_URL}/health`);
+                const data = await response.json();
+                showResult('✅ Health Check', data);
+            } catch (error) {
+                showResult('❌ Error', { error: error.message }, true);
+            }
+        }
+
+        // List subjects
+        async function listSubjects() {
+            showLoading('Loading Subjects');
+            try {
+                const response = await fetch(`${API_URL}/subjects`);
+                const data = await response.json();
+                showResult('📖 Available Subjects', data);
+            } catch (error) {
+                showResult('❌ Error', { error: error.message }, true);
+            }
+        }
+
+        // List grades
+        async function listGrades() {
+            showLoading('Loading Grades');
+            try {
+                const response = await fetch(`${API_URL}/grades`);
+                const data = await response.json();
+                showResult('📊 Available Grades', data);
+            } catch (error) {
+                showResult('❌ Error', { error: error.message }, true);
+            }
+        }
+
+        // Get standard
+        async function getStandard() {
+            showLoading('Loading Standard');
+            try {
+                const response = await fetch(`${API_URL}/standard/ELA06.RLa`);
+                const data = await response.json();
+                showResult('🔍 Standard: ELA06.RLa', data);
+            } catch (error) {
+                showResult('❌ Error', { error: error.message }, true);
+            }
+        }
+
+        // Get ELA standards
+        async function getELAStandards() {
+            showLoading('Loading ELA Standards');
+            try {
+                const response = await fetch(`${API_URL}/standards/ela`);
+                const data = await response.json();
+                showResult('📚 ELA Standards (All Grades)', data);
+            } catch (error) {
+                showResult('❌ Error', { error: error.message }, true);
+            }
+        }
+
+        // Generate lesson plan
+        async function generateLessonPlan() {
+            showLoading('Generating Lesson Plan (this takes 10-20 seconds)');
+
+            const codes = document.getElementById('lessonCodes').value.split(',').map(c => c.trim());
+            const context = document.getElementById('lessonContext').value;
+
+            const requestData = {
+                subject: document.getElementById('lessonSubject').value,
+                grade: parseInt(document.getElementById('lessonGrade').value),
+                strand_codes: codes,
+                duration_minutes: parseInt(document.getElementById('lessonDuration').value),
+                additional_context: context || null
+            };
+
+            try {
+                const response = await fetch(`${API_URL}/lesson-plan`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(requestData)
+                });
+                const data = await response.json();
+
+                if (response.ok && data.lesson_plan) {
+                    showResult('📚 Generated Lesson Plan', data.lesson_plan);
+                } else {
+                    showResult('❌ Error Generating Lesson Plan', data, true);
+                }
+            } catch (error) {
+                showResult('❌ Error', { error: error.message }, true);
+            }
+        }
+
+        // Assess student work
+        async function assessStudentWork() {
+            showLoading('Assessing Student Work (this takes 5-10 seconds)');
+
+            const requestData = {
+                subject: document.getElementById('assessSubject').value,
+                grade: parseInt(document.getElementById('assessGrade').value),
+                strand_code: document.getElementById('assessCode').value,
+                student_work: document.getElementById('assessWork').value
+            };
+
+            try {
+                const response = await fetch(`${API_URL}/assess`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(requestData)
+                });
+                const data = await response.json();
+                showResult('✅ Assessment Result', data);
+            } catch (error) {
+                showResult('❌ Error', { error: error.message }, true);
+            }
+        }
+
+        // Search standards
+        async function searchStandards() {
+            showLoading('Searching Standards (this takes 5-10 seconds)');
+
+            const requestData = {
+                query: document.getElementById('searchQuery').value,
+                subject: document.getElementById('searchSubject').value || null,
+                grade: document.getElementById('searchGrade').value ? parseInt(document.getElementById('searchGrade').value) : null,
+                limit: parseInt(document.getElementById('searchLimit').value)
+            };
+
+            try {
+                const response = await fetch(`${API_URL}/search`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(requestData)
+                });
+                const data = await response.json();
+                showResult('🔍 Search Results', data);
+            } catch (error) {
+                showResult('❌ Error', { error: error.message }, true);
+            }
+        }
+
+        // Chat with AI
+        async function chatWithAI() {
+            showLoading('Asking AI (this takes 3-8 seconds)');
+
+            const query = document.getElementById('chatQuery').value;
+            const context = document.getElementById('chatContext').value;
+
+            try {
+                const url = `${API_URL}/chat?query=${encodeURIComponent(query)}${context ? '&context=' + encodeURIComponent(context) : ''}`;
+                const response = await fetch(url, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' }
+                });
+                const data = await response.json();
+
+                if (response.ok && data.response) {
+                    showResult('💬 AI Response', data.response);
+                } else {
+                    showResult('❌ Error', data, true);
+                }
+            } catch (error) {
+                showResult('❌ Error', { error: error.message }, true);
+            }
+        }
+
+        // Auto-test connection on load
+        window.addEventListener('load', function() {
+            setTimeout(testConnection, 1000);
+        });
+    </script>
+</body>
+</html>
