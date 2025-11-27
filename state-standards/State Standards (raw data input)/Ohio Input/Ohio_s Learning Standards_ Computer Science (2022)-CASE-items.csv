@@ -1,0 +1,742 @@
+﻿Item Type,Sequence,Human Code,Full Statement,Ed. Level,Last Modified
+Course,1,,Kindergarten,KG,2025-03-10T19:07:21+00:00
+Strand,1.1,,Computing Systems,KG,2025-03-10T19:07:21+00:00
+Topic,1.1.1,,Devices,KG,2025-03-10T19:07:21+00:00
+Standard,1.1.1.1,CS.D.K.a,"With guidance, identify and label commonly used devices and their components, explaining their connection to different tasks, to perform a variety of tasks.",KG,2025-03-10T19:07:21+00:00
+Topic,1.1.2,,Hardware and Software,KG,2025-03-10T19:07:21+00:00
+Standard,1.1.2.1,CS.HS.K.a,"With guidance and support, identify and use hardware and software necessary for accomplishing a task.",KG,2025-03-10T19:07:21+00:00
+Topic,1.1.3,,Troubleshooting,KG,2025-03-10T19:07:21+00:00
+Standard,1.1.3.1,CS.T.K.a,"With guidance and support, use problem-solving strategies to troubleshoot a problem.",KG,2025-03-10T19:07:21+00:00
+Strand,1.2,,Networks and the Internet,KG,2025-03-10T19:07:21+00:00
+Topic,1.2.1,,Networking,KG,2025-03-10T19:07:21+00:00
+Standard,1.2.1.1,NI.N.K.a,"With guidance and support, create a list of ways information can be shared electronically to gain a deeper understanding of how information is transmitted (e.g., email, social media).",KG,2025-03-10T19:07:21+00:00
+Topic,1.2.2,,Cybersecurity,KG,2025-03-10T19:07:21+00:00
+Standard,1.2.2.1,NI.C.K.a,"With guidance and support, identify and use secure practices (e.g., passwords) to protect private information.",KG,2025-03-10T19:07:21+00:00
+Topic,1.2.3,,Internet of Things (IoT),KG,2025-03-10T19:07:21+00:00
+Standard,1.2.3.1,NI.IOT.K.a,"With guidance and support, identify what smart devices are to recognize what devices are able to connect to the internet.",KG,2025-03-10T19:07:21+00:00
+Standard,1.2.3.2,NI.IOT.K.b,"With guidance and support, recognize how devices connect and exchange data over the internet to demonstrate how information is shared.",KG,2025-03-10T19:07:21+00:00
+Strand,1.3,,Data and Analysis,KG,2025-03-10T19:07:21+00:00
+Topic,1.3.1,,Data Collection and Storage,KG,2025-03-10T19:07:21+00:00
+Standard,1.3.1.1,DA.DCS.K.a,Identify data to collect and sort.,KG,2025-03-10T19:07:21+00:00
+Standard,1.3.1.2,DA.DCS.K.b,"With guidance and support, demonstrate how data can be collected and stored in a variety of ways.",KG,2025-03-10T19:07:21+00:00
+Topic,1.3.2,,Visualization and Communication,KG,2025-03-10T19:07:21+00:00
+Standard,1.3.2.1,DA.VC.K.a,"With guidance, organize and present data in various formats to make observations.",KG,2025-03-10T19:07:21+00:00
+Topic,1.3.3,,Inference and Modeling,KG,2025-03-10T19:07:21+00:00
+Standard,1.3.3.1,DA.IM.K.a,"With guidance, create a model of an object or process to identify patterns.",KG,2025-03-10T19:07:21+00:00
+Strand,1.4,,Algorithmic Thinking and Programming,KG,2025-03-10T19:07:21+00:00
+Topic,1.4.1,,Algorithms,KG,2025-03-10T19:07:21+00:00
+Standard,1.4.1.1,ATP.A.K.a,"With guidance and support, model a real-world process by constructing and following step-by-step directions (i.e., algorithms) to complete tasks.",KG,2025-03-10T19:07:21+00:00
+Topic,1.4.2,,Variables and Data Representation,KG,2025-03-10T19:07:21+00:00
+Standard,1.4.2.1,ATP.VDR.K.a,"Recognize that a group of items (e.g., numbers, symbols or pictures) can be used to represent data.",KG,2025-03-10T19:07:21+00:00
+Topic,1.4.3,,Control Structures,KG,2025-03-10T19:07:21+00:00
+Standard,1.4.3.1,ATP.CS.K.a,"With guidance and support, model a sequence of instructions (i.e., program) with a beginning, middle and end to solve a problem or express an idea.",KG,2025-03-10T19:07:21+00:00
+Topic,1.4.4,,Program Development,KG,2025-03-10T19:07:21+00:00
+Standard,1.4.4.1,ATP.PD.K.a,"With guidance and support, plan or create an artifact to illustrate thoughts, ideas and problems in a sequential (step-by-step) manner (e.g., story map, storyboard, sequential graphic organizer).",KG,2025-03-10T19:07:21+00:00
+Strand,1.5,,Artificial Intelligence,KG,2025-03-10T19:07:21+00:00
+Topic,1.5.1,,Perception,KG,2025-03-10T19:07:21+00:00
+Standard,1.5.1.1,AI.P.K.a,"With guidance and support, locate sensors on computers, robots and intelligent appliances to understand that devices use sensors to gather information.",KG,2025-03-10T19:07:21+00:00
+Standard,1.5.1.2,AI.P.K.b,"With guidance and support, access intelligent agents to demonstrate how they work.",KG,2025-03-10T19:07:21+00:00
+Topic,1.5.2,,Representation & Reasoning,KG,2025-03-10T19:07:21+00:00
+Standard,1.5.2.1,AI.RR.K.a,"With guidance and support, use a simple decision tree to make a decision to visually and explicitly represent decisions and decision-making.",KG,2025-03-10T19:07:21+00:00
+Topic,1.5.3,,Machine Learning,KG,2025-03-10T19:07:21+00:00
+Standard,1.5.3.1,AI.ML.K.a,"With guidance and support, use a classifier that recognizes drawings to see if a program can guess what they are drawing.",KG,2025-03-10T19:07:21+00:00
+Topic,1.5.4,,Natural Interactions,KG,2025-03-10T19:07:21+00:00
+Standard,1.5.4.1,AI.NI.K.a,"With guidance and support, identify how computers can recognize different humans using some form of recognition software to see how computers interact with humans.",KG,2025-03-10T19:07:21+00:00
+Topic,1.5.5,,Societal Impacts,KG,2025-03-10T19:07:21+00:00
+Standard,1.5.5.1,AI.SI.K.a,"With guidance and support, locate AI applications used in daily life to understand how humans use AI.",KG,2025-03-10T19:07:21+00:00
+Standard,1.5.5.2,AI.SI.K.b,Discuss if artificial intelligence is good or bad (see impacts of computing).,KG,2025-03-10T19:07:21+00:00
+Strand,1.6,,Impacts of Computing,KG,2025-03-10T19:07:21+00:00
+Topic,1.6.1,,Culture,KG,2025-03-10T19:07:21+00:00
+Standard,1.6.1.1,IC.Cu.K.a,"With guidance and support, identify technologies that impact one's own everyday life.",KG,2025-03-10T19:07:21+00:00
+Standard,1.6.1.2,IC.Cu.K.b,"With guidance and support, recognize different ways computing devices are used regularly to understand technology's impact on one’s own daily life.",KG,2025-03-10T19:07:21+00:00
+Topic,1.6.2,,Social Interactions,KG,2025-03-10T19:07:21+00:00
+Standard,1.6.2.1,IC.SI.K.a,"With guidance and support, identify and use safe and responsible behaviors concerning information and technology.",KG,2025-03-10T19:07:21+00:00
+Topic,1.6.3,,"Safety, Law and Ethics",KG,2025-03-10T19:07:21+00:00
+Standard,1.6.3.1,IC.SLE.K.a,"With guidance, discuss appropriate uses of technology to support informed decisions.",KG,2025-03-10T19:07:21+00:00
+Standard,1.6.3.2,IC.SLE.K.b,"With guidance and support, discuss examples of appropriate and inappropriate behavior online, including cyberbullying, and the steps to keep yourself and others safe and out of harm's way.",KG,2025-03-10T19:07:21+00:00
+Course,2,,Grade 1,01,2025-03-10T19:07:21+00:00
+Strand,2.1,,Computing Systems,01,2025-03-10T19:07:21+00:00
+Topic,2.1.1,,Devices,01,2025-03-10T19:07:21+00:00
+Standard,2.1.1.1,CS.D.1.a,Operate commonly used devices and their components to perform a variety of tasks.,01,2025-03-10T19:07:21+00:00
+Topic,2.1.2,,Hardware and Software,01,2025-03-10T19:07:21+00:00
+Standard,2.1.2.1,CS.HS.1.a,"With guidance, describe and use hardware and software necessary for accomplishing a task.",01,2025-03-10T19:07:21+00:00
+Topic,2.1.3,,Troubleshooting,01,2025-03-10T19:07:21+00:00
+Standard,2.1.3.1,CS.T.1.a,"With guidance, use problem solving strategies to troubleshoot a problem.",01,2025-03-10T19:07:21+00:00
+Strand,2.2,,Networks and the Internet,01,2025-03-10T19:07:21+00:00
+Topic,2.2.1,,Networking,01,2025-03-10T19:07:21+00:00
+Standard,2.2.1.1,NI.N.1.a,"Create a list of ways information can be shared electronically to gain a deeper understanding of how information is transmitted (e.g., email, social media).",01,2025-03-10T19:07:21+00:00
+Standard,2.2.1.2,NI.N.1.b,Recognize that computing devices can be connected to retrieve information from the global community.,01,2025-03-10T19:07:21+00:00
+Topic,2.2.2,,Cybersecurity,01,2025-03-10T19:07:21+00:00
+Standard,2.2.2.1,NI.C.1.a,"Identify and use secure practices (e.g., passwords) to protect private information.",01,2025-03-10T19:07:21+00:00
+Standard,2.2.2.2,NI.C.1.b,"Identify, use and discuss examples of how devices can be used with good and bad intentions.",01,2025-03-10T19:07:21+00:00
+Topic,2.2.3,,Internet of Things (IoT),01,2025-03-10T19:07:21+00:00
+Standard,2.2.3.1,NI.IOT.1.a,Identify what smart devices are and how they connect to the internet.,01,2025-03-10T19:07:21+00:00
+Standard,2.2.3.2,NI.IOT.1.b,Recognize how devices connect and exchange data over the internet to demonstrate how information is shared.,01,2025-03-10T19:07:21+00:00
+Strand,2.3,,Data and Analysis,01,2025-03-10T19:07:21+00:00
+Topic,2.3.1,,Data Collection and Storage,01,2025-03-10T19:07:21+00:00
+Standard,2.3.1.1,DA.DCS.1.a,"With guidance, collect and organize data to retrieve for later use.",01,2025-03-10T19:07:21+00:00
+Standard,2.3.1.2,DA.DCS.1.b,"With guidance, demonstrate how data can be collected and stored in a variety of ways.",01,2025-03-10T19:07:21+00:00
+Topic,2.3.2,,Visualization and Communication,01,2025-03-10T19:07:21+00:00
+Standard,2.3.2.1,DA.VC.1.a,Organize and present data in various formats to make observations.,01,2025-03-10T19:07:21+00:00
+Topic,2.3.3,,Inference and Modeling,01,2025-03-10T19:07:21+00:00
+Standard,2.3.3.1,DA.IM.1.a,Create and explain a model of an object or process that includes patterns and key elements.,01,2025-03-10T19:07:21+00:00
+Strand,2.4,,Algorithmic Thinking and Programming,01,2025-03-10T19:07:21+00:00
+Topic,2.4.1,,Algorithms,01,2025-03-10T19:07:21+00:00
+Standard,2.4.1.1,ATP.A.1.a,"With guidance, model a real-world process by constructing and following step-by-step directions (i.e., algorithms) to complete tasks.",01,2025-03-10T19:07:21+00:00
+Topic,2.4.2,,Variables and Data Representation,01,2025-03-10T19:07:21+00:00
+Standard,2.4.2.1,ATP.VDR.1.a,"Categorize a group of items (e.g., numbers, symbols or pictures) based on the attributes or actions of each item, with or without a computing device.",01,2025-03-10T19:07:21+00:00
+Topic,2.4.3,,Control Structures,01,2025-03-10T19:07:21+00:00
+Standard,2.4.3.1,ATP.CS.1.a,"With guidance, model a sequence of instructions (i.e., program) that includes repetition (i.e., loops) to solve a problem or express ideas.",01,2025-03-10T19:07:21+00:00
+Topic,2.4.4,,Modularity,01,2025-03-10T19:07:21+00:00
+Standard,2.4.4.1,ATP.M.1.a,"With guidance, break down (i.e., decompose) a series of steps and separate the necessary from the unnecessary steps to create a precise sequence of instructions to solve a problem or express an idea.",01,2025-03-10T19:07:21+00:00
+Topic,2.4.5,,Program Development,01,2025-03-10T19:07:21+00:00
+Standard,2.4.5.1,ATP.PD.1.a,"With guidance, plan and create an artifact to illustrate thoughts, ideas and problems in a sequential (step-by-step) manner (e.g., story map, storyboard, sequential graphic organizer).",01,2025-03-10T19:07:21+00:00
+Standard,2.4.5.2,ATP.PD.1.b,"With guidance, identify and fix (i.e., debug) a multi-step process that includes sequencing.",01,2025-03-10T19:07:21+00:00
+Strand,2.5,,Artificial Intelligence,01,2025-03-10T19:07:21+00:00
+Topic,2.5.1,,Perception,01,2025-03-10T19:07:21+00:00
+Standard,2.5.1.1,AI.P.1.a,"With guidance and support, recognize sensors on computers, robots and intelligent appliances to understand their function, such as motion, pressure/touch, temperature, proximity, light, sound, moisture or gases.",01,2025-03-10T19:07:21+00:00
+Standard,2.5.1.2,AI.P.1.b,"With guidance and support, use intelligent agents to help answer simple questions.",01,2025-03-10T19:07:21+00:00
+Topic,2.5.2,,Representation & Reasoning,01,2025-03-10T19:07:21+00:00
+Standard,2.5.2.1,AI.RR.1.a,Use a decision tree to make a decision.,01,2025-03-10T19:07:21+00:00
+Topic,2.5.3,,Machine Learning,01,2025-03-10T19:07:21+00:00
+Standard,2.5.3.1,AI.ML.1.a,"With guidance and support, discuss how a classifier recognizes drawings to gain an understanding of how machine learning works.",01,2025-03-10T19:07:21+00:00
+Topic,2.5.4,,Natural Interactions,01,2025-03-10T19:07:21+00:00
+Standard,2.5.4.1,AI.NI.1.a,"Using recognition software, identify attributes that computers use for identification to explain how computers recognize humans.",01,2025-03-10T19:07:21+00:00
+Topic,2.5.5,,Societal Impacts,01,2025-03-10T19:07:21+00:00
+Standard,2.5.5.1,AI.SI.1.a,Identify AI applications that are used in daily lives to predict AI use in the future.,01,2025-03-10T19:07:21+00:00
+Standard,2.5.5.2,AI.SI.1.b,Discuss if computers and other technology are good or bad to create a working construct.,01,2025-03-10T19:07:21+00:00
+Strand,2.6,,Impacts of Computing,01,2025-03-10T19:07:21+00:00
+Topic,2.6.1,,Culture,01,2025-03-10T19:07:21+00:00
+Standard,2.6.1.1,IC.Cu.1.a,Discuss different technologies and their impact on everyday life.,01,2025-03-10T19:07:21+00:00
+Standard,2.6.1.2,IC.Cu.1.b,Identify how people use and are impacted by many types of technologies in their daily work and personal lives.,01,2025-03-10T19:07:21+00:00
+Topic,2.6.2,,Social Interactions,01,2025-03-10T19:07:21+00:00
+Standard,2.6.2.1,IC.SI.1.a,"With guidance, describe safe and responsible behaviors for the use of information and technology.",01,2025-03-10T19:07:21+00:00
+Topic,2.6.3,,"Safety, Law and Ethics",01,2025-03-10T19:07:21+00:00
+Standard,2.6.3.1,IC.SLE.1.a,"With guidance, discuss appropriate and ethical uses of technology to guide informed decisions.",01,2025-03-10T19:07:21+00:00
+Standard,2.6.3.2,IC.SLE.1.b,"Discuss examples of appropriate and inappropriate behavior online, including cyberbullying, and the steps to keep yourself and others safe and out of harm's way.",01,2025-03-10T19:07:21+00:00
+Course,3,,Grade 2,02,2025-03-10T19:07:21+00:00
+Strand,3.1,,Computing Systems,02,2025-03-10T19:07:21+00:00
+Topic,3.1.1,,Devices,02,2025-03-10T19:07:21+00:00
+Standard,3.1.1.1,CS.D.2.a,Select and operate commonly used devices to perform a variety of tasks.,02,2025-03-10T19:07:21+00:00
+Topic,3.1.2,,Hardware and Software,02,2025-03-10T19:07:21+00:00
+Standard,3.1.2.1,CS.HS.2.a,Select and use hardware and software necessary for accomplishing a task.,02,2025-03-10T19:07:21+00:00
+Topic,3.1.3,,Troubleshooting,02,2025-03-10T19:07:21+00:00
+Standard,3.1.3.1,CS.T.2.a,Use problem solving strategies to troubleshoot a problem.,02,2025-03-10T19:07:21+00:00
+Strand,3.2,,Networks and the Internet,02,2025-03-10T19:07:21+00:00
+Topic,3.2.1,,Networking,02,2025-03-10T19:07:21+00:00
+Standard,3.2.1.1,NI.N.2.a,"Describe how information can be communicated electronically to gain a deeper understanding of how information is transmitted (e.g., email, social media).",02,2025-03-10T19:07:21+00:00
+Standard,3.2.1.2,NI.N.2.b,Use computing devices that are connected to share and receive information from the global community.,02,2025-03-10T19:07:21+00:00
+Topic,3.2.2,,Cybersecurity,02,2025-03-10T19:07:21+00:00
+Standard,3.2.2.1,NI.C.2.a,"Explain and demonstrate secure practices (e.g., creating strong passwords) to protect private information.",02,2025-03-10T19:07:21+00:00
+Standard,3.2.2.2,NI.C.2.b,Identify and discuss examples of how devices can be used with good and bad intentions.,02,2025-03-10T19:07:21+00:00
+Topic,3.2.3,,Internet of Things (IoT),02,2025-03-10T19:07:21+00:00
+Standard,3.2.3.1,NI.IOT.2.a,"With guidance and support, explain how devices connect and exchange data over different environments to explore how information is shared.",02,2025-03-10T19:07:21+00:00
+Strand,3.3,,Data and Analysis,02,2025-03-10T19:07:21+00:00
+Topic,3.3.1,,Data Collection and Storage,02,2025-03-10T19:07:21+00:00
+Standard,3.3.1.1,DA.DCS.2.a,"Collect and organize data to store, retrieve and modify.",02,2025-03-10T19:07:21+00:00
+Standard,3.3.1.2,DA.DCS.2.b,Manipulate data to perform various tasks.,02,2025-03-10T19:07:21+00:00
+Topic,3.3.2,,Visualization and Communication,02,2025-03-10T19:07:21+00:00
+Standard,3.3.2.1,DA.VC.2.a,"Organize, analyze and present data in various formats.",02,2025-03-10T19:07:21+00:00
+Topic,3.3.3,,Inference and Modeling,02,2025-03-10T19:07:21+00:00
+Standard,3.3.3.1,DA.IM.2.a,"Interpret and analyze data, graphs, models or charts.",02,2025-03-10T19:07:21+00:00
+Strand,3.4,,Algorithmic Thinking and Programming,02,2025-03-10T19:07:21+00:00
+Topic,3.4.1,,Algorithms,02,2025-03-10T19:07:21+00:00
+Standard,3.4.1.1,ATP.A.2.a,"Model a real-world process by constructing and following step-by-step instructions (i.e., algorithms) to complete tasks.",02,2025-03-10T19:07:21+00:00
+Topic,3.4.2,,Variables and Data Representation,02,2025-03-10T19:07:21+00:00
+Standard,3.4.2.1,ATP.VDR.2.a,Construct a model that shows the way programs store and manipulate data by using numbers or other symbols to represent information.,02,2025-03-10T19:07:21+00:00
+Topic,3.4.3,,Control Structures,02,2025-03-10T19:07:21+00:00
+Standard,3.4.3.1,ATP.CS.2.a,"Develop a program that uses sequencing and repetition (i.e., loops) to solve a problem or express ideas.",02,2025-03-10T19:07:21+00:00
+Topic,3.4.4,,Modularity,02,2025-03-10T19:07:21+00:00
+Standard,3.4.4.1,ATP.M.2.a,"Break down (i.e., decompose) a series of steps and separate the necessary from the unnecessary steps to create a precise sequence of instructions to solve a problem or express an idea.",02,2025-03-10T19:07:21+00:00
+Topic,3.4.5,,Program Development,02,2025-03-10T19:07:21+00:00
+Standard,3.4.5.1,ATP.PD.2.a,"Plan and create an artifact to illustrate thoughts, ideas and problems in a sequential (step-by-step) manner (e.g., story map, storyboard, sequential graphic organizer).",02,2025-03-10T19:07:21+00:00
+Standard,3.4.5.2,ATP.PD.2.b,"Identify and fix (i.e., debug) a multi-step process that includes sequencing.",02,2025-03-10T19:07:21+00:00
+Strand,3.5,,Artificial Intelligence,02,2025-03-10T19:07:21+00:00
+Topic,3.5.1,,Perception,02,2025-03-10T19:07:21+00:00
+Standard,3.5.1.1,AI.P.2.a,"Tell where sensors are on computers, robots and intelligent appliances to relate their location with their function such as motion, pressure/touch, temperature, proximity, light, sound, moisture or gases.",02,2025-03-10T19:07:21+00:00
+Standard,3.5.1.2,AI.P.2.b,Apply the use of intelligent agents to assist in basic research (look up answers to specific questions).,02,2025-03-10T19:07:21+00:00
+Topic,3.5.2,,Representation & Reasoning,02,2025-03-10T19:07:21+00:00
+Standard,3.5.2.1,AI.RR.2.a,"With guidance and support, create a simple decision tree (conditionals) to create a pathway for decisions.",02,2025-03-10T19:07:21+00:00
+Topic,3.5.3,,Machine Learning,02,2025-03-10T19:07:21+00:00
+Standard,3.5.3.1,AI.ML.2.a,Use a classifier that recognizes drawings and discuss how the program knows what they are drawing.,02,2025-03-10T19:07:21+00:00
+Topic,3.5.4,,Natural Interactions,02,2025-03-10T19:07:21+00:00
+Standard,3.5.4.1,AI.NI.2.a,List possible attributions computers can use to distinguish humans from each other by comparing these attributions.,02,2025-03-10T19:07:21+00:00
+Topic,3.5.5,,Societal Impacts,02,2025-03-10T19:07:21+00:00
+Standard,3.5.5.1,AI.SI.2.a,"To determine how AI can help in daily life, group applications used into two categories: “AI” and “Not AI.”",02,2025-03-10T19:07:21+00:00
+Standard,3.5.5.2,AI.SI.2.b,Discuss AI and how it can be used for good or bad to discuss the ethical use of AI.,02,2025-03-10T19:07:21+00:00
+Strand,3.6,,Impacts of Computing,02,2025-03-10T19:07:21+00:00
+Topic,3.6.1,,Culture,02,2025-03-10T19:07:21+00:00
+Standard,3.6.1.1,IC.Cu.2.a,Compare and contrast how the use of technology has changed to understand its impact on everyday life.,02,2025-03-10T19:07:21+00:00
+Standard,3.6.1.2,IC.Cu.2.b,Describe the ways people use technologies in their daily work and personal lives to understand technology's impact on one's community.,02,2025-03-10T19:07:21+00:00
+Topic,3.6.2,,Social Interactions,02,2025-03-10T19:07:21+00:00
+Standard,3.6.2.1,IC.SI.2.a,Compare and contrast safe and responsible behaviors to those that are not when using information and technology.,02,2025-03-10T19:07:21+00:00
+Topic,3.6.3,,"Safety, Law and Ethics",02,2025-03-10T19:07:21+00:00
+Standard,3.6.3.1,IC.SLE.2.a,Discuss appropriate and ethical uses of technology to guide informed decisions.,02,2025-03-10T19:07:21+00:00
+Standard,3.6.3.2,IC.SLE.2.b,"Compare and contrast appropriate and inappropriate behavior online, including cyberbullying, and the steps to keep yourself and others safe and out of harm's way.",02,2025-03-10T19:07:21+00:00
+Course,4,,Grade 3,03,2025-03-10T19:07:21+00:00
+Strand,4.1,,Computing Systems,03,2025-03-10T19:07:21+00:00
+Topic,4.1.1,,Devices,03,2025-03-10T19:07:21+00:00
+Standard,4.1.1.1,CS.D.3.a,"Explore common components (i.e., parts) of a computing system and their function to understand and describe the role they play in a computer system.",03,2025-03-10T19:07:21+00:00
+Topic,4.1.2,,Hardware and Software,03,2025-03-10T19:07:21+00:00
+Standard,4.1.2.1,CS.HS.3.a,"Identify and use digital learning tools/devices to support planning, implementing and reflecting upon a defined task.",03,2025-03-10T19:07:21+00:00
+Topic,4.1.3,,Troubleshooting,03,2025-03-10T19:07:21+00:00
+Standard,4.1.3.1,CS.T.3.a,Apply troubleshooting strategies given problems and solutions to resolve hardware and software problems.,03,2025-03-10T19:07:21+00:00
+Strand,4.2,,Networks and the Internet,03,2025-03-10T19:07:21+00:00
+Topic,4.2.1,,Networking,03,2025-03-10T19:07:21+00:00
+Standard,4.2.1.1,NI.N.3.a,"Describe how communication occurs when information is sent and received over physical or wireless paths to explain communication systems (e.g., sending an email or visiting a website).",03,2025-03-10T19:07:21+00:00
+Standard,4.2.1.2,NI.N.3.b,Recognize that every device on a network has a unique identification to share or receive information from the global community.,03,2025-03-10T19:07:21+00:00
+Topic,4.2.2,,Cybersecurity,03,2025-03-10T19:07:21+00:00
+Standard,4.2.2.1,NI.C.3.a,"Explore digital safety concepts in order to explain that information can be both public and private, to determine what information can safely be shared and to know how to use passwords to protect information.",03,2025-03-10T19:07:21+00:00
+Standard,4.2.2.2,NI.C.3.b,"Explore and explain grade-appropriate examples of unsafe content, such as pop-ups and malicious links.",03,2025-03-10T19:07:21+00:00
+Topic,4.2.3,,Internet of Things (IoT),03,2025-03-10T19:07:21+00:00
+Standard,4.2.3.1,NI.IOT.3.a,Describe how devices send and receive information over physical or wireless paths to identify how information is transmitted.,03,2025-03-10T19:07:21+00:00
+Standard,4.2.3.2,NI.IOT.3.b,Define intelligent devices and describe the difference between smart devices and intelligent devices to identify the difference in their capabilities.,03,2025-03-10T19:07:21+00:00
+Strand,4.3,,Data and Analysis,03,2025-03-10T19:07:21+00:00
+Topic,4.3.1,,Data Collection and Storage,03,2025-03-10T19:07:21+00:00
+Standard,4.3.1.1,DA.DCS.3.a,Collect quantitative data over time from multiple sources to perform various tasks.,03,2025-03-10T19:07:21+00:00
+Standard,4.3.1.2,DA.DCS.3.b,Identify different types of information to store in different formats.,03,2025-03-10T19:07:21+00:00
+Topic,4.3.2,,Visualization and Communication,03,2025-03-10T19:07:21+00:00
+Standard,4.3.2.1,DA.VC.3.a,Create a chart or graph to inform a target audience about observations and data collected.,03,2025-03-10T19:07:21+00:00
+Topic,4.3.3,,Inference and Modeling,03,2025-03-10T19:07:21+00:00
+Standard,4.3.3.1,DA.IM.3.a,Utilize data to make predictions and discuss whether there is adequate data to make reliable predictions.,03,2025-03-10T19:07:21+00:00
+Strand,4.4,,Algorithmic Thinking and Programming,03,2025-03-10T19:07:21+00:00
+Topic,4.4.1,,Algorithms,03,2025-03-10T19:07:21+00:00
+Standard,4.4.1.1,ATP.A.3.a,Construct and reflect on errors in an algorithm to accomplish a given task.,03,2025-03-10T19:07:21+00:00
+Topic,4.4.2,,Variables and Data Representation,03,2025-03-10T19:07:21+00:00
+Standard,4.4.2.1,ATP.VDR.3.a,"Define and identify a variable, a placeholder for storing a value, to understand how it is used in a multi-step process (i.e., algorithm).",03,2025-03-10T19:07:21+00:00
+Topic,4.4.3,,Control Structures,03,2025-03-10T19:07:21+00:00
+Standard,4.4.3.1,ATP.CS.3.a,"Create a program using sequences, events, loops and conditionals to solve a problem.",03,2025-03-10T19:07:21+00:00
+Topic,4.4.4,,Modularity,03,2025-03-10T19:07:21+00:00
+Standard,4.4.4.1,ATP.M.3.a,"Decompose (i.e., break down) the steps needed or not needed (i.e., abstraction) into precise sequences of instructions to design an algorithm.",03,2025-03-10T19:07:21+00:00
+Topic,4.4.5,,Program Development,03,2025-03-10T19:07:21+00:00
+Standard,4.4.5.1,ATP.PD.3.a,Use a design process to plan the development of a program that solves problems.,03,2025-03-10T19:07:21+00:00
+Standard,4.4.5.2,ATP.PD.3.b,"Using a given program known to contain errors, identify and debug errors to ensure it works.",03,2025-03-10T19:07:21+00:00
+Strand,4.5,,Artificial Intelligence,03,2025-03-10T19:07:21+00:00
+Topic,4.5.1,,Perception,03,2025-03-10T19:07:21+00:00
+Standard,4.5.1.1,AI.P.3.a,"Use different sensors, analog and digital, and discuss the difference between them.",03,2025-03-10T19:07:21+00:00
+Standard,4.5.1.2,AI.P.3.b,Describe what computer perception is and how it affects computers to see how it compares to human perception.,03,2025-03-10T19:07:21+00:00
+Topic,4.5.2,,Representation & Reasoning,03,2025-03-10T19:07:21+00:00
+Standard,4.5.2.1,AI.RR.3.a,"With guidance and support, create a classification system using a tree structure to understand how computers think.",03,2025-03-10T19:07:21+00:00
+Standard,4.5.2.2,AI.RR.3.b,Use AI to answer questions and describe how the answer is reasonable.,03,2025-03-10T19:07:21+00:00
+Topic,4.5.3,,Machine Learning,03,2025-03-10T19:07:21+00:00
+Standard,4.5.3.1,AI.ML.3.a,Label three different machine learning approaches to identify them to see different approaches.,03,2025-03-10T19:07:21+00:00
+Standard,4.5.3.2,AI.ML.3.b,Give examples of bias to understand what it is and how it affects machine learning.,03,2025-03-10T19:07:21+00:00
+Standard,4.5.3.3,AI.ML.3.c,Identify tasks that use AI to perform human tasks to understand how humans rely on AI.,03,2025-03-10T19:07:21+00:00
+Topic,4.5.4,,Natural Interactions,03,2025-03-10T19:07:21+00:00
+Standard,4.5.4.1,AI.NI.3.a,Locate AI systems that are designed to help everyone have equal access.,03,2025-03-10T19:07:21+00:00
+Topic,4.5.5,,Societal Impacts,03,2025-03-10T19:07:21+00:00
+Standard,4.5.5.1,AI.SI.3.a,Define what a bias is to understand how it can influence humans.,03,2025-03-10T19:07:21+00:00
+Strand,4.6,,Impacts of Computing,03,2025-03-10T19:07:21+00:00
+Topic,4.6.1,,Culture,03,2025-03-10T19:07:21+00:00
+Standard,4.6.1.1,IC.Cu.3.a,Identify computing technologies that have changed the world and express how those technologies influence and are influenced by cultural practice.,03,2025-03-10T19:07:21+00:00
+Standard,4.6.1.2,IC.Cu.3.b,Identify how computing devices have built-in features to increase accessibility to all users.,03,2025-03-10T19:07:21+00:00
+Topic,4.6.2,,Social Interactions,03,2025-03-10T19:07:21+00:00
+Standard,4.6.2.1,IC.SI.3.a,Collaborate and consider diverse perspectives to improve digital artifacts.,03,2025-03-10T19:07:21+00:00
+Topic,4.6.3,,"Safety, Law and Ethics",03,2025-03-10T19:07:21+00:00
+Standard,4.6.3.1,IC.SLE.3.a,"Use public domain or Creative Commons media, and refrain from copying or using material created by others without permission.",03,2025-03-10T19:07:21+00:00
+Standard,4.6.3.2,IC.SLE.3.b,Determine whether information should be shared or kept private to protect student identity.,03,2025-03-10T19:07:21+00:00
+Standard,4.6.3.3,IC.SLE.3.c,Communicate the importance of information security to protect one's own digital footprint.,03,2025-03-10T19:07:21+00:00
+Standard,4.6.3.4,IC.SLE.3.d,"Explain why different types of information might need to be protected, describing common safeguards for protecting personal information.",03,2025-03-10T19:07:21+00:00
+Course,5,,Grade 4,04,2025-03-10T19:07:21+00:00
+Strand,5.1,,Computing Systems,04,2025-03-10T19:07:21+00:00
+Topic,5.1.1,,Devices,04,2025-03-10T19:07:21+00:00
+Standard,5.1.1.1,CS.D.4.a,"Explore external components (i.e., parts) of a computing system and their function to understand and describe the role they play in a computer system.",04,2025-03-10T19:07:21+00:00
+Topic,5.1.2,,Hardware and Software,04,2025-03-10T19:07:21+00:00
+Standard,5.1.2.1,CS.HS.4.a,"Select and use digital learning tools/devices to support planning, implementing and reflecting upon a defined task.",04,2025-03-10T19:07:21+00:00
+Topic,5.1.3,,Troubleshooting,04,2025-03-10T19:07:21+00:00
+Standard,5.1.3.1,CS.T.4.a,Diagnose problems and select an appropriate solution from a list of problems and solutions to resolve hardware and software issues.,04,2025-03-10T19:07:21+00:00
+Strand,5.2,,Networks and the Internet,04,2025-03-10T19:07:21+00:00
+Topic,5.2.1,,Networking,04,2025-03-10T19:07:21+00:00
+Standard,5.2.1.1,NI.N.4.a,Describe how information is broken down to be transmitted over a network to help students gain a better understanding of the internet and networks.,04,2025-03-10T19:07:21+00:00
+Standard,5.2.1.2,NI.N.4.b,"Describe network addresses, names and rules (i.e., protocols) to share or receive information from the global community.",04,2025-03-10T19:07:21+00:00
+Topic,5.2.2,,Cybersecurity,04,2025-03-10T19:07:21+00:00
+Standard,5.2.2.1,NI.C.4.a,Describe what information should be protected and the importance of a secure password to protect information.,04,2025-03-10T19:07:21+00:00
+Standard,5.2.2.2,NI.C.4.b,"Describe and explain safe usage of various online services such as web, email, video, gaming, cloud services and networked drives.",04,2025-03-10T19:07:21+00:00
+Topic,5.2.3,,Internet of Things (IoT),04,2025-03-10T19:07:21+00:00
+Standard,5.2.3.1,NI.IOT.4.a,Explore how information is transferred to the internet from smart and intelligent devices to recognize how the internet and networks operate.,04,2025-03-10T19:07:21+00:00
+Standard,5.2.3.2,NI.IOT.4.b,Describe how transferred information is tagged using identifiers to transmit information about the user so students begin to learn that no information on the internet is anonymous.,04,2025-03-10T19:07:21+00:00
+Strand,5.3,,Data and Analysis,04,2025-03-10T19:07:21+00:00
+Topic,5.3.1,,Data Collection and Storage,04,2025-03-10T19:07:21+00:00
+Standard,5.3.1.1,DA.DCS.4.a,Gather and organize multiple quantitative data elements using a tool to perform various tasks.,04,2025-03-10T19:07:21+00:00
+Standard,5.3.1.2,DA.DCS.4.b,"Identify techniques and formats to store, process and retrieve different types of information.",04,2025-03-10T19:07:21+00:00
+Topic,5.3.2,,Visualization and Communication,04,2025-03-10T19:07:21+00:00
+Standard,5.3.2.1,DA.VC.4.a,Organize data into subsets to provide different views or commonalities and present insights gained using visual or other types of representations.,04,2025-03-10T19:07:21+00:00
+Topic,5.3.3,,Inference and Modeling,04,2025-03-10T19:07:21+00:00
+Standard,5.3.3.1,DA.IM.4.a,Utilize data to make predictions and discuss whether there is adequate data to make reliable predictions.,04,2025-03-10T19:07:21+00:00
+Strand,5.4,,Algorithmic Thinking and Programming,04,2025-03-10T19:07:21+00:00
+Topic,5.4.1,,Algorithms,04,2025-03-10T19:07:21+00:00
+Standard,5.4.1.1,ATP.A.4.a,Construct and refine an algorithm to accomplish a given task.,04,2025-03-10T19:07:21+00:00
+Topic,5.4.2,,Variables and Data Representation,04,2025-03-10T19:07:21+00:00
+Standard,5.4.2.1,ATP.VDR.4.a,"Identify and use a variable, a placeholder for storing a value, to understand how it works in a multi-step process (i.e., algorithm).",04,2025-03-10T19:07:21+00:00
+Topic,5.4.3,,Control Structures,04,2025-03-10T19:07:21+00:00
+Standard,5.4.3.1,ATP.CS.4.a,"Create a program using sequences, events, loops and conditionals to solve a problem.",04,2025-03-10T19:07:21+00:00
+Topic,5.4.4,,Modularity,04,2025-03-10T19:07:21+00:00
+Standard,5.4.4.1,ATP.M.4.a,"Decompose (i.e., break down) the steps needed or not needed (i.e., abstraction) into precise sequences of instructions to design an algorithm.",04,2025-03-10T19:07:21+00:00
+Topic,5.4.5,,Program Development,04,2025-03-10T19:07:21+00:00
+Standard,5.4.5.1,ATP.PD.4.a,Use a design process to plan and develop a program that addresses a multi-step problem.,04,2025-03-10T19:07:21+00:00
+Standard,5.4.5.2,ATP.PD.4.b,"Using guided questions, work through a program to identify errors and discuss possible solutions to repair the program.",04,2025-03-10T19:07:21+00:00
+Strand,5.5,,Artificial Intelligence,04,2025-03-10T19:07:21+00:00
+Topic,5.5.1,,Perception,04,2025-03-10T19:07:21+00:00
+Standard,5.5.1.1,AI.P.4.a,Describe the difference between analog and digital signals to understand their uses.,04,2025-03-10T19:07:21+00:00
+Standard,5.5.1.2,AI.P.4.b,Give examples of computer perception to understand how it is affected by the environment.,04,2025-03-10T19:07:21+00:00
+Topic,5.5.2,,Representation & Reasoning,04,2025-03-10T19:07:21+00:00
+Standard,5.5.2.1,AI.RR.4.a,Create a classification system using a tree structure to understand binary solutions.,04,2025-03-10T19:07:21+00:00
+Standard,5.5.2.2,AI.RR.4.b,Describe how AI represents knowledge to make a reasonable answer.,04,2025-03-10T19:07:21+00:00
+Topic,5.5.3,,Machine Learning,04,2025-03-10T19:07:21+00:00
+Standard,5.5.3.1,AI.ML.4.a,Explain three different machine learning approaches to choose which may be best for a given situation.,04,2025-03-10T19:07:21+00:00
+Standard,5.5.3.2,AI.ML.4.b,Explain how machine learning can create a bias to understand how computers can be biased.,04,2025-03-10T19:07:21+00:00
+Standard,5.5.3.3,AI.ML.4.c,Describe tasks where AI outperforms human tasks and when it does not to describe how humans rely on AI.,04,2025-03-10T19:07:21+00:00
+Topic,5.5.4,,Natural Interactions,04,2025-03-10T19:07:21+00:00
+Standard,5.5.4.1,AI.NI.4.a,Use AI systems that are designed to be inclusive and describe how they affect the humans who use them.,04,2025-03-10T19:07:21+00:00
+Standard,5.5.4.2,AI.NI.4.b,Give examples of bias to demonstrate how it can affect decision-making.,04,2025-03-10T19:07:21+00:00
+Topic,5.5.5,,Societal Impacts,04,2025-03-10T19:07:21+00:00
+Standard,5.5.5.1,AI.SI.4.a,Give examples of bias to demonstrate how it can affect specific groups of people.,04,2025-03-10T19:07:21+00:00
+Strand,5.6,,Impacts of Computing,04,2025-03-10T19:07:21+00:00
+Topic,5.6.1,,Culture,04,2025-03-10T19:07:21+00:00
+Standard,5.6.1.1,IC.Cu.4.a,List examples of computing technologies that have changed the global community to express how those technologies influenced and are influenced by cultural practice.,04,2025-03-10T19:07:21+00:00
+Standard,5.6.1.2,IC.Cu.4.b,Identify and anticipate diverse user needs to increase accessibility to all users.,04,2025-03-10T19:07:21+00:00
+Topic,5.6.2,,Social Interactions,04,2025-03-10T19:07:21+00:00
+Standard,5.6.2.1,IC.SI.4.a,Collaborate and consider diverse perspectives to improve digital artifacts.,04,2025-03-10T19:07:21+00:00
+Topic,5.6.3,,"Safety, Law and Ethics",04,2025-03-10T19:07:21+00:00
+Standard,5.6.3.1,IC.SLE.4.a,"Use public domain or Creative Commons media, and refrain from copying or using material created by others without permission.",04,2025-03-10T19:07:21+00:00
+Standard,5.6.3.2,IC.SLE.4.b,Explain why information should be shared or kept private to protect student identity.,04,2025-03-10T19:07:21+00:00
+Standard,5.6.3.3,IC.SLE.4.c,Communicate the importance of protecting your digital footprint.,04,2025-03-10T19:07:21+00:00
+Standard,5.6.3.4,IC.SLE.4.d,Describe tradeoffs between allowing information to be public and keeping information private and secure.,04,2025-03-10T19:07:21+00:00
+Standard,5.6.3.5,IC.SLE.4.e,Explain the effect of cyber bullying and who to tell if this is happening.,04,2025-03-10T19:07:21+00:00
+Course,6,,Grade 5,05,2025-03-10T19:07:21+00:00
+Strand,6.1,,Computing Systems,05,2025-03-10T19:07:21+00:00
+Topic,6.1.1,,Devices,05,2025-03-10T19:07:21+00:00
+Standard,6.1.1.1,CS.D.5.a,Explore the internal parts of the computing system and their function to understand and describe the role they play in a computer system.,05,2025-03-10T19:07:21+00:00
+Topic,6.1.2,,Hardware and Software,05,2025-03-10T19:07:21+00:00
+Standard,6.1.2.1,CS.HS.5.a,"Evaluate digital learning tools/devices to support planning, implementing and reflecting across curricular areas.",05,2025-03-10T19:07:21+00:00
+Topic,6.1.3,,Troubleshooting,05,2025-03-10T19:07:21+00:00
+Standard,6.1.3.1,CS.T.5.a,Diagnose problems and develop strategies to resolve technology issues.,05,2025-03-10T19:07:21+00:00
+Strand,6.2,,Networks and the Internet,05,2025-03-10T19:07:21+00:00
+Topic,6.2.1,,Networking,05,2025-03-10T19:07:21+00:00
+Standard,6.2.1.1,NI.N.5.a,Model how information is broken down to be transmitted and then reassembled to help students gain a better understanding of the internet and networks.,05,2025-03-10T19:07:21+00:00
+Standard,6.2.1.2,NI.N.5.b,"Apply knowledge of network addresses, names and rules (i.e., protocols) to discuss real-world scenarios.",05,2025-03-10T19:07:21+00:00
+Topic,6.2.2,,Cybersecurity,05,2025-03-10T19:07:21+00:00
+Standard,6.2.2.1,NI.C.5.a,Demonstrate password creation techniques to develop and use a strong password used on personal accounts.,05,2025-03-10T19:07:21+00:00
+Standard,6.2.2.2,NI.C.5.b,"Explore and utilize safe online services such as web, email, video, gaming, cloud services and network attached storage devices.",05,2025-03-10T19:07:21+00:00
+Topic,6.2.3,,Internet of Things (IoT),05,2025-03-10T19:07:21+00:00
+Standard,6.2.3.1,NI.IOT.5.a,Learn and model how information is broken down to be transmitted by smart devices to help students visualize how information transfers over the internet.,05,2025-03-10T19:07:21+00:00
+Standard,6.2.3.2,NI.IOT.5.b,"Explore the benefits of the IoT with regards to convenience, safety and health to gain an appreciation of the risks involved in using devices, including data theft, identity theft, tracking and other forms of criminality.",05,2025-03-10T19:07:21+00:00
+Strand,6.3,,Data and Analysis,05,2025-03-10T19:07:21+00:00
+Topic,6.3.1,,Data Collection and Storage,05,2025-03-10T19:07:21+00:00
+Standard,6.3.1.1,DA.DCS.5.a,Gather and organize multiple quantitative data elements using a tool to perform various tasks.,05,2025-03-10T19:07:21+00:00
+Standard,6.3.1.2,DA.DCS.5.b,Compare and contrast file formats to demonstrate the advantages and disadvantages of each.,05,2025-03-10T19:07:21+00:00
+Topic,6.3.2,,Visualization and Communication,05,2025-03-10T19:07:21+00:00
+Standard,6.3.2.1,DA.VC.5.a,Organize and present collected data using visual or other types of representations to highlight relationships and support a claim.,05,2025-03-10T19:07:21+00:00
+Topic,6.3.3,,Inference and Modeling,05,2025-03-10T19:07:21+00:00
+Standard,6.3.3.1,DA.IM.5.a,Utilize data to propose cause and effect relationships and predict outcomes.,05,2025-03-10T19:07:21+00:00
+Strand,6.4,,Algorithmic Thinking and Programming,05,2025-03-10T19:07:21+00:00
+Topic,6.4.1,,Algorithms,05,2025-03-10T19:07:21+00:00
+Standard,6.4.1.1,ATP.A.5.a,Evaluate a multi-step process to diagram the proper steps to solve a problem.,05,2025-03-10T19:07:21+00:00
+Topic,6.4.2,,Variables and Data Representation,05,2025-03-10T19:07:21+00:00
+Standard,6.4.2.1,ATP.VDR.5.a,"Create a variable, a placeholder for storing a value, to understand how it is used in a multi-step process (i.e., algorithm).",05,2025-03-10T19:07:21+00:00
+Topic,6.4.3,,Control Structures,05,2025-03-10T19:07:21+00:00
+Standard,6.4.3.1,ATP.CS.5.a,"Create a program using sequences, events, loops and conditionals to solve a problem.",05,2025-03-10T19:07:21+00:00
+Topic,6.4.4,,Modularity,05,2025-03-10T19:07:21+00:00
+Standard,6.4.4.1,ATP.M.5.a,"Decompose (i.e., break down) the steps needed or not needed (i.e., abstraction) into precise sequences of instructions to design an algorithm.",05,2025-03-10T19:07:21+00:00
+Standard,6.4.4.2,ATP.M.5.b,"With grade appropriate complexity, modify, remix or incorporate portions of an existing program into one's own work, to develop something new or add more advanced features.",05,2025-03-10T19:07:21+00:00
+Topic,6.4.5,,Program Development,05,2025-03-10T19:07:21+00:00
+Standard,6.4.5.1,ATP.PD.5.a,Use a design process to plan and develop a program that includes multiple steps and end user preferences.,05,2025-03-10T19:07:21+00:00
+Standard,6.4.5.2,ATP.PD.5.b,"Using guided questions, work through a program to identify errors and discuss possible solutions to repair the program.",05,2025-03-10T19:07:21+00:00
+Strand,6.5,,Artificial Intelligence,05,2025-03-10T19:07:21+00:00
+Topic,6.5.1,,Perception,05,2025-03-10T19:07:21+00:00
+Standard,6.5.1.1,AI.P.5.a,Describe how sensor inputs are converted as analog or digital signals to describe their uses.,05,2025-03-10T19:07:21+00:00
+Standard,6.5.1.2,AI.P.5.b,Demonstrate a limitation of computer perception to understand how computers interact with humans.,05,2025-03-10T19:07:21+00:00
+Topic,6.5.2,,Representation & Reasoning,05,2025-03-10T19:07:21+00:00
+Standard,6.5.2.1,AI.RR.5.a,Create a classification system using a tree structure to demonstrate binary solutions.,05,2025-03-10T19:07:21+00:00
+Standard,6.5.2.2,AI.RR.5.b,Describe how AI representations support reasoning to answer questions.,05,2025-03-10T19:07:21+00:00
+Topic,6.5.3,,Machine Learning,05,2025-03-10T19:07:21+00:00
+Standard,6.5.3.1,AI.ML.5.a,Compare three different machine learning approaches to solve a problem.,05,2025-03-10T19:07:21+00:00
+Standard,6.5.3.2,AI.ML.5.b,Describe how algorithms and machine learning can exhibit biases to be aware of how humans introduce bias into algorithms and machine learning.,05,2025-03-10T19:07:21+00:00
+Standard,6.5.3.3,AI.ML.5.c,Describe tasks where AI outperforms human tasks and when it does not and propose possible ways to have AI perform more human tasks.,05,2025-03-10T19:07:21+00:00
+Topic,6.5.4,,Natural Interactions,05,2025-03-10T19:07:21+00:00
+Standard,6.5.4.1,AI.NI.5.a,Describe ways that AI systems can be designed to support inclusivity.,05,2025-03-10T19:07:21+00:00
+Topic,6.5.5,,Societal Impacts,05,2025-03-10T19:07:21+00:00
+Standard,6.5.5.1,AI.SI.5.a,Explore how data is influenced by bias and how it affects decision-making to defend arguments in AI.,05,2025-03-10T19:07:21+00:00
+Strand,6.6,,Impacts of Computing,05,2025-03-10T19:07:21+00:00
+Topic,6.6.1,,Culture,05,2025-03-10T19:07:21+00:00
+Standard,6.6.1.1,IC.Cu.5.a,Explain how computing technologies have changed the global community and express how those technologies influence and are influenced by cultural practices.,05,2025-03-10T19:07:21+00:00
+Standard,6.6.1.2,IC.Cu.5.b,"Develop, test and refine digital artifacts to improve accessibility and usability.",05,2025-03-10T19:07:21+00:00
+Topic,6.6.2,,Social Interactions,05,2025-03-10T19:07:21+00:00
+Standard,6.6.2.1,IC.SI.5.a,Collaborate and consider diverse perspectives to improve digital artifacts.,05,2025-03-10T19:07:21+00:00
+Topic,6.6.3,,"Safety, Law and Ethics",05,2025-03-10T19:07:21+00:00
+Standard,6.6.3.1,IC.SLE.5.a,"Use public domain or Creative Commons media, and refrain from copying or using material created by others without permission.",05,2025-03-10T19:07:21+00:00
+Standard,6.6.3.2,IC.SLE.5.b,Communicate the effects of sharing personal information on the safety of student identity to determine how to protect students.,05,2025-03-10T19:07:21+00:00
+Standard,6.6.3.3,IC.SLE.5.c,Evaluate the need to keep personal information secure and protect the digital footprint.,05,2025-03-10T19:07:21+00:00
+Standard,6.6.3.4,IC.SLE.5.d,Analyze different forms of cyberbullying and identify strategies to stop cyberbullying.,05,2025-03-10T19:07:21+00:00
+Course,7,,Grade 6,06,2025-03-10T19:07:21+00:00
+Strand,7.1,,Computing Systems,06,2025-03-10T19:07:21+00:00
+Topic,7.1.1,,Devices,06,2025-03-10T19:07:21+00:00
+Standard,7.1.1.1,CS.D.6.a,Identify the benefits and limitations of a given computing device's functions (including individual components) to explain how the functions and components work together to create the computing system.,06,2025-03-10T19:07:21+00:00
+Topic,7.1.2,,Hardware and Software,06,2025-03-10T19:07:21+00:00
+Standard,7.1.2.1,CS.HS.6.a,Identify ways that hardware and software work together as a system to collect and exchange data.,06,2025-03-10T19:07:21+00:00
+Topic,7.1.3,,Troubleshooting,06,2025-03-10T19:07:21+00:00
+Standard,7.1.3.1,CS.T.6.a,Use a systematic process to identify and evaluate the source of a routine computing problem. Select the best solution to solve the computing problem and communicate the solution to others.,06,2025-03-10T19:07:21+00:00
+Strand,7.2,,Networks and the Internet,06,2025-03-10T19:07:21+00:00
+Topic,7.2.1,,Networking,06,2025-03-10T19:07:21+00:00
+Standard,7.2.1.1,NI.N.6.a,Identify the role of hardware components to understand the infrastructure of networks and the internet (including cloud servers).,06,2025-03-10T19:07:21+00:00
+Standard,7.2.1.2,NI.N.6.b,"Identify protocols (i.e., rules) and explain why they are used to transmit data across networks and the internet.",06,2025-03-10T19:07:21+00:00
+Topic,7.2.2,,Cybersecurity,06,2025-03-10T19:07:21+00:00
+Standard,7.2.2.1,NI.C.6.a,Identify cybersecurity concerns and measures needed to protect electronic information.,06,2025-03-10T19:07:21+00:00
+Standard,7.2.2.2,NI.C.6.b,Identify the different types of malware to understand threats to data security.,06,2025-03-10T19:07:21+00:00
+Standard,7.2.2.3,NI.C.6.c,Identify ways to protect private information.,06,2025-03-10T19:07:21+00:00
+Topic,7.2.3,,Internet of Things (IoT),06,2025-03-10T19:07:21+00:00
+Standard,7.2.3.1,NI.IOT.6.a,"Define and explore aspects of embedded devices, smart devices and intelligent devices and the way they record, observe and mimic human habits.",06,2025-03-10T19:07:21+00:00
+Standard,7.2.3.2,NI.IOT.6.b,Identify and define blockchains to recognize how every device made has unique identifiers and the weaknesses that allow programmers and hackers to see personally identifiable information.,06,2025-03-10T19:07:21+00:00
+Strand,7.3,,Data and Analysis,06,2025-03-10T19:07:21+00:00
+Topic,7.3.1,,Data Collection and Storage,06,2025-03-10T19:07:21+00:00
+Standard,7.3.1.1,DA.DCS.6.a,Identify and use an appropriate digital data collection tool to compile information.,06,2025-03-10T19:07:21+00:00
+Standard,7.3.1.2,DA.DCS.6.b,Select and utilize appropriate file formats to organize collected data.,06,2025-03-10T19:07:21+00:00
+Standard,7.3.1.3,DA.DCS.6.c,Utilize a file structure to logically organize data to support individual and collaborative work.,06,2025-03-10T19:07:21+00:00
+Topic,7.3.2,,Visualization and Communication,06,2025-03-10T19:07:21+00:00
+Standard,7.3.2.1,DA.VC.6.a,Identify and label patterns in models or representations to infer connections between data sets.,06,2025-03-10T19:07:21+00:00
+Standard,7.3.2.2,DA.VC.6.b,"Create a spreadsheet utilizing formulas, functions and graphs to represent and analyze data.",06,2025-03-10T19:07:21+00:00
+Topic,7.3.3,,Inference and Modeling,06,2025-03-10T19:07:21+00:00
+Standard,7.3.3.1,DA.IM.6.a,Identify and utilize data sets to support or refute a hypothesis.,06,2025-03-10T19:07:21+00:00
+Strand,7.4,,Algorithmic Thinking and Programming,06,2025-03-10T19:07:21+00:00
+Topic,7.4.1,,Algorithms,06,2025-03-10T19:07:21+00:00
+Standard,7.4.1.1,ATP.A.6.a,Compare and refine multiple algorithms for the same task to determine which is the most efficient.,06,2025-03-10T19:07:21+00:00
+Topic,7.4.2,,Variables and Data Representation,06,2025-03-10T19:07:21+00:00
+Standard,7.4.2.1,ATP.VDR.6.a,Identify unknown values that need to be represented by a variable within a multi-step process.,06,2025-03-10T19:07:21+00:00
+Standard,7.4.2.2,ATP.VDR.6.b,Create variables and use them within a multi-step process.,06,2025-03-10T19:07:21+00:00
+Topic,7.4.3,,Control Structures,06,2025-03-10T19:07:21+00:00
+Standard,7.4.3.1,ATP.CS.6.a,Identify and trace decisions and loops that exist in a multi-step process within a program.,06,2025-03-10T19:07:21+00:00
+Topic,7.4.4,,Modularity,06,2025-03-10T19:07:21+00:00
+Standard,7.4.4.1,ATP.M.6.a,"Decompose problems into parts to facilitate the design, implementation and review of programs.",06,2025-03-10T19:07:21+00:00
+Topic,7.4.5,,Program Development,06,2025-03-10T19:07:21+00:00
+Standard,7.4.5.1,ATP.PD.6.a,"Write code that utilizes algorithms, variables and control structures to solve problems or as a creative expression.",06,2025-03-10T19:07:21+00:00
+Standard,7.4.5.2,ATP.PD.6.b,Test and trace to debug and refine code.,06,2025-03-10T19:07:21+00:00
+Strand,7.5,,Artificial Intelligence,06,2025-03-10T19:07:21+00:00
+Topic,7.5.1,,Perception,06,2025-03-10T19:07:21+00:00
+Standard,7.5.1.1,AI.P.6.a,Give examples of different types of computer perception that can extract meaning from sensory signals to understand how computers collect information from sensors.,06,2025-03-10T19:07:21+00:00
+Standard,7.5.1.2,AI.P.6.b,Give examples of how humans combine information from multiple modalities to understand how computers use sensors to collect data.,06,2025-03-10T19:07:21+00:00
+Standard,7.5.1.3,AI.P.6.c,Give examples of different types of computer perception that can extract meaning from sensory signals to show the connection between sensors and computer perception.,06,2025-03-10T19:07:21+00:00
+Standard,7.5.1.4,AI.P.6.d,"Classify a given image (e.g., ""traffic scene"", ""nature scene"", ""social gathering"", etc.) and then describe the kinds of knowledge a computer would need in order to understand scenes of this type to utilize the image in an algorithm.",06,2025-03-10T19:07:21+00:00
+Topic,7.5.2,,Representation & Reasoning,06,2025-03-10T19:07:21+00:00
+Standard,7.5.2.1,AI.RR.6.a,"Illustrate how a computer can solve a maze, find a route on a map or reason about concepts in a knowledge graph by drawing a search tree.",06,2025-03-10T19:07:21+00:00
+Topic,7.5.3,,Machine Learning,06,2025-03-10T19:07:21+00:00
+Standard,7.5.3.1,AI.ML.6.a,Contrast the unique characteristics of human learning with the ways machine learning systems operate to identify the limitations of machine learning.,06,2025-03-10T19:07:21+00:00
+Standard,7.5.3.2,AI.ML.6.b,Illustrate the structure of a neural network to describe how its parts form a set of functions that compute an output.,06,2025-03-10T19:07:21+00:00
+Topic,7.5.4,,Natural Interactions,06,2025-03-10T19:07:21+00:00
+Standard,7.5.4.1,AI.NI.6.a,"Individually and collaboratively compare language processing algorithms to solve a problem based on a given criteria (e.g., time, resource, accessibility).",06,2025-03-10T19:07:21+00:00
+Standard,7.5.4.2,AI.NI.6.b,Identify and describe how computers mimic human behavior to better serve humans.,06,2025-03-10T19:07:21+00:00
+Topic,7.5.5,,Societal Impacts,06,2025-03-10T19:07:21+00:00
+Standard,7.5.5.1,AI.SI.6.a,Identify and explain how humans have control in curating training datasets to identify bias in machine learning.,06,2025-03-10T19:07:21+00:00
+Standard,7.5.5.2,AI.SI.6.b,Identify and explain how algorithmic bias impacts artificial intelligence systems to prevent bias in future datasets.,06,2025-03-10T19:07:21+00:00
+Strand,7.6,,Impacts of Computing,06,2025-03-10T19:07:21+00:00
+Topic,7.6.1,,Culture,06,2025-03-10T19:07:21+00:00
+Standard,7.6.1.1,IC.Cu.6.a,Identify the change that current technologies have on people's everyday activities to understand the impact within a society.,06,2025-03-10T19:07:21+00:00
+Standard,7.6.1.2,IC.Cu.6.b,Identify issues of bias and accessibility in the design of existing technologies to address equality and equity in society.,06,2025-03-10T19:07:21+00:00
+Standard,7.6.1.3,IC.Cu.6.c,Identify and explore careers related to the field of computer science.,06,2025-03-10T19:07:21+00:00
+Topic,7.6.2,,Social Interactions,06,2025-03-10T19:07:21+00:00
+Standard,7.6.2.1,IC.SI.6.a,"Analyze and present beneficial and harmful effects of electronic communications to understand their impacts on interpersonal, global, economic, political, business and cultural interactions.",06,2025-03-10T19:07:21+00:00
+Topic,7.6.3,,"Safety, Law and Ethics",06,2025-03-10T19:07:21+00:00
+Standard,7.6.3.1,IC.SLE.6.a,Describe tradeoffs between allowing information to be public and keeping information private and secure to inform decision-making.,06,2025-03-10T19:07:21+00:00
+Standard,7.6.3.2,IC.SLE.6.b,"Identify the social and economic implications of privacy in the context of safety, law or ethics to understand how privacy impacts these areas.",06,2025-03-10T19:07:21+00:00
+Standard,7.6.3.3,IC.SLE.6.c,"Evaluate the development of new technologies in communication, entertainment and business to understand the impact.",06,2025-03-10T19:07:21+00:00
+Standard,7.6.3.4,IC.SLE.6.d,Provide appropriate credit when using resources or artifacts that are not our own.,06,2025-03-10T19:07:21+00:00
+Standard,7.6.3.5,IC.SLE.6.e,Differentiate between the appropriate and inappropriate content on the internet and identify unethical and illegal online behavior.,06,2025-03-10T19:07:21+00:00
+Course,8,,Grade 7,07,2025-03-10T19:07:21+00:00
+Strand,8.1,,Computing Systems,07,2025-03-10T19:07:21+00:00
+Topic,8.1.1,,Devices,07,2025-03-10T19:07:21+00:00
+Standard,8.1.1.1,CS.D.7.a,Develop and implement a process to evaluate existing computing devices capabilities based on personal interaction with the device.,07,2025-03-10T19:07:21+00:00
+Topic,8.1.2,,Hardware and Software,07,2025-03-10T19:07:21+00:00
+Standard,8.1.2.1,CS.HS.7.a,Evaluate hardware and software combinations used to accomplish a task.,07,2025-03-10T19:07:21+00:00
+Topic,8.1.3,,Troubleshooting,07,2025-03-10T19:07:21+00:00
+Standard,8.1.3.1,CS.T.7.a,Use a systematic process to identify and evaluate the source of a routine computing problem. Select the best solution to solve the computing problem and communicate the solution to others.,07,2025-03-10T19:07:21+00:00
+Strand,8.2,,Networks and the Internet,07,2025-03-10T19:07:21+00:00
+Topic,8.2.1,,Networking,07,2025-03-10T19:07:21+00:00
+Standard,8.2.1.1,NI.N.7.a,Explain the role of hardware components and diagram the infrastructure of networks and the internet (including cloud servers).,07,2025-03-10T19:07:21+00:00
+Standard,8.2.1.2,NI.N.7.b,"Explain the protocols (i.e., rules) and why they are used to transmit data across networks and the internet.",07,2025-03-10T19:07:21+00:00
+Topic,8.2.2,,Cybersecurity,07,2025-03-10T19:07:21+00:00
+Standard,8.2.2.1,NI.C.7.a,Identify and apply introductory methods of encryption to model the secure transmission of information.,07,2025-03-10T19:07:21+00:00
+Standard,8.2.2.2,NI.C.7.b,Describe the types of malware to show how malware affects information.,07,2025-03-10T19:07:21+00:00
+Standard,8.2.2.3,NI.C.7.c,Identify cybersecurity concerns and measures needed to protect electronic information.,07,2025-03-10T19:07:21+00:00
+Topic,8.2.3,,Internet of Things (IoT),07,2025-03-10T19:07:21+00:00
+Standard,8.2.3.1,NI.IOT.7.a,Explain the positive and negative impacts of IoT as it applies to daily life and create ways to mitigate the negative impacts on society.,07,2025-03-10T19:07:21+00:00
+Strand,8.3,,Data and Analysis,07,2025-03-10T19:07:21+00:00
+Topic,8.3.1,,Data Collection and Storage,07,2025-03-10T19:07:21+00:00
+Standard,8.3.1.1,DA.DCS.7.a,Compare and contrast digital data collection tools to make them more useful and reliable.,07,2025-03-10T19:07:21+00:00
+Standard,8.3.1.2,DA.DCS.7.b,Evaluate various file formats to understand data storage capabilities.,07,2025-03-10T19:07:21+00:00
+Standard,8.3.1.3,DA.DCS.7.c,Create a logical file structure to organize data to support individual and collaborative work.,07,2025-03-10T19:07:21+00:00
+Topic,8.3.2,,Visualization and Communication,07,2025-03-10T19:07:21+00:00
+Standard,8.3.2.1,DA.VC.7.a,Communicate relations between data sets to interpret results.,07,2025-03-10T19:07:21+00:00
+Standard,8.3.2.2,DA.VC.7.b,"Create a spreadsheet utilizing formulas, functions and graphs to represent and analyze data.",07,2025-03-10T19:07:21+00:00
+Topic,8.3.3,,Inference and Modeling,07,2025-03-10T19:07:21+00:00
+Standard,8.3.3.1,DA.IM.7.a,Create and analyze models and simulations to accurately hypothesize a real-world situation.,07,2025-03-10T19:07:21+00:00
+Strand,8.4,,Algorithmic Thinking and Programming,07,2025-03-10T19:07:21+00:00
+Topic,8.4.1,,Algorithms,07,2025-03-10T19:07:21+00:00
+Standard,8.4.1.1,ATP.A.7.a,Select and modify pseudocode for a multi-step process to solve a problem.,07,2025-03-10T19:07:21+00:00
+Topic,8.4.2,,Variables and Data Representation,07,2025-03-10T19:07:21+00:00
+Standard,8.4.2.1,ATP.VDR.7.a,Use test cases to trace variable values to determine the result.,07,2025-03-10T19:07:21+00:00
+Topic,8.4.3,,Control Structures,07,2025-03-10T19:07:21+00:00
+Standard,8.4.3.1,ATP.CS.7.a,Use and apply decisions and loops in a program to solve a problem.,07,2025-03-10T19:07:21+00:00
+Topic,8.4.4,,Modularity,07,2025-03-10T19:07:21+00:00
+Standard,8.4.4.1,ATP.M.7.a,"Decompose problems into parts to facilitate the design, implementation and review of increasingly complex programs.",07,2025-03-10T19:07:21+00:00
+Topic,8.4.5,,Program Development,07,2025-03-10T19:07:21+00:00
+Standard,8.4.5.1,ATP.PD.7.a,"Write code that utilizes algorithms, variables and control structures to solve problems or as a creative expression.",07,2025-03-10T19:07:21+00:00
+Standard,8.4.5.2,ATP.PD.7.b,"Test, trace and debug to refine code.",07,2025-03-10T19:07:21+00:00
+Standard,8.4.5.3,ATP.PD.7.c,Identify procedures that utilize parameters.,07,2025-03-10T19:07:21+00:00
+Strand,8.5,,Artificial Intelligence,07,2025-03-10T19:07:21+00:00
+Topic,8.5.1,,Perception,07,2025-03-10T19:07:21+00:00
+Standard,8.5.1.1,AI.P.7.a,Give examples of how intelligent agents combine information from multiple sensors to react to an input.,07,2025-03-10T19:07:21+00:00
+Standard,8.5.1.2,AI.P.7.b,"Describe how edge detectors can be composed to form more complex feature detectors, e.g., for letters or shapes.",07,2025-03-10T19:07:21+00:00
+Standard,8.5.1.3,AI.P.7.c,Illustrate the concept of feature extraction from images by simulating an edge detector.,07,2025-03-10T19:07:21+00:00
+Topic,8.5.2,,Representation & Reasoning,07,2025-03-10T19:07:21+00:00
+Standard,8.5.2.1,AI.RR.7.a,Compare several algorithms that could be used to solve a specific type of reasoning problem.,07,2025-03-10T19:07:21+00:00
+Topic,8.5.3,,Machine Learning,07,2025-03-10T19:07:21+00:00
+Standard,8.5.3.1,AI.ML.7.a,Model how unsupervised learning finds patterns in unlabeled data to identify how machine learning takes place.,07,2025-03-10T19:07:21+00:00
+Standard,8.5.3.2,AI.ML.7.b,Create a dataset for training a decision tree classifier or predictor to explore the impact that different feature encodings have on the decision tree.,07,2025-03-10T19:07:21+00:00
+Topic,8.5.4,,Natural Interactions,07,2025-03-10T19:07:21+00:00
+Standard,8.5.4.1,AI.NI.7.a,Curate a dataset to train a language-processing algorithm to create a program that incorporates voice commands.,07,2025-03-10T19:07:21+00:00
+Standard,8.5.4.2,AI.NI.7.b,Identify the components of a chatbot and explain how each component contributes to the chatbot’s human-like responses.,07,2025-03-10T19:07:21+00:00
+Topic,8.5.5,,Societal Impacts,07,2025-03-10T19:07:21+00:00
+Standard,8.5.5.1,AI.SI.7.a,Identify and explain the effect training data has on the accuracy of an artificial intelligence system to uncover bias in training data.,07,2025-03-10T19:07:21+00:00
+Standard,8.5.5.2,AI.SI.7.b,Identify and explain the problems of classification in the supervised artificial intelligence context to create data sets that are inclusive and accurate.,07,2025-03-10T19:07:21+00:00
+Strand,8.6,,Impacts of Computing,07,2025-03-10T19:07:21+00:00
+Topic,8.6.1,,Culture,07,2025-03-10T19:07:21+00:00
+Standard,8.6.1.1,IC.Cu.7.a,Compare current technologies from the present to the past to evaluate the effect on people's everyday activities.,07,2025-03-10T19:07:21+00:00
+Standard,8.6.1.2,IC.Cu.7.b,Evaluate various technologies to identify issues of bias and accessibility.,07,2025-03-10T19:07:21+00:00
+Standard,8.6.1.3,IC.Cu.7.c,Identify and explore careers related to the field of computer science.,07,2025-03-10T19:07:21+00:00
+Standard,8.6.1.4,IC.Cu.7.d,Explain how computing impacts innovation in other fields.,07,2025-03-10T19:07:21+00:00
+Topic,8.6.2,,Social Interactions,07,2025-03-10T19:07:21+00:00
+Standard,8.6.2.1,IC.SI.7.a,"Analyze and present beneficial and harmful effects of electronic communications to understand their impacts on interpersonal, global, economic, political, business and cultural interactions.",07,2025-03-10T19:07:21+00:00
+Topic,8.6.3,,"Safety, Law and Ethics",07,2025-03-10T19:07:21+00:00
+Standard,8.6.3.1,IC.SLE.7.a,Describe tradeoffs between allowing information to be public and keeping information private and secure to inform decision-making.,07,2025-03-10T19:07:21+00:00
+Standard,8.6.3.2,IC.SLE.7.b,"Identify the social and economic implications of privacy in the context of safety, law or ethics to understand how privacy impacts these areas.",07,2025-03-10T19:07:21+00:00
+Standard,8.6.3.3,IC.SLE.7.c,"Evaluate the development of new technologies in communication, entertainment and business to understand the impact.",07,2025-03-10T19:07:21+00:00
+Standard,8.6.3.4,IC.SLE.7.d,Provide appropriate credit when using resources or artifacts that are not our own.,07,2025-03-10T19:07:21+00:00
+Standard,8.6.3.5,IC.SLE.7.e,"Explain the connection between the longevity of data on the internet, personal online identity and personal privacy.",07,2025-03-10T19:07:21+00:00
+Course,9,,Grade 8,08,2025-03-10T19:07:21+00:00
+Strand,9.1,,Computing Systems,08,2025-03-10T19:07:21+00:00
+Topic,9.1.1,,Devices,08,2025-03-10T19:07:21+00:00
+Standard,9.1.1.1,CS.D.8.a,Evaluate the advantages and limitations of existing computing devices to recommend design improvements based on analysis of how users interact with the device.,08,2025-03-10T19:07:21+00:00
+Topic,9.1.2,,Hardware and Software,08,2025-03-10T19:07:21+00:00
+Standard,9.1.2.1,CS.HS.8.a,Design projects that combine hardware and software components that could complete a task.,08,2025-03-10T19:07:21+00:00
+Topic,9.1.3,,Troubleshooting,08,2025-03-10T19:07:21+00:00
+Standard,9.1.3.1,CS.T.8.a,Use a systematic process to identify and evaluate the source of a routine computing problem. Select the best solution to solve the computing problem and communicate the solution to others.,08,2025-03-10T19:07:21+00:00
+Strand,9.2,,Networks and the Internet,08,2025-03-10T19:07:21+00:00
+Topic,9.2.1,,Networking,08,2025-03-10T19:07:21+00:00
+Standard,9.2.1.1,NI.N.8.a,Model the role of hardware components to diagram the infrastructure of networks and the internet (including cloud servers).,08,2025-03-10T19:07:21+00:00
+Standard,9.2.1.2,NI.N.8.b,"Model protocols (i.e., rules) and explain why they are used to transmit data across networks and the internet.",08,2025-03-10T19:07:21+00:00
+Standard,9.2.1.3,NI.N.8.c,Explain how a system responds when information is lost to understand the effect it has on the transferred information.,08,2025-03-10T19:07:21+00:00
+Topic,9.2.2,,Cybersecurity,08,2025-03-10T19:07:21+00:00
+Standard,9.2.2.1,NI.C.8.a,Explain how physical and digital security measures are used to protect electronic information.,08,2025-03-10T19:07:21+00:00
+Standard,9.2.2.2,NI.C.8.b,Compare and contrast the effects of different types of malware to determine strategies for how to protect devices.,08,2025-03-10T19:07:21+00:00
+Standard,9.2.2.3,NI.C.8.c,"Compare and contrast examples of various threat actors, such as nation-states, cyber terrorist groups, organized crime or hacktivists.",08,2025-03-10T19:07:21+00:00
+Standard,9.2.2.4,NI.C.8.d,"Explore and differentiate examples of complex encryption methods, e.g., Vigenère, Bacon’s cipher and Enigma.",08,2025-03-10T19:07:21+00:00
+Topic,9.2.3,,Internet of Things (IoT),08,2025-03-10T19:07:21+00:00
+Standard,9.2.3.1,NI.IOT.8.a,Explore career pathways related to IoT to identify careers associated with the computer science field.,08,2025-03-10T19:07:21+00:00
+Standard,9.2.3.2,NI.IOT.8.b,"Model the lifecycle of information in the IoT including data gathering, transmission, reception and analysis to recreate a real world scenario.",08,2025-03-10T19:07:21+00:00
+Strand,9.3,,Data and Analysis,08,2025-03-10T19:07:21+00:00
+Topic,9.3.1,,Data Collection and Storage,08,2025-03-10T19:07:21+00:00
+Standard,9.3.1.1,DA.DCS.8.a,Interpret digital data collection tools to manage information effectively.,08,2025-03-10T19:07:21+00:00
+Standard,9.3.1.2,DA.DCS.8.b,Identify data storage systems to define how data is stored and accessed.,08,2025-03-10T19:07:21+00:00
+Standard,9.3.1.3,DA.DCS.8.c,Create a logical file structure to organize data in different storage systems to support individual and collaborative work.,08,2025-03-10T19:07:21+00:00
+Topic,9.3.2,,Visualization and Communication,08,2025-03-10T19:07:21+00:00
+Standard,9.3.2.1,DA.VC.8.a,Evaluate data to construct a model or representation.,08,2025-03-10T19:07:21+00:00
+Standard,9.3.2.2,DA.VC.8.b,"Create a spreadsheet utilizing formulas, functions and graphs to represent and analyze data.",08,2025-03-10T19:07:21+00:00
+Topic,9.3.3,,Inference and Modeling,08,2025-03-10T19:07:21+00:00
+Standard,9.3.3.1,DA.IM.8.a,Create and analyze models and simulations to accurately hypothesize a real-world situation.,08,2025-03-10T19:07:21+00:00
+Strand,9.4,,Algorithmic Thinking and Programming,08,2025-03-10T19:07:21+00:00
+Topic,9.4.1,,Algorithms,08,2025-03-10T19:07:21+00:00
+Standard,9.4.1.1,ATP.A.8.a,Create multiple pseudocode to solve a multi-step process and justify the most efficient solution.,08,2025-03-10T19:07:21+00:00
+Topic,9.4.2,,Variables and Data Representation,08,2025-03-10T19:07:21+00:00
+Standard,9.4.2.1,ATP.VDR.8.a,Analyze test cases and determine the range of valid solutions.,08,2025-03-10T19:07:21+00:00
+Standard,9.4.2.2,ATP.VDR.8.b,Use a data structure to represent a collection.,08,2025-03-10T19:07:21+00:00
+Topic,9.4.3,,Control Structures,08,2025-03-10T19:07:21+00:00
+Standard,9.4.3.1,ATP.CS.8.a,Use and apply decisions and loops in a program to solve a problem.,08,2025-03-10T19:07:21+00:00
+Topic,9.4.4,,Modularity,08,2025-03-10T19:07:21+00:00
+Standard,9.4.4.1,ATP.M.8.a,"Decompose problems and subproblems into parts to facilitate the design, implementation and review of complex programs.",08,2025-03-10T19:07:21+00:00
+Topic,9.4.5,,Program Development,08,2025-03-10T19:07:21+00:00
+Standard,9.4.5.1,ATP.PD.8.a,"Write code that utilizes algorithms, variables and control structures to solve problems or as a creative expression.",08,2025-03-10T19:07:21+00:00
+Standard,9.4.5.2,ATP.PD.8.b,Systematically test and refine programs using a range of test cases.,08,2025-03-10T19:07:21+00:00
+Standard,9.4.5.3,ATP.PD.8.c,Use procedures that utilize parameters to pass values.,08,2025-03-10T19:07:21+00:00
+Strand,9.5,,Artificial Intelligence,08,2025-03-10T19:07:21+00:00
+Topic,9.5.1,,Perception,08,2025-03-10T19:07:21+00:00
+Standard,9.5.1.1,AI.P.8.a,Explain how sounds and images are represented digitally in a computer to explain how sensor data is stored in a computer.,08,2025-03-10T19:07:21+00:00
+Standard,9.5.1.2,AI.P.8.b,Describe how a vision system might exhibit cultural bias if it lacked knowledge of objects not found in the culture of the people who created it to create inclusive and equitable data sets.,08,2025-03-10T19:07:21+00:00
+Standard,9.5.1.3,AI.P.8.c,"Illustrate how sequences of words can be recognized as phrases, even if some of the words are unclear, by looking at how the words fit together to create a text recognition program.",08,2025-03-10T19:07:21+00:00
+Topic,9.5.2,,Representation & Reasoning,08,2025-03-10T19:07:21+00:00
+Standard,9.5.2.1,AI.RR.8.a,Model the process of solving a graph-search problem using breadth-first search to draw a search tree.,08,2025-03-10T19:07:21+00:00
+Topic,9.5.3,,Machine Learning,08,2025-03-10T19:07:21+00:00
+Standard,9.5.3.1,AI.ML.8.a,Explain the difference between training and using a reasoning model to identify how a machine learns.,08,2025-03-10T19:07:21+00:00
+Standard,9.5.3.2,AI.ML.8.b,Illustrate how objects in an image can be segmented and labeled to construct a training set for object recognition.,08,2025-03-10T19:07:21+00:00
+Standard,9.5.3.3,AI.ML.8.c,Explain how the choice of training data shapes the behavior of the classifier to identify how bias can be introduced if the training set is not properly balanced.,08,2025-03-10T19:07:21+00:00
+Topic,9.5.4,,Natural Interactions,08,2025-03-10T19:07:21+00:00
+Standard,9.5.4.1,AI.NI.8.a,"Create a program, individually and collaboratively, that implements a language processing algorithm to create a functional chatbot.",08,2025-03-10T19:07:21+00:00
+Standard,9.5.4.2,AI.NI.8.b,"Critically analyze and discuss features that make an entity “intelligent,” including discussing differences between human, animal and machine intelligence to identify how machine intelligence varies from natural intelligence.",08,2025-03-10T19:07:21+00:00
+Topic,9.5.5,,Societal Impacts,08,2025-03-10T19:07:21+00:00
+Standard,9.5.5.1,AI.SI.8.a,Identify and explain how the composition of training data affects the outcome of a supervised artificial intelligence system to identify bias in data sets.,08,2025-03-10T19:07:21+00:00
+Standard,9.5.5.2,AI.SI.8.b,Identify bias potential in the design of artificial intelligence systems and describe how to utilize inclusive AI design to prevent algorithmic bias.,08,2025-03-10T19:07:21+00:00
+Strand,9.6,,Impacts of Computing,08,2025-03-10T19:07:21+00:00
+Topic,9.6.1,,Culture,08,2025-03-10T19:07:21+00:00
+Standard,9.6.1.1,IC.Cu.8.a,Compare current technologies and how they affect the current economy.,08,2025-03-10T19:07:21+00:00
+Standard,9.6.1.2,IC.Cu.8.b,Propose potential guidelines/standards/criteria to positively impact bias and accessibility in the design of future technologies.,08,2025-03-10T19:07:21+00:00
+Standard,9.6.1.3,IC.Cu.8.c,Identify and explore careers related to the field of computer science.,08,2025-03-10T19:07:21+00:00
+Standard,9.6.1.4,IC.Cu.8.d,Explain how computing impacts innovation in other fields.,08,2025-03-10T19:07:21+00:00
+Topic,9.6.2,,Social Interactions,08,2025-03-10T19:07:21+00:00
+Standard,9.6.2.1,IC.SI.8.a,Evaluate the impacts of electronic communication on personal relationships to be able to evaluate differences between face-to-face and electronic communication.,08,2025-03-10T19:07:21+00:00
+Topic,9.6.3,,"Safety, Law and Ethics",08,2025-03-10T19:07:21+00:00
+Standard,9.6.3.1,IC.SLE.8.a,Explain user privacy concerns related to the collection and generation of data that may not be evident through automated processes.,08,2025-03-10T19:07:21+00:00
+Standard,9.6.3.2,IC.SLE.8.b,"Describe the social and economic implications of privacy in the context of safety, law or ethics to be global digital citizens.",08,2025-03-10T19:07:21+00:00
+Standard,9.6.3.3,IC.SLE.8.c,Identify ethical and legal security measures used to protect electronic information.,08,2025-03-10T19:07:21+00:00
+Standard,9.6.3.4,IC.SLE.8.d,Provide appropriate credit when using resources or artifacts that are not our own.,08,2025-03-10T19:07:21+00:00
+Course,10,,Grades 9 - 12 — Foundational Level,09-12,2025-03-10T19:07:21+00:00
+Strand,10.1,,Computing Systems,09-12,2025-03-10T19:07:21+00:00
+Topic,10.1.1,,Devices,09-12,2025-03-10T19:07:21+00:00
+Standard,10.1.1.1,CS.D.9-12.F.a,"Identify different multifunctional computing devices and connection technologies, both virtual and physical, to describe their purpose.",09-12,2025-03-10T19:07:21+00:00
+Standard,10.1.1.2,CS.D.9-12.F.b,Develop and apply criteria to evaluate computing systems for a given purpose and existing limitations.,09-12,2025-03-10T19:07:21+00:00
+Standard,10.1.1.3,CS.D.9-12.F.c,Create an artifact to demonstrate the roles and interactions of computing systems embedded in everyday objects.,09-12,2025-03-10T19:07:21+00:00
+Standard,10.1.1.4,CS.D.9-12.F.d,"Evaluate alternative computing architectures for emerging technologies, including cluster and quantum computing.",09-12,2025-03-10T19:07:21+00:00
+Topic,10.1.2,,Hardware and Software,09-12,2025-03-10T19:07:21+00:00
+Standard,10.1.2.1,CS.HS.9-12.F.a,"Compare and contrast interactions between application software, system software and hardware.",09-12,2025-03-10T19:07:21+00:00
+Topic,10.1.3,,Troubleshooting,09-12,2025-03-10T19:07:21+00:00
+Standard,10.1.3.1,CS.T.9-12.F.a,Apply a systemic process to identify problems and take steps to correct them within an integrated computing system.,09-12,2025-03-10T19:07:21+00:00
+Standard,10.1.3.2,CS.T.9-12.F.b,Analyze an IT device to determine either what repairs are needed or how to build it.,09-12,2025-03-10T19:07:21+00:00
+Strand,10.2,,Networks and the Internet,09-12,2025-03-10T19:07:21+00:00
+Topic,10.2.1,,Networking,09-12,2025-03-10T19:07:21+00:00
+Standard,10.2.1.1,NI.N.9-12.F.a,Evaluate and select networking devices to establish scalable communications.,09-12,2025-03-10T19:07:21+00:00
+Standard,10.2.1.2,NI.N.9-12.F.b,"Evaluate and select networking protocols for classical, clustered and quantum computing to establish network communication.",09-12,2025-03-10T19:07:21+00:00
+Standard,10.2.1.3,NI.N.9-12.F.c,Understand scalability and reliability of networks to describe the relationships and effects of how the different types of networks work together.,09-12,2025-03-10T19:07:21+00:00
+Topic,10.2.2,,Cybersecurity,09-12,2025-03-10T19:07:21+00:00
+Standard,10.2.2.1,NI.C.9-12.F.a,Examine and employ principles of cybersecurity.,09-12,2025-03-10T19:07:21+00:00
+Standard,10.2.2.2,NI.C.9-12.F.b,"Identify physical, social and digital security risks to address possible attacks from both existing and emergent technologies, including cluster computing and quantum key distribution.",09-12,2025-03-10T19:07:21+00:00
+Standard,10.2.2.3,NI.C.9-12.F.c,"Compare and contrast examples of various threat actors, such as nation-states, cyber terrorist groups, organized crime or hacktivists.",09-12,2025-03-10T19:07:21+00:00
+Standard,10.2.2.4,NI.C.9-12.F.d,"Explore and utilize examples of encryption methods, e.g., Vigenere, Bacon’s cipher, and Enigma.",09-12,2025-03-10T19:07:21+00:00
+Topic,10.2.3,,Internet of Things (IoT),09-12,2025-03-10T19:07:21+00:00
+Standard,10.2.3.1,NI.IOT.9-12.F.a,"Design an IoT life cycle scenario that encompasses data gathering, transmission, reception and data analysis to demonstrate how the IoT operates and apply these skills to design products that model the process.",09-12,2025-03-10T19:07:21+00:00
+Standard,10.2.3.2,NI.IOT.9-12.F.b,Explore and plan career pathways related to IoT to identify careers associated with the computer science field.,09-12,2025-03-10T19:07:21+00:00
+Strand,10.3,,Data and Analysis,09-12,2025-03-10T19:07:21+00:00
+Topic,10.3.1,,Data Collection and Storage,09-12,2025-03-10T19:07:21+00:00
+Standard,10.3.1.1,DA.DCS.9-12.F.a,"Analyze patterns in a real-world data store through hypothesis, testing and use of data tools to gain insight and knowledge.",09-12,2025-03-10T19:07:21+00:00
+Standard,10.3.1.2,DA.DCS.9-12.F.b,Investigate data storage systems to compare and contrast how data is stored and accessed.,09-12,2025-03-10T19:07:21+00:00
+Topic,10.3.2,,Visualization and Communication,09-12,2025-03-10T19:07:21+00:00
+Standard,10.3.2.1,DA.VC.9-12.F.a,Analyze the benefits and limitations of data visualization or multisensory artifacts and tools to communicate which is most appropriate to solve a real-world problem.,09-12,2025-03-10T19:07:21+00:00
+Topic,10.3.3,,Inference and Modeling,09-12,2025-03-10T19:07:21+00:00
+Standard,10.3.3.1,DA.IM.9-12.F.a,"Evaluate a model by creating a hypothesis, testing it and refining it to discover connections and trends in the data.",09-12,2025-03-10T19:07:21+00:00
+Strand,10.4,,Algorithmic Thinking and Programming,09-12,2025-03-10T19:07:21+00:00
+Topic,10.4.1,,Algorithms,09-12,2025-03-10T19:07:21+00:00
+Standard,10.4.1.1,ATP.A.9-12.F.a,Define and use appropriate problem solving strategies and visual artifacts to create and refine a solution to a real-world problem.,09-12,2025-03-10T19:07:21+00:00
+Standard,10.4.1.2,ATP.A.9-12.F.b,Define and implement an algorithm by decomposing problem requirements from a problem statement to solve a problem.,09-12,2025-03-10T19:07:21+00:00
+Standard,10.4.1.3,ATP.A.9-12.F.c,Define and explain iterative algorithms to understand how and when to apply them.,09-12,2025-03-10T19:07:21+00:00
+Standard,10.4.1.4,ATP.A.9-12.F.d,Define and explain recursive algorithms to understand how and when to apply them.,09-12,2025-03-10T19:07:21+00:00
+Topic,10.4.2,,Variables and Data Representation,09-12,2025-03-10T19:07:21+00:00
+Standard,10.4.2.1,ATP.VDR.9-12.F.a,Identify types of variables and data and utilize them to create a computer program that stores data in appropriate ways.,09-12,2025-03-10T19:07:21+00:00
+Topic,10.4.3,,Control Structures,09-12,2025-03-10T19:07:21+00:00
+Standard,10.4.3.1,ATP.CS.9-12.F.a,Define control structures and Boolean logic and use them to solve real-world scenarios.,09-12,2025-03-10T19:07:21+00:00
+Standard,10.4.3.2,ATP.CS.9-12.F.b,Use appropriate syntax to create and use a method.,09-12,2025-03-10T19:07:21+00:00
+Standard,10.4.3.3,ATP.CS.9-12.F.c,Use data scoping to isolate data.,09-12,2025-03-10T19:07:21+00:00
+Topic,10.4.4,,Modularity,09-12,2025-03-10T19:07:21+00:00
+Standard,10.4.4.1,ATP.M.9-12.F.a,Break down a solution into procedures using systematic analysis and design.,09-12,2025-03-10T19:07:21+00:00
+Standard,10.4.4.2,ATP.M.9-12.F.b,"Create computational artifacts by systematically organizing, manipulating and/or processing data.",09-12,2025-03-10T19:07:21+00:00
+Topic,10.4.5,,Program Development,09-12,2025-03-10T19:07:21+00:00
+Standard,10.4.5.1,ATP.PD.9-12.F.a,Investigate software development methodologies to select the appropriate one for a project to complete as a team.,09-12,2025-03-10T19:07:21+00:00
+Standard,10.4.5.2,ATP.PD.9-12.F.b,Compare test methodologies to evaluate why each is used and to determine their benefits and costs.,09-12,2025-03-10T19:07:21+00:00
+Standard,10.4.5.3,ATP.PD.9-12.F.c,"Correctly use consistent naming conventions, version control and comments to demonstrate why these are important for future use, maintenance and reuse of code.",09-12,2025-03-10T19:07:21+00:00
+Strand,10.5,,Artificial Intelligence,09-12,2025-03-10T19:07:21+00:00
+Topic,10.5.1,,Perception,09-12,2025-03-10T19:07:21+00:00
+Standard,10.5.1.1,AI.P.9-12.F.a,"Explain how radar, lidar, GPS and accelerometer data are represented.",09-12,2025-03-10T19:07:21+00:00
+Standard,10.5.1.2,AI.P.9-12.F.b,Describe the limitations and advantages of various types of computer sensors.,09-12,2025-03-10T19:07:21+00:00
+Topic,10.5.2,,Representation & Reasoning,09-12,2025-03-10T19:07:21+00:00
+Standard,10.5.2.1,AI.RR.9-12.F.a,"Categorize real-world problems as classification, prediction, sequential decision problems, combination search, heuristic search, adversarial search, logical deduction or statistical inference.",09-12,2025-03-10T19:07:21+00:00
+Standard,10.5.2.2,AI.RR.9-12.F.b,"For each of these types of reasoning problems (classification, prediction, sequential decision-making, combinatorial search, heuristic search, adversarial search, logical deduction and statistical inference), list an algorithm that could be used to solve that problem.",09-12,2025-03-10T19:07:21+00:00
+Standard,10.5.2.3,AI.RR.9-12.F.c,Describe the differences between types of search algorithms.,09-12,2025-03-10T19:07:21+00:00
+Topic,10.5.3,,Machine Learning,09-12,2025-03-10T19:07:21+00:00
+Standard,10.5.3.1,AI.ML.9-12.F.a,Illustrate what happens during each of the steps required when using machine learning to construct a classifier or predictor.,09-12,2025-03-10T19:07:21+00:00
+Standard,10.5.3.2,AI.ML.9-12.F.b,"Use either a supervised or unsupervised learning algorithm to train a model on real-world data, then evaluate the results.",09-12,2025-03-10T19:07:21+00:00
+Topic,10.5.4,,Natural Interaction,09-12,2025-03-10T19:07:21+00:00
+Standard,10.5.4.1,AI.NI.9-12.F.a,Construct context-free grammar to parse simple languages and use language-processing tools to construct a chatbot. Use sentiment analysis tools to extract emotional tone from text.,09-12,2025-03-10T19:07:21+00:00
+Standard,10.5.4.2,AI.NI.9-12.F.b,Demonstrate how sentence parsers handle ambiguity.,09-12,2025-03-10T19:07:21+00:00
+Standard,10.5.4.3,AI.NI.9-12.F.c,Describe how artificial intelligence drives many software and physical systems.,09-12,2025-03-10T19:07:21+00:00
+Topic,10.5.5,,Societal Impacts,09-12,2025-03-10T19:07:21+00:00
+Standard,10.5.5.1,AI.SI.9-12.F.a,Critically explore the positive and negative impacts of an AI system.,09-12,2025-03-10T19:07:21+00:00
+Strand,10.6,,Impacts of Computing,09-12,2025-03-10T19:07:21+00:00
+Topic,10.6.1,,Culture,09-12,2025-03-10T19:07:21+00:00
+Standard,10.6.1.1,IC.Cu.9-12.F.a,Analyze new technology to predict realistic impacts on society.,09-12,2025-03-10T19:07:21+00:00
+Standard,10.6.1.2,IC.Cu.9-12.F.b,"Identify how existing and emerging computing architecture has and will impact other professions, both positively and negatively.",09-12,2025-03-10T19:07:21+00:00
+Topic,10.6.2,,Social Interactions,09-12,2025-03-10T19:07:21+00:00
+Standard,10.6.2.1,IC.SI.9-12.F.a,Evaluate tools to increase connectivity of people in different cultures and career fields.,09-12,2025-03-10T19:07:21+00:00
+Standard,10.6.2.2,IC.SI.9-12.F.b,Analyze the collection and generation of data through automated processes to explain the privacy concerns that are not always evident to users.,09-12,2025-03-10T19:07:21+00:00
+Topic,10.6.3,,"Safety, Law and Ethics",09-12,2025-03-10T19:07:21+00:00
+Standard,10.6.3.1,IC.SLE.9-12.F.a,Interpret and analyze breaches in privacy and security to investigate the legal and ethical impact in classical and emerging technologies.,09-12,2025-03-10T19:07:21+00:00
+Standard,10.6.3.2,IC.SLE.9-12.F.b,Analyze the concepts of usability and security to explain typical tradeoffs between them.,09-12,2025-03-10T19:07:21+00:00
+Standard,10.6.3.3,IC.SLE.9-12.F.c,Analyze the collection and generation of data through automated processes to explain the legal concerns that are not always evident to users.,09-12,2025-03-10T19:07:21+00:00
+Standard,10.6.3.4,IC.SLE.9-12.F.d,Explain the beneficial and harmful effects of intellectual property laws to determine the impacts on innovation.,09-12,2025-03-10T19:07:21+00:00
+Course,11,,Grades 9 - 12 — Advanced Level,09-12,2025-03-10T19:07:21+00:00
+Strand,11.1,,Computing Systems,09-12,2025-03-10T19:07:21+00:00
+Topic,11.1.1,,Devices,09-12,2025-03-10T19:07:21+00:00
+Standard,11.1.1.1,CS.D.9-12.A.a,Evaluate the function of various devices to formulate a human interaction solution.,09-12,2025-03-10T19:07:21+00:00
+Standard,11.1.1.2,CS.D.9-12.A.b,Integrate multifunctional computing devices to solve a problem.,09-12,2025-03-10T19:07:21+00:00
+Standard,11.1.1.3,CS.D.9-12.A.c,Identify the functionality of various categories of hardware components and the communication between them and use that information to build a system virtually or physically for a specific task.,09-12,2025-03-10T19:07:21+00:00
+Topic,11.1.2,,Hardware and Software,09-12,2025-03-10T19:07:21+00:00
+Standard,11.1.2.1,CS.HS.9-12.A.a,Categorize types of operating systems and how they will be used.,09-12,2025-03-10T19:07:21+00:00
+Topic,11.1.3,,Troubleshooting,09-12,2025-03-10T19:07:21+00:00
+Standard,11.1.3.1,CS.T.9-12.A.a,Evaluate and revise a systematic process to identify the source of a problem and the steps to correct it within individual and connected devices.,09-12,2025-03-10T19:07:21+00:00
+Strand,11.2,,Networks and the Internet,09-12,2025-03-10T19:07:21+00:00
+Topic,11.2.1,,Networking,09-12,2025-03-10T19:07:21+00:00
+Standard,11.2.1.1,NI.N.9-12.A.a,Construct a networking devices map solution for a real-world scenario to establish communication between distant devices.,09-12,2025-03-10T19:07:21+00:00
+Standard,11.2.1.2,NI.N.9-12.A.b,Develop a solution to a real-world scenario using networking protocols to establish network communication.,09-12,2025-03-10T19:07:21+00:00
+Standard,11.2.1.3,NI.N.9-12.A.c,Improve scalability and reliability of networks to describe the relationships and effects of how the different types of networks work together.,09-12,2025-03-10T19:07:21+00:00
+Topic,11.2.2,,Cybersecurity,09-12,2025-03-10T19:07:21+00:00
+Standard,11.2.2.1,NI.C.9-12.A.a,Identify cybersecurity ethics and law.,09-12,2025-03-10T19:07:21+00:00
+Standard,11.2.2.2,NI.C.9-12.A.b,Implement a devised solution to counter a security threat.,09-12,2025-03-10T19:07:21+00:00
+Standard,11.2.2.3,NI.C.9-12.A.c,"Compare and contrast various threat actors, such as nation-states, cyber terrorist groups, organized crime or hacktivists.",09-12,2025-03-10T19:07:21+00:00
+Standard,11.2.2.4,NI.C.9-12.A.d,"Explore and utilize examples of encryption methods (e.g., Vigenére, Bacon’s cipher and Enigma).",09-12,2025-03-10T19:07:21+00:00
+Topic,11.2.3,,Internet of Things (IoT),09-12,2025-03-10T19:07:21+00:00
+Standard,11.2.3.1,NI.IOT.9-12.A.a,"Design and implement an IoT life cycle scenario that encompasses data gathering, transmission, reception and data analysis to demonstrate how the IoT operates and apply these skills to design products that model the process.",09-12,2025-03-10T19:07:21+00:00
+Strand,11.3,,Data and Analysis,09-12,2025-03-10T19:07:21+00:00
+Topic,11.3.1,,Data Collection and Storage,09-12,2025-03-10T19:07:21+00:00
+Standard,11.3.1.1,DA.DCS.9-12.A.a,Create multidimensional data collections that can be utilized through various methods to solve complex data problems.,09-12,2025-03-10T19:07:21+00:00
+Standard,11.3.1.2,DA.DCS.9-12.A.b,Investigate data storage and collection tools to analyze tradeoffs and limitations.,09-12,2025-03-10T19:07:21+00:00
+Topic,11.3.2,,Visualization and Communication,09-12,2025-03-10T19:07:21+00:00
+Standard,11.3.2.1,DA.VC.9-12.A.a,Create visualization or multisensory artifacts to communicate insights and knowledge gained from complex data analysis that answers real-world questions.,09-12,2025-03-10T19:07:21+00:00
+Topic,11.3.3,,Inference and Modeling,09-12,2025-03-10T19:07:21+00:00
+Standard,11.3.3.1,DA.IM.9-12.A.a,"Create a model that simulates a complex system and uses extracted data to hypothesize, test and refine the model to discover connections or trends.",09-12,2025-03-10T19:07:21+00:00
+Strand,11.4,,Algorithmic Thinking and Programming,09-12,2025-03-10T19:07:21+00:00
+Topic,11.4.1,,Algorithms,09-12,2025-03-10T19:07:21+00:00
+Standard,11.4.1.1,ATP.A.9-12.A.a,Define and explain Iterative and recursive algorithms to understand how and when to apply them.,09-12,2025-03-10T19:07:21+00:00
+Standard,11.4.1.2,ATP.A.9-12.A.b,Use iteration to effectively solve problems.,09-12,2025-03-10T19:07:21+00:00
+Standard,11.4.1.3,ATP.A.9-12.A.c,Use recursion to effectively solve problems.,09-12,2025-03-10T19:07:21+00:00
+Standard,11.4.1.4,ATP.A.9-12.A.d,Define and explain sorting and searching algorithms to understand how and when to apply them.,09-12,2025-03-10T19:07:21+00:00
+Standard,11.4.1.5,ATP.A.9-12.A.e,Use sorting and searching to analyze and organize data.,09-12,2025-03-10T19:07:21+00:00
+Standard,11.4.1.6,ATP.A.9-12.A.f,"Compare and contrast classical, cluster and quantum computing algorithms.",09-12,2025-03-10T19:07:21+00:00
+Topic,11.4.2,,Variables and Data Representation,09-12,2025-03-10T19:07:21+00:00
+Standard,11.4.2.1,ATP.VDR.9-12.A.a,Utilize different data storage structures to store larger and more complex data than variables can contain.,09-12,2025-03-10T19:07:21+00:00
+Standard,11.4.2.2,ATP.VDR.9-12.A.b,Identify the appropriate data structures or variables to use to design a solution to a complex problem.,09-12,2025-03-10T19:07:21+00:00
+Topic,11.4.3,,Control Structures,09-12,2025-03-10T19:07:21+00:00
+Standard,11.4.3.1,ATP.CS.9-12.A.a,Write programs that use library methods and control structures and methods to solve a problem.,09-12,2025-03-10T19:07:21+00:00
+Standard,11.4.3.2,ATP.CS.9-12.A.b,Refactor a program to be smaller and more efficient.,09-12,2025-03-10T19:07:21+00:00
+Topic,11.4.4,,Modularity,09-12,2025-03-10T19:07:21+00:00
+Standard,11.4.4.1,ATP.M.9-12.A.a,"Construct solutions to problems using student-created components (e.g., procedures, modules, objects).",09-12,2025-03-10T19:07:21+00:00
+Standard,11.4.4.2,ATP.M.9-12.A.b,Design or redesign a solution to a large-scale computational problem by identifying generalizable patterns.,09-12,2025-03-10T19:07:21+00:00
+Standard,11.4.4.3,ATP.M.9-12.A.c,"Create programming solutions by reusing existing code (e.g., libraries, Application Programming Interface (APIs), code repositories).",09-12,2025-03-10T19:07:21+00:00
+Topic,11.4.5,,Program Development,09-12,2025-03-10T19:07:21+00:00
+Standard,11.4.5.1,ATP.PD.9-12.A.a,Fully implement the most appropriate software methodology to complete a team programming project.,09-12,2025-03-10T19:07:21+00:00
+Strand,11.5,,Artificial Intelligence,09-12,2025-03-10T19:07:21+00:00
+Topic,11.5.1,,Perception,09-12,2025-03-10T19:07:21+00:00
+Standard,11.5.1.1,AI.P.9-12.A.a,Describe some of the technical difficulties in making computer perception systems function well for diverse groups.,09-12,2025-03-10T19:07:21+00:00
+Standard,11.5.1.2,AI.P.9-12.A.b,"Illustrate the abstraction hierarchy for speech understanding, from waveforms to sentences, showing how knowledge at each level is used to resolve ambiguities in the levels below.",09-12,2025-03-10T19:07:21+00:00
+Topic,11.5.2,,Representation & Reasoning,09-12,2025-03-10T19:07:21+00:00
+Standard,11.5.2.1,AI.RR.9-12.A.a,Write code to create an algorithmic search.,09-12,2025-03-10T19:07:21+00:00
+Standard,11.5.2.2,AI.RR.9-12.A.b,"Illustrate breadth-first, depth-first and best-first search algorithms to grow a search tree.",09-12,2025-03-10T19:07:21+00:00
+Topic,11.5.3,,Machine Learning,09-12,2025-03-10T19:07:21+00:00
+Standard,11.5.3.1,AI.ML.9-12.A.a,"Evaluate a dataset used to train a real AI system by considering the size of the dataset, the way that the data were acquired and labeled, the storage required and the estimated time to produce the dataset.",09-12,2025-03-10T19:07:21+00:00
+Standard,11.5.3.2,AI.ML.9-12.A.b,"Using a data visualization tool, investigate imbalances in training data in terms of gender, age, ethnicity or other demographic variables that could result in a biased model.",09-12,2025-03-10T19:07:21+00:00
+Topic,11.5.4,,Natural Interaction,09-12,2025-03-10T19:07:21+00:00
+Standard,11.5.4.1,AI.NI.9-12.A.a,Identify and debate the issues of AI and consciousness.,,2025-04-01T17:06:03+00:00
+Topic,11.5.5,,Societal Impacts,09-12,2025-03-10T19:07:21+00:00
+Standard,11.5.5.1,AI.SI.9-12.A.a,Design an AI system to address social issues or explain how AI could be used to address a social issue.,09-12,2025-03-10T19:07:21+00:00
+Strand,11.6,,Impacts of Computing,09-12,2025-03-10T19:07:21+00:00
+Topic,11.6.1,,Culture,09-12,2025-03-10T19:07:21+00:00
+Standard,11.6.1.1,IC.Cu.9-12.A.a,Evaluate an alternative solution where a current tool does not exist due to limited resources.,09-12,2025-03-10T19:07:21+00:00
+Standard,11.6.1.2,IC.Cu.9-12.A.b,"Analyze the global impact of the distribution of computing resources in terms of equity, access and influence.",09-12,2025-03-10T19:07:21+00:00
+Standard,11.6.1.3,IC.Cu.9-12.A.c,"Design a study of the potential impacts of classical computers, clustered computing and quantum computing in different fields.",09-12,2025-03-10T19:07:21+00:00
+Standard,11.6.1.4,IC.Cu.9-12.A.d,Evaluate and explore how research and commercial entities are using clustered and quantum computing as alternative solutions due to limitations of classical computers.,09-12,2025-03-10T19:07:21+00:00
+Topic,11.6.2,,"Safety, Law and Ethics",09-12,2025-03-10T19:07:21+00:00
+Standard,11.6.2.1,IC.SLE.9-12.A.a,Create a scenario to demonstrate typical tradeoffs between usability and security and recommend security measures based on these or other tradeoffs.,09-12,2025-03-10T19:07:21+00:00
+Standard,11.6.2.2,IC.SLE.9-12.A.b,"Evaluate and explore how research and commercial entities use intellectual property laws including copyright, trademarks, and patents to identify practical, business and ethical impacts.",09-12,2025-03-10T19:07:21+00:00

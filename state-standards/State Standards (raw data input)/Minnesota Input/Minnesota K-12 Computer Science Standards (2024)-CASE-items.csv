@@ -1,0 +1,285 @@
+﻿Item Type,Sequence,Human Code,Full Statement,Ed. Level,Last Modified
+Grade Band,1,,Grades K-2,KG-02,2025-03-06T21:30:53+00:00
+Concept,1.1,,Computing Systems,KG-02,2025-03-06T21:30:53+00:00
+Subconcept,1.1.1,,Devices,KG-02,2025-03-06T21:30:53+00:00
+Standard,1.1.1.1,K-2.ComputingSystems.Devices,People use computing devices to perform a variety of tasks accurately and quickly. Computing devices interpret and follow the instructions they are given literally.,KG-02,2025-03-06T21:30:53+00:00
+Subconcept,1.1.2,,Hardware and Software,KG-02,2025-03-06T21:30:53+00:00
+Standard,1.1.2.1,K-2.ComputingSystems.Hardware and Software,"A computing system is composed of hardware and software. Hardware consists of physical components, while software provides instructions for the system. These instructions are represented in a form that a computer can understand.",KG-02,2025-03-06T21:30:53+00:00
+Subconcept,1.1.3,,Troubleshooting,KG-02,2025-03-06T21:30:53+00:00
+Standard,1.1.3.1,K-2.ComputingSystems.Troubleshooting,Computing systems might not work as expected because of hardware or software problems. Clearly describing a problem is the first step toward finding a solution.,KG-02,2025-03-06T21:30:53+00:00
+Concept,1.2,,Networks and the Internet,KG-02,2025-03-06T21:30:53+00:00
+Subconcept,1.2.1,,Network Communication and Organization,KG-02,2025-03-06T21:30:53+00:00
+Standard,1.2.1.1,K-2.Networks and the Internet.Network Communication and Organization,"Computer networks can be used to connect people to other people, places, information, and ideas. The Internet enables people to connect with others worldwide through many different points of connection.",KG-02,2025-03-06T21:30:53+00:00
+Subconcept,1.2.2,,Cybersecurity,KG-02,2025-03-06T21:30:53+00:00
+Standard,1.2.2.1,K-2.Networks and the Internet.Cybersecurity,"Connecting devices to a network or the Internet provides great benefit, care must be taken to use authentication measures, such as strong passwords, to protect devices and information from unauthorized access.",KG-02,2025-03-06T21:30:53+00:00
+Concept,1.3,,Data and Analysis,KG-02,2025-03-06T21:30:53+00:00
+Subconcept,1.3.1,,Collection,KG-02,2025-03-06T21:30:53+00:00
+Standard,1.3.1.1,K-2.Data and Analysis.Collection,Everyday digital devices collect and display data over time. The collection and use of data about individuals and the world around them is a routine part of life and influences how people live.,KG-02,2025-03-06T21:30:53+00:00
+Subconcept,1.3.2,,Storage,KG-02,2025-03-06T21:30:53+00:00
+Standard,1.3.2.1,K-2.Data and Analysis.Storage,"Computers store data that can be retrieved later. Identical copies of data can be made and stored in multiple locations for a variety of reasons, such as to protect against loss.",KG-02,2025-03-06T21:30:53+00:00
+Subconcept,1.3.3,,Visualization and Transformation,KG-02,2025-03-06T21:30:53+00:00
+Standard,1.3.3.1,K-2.Data and Analysis.Visualization and Transformation,"Variables Data can be displayed for communication in many ways. People use  computers to transform data into new forms, such as graphs and charts.",KG-02,2025-03-10T13:31:47+00:00
+Subconcept,1.3.4,,Inference and Models,KG-02,2025-03-06T21:30:53+00:00
+Standard,1.3.4.1,K-2.Data and Analysis.Inference and Models,Data can be used to make inferences or predictions about the world.,KG-02,2025-03-06T21:30:53+00:00
+Concept,1.4,,Algorithms and Programming,KG-02,2025-03-06T21:30:53+00:00
+Subconcept,1.4.1,,Algorithms,KG-02,2025-03-06T21:30:53+00:00
+Standard,1.4.1.1,K-2.Algorithms and Programming.Algorithms,People follow and create processes as part of daily life. Many of these processes can be expressed as algorithms that computers can follow.,KG-02,2025-03-06T21:30:53+00:00
+Subconcept,1.4.2,,Variables,KG-02,2025-03-06T21:30:53+00:00
+Standard,1.4.2.1,K-2.Algorithms and Programming.Variables,"Information in the real world can be represented in computer programs. Programs store and manipulate data, such as numbers, words, colors, and images. The type of data determines the actions and attributes associated with it.",KG-02,2025-03-10T13:32:32+00:00
+Subconcept,1.4.3,,Control,KG-02,2025-03-06T21:30:53+00:00
+Standard,1.4.3.1,K-2.Algorithms and Programming.Control,Computers follow precise sequences of instructions that automate tasks. Program execution can also be non-sequential by repeating patterns of instructions and using events to initiate instructions.,KG-02,2025-03-10T13:32:53+00:00
+Subconcept,1.4.4,,Modularity,KG-02,2025-03-06T21:30:53+00:00
+Standard,1.4.4.1,K-2.Algorithms and Programming.Modularity,"Complex tasks can be broken down into simpler instructions, some of which can be broken down even further. Likewise, instructions can be combined to accomplish complex tasks.",KG-02,2025-03-06T21:30:53+00:00
+Subconcept,1.4.5,,Program Development,KG-02,2025-03-06T21:30:53+00:00
+Standard,1.4.5.1,K-2.Algorithms and Programming.Program Development,"People develop programs collaboratively and for a purpose, such as expressing ideas or addressing problems.",KG-02,2025-03-06T21:30:53+00:00
+Concept,1.5,,Impacts of Computing,KG-02,2025-03-06T21:30:53+00:00
+Subconcept,1.5.1,,Culture,KG-02,2025-03-06T21:30:53+00:00
+Standard,1.5.1.1,K-2.Impacts of Computing.Culture,"Computing technology has positively and negatively changed the way people live and work. Computing devices can be used for entertainment and as productivity tools, and they can affect relationships and lifestyles.",KG-02,2025-03-06T21:30:53+00:00
+Subconcept,1.5.2,,Social Interactions,KG-02,2025-03-06T21:30:53+00:00
+Standard,1.5.2.1,K-2.Impacts of Computing.Social Interactions,"Computing has positively and negatively changed the way people communicate. People can have access to information and each other instantly, anywhere, and at any time, but they are at the risk of cyberbullying and reduced privacy.",KG-02,2025-03-06T21:30:53+00:00
+Subconcept,1.5.3,,"Safety, Law, and, Ethics",KG-02,2025-03-06T21:30:53+00:00
+Standard,1.5.3.1,K-2.Impacts of Computing.Safety Law and Ethics,"People use computing technology in ways that can help or hurt themselves or others. Harmful behaviors, such as sharing private information and interacting with strangers, should be recognized and avoided.",KG-02,2025-03-06T21:30:53+00:00
+Practice,1.6,,K-2 Practices,KG-02,2025-03-06T21:30:53+00:00
+Core Practice,1.6.1,K-2.P1,Fostering an Inclusive Computing Culture,KG-02,2025-03-06T21:30:53+00:00
+Standard,1.6.1.1,K-2.P1.1,Include the unique perspectives of others and reflect on one’s own perspectives when designing and developing computational products.,KG-02,2025-03-06T21:30:53+00:00
+Standard,1.6.1.2,K-2.P1.2,Address the needs of diverse end users during the design process to produce artifacts with broad accessibility and usability.,KG-02,2025-03-06T21:30:53+00:00
+Standard,1.6.1.3,K-2.P1.3,"Employ self- and peer-advocacy to address bias in interactions, product design, and development methods.",KG-02,2025-03-06T21:30:53+00:00
+Core Practice,1.6.2,K-2.P2,Collaborating Around Computing,KG-02,2025-03-06T21:30:53+00:00
+Standard,1.6.2.1,K-2.P2.1,"Cultivate working relationships with individuals possessing diverse perspectives, skills, and personalities.",KG-02,2025-03-06T21:30:53+00:00
+Standard,1.6.2.2,K-2.P2.2,"Create team norms, expectations, and equitable workloads to increase efficiency and effectiveness.",KG-02,2025-03-06T21:30:53+00:00
+Standard,1.6.2.3,K-2.P2.3,"Solicit and incorporate feedback from, and provide constructive feedback to, team members and other stakeholders.",KG-02,2025-03-06T21:30:53+00:00
+Standard,1.6.2.4,K-2.P2.4,Evaluate and select technological tools that can be used to collaborate on a project.,KG-02,2025-03-06T21:30:53+00:00
+Core Practice,1.6.3,K-2.P3,Recognizing and Defining Computational Problems,KG-02,2025-03-06T21:30:53+00:00
+Standard,1.6.3.1,K-2.P3.1,"Identify complex, interdisciplinary, real-world problems that can be solved computationally.",KG-02,2025-03-06T21:30:53+00:00
+Standard,1.6.3.2,K-2.P3.2,Decompose complex real-world problems into manageable subproblems that could integrate existing solutions or procedures.,KG-02,2025-03-06T21:30:53+00:00
+Standard,1.6.3.3,K-2.P3.3,Evaluate whether it is appropriate and feasible to solve a problem computationally.,KG-02,2025-03-06T21:30:53+00:00
+Core Practice,1.6.4,K-2.P4,Developing and Using Abstractions,KG-02,2025-03-06T21:30:53+00:00
+Standard,1.6.4.1,K-2.P4.1,Extract common features from a set of interrelated processes or complex phenomena.,KG-02,2025-03-06T21:30:53+00:00
+Standard,1.6.4.2,K-2.P4.2,Evaluate existing technological functionalities and incorporate them into new designs.,KG-02,2025-03-06T21:30:53+00:00
+Standard,1.6.4.3,K-2.P4.3,Create modules and develop points of interaction that can apply to multiple situations and reduce complexity.,KG-02,2025-03-06T21:30:53+00:00
+Standard,1.6.4.4,K-2.P4.4,Model phenomena and processes and simulate systems to understand and evaluate potential outcomes.,KG-02,2025-03-06T21:30:53+00:00
+Core Practice,1.6.5,K-2.P5,Creating Computational Artifacts,KG-02,2025-03-06T21:30:53+00:00
+Standard,1.6.5.1,K-2.P5.1,"Plan the development of a computational artifact using an iterative process that includes reflection on and modification of the plan, taking into account key features, time and resource constraints, and user expectations.",KG-02,2025-03-06T21:30:53+00:00
+Standard,1.6.5.2,K-2.P5.2,"Create a computational artifact for practical intent, personal expression, or to address a societal issue.",KG-02,2025-03-06T21:30:53+00:00
+Standard,1.6.5.3,K-2.P5.3,Modify an existing artifact to improve or customize it.,KG-02,2025-03-06T21:30:53+00:00
+Core Practice,1.6.6,K-2.P6,Testing and Refining Computational Artifacts,KG-02,2025-03-06T21:30:53+00:00
+Standard,1.6.6.1,K-2.P6.1,Systematically test computational artifacts by considering all scenarios and using test cases.,KG-02,2025-03-06T21:30:53+00:00
+Standard,1.6.6.2,K-2.P6.2,Identify and fix errors using a systematic process.,KG-02,2025-03-06T21:30:53+00:00
+Standard,1.6.6.3,K-2.P6.3,"Evaluate and refine a computational artifact multiple times to enhance its performance, reliability, usability, and accessibility.",KG-02,2025-03-06T21:30:53+00:00
+Core Practice,1.6.7,K-2.P7,Communicating About Computing,KG-02,2025-03-06T21:30:53+00:00
+Standard,1.6.7.1,K-2.P7.1,"Select, organize, and interpret large data sets from multiple sources to support a claim.",KG-02,2025-03-06T21:30:53+00:00
+Standard,1.6.7.2,K-2.P7.2,"Describe, justify, and document computational processes and solutions using appropriate terminology consistent with the intended audience and purpose.",KG-02,2025-03-06T21:30:53+00:00
+Standard,1.6.7.3,K-2.P7.3,Articulate ideas responsibly by observing intellectual property rights and giving appropriate attribution.,KG-02,2025-03-06T21:30:53+00:00
+Grade Band,2,,Grades 3-5,03-05,2025-03-06T21:31:03+00:00
+Concept,2.1,,Computing Systems,03-05,2025-03-06T21:31:03+00:00
+Subconcept,2.1.1,,Devices,03-05,2025-03-06T21:31:03+00:00
+Standard,2.1.1.1,3-5.ComputingSystems.Devices,"Computing devices may be connected to other devices or components  to extend their capabilities, such as sensing and sending information. Connections can take many forms, such as physical or wireless. Together, devices and components form a system of interdependent parts that interact for a common purpose.",03-05,2025-03-10T13:31:19+00:00
+Subconcept,2.1.2,,Hardware and Software,03-05,2025-03-06T21:31:03+00:00
+Standard,2.1.2.1,3-5.ComputingSystems.Hardware and Software,"Hardware and software work together as a system to accomplish tasks, such as sending, receiving, processing, and storing units of information as bits.",03-05,2025-03-06T21:31:03+00:00
+Subconcept,2.1.3,,Troubleshooting,03-05,2025-03-06T21:31:03+00:00
+Standard,2.1.3.1,3-5.ComputingSystems.Troubleshooting,"Computing systems share similarities, such as the use of power, data, and memory. Common troubleshooting strategies, such as checking that power is available, checking that physical and wireless connections are working, and clearing out the working memory by restarting programs or devices, are effective for many systems.",03-05,2025-03-06T21:31:03+00:00
+Concept,2.2,,Networks and the Internet,03-05,2025-03-06T21:31:03+00:00
+Subconcept,2.2.1,,Network Communication and Organization,03-05,2025-03-06T21:31:03+00:00
+Standard,2.2.1.1,3-5.Networks and the Internet.Network Communication and Organization,"Information needs a physical or wireless path to travel to be sent and received, and some paths are better than others. Information is broken into smaller pieces, called packets, that are sent independently and reassembled at the destination. Routers and switches are used to properly send packets across paths to their destinations.",03-05,2025-03-06T21:31:03+00:00
+Subconcept,2.2.2,,Cybersecurity,03-05,2025-03-06T21:31:03+00:00
+Standard,2.2.2.1,3-5.Networks and the Internet.Cybersecurity,Information can be protected using various security measures. These measures can be physical and/or digital.,03-05,2025-03-06T21:31:03+00:00
+Concept,2.3,,Data and Analysis,03-05,2025-03-06T21:31:03+00:00
+Subconcept,2.3.1,,Collection,03-05,2025-03-06T21:31:03+00:00
+Standard,2.3.1.1,3-5.Data and Analysis.Collection,"People select digital tools for the collection of data based on what is being observed and how the data will be used. For example, a digital thermometer is used to measure temperature and a GPS sensor is used to track locations.",03-05,2025-03-06T21:31:03+00:00
+Subconcept,2.3.2,,Storage,03-05,2025-03-06T21:31:03+00:00
+Standard,2.3.2.1,3-5.Data and Analysis.Storage,Different software tools used to access data may store the data differently. The type of data being stored and the level of detail represented by that data affect the storage requirements.,03-05,2025-03-10T13:30:52+00:00
+Subconcept,2.3.3,,Visualization and Transformation,03-05,2025-03-06T21:31:03+00:00
+Standard,2.3.3.1,3-5.Data and Analysis.Visualization and Transformation,"People select aspects and subsets of data to be transformed, organized, clustered, and categorized to provide different views and communicate insights gained from the data.",03-05,2025-03-06T21:31:03+00:00
+Subconcept,2.3.4,,Inference and Models,03-05,2025-03-06T21:31:03+00:00
+Standard,2.3.4.1,3-5.Data and Analysis.Inference and Models,"The accuracy of inferences and predictions is related to how realistically data is represented. Many factors influence the accuracy of inferences and predictions, such as the amount and relevance of data collected.",03-05,2025-03-06T21:31:03+00:00
+Concept,2.4,,Algorithms and Programming,03-05,2025-03-06T21:31:03+00:00
+Subconcept,2.4.1,,Algorithms,03-05,2025-03-06T21:31:03+00:00
+Standard,2.4.1.1,3-5.Algorithms and Programming.Algorithms,Different algorithms can achieve the same result. Some algorithms are more appropriate for a specific context than others.,03-05,2025-03-06T21:31:03+00:00
+Subconcept,2.4.2,,Variables,03-05,2025-03-06T21:31:03+00:00
+Standard,2.4.2.1,3-5.Algorithms and Programming.Variables,"Programming languages provide variables, which are used to store and modify data. The data type determines the values and operations that can be performed on that data.",03-05,2025-03-06T21:31:03+00:00
+Subconcept,2.4.3,,Control,03-05,2025-03-06T21:31:03+00:00
+Standard,2.4.3.1,3-5.Algorithms and Programming.Control,"Control structures, including loops, event handlers, and conditionals, are used to specify the flow of execution. Conditionals selectively execute or skip instructions under different conditions.",03-05,2025-03-06T21:31:03+00:00
+Subconcept,2.4.4,,Modularity,03-05,2025-03-06T21:31:03+00:00
+Standard,2.4.4.1,3-5.Algorithms and Programming.Modularity,"Programs can be broken down into smaller parts to facilitate their design, implementation, and review. Programs can also be created by incorporating smaller portions of programs that have already been created.",03-05,2025-03-06T21:31:03+00:00
+Subconcept,2.4.5,,Program Development,03-05,2025-03-06T21:31:03+00:00
+Standard,2.4.5.1,3-5.Algorithms and Programming.Program Development,"People develop programs using an iterative process involving design, implementation, and review. Design often involves reusing existing code or remixing other programs within a community. People continuously review whether programs work as expected, and they fix, or debug, parts that do not. Repeating these steps enables people to refine and improve programs.",03-05,2025-03-06T21:31:03+00:00
+Concept,2.5,,Impacts of Computing,03-05,2025-03-06T21:31:03+00:00
+Subconcept,2.5.1,,Culture,03-05,2025-03-06T21:31:03+00:00
+Standard,2.5.1.1,3-5.Impacts of Computing.Culture,"The development and modification of computing technology is driven by people’s needs and wants and can affect groups differently. Computing technologies influence, and are influenced by, cultural practices.",03-05,2025-03-06T21:31:03+00:00
+Subconcept,2.5.2,,Social Interactions,03-05,2025-03-06T21:31:03+00:00
+Standard,2.5.2.1,3-5.Impacts of Computing.Social Interactions,"Computing technology allows for local and global collaboration. By facilitating communication and innovation, computing influences many social institutions such as family, education, religion, and the economy.",03-05,2025-03-06T21:31:03+00:00
+Subconcept,2.5.3,,"Safety, Law, and, Ethics",03-05,2025-03-06T21:31:03+00:00
+Standard,2.5.3.1,3-5.Impacts of Computing.Safety Law and Ethics,"Ethical complications arise from the opportunities provided by computing. The ease of sending and receiving copies of media on the Internet, such as video, photos, and music, creates the opportunity for unauthorized use, such as online piracy, and disregard of copyrights, such as lack of attribution.",03-05,2025-03-10T13:30:25+00:00
+Practice,2.6,,3-5 Practices,03-05,2025-03-06T21:31:03+00:00
+Core Practice,2.6.1,3-5.P1,Fostering an Inclusive Computing Culture,03-05,2025-03-06T21:31:03+00:00
+Standard,2.6.1.1,3-5.P1.1,Include the unique perspectives of others and reflect on one’s own perspectives when designing and developing computational products.,03-05,2025-03-06T21:31:03+00:00
+Standard,2.6.1.2,3-5.P1.2,Address the needs of diverse end users during the design process to produce artifacts with broad accessibility and usability.,03-05,2025-03-06T21:31:03+00:00
+Standard,2.6.1.3,3-5.P1.3,"Employ self- and peer-advocacy to address bias in interactions, product design, and development methods.",03-05,2025-03-06T21:31:03+00:00
+Core Practice,2.6.2,3-5.P2,Collaborating Around Computing,03-05,2025-03-06T21:31:03+00:00
+Standard,2.6.2.1,3-5.P2.1,"Cultivate working relationships with individuals possessing diverse perspectives, skills, and personalities.",03-05,2025-03-06T21:31:03+00:00
+Standard,2.6.2.2,3-5.P2.2,"Create team norms, expectations, and equitable workloads to increase efficiency and effectiveness.",03-05,2025-03-06T21:31:03+00:00
+Standard,2.6.2.3,3-5.P2.3,"Solicit and incorporate feedback from, and provide constructive feedback to, team members and other stakeholders.",03-05,2025-03-06T21:31:03+00:00
+Standard,2.6.2.4,3-5.P2.4,Evaluate and select technological tools that can be used to collaborate on a project.,03-05,2025-03-06T21:31:03+00:00
+Core Practice,2.6.3,3-5.P3,Recognizing and Defining Computational Problems,03-05,2025-03-06T21:31:03+00:00
+Standard,2.6.3.1,3-5.P3.1,"Identify complex, interdisciplinary, real-world problems that can be solved computationally.",03-05,2025-03-06T21:31:03+00:00
+Standard,2.6.3.2,3-5.P3.2,Decompose complex real-world problems into manageable subproblems that could integrate existing solutions or procedures.,03-05,2025-03-06T21:31:03+00:00
+Standard,2.6.3.3,3-5.P3.3,Evaluate whether it is appropriate and feasible to solve a problem computationally.,03-05,2025-03-06T21:31:03+00:00
+Core Practice,2.6.4,3-5.P4,Developing and Using Abstractions,03-05,2025-03-06T21:31:03+00:00
+Standard,2.6.4.1,3-5.P4.1,Extract common features from a set of interrelated processes or complex phenomena.,03-05,2025-03-06T21:31:03+00:00
+Standard,2.6.4.2,3-5.P4.2,Evaluate existing technological functionalities and incorporate them into new designs.,03-05,2025-03-06T21:31:03+00:00
+Standard,2.6.4.3,3-5.P4.3,Create modules and develop points of interaction that can apply to multiple situations and reduce complexity.,03-05,2025-03-06T21:31:03+00:00
+Standard,2.6.4.4,3-5.P4.4,Model phenomena and processes and simulate systems to understand and evaluate potential outcomes.,03-05,2025-03-06T21:31:03+00:00
+Core Practice,2.6.5,3-5.P5,Creating Computational Artifacts,03-05,2025-03-06T21:31:03+00:00
+Standard,2.6.5.1,3-5.P5.1,"Plan the development of a computational artifact using an iterative process that includes reflection on and modification of the plan, taking into account key features, time and resource constraints, and user expectations.",03-05,2025-03-06T21:31:03+00:00
+Standard,2.6.5.2,3-5.P5.2,"Create a computational artifact for practical intent, personal expression, or to address a societal issue.",03-05,2025-03-06T21:31:03+00:00
+Standard,2.6.5.3,3-5.P5.3,Modify an existing artifact to improve or customize it.,03-05,2025-03-06T21:31:03+00:00
+Core Practice,2.6.6,3-5.P6,Testing and Refining Computational Artifacts,03-05,2025-03-06T21:31:03+00:00
+Standard,2.6.6.1,3-5.P6.1,Systematically test computational artifacts by considering all scenarios and using test cases.,03-05,2025-03-06T21:31:03+00:00
+Standard,2.6.6.2,3-5.P6.2,Identify and fix errors using a systematic process.,03-05,2025-03-06T21:31:03+00:00
+Standard,2.6.6.3,3-5.P6.3,"Evaluate and refine a computational artifact multiple times to enhance its performance, reliability, usability, and accessibility.",03-05,2025-03-06T21:31:03+00:00
+Core Practice,2.6.7,3-5.P7,Communicating About Computing,03-05,2025-03-06T21:31:03+00:00
+Standard,2.6.7.1,3-5.P7.1,"Select, organize, and interpret large data sets from multiple sources to support a claim.",03-05,2025-03-06T21:31:03+00:00
+Standard,2.6.7.2,3-5.P7.2,"Describe, justify, and document computational processes and solutions using appropriate terminology consistent with the intended audience and purpose.",03-05,2025-03-06T21:31:03+00:00
+Standard,2.6.7.3,3-5.P7.3,Articulate ideas responsibly by observing intellectual property rights and giving appropriate attribution.,03-05,2025-03-06T21:31:03+00:00
+Grade Band,3,,Grades 6-8,06-08,2025-03-06T21:31:25+00:00
+Concept,3.1,,Computing Systems,06-08,2025-03-06T21:31:25+00:00
+Subconcept,3.1.1,,Devices,06-08,2025-03-06T21:31:25+00:00
+Standard,3.1.1.1,6-8.ComputingSystems.Devices,"The interaction between humans and computing devices presents advantages, disadvantages, and unintended consequences. The study of human–computer interaction can improve the design of devices and extend the abilities of humans.",06-08,2025-03-06T21:31:25+00:00
+Subconcept,3.1.2,,Hardware and Software,06-08,2025-03-06T21:31:25+00:00
+Standard,3.1.2.1,6-8.ComputingSystems.Hardware and Software,"Hardware and software determine a computing system’s capability to store and process information. The design or selection of a computing system involves multiple considerations and potential tradeoffs, such as functionality, cost, size, speed, accessibility, and aesthetics.",06-08,2025-03-06T21:31:25+00:00
+Subconcept,3.1.3,,Troubleshooting,06-08,2025-03-06T21:31:25+00:00
+Standard,3.1.3.1,6-8.ComputingSystems.Troubleshooting,"Comprehensive troubleshooting requires knowledge of how computing devices and components work and interact. A systematic process will identify the source of a problem, whether within a device or in a larger system of connected devices.",06-08,2025-03-06T21:31:25+00:00
+Concept,3.2,,Networks and the Internet,06-08,2025-03-06T21:31:25+00:00
+Subconcept,3.2.1,,Network Communication and Organization,06-08,2025-03-06T21:31:25+00:00
+Standard,3.2.1.1,6-8.Networks and the Internet.Network Communication and Organization,"Computers send and receive information based on a set of rules called protocols. Protocols define how messages between computers are structured and sent. Considerations of security, speed, and reliability are used to determine the best path to send and receive data.",06-08,2025-03-06T21:31:25+00:00
+Subconcept,3.2.2,,Cybersecurity,06-08,2025-03-06T21:31:25+00:00
+Standard,3.2.2.1,6-8.Networks and the Internet.Cybersecurity,"The information sent and received across networks can be protected from unauthorized access and modification in a variety of ways, such as encryption to maintain its confidentiality and restricted access to maintain its integrity. Security measures to safeguard online information proactively address the threat of breaches to personal and private data.",06-08,2025-03-06T21:31:25+00:00
+Concept,3.3,,Data and Analysis,06-08,2025-03-06T21:31:25+00:00
+Subconcept,3.3.1,,Collection,06-08,2025-03-06T21:31:25+00:00
+Standard,3.3.1.1,6-8.Data and Analysis.Collection,"People design algorithms and tools to automate the collection of data by computers. When data collection is automated, data is sampled and converted into a form that a computer can process. For example, data from an analog sensor must be converted into a digital form. The method used to automate data collection is influenced by the availability of tools and the intended use of the data.",06-08,2025-03-06T21:31:25+00:00
+Subconcept,3.3.2,,Storage,06-08,2025-03-06T21:31:25+00:00
+Standard,3.3.2.1,6-8.Data and Analysis.Storage,"Applications store data as a representation. Representations occur at multiple levels, from the arrangement of information into organized formats (such as tables in software) to the physical storage of bits. The software tools used to access information translate the low-level representation of bits into a form understandable by people.",06-08,2025-03-06T21:31:25+00:00
+Subconcept,3.3.3,,Visualization and Transformation,06-08,2025-03-06T21:31:25+00:00
+Standard,3.3.3.1,6-8.Data and Analysis.Visualization and Transformation,"Data can be transformed to remove errors, highlight or expose relationships, and/or make it easier for computers to process.",06-08,2025-03-06T21:31:25+00:00
+Subconcept,3.3.4,,Inference and Models,06-08,2025-03-06T21:31:25+00:00
+Standard,3.3.4.1,6-8.Data and Analysis.Inference and Models,"Computer models can be used to simulate events, examine theories and inferences, or make predictions with either few or millions of data points. Computer models are abstractions that represent phenomena and use data and algorithms to emphasize key features and relationships within a system. As more data is automatically collected, models can be refined.",06-08,2025-03-10T13:29:48+00:00
+Concept,3.4,,Algorithms and Programming,06-08,2025-03-06T21:31:25+00:00
+Subconcept,3.4.1,,Algorithms,06-08,2025-03-06T21:31:25+00:00
+Standard,3.4.1.1,6-8.Algorithms and Programming.Algorithms,"Algorithms affect how people interact with computers and the way computers respond. People design algorithms that are generalizable to many situations. Algorithms that are readable are easier to follow, test, and debug.",06-08,2025-03-10T13:29:18+00:00
+Subconcept,3.4.2,,Variables,06-08,2025-03-06T21:31:25+00:00
+Standard,3.4.2.1,6-8.Algorithms and Programming.Variables,"Programmers create variables to store data values of selected types. A meaningful identifier is assigned to each variable to access and perform operations on the value by name. Variables enable the flexibility to represent different situations, process different sets of data, and produce varying outputs.",06-08,2025-03-10T13:27:02+00:00
+Subconcept,3.4.3,,Control,06-08,2025-03-06T21:31:25+00:00
+Standard,3.4.3.1,6-8.Algorithms and Programming.Control,"Programmers select and combine control structures, such as loops, event handlers, and conditionals, to create more complex program behavior.",06-08,2025-03-06T21:31:25+00:00
+Subconcept,3.4.4,,Modularity,06-08,2025-03-06T21:31:25+00:00
+Standard,3.4.4.1,6-8.Algorithms and Programming.Modularity,"Programs use procedures to organize code, hide implementation details, and make code easier to reuse. Procedures can be repurposed in new programs.",06-08,2025-03-06T21:31:25+00:00
+Subconcept,3.4.5,,Program Development,06-08,2025-03-06T21:31:25+00:00
+Standard,3.4.5.1,6-8.Algorithms and Programming.Program Development,"People design meaningful solutions for others by defining a problem’s criteria and constraints, carefully considering the diverse needs and wants of the community, and testing whether criteria and constraints were met.",06-08,2025-03-06T21:31:25+00:00
+Concept,3.5,,Impacts of Computing,06-08,2025-03-06T21:31:25+00:00
+Subconcept,3.5.1,,Culture,06-08,2025-03-06T21:31:25+00:00
+Standard,3.5.1.1,6-8.Impacts of Computing.Culture,Advancements in computing technology change people’s everyday activities. Society is faced with tradeoffs due to the increasing globalization and automation that computing brings.,06-08,2025-03-06T21:31:25+00:00
+Subconcept,3.5.2,,Social Interactions,06-08,2025-03-06T21:31:25+00:00
+Standard,3.5.2.1,6-8.Impacts of Computing.Social Interactions,"People can organize and engage around issues and topics of interest through various communication platforms enabled by computing, such as social networks and media outlets. These interactions allow issues to be examined using multiple viewpoints from a diverse audience.",06-08,2025-03-06T21:31:25+00:00
+Subconcept,3.5.3,,"Safety, Law, and, Ethics",06-08,2025-03-06T21:31:25+00:00
+Standard,3.5.3.1,6-8.Impacts of Computing.Safety Law and Ethics,There are tradeoffs between allowing information to be public and keeping information private and secure. People can be tricked into revealing personal information when more public information is available about them online.,06-08,2025-03-06T21:31:25+00:00
+Practice,3.6,,6-8 Practices,06-08,2025-03-06T21:31:25+00:00
+Core Practice,3.6.1,6-8.P1,Fostering an Inclusive Computing Culture,06-08,2025-03-06T21:31:25+00:00
+Standard,3.6.1.1,6-8.P1.1,Include the unique perspectives of others and reflect on one’s own perspectives when designing and developing computational products.,06-08,2025-03-06T21:31:25+00:00
+Standard,3.6.1.2,6-8.P1.2,Address the needs of diverse end users during the design process to produce artifacts with broad accessibility and usability.,06-08,2025-03-06T21:31:25+00:00
+Standard,3.6.1.3,6-8.P1.3,"Employ self- and peer-advocacy to address bias in interactions, product design, and development methods.",06-08,2025-03-06T21:31:25+00:00
+Core Practice,3.6.2,6-8.P2,Collaborating Around Computing,06-08,2025-03-06T21:31:25+00:00
+Standard,3.6.2.1,6-8.P2.1,"Cultivate working relationships with individuals possessing diverse perspectives, skills, and personalities.",06-08,2025-03-06T21:31:25+00:00
+Standard,3.6.2.2,6-8.P2.2,"Create team norms, expectations, and equitable workloads to increase efficiency and effectiveness.",06-08,2025-03-06T21:31:25+00:00
+Standard,3.6.2.3,6-8.P2.3,"Solicit and incorporate feedback from, and provide constructive feedback to, team members and other stakeholders.",06-08,2025-03-06T21:31:25+00:00
+Standard,3.6.2.4,6-8.P2.4,Evaluate and select technological tools that can be used to collaborate on a project.,06-08,2025-03-06T21:31:25+00:00
+Core Practice,3.6.3,6-8.P3,Recognizing and Defining Computational Problems,06-08,2025-03-06T21:31:25+00:00
+Standard,3.6.3.1,6-8.P3.1,"Identify complex, interdisciplinary, real-world problems that can be solved computationally.",06-08,2025-03-06T21:31:25+00:00
+Standard,3.6.3.2,6-8.P3.2,Decompose complex real-world problems into manageable subproblems that could integrate existing solutions or procedures.,06-08,2025-03-06T21:31:25+00:00
+Standard,3.6.3.3,6-8.P3.3,Evaluate whether it is appropriate and feasible to solve a problem computationally.,06-08,2025-03-06T21:31:25+00:00
+Core Practice,3.6.4,6-8.P4,Developing and Using Abstractions,06-08,2025-03-06T21:31:25+00:00
+Standard,3.6.4.1,6-8.P4.1,Extract common features from a set of interrelated processes or complex phenomena.,06-08,2025-03-06T21:31:25+00:00
+Standard,3.6.4.2,6-8.P4.2,Evaluate existing technological functionalities and incorporate them into new designs.,06-08,2025-03-06T21:31:25+00:00
+Standard,3.6.4.3,6-8.P4.3,Create modules and develop points of interaction that can apply to multiple situations and reduce complexity.,06-08,2025-03-06T21:31:25+00:00
+Standard,3.6.4.4,6-8.P4.4,Model phenomena and processes and simulate systems to understand and evaluate potential outcomes.,06-08,2025-03-06T21:31:25+00:00
+Core Practice,3.6.5,6-8.P5,Creating Computational Artifacts,06-08,2025-03-06T21:31:25+00:00
+Standard,3.6.5.1,6-8.P5.1,"Plan the development of a computational artifact using an iterative process that includes reflection on and modification of the plan, taking into account key features, time and resource constraints, and user expectations.",06-08,2025-03-06T21:31:25+00:00
+Standard,3.6.5.2,6-8.P5.2,"Create a computational artifact for practical intent, personal expression, or to address a societal issue.",06-08,2025-03-06T21:31:25+00:00
+Standard,3.6.5.3,6-8.P5.3,Modify an existing artifact to improve or customize it.,06-08,2025-03-06T21:31:25+00:00
+Core Practice,3.6.6,6-8.P6,Testing and Refining Computational Artifacts,06-08,2025-03-06T21:31:25+00:00
+Standard,3.6.6.1,6-8.P6.1,Systematically test computational artifacts by considering all scenarios and using test cases.,06-08,2025-03-06T21:31:25+00:00
+Standard,3.6.6.2,6-8.P6.2,Identify and fix errors using a systematic process.,06-08,2025-03-06T21:31:25+00:00
+Standard,3.6.6.3,6-8.P6.3,"Evaluate and refine a computational artifact multiple times to enhance its performance, reliability, usability, and accessibility.",06-08,2025-03-06T21:31:25+00:00
+Core Practice,3.6.7,6-8.P7,Communicating About Computing,06-08,2025-03-06T21:31:25+00:00
+Standard,3.6.7.1,6-8.P7.1,"Select, organize, and interpret large data sets from multiple sources to support a claim.",06-08,2025-03-06T21:31:25+00:00
+Standard,3.6.7.2,6-8.P7.2,"Describe, justify, and document computational processes and solutions using appropriate terminology consistent with the intended audience and purpose.",06-08,2025-03-06T21:31:25+00:00
+Standard,3.6.7.3,6-8.P7.3,Articulate ideas responsibly by observing intellectual property rights and giving appropriate attribution.,06-08,2025-03-06T21:31:25+00:00
+Grade Band,4,,Grades 9-12,09-12,2025-03-06T21:31:37+00:00
+Concept,4.1,,Computing Systems,09-12,2025-03-06T21:31:37+00:00
+Subconcept,4.1.1,,Devices,09-12,2025-03-06T21:31:37+00:00
+Standard,4.1.1.1,9-12.ComputingSystems.Devices,"Computing devices are often integrated with other systems, including biological, mechanical, and social systems. These devices can share data with one another. The usability, dependability, security, and accessibility of these devices, and the systems they are integrated with, are important considerations in their design as they evolve.",09-12,2025-03-06T21:31:37+00:00
+Subconcept,4.1.2,,Hardware and Software,09-12,2025-03-06T21:31:37+00:00
+Standard,4.1.2.1,9-12.ComputingSystems.Hardware and Software,"Levels of interaction exist between the hardware, software, and user of a computing system. The most common levels of software that a user interacts with include system software and applications. System software controls the flow of information between hardware components used for input, output, storage, and processing.",09-12,2025-03-06T21:31:37+00:00
+Subconcept,4.1.3,,Troubleshooting,09-12,2025-03-06T21:31:37+00:00
+Standard,4.1.3.1,9-12.ComputingSystems.Troubleshooting,"Troubleshooting complex problems involves the use of multiple sources when researching, evaluating, and implementing potential solutions. Troubleshooting also relies on experience, such as when people recognize that a problem is similar to one they have seen before or adapt solutions that have worked in the past.",09-12,2025-03-10T13:28:01+00:00
+Concept,4.2,,Networks and the Internet,09-12,2025-03-06T21:31:37+00:00
+Subconcept,4.2.1,,Network Communication and Organization,09-12,2025-03-06T21:31:37+00:00
+Standard,4.2.1.1,9-12.Networks and the Internet.Network Communication and Organization,"Network topology is determined, in part, by how many devices can be supported. Each device is assigned an address that uniquely identifies it on the network. The scalability and reliability of the Internet are enabled by the hierarchy and redundancy in networks.",09-12,2025-03-06T21:31:37+00:00
+Subconcept,4.2.2,,Cybersecurity,09-12,2025-03-06T21:31:37+00:00
+Standard,4.2.2.1,9-12.Networks and the Internet.Cybersecurity,"Network security depends on a combination of hardware, software, and practices that control access to data and systems. The needs of users and the sensitivity of data determine the level of security implemented.",09-12,2025-03-06T21:31:37+00:00
+Concept,4.3,,Data and Analysis,09-12,2025-03-06T21:31:37+00:00
+Subconcept,4.3.1,,Collection,09-12,2025-03-06T21:31:37+00:00
+Standard,4.3.1.1,9-12.Data and Analysis.Collection,"Data is constantly collected or generated through automated processes that are not always evident, raising privacy concerns. The different collection methods and tools that are used influence the amount and quality of the data that is observed and recorded.",09-12,2025-03-06T21:31:37+00:00
+Subconcept,4.3.2,,Storage,09-12,2025-03-06T21:31:37+00:00
+Standard,4.3.2.1,9-12.Data and Analysis.Storage,"Data can be composed of multiple data elements that relate to one another. For example, population data may contain information about age, gender, and height. People make choices about how data elements are organized and where data is stored. These choices affect cost, speed, reliability,  accessibility, privacy, and integrity.",09-12,2025-03-10T13:28:31+00:00
+Subconcept,4.3.3,,Visualization and Transformation,09-12,2025-03-06T21:31:37+00:00
+Standard,4.3.3.1,9-12.Data and Analysis.Visualization and Transformation,"People transform, generalize, simplify, and present large data sets in different ways to influence how other people interpret and understand the underlying information. Examples include visualization, aggregation, rearrangement, and application of mathematical operations.",09-12,2025-03-06T21:31:37+00:00
+Subconcept,4.3.4,,Inference and Models,09-12,2025-03-06T21:31:37+00:00
+Standard,4.3.4.1,9-12.Data and Analysis.Inference and Models,"The accuracy of predictions or inferences depends upon the limitations of the computer model and the data the model is built upon. The amount, quality, and diversity of data and the features chosen can affect the quality of a model and ability to understand a system. Predictions or inferences are tested to validate models.",09-12,2025-03-06T21:31:37+00:00
+Concept,4.4,,Algorithms and Programming,09-12,2025-03-06T21:31:37+00:00
+Subconcept,4.4.1,,Algorithms,09-12,2025-03-06T21:31:37+00:00
+Standard,4.4.1.1,9-12.Algorithms and Programming.Algorithms,"People evaluate and select algorithms based on performance, reusability, and ease of implementation. Knowledge of common algorithms improves how people develop software, secure data, and store information.",09-12,2025-03-06T21:31:37+00:00
+Subconcept,4.4.2,,Variables,09-12,2025-03-06T21:31:37+00:00
+Standard,4.4.2.1,9-12.Algorithms and Programming.Variables,"Data structures are used to manage program complexity. Programmers choose data structures based on functionality, storage, and performance tradeoffs.",09-12,2025-03-06T21:31:37+00:00
+Subconcept,4.4.3,,Control,09-12,2025-03-06T21:31:37+00:00
+Standard,4.4.3.1,9-12.Algorithms and Programming.Control,"Programmers consider tradeoffs related to implementation, readability, and program performance when selecting and combining control structures.",09-12,2025-03-06T21:31:37+00:00
+Subconcept,4.4.4,,Modularity,09-12,2025-03-06T21:31:37+00:00
+Standard,4.4.4.1,9-12.Algorithms and Programming.Modularity,"Complex programs are designed as systems of interacting modules, each with a specific role, coordinating for a common overall purpose. These modules can be procedures within a program; combinations of data and procedures; or independent, but interrelated, programs. Modules allow for better management of complex tasks.",09-12,2025-03-06T21:31:37+00:00
+Subconcept,4.4.5,,Program Development,09-12,2025-03-06T21:31:37+00:00
+Standard,4.4.5.1,9-12.Algorithms and Programming.Program Development,Diverse teams can develop programs with a broad impact through careful review and by drawing on the strengths of members in different roles. Design decisions often involve tradeoffs. The development of complex programs is aided by resources such as libraries and tools to edit and  manage parts of the program. Systematic analysis is critical for identifying the effects of lingering bugs.,09-12,2025-03-10T13:28:49+00:00
+Concept,4.5,,Impacts of Computing,09-12,2025-03-06T21:31:37+00:00
+Subconcept,4.5.1,,Culture,09-12,2025-03-06T21:31:37+00:00
+Standard,4.5.1.1,9-12.Impacts of Computing.Culture,"The design and use of computing technologies and artifacts can improve, worsen, or maintain inequitable access to information and opportunities.",09-12,2025-03-06T21:31:37+00:00
+Subconcept,4.5.2,,Social Interactions,09-12,2025-03-06T21:31:37+00:00
+Standard,4.5.2.1,9-12.Impacts of Computing.Social Interactions,"Many aspects of society, especially careers, have been affected by the degree of communication afforded by computing. The increased connectivity between people in different cultures and in different career fields has changed the nature and content of many careers.",09-12,2025-03-06T21:31:37+00:00
+Subconcept,4.5.3,,"Safety, Law, and, Ethics",09-12,2025-03-06T21:31:37+00:00
+Standard,4.5.3.1,9-12.Impacts of Computing.Safety Law and Ethics,"Laws govern many aspects of computing, such as privacy, data, property, information, and identity. These laws can have beneficial and harmful effects, such as expediting or delaying advancements in computing and protecting or infringing upon people’s rights. International differences in laws and ethics have implications for computing.",09-12,2025-03-06T21:31:37+00:00
+Practice,4.6,,9-12 Practices,09-12,2025-03-06T21:31:37+00:00
+Core Practice,4.6.1,9-12.P1,Fostering an Inclusive Computing Culture,09-12,2025-03-06T21:31:37+00:00
+Standard,4.6.1.1,9-12.P1.1,Include the unique perspectives of others and reflect on one’s own perspectives when designing and developing computational products.,09-12,2025-03-06T21:31:37+00:00
+Standard,4.6.1.2,9-12.P1.2,Address the needs of diverse end users during the design process to produce artifacts with broad accessibility and usability.,09-12,2025-03-06T21:31:37+00:00
+Standard,4.6.1.3,9-12.P1.3,"Employ self- and peer-advocacy to address bias in interactions, product design, and development methods.",09-12,2025-03-06T21:31:37+00:00
+Core Practice,4.6.2,9-12.P2,Collaborating Around Computing,09-12,2025-03-06T21:31:37+00:00
+Standard,4.6.2.1,9-12.P2.1,"Cultivate working relationships with individuals possessing diverse perspectives, skills, and personalities.",09-12,2025-03-06T21:31:37+00:00
+Standard,4.6.2.2,9-12.P2.2,"Create team norms, expectations, and equitable workloads to increase efficiency and effectiveness.",09-12,2025-03-06T21:31:37+00:00
+Standard,4.6.2.3,9-12.P2.3,"Solicit and incorporate feedback from, and provide constructive feedback to, team members and other stakeholders.",09-12,2025-03-06T21:31:37+00:00
+Standard,4.6.2.4,9-12.P2.4,Evaluate and select technological tools that can be used to collaborate on a project.,09-12,2025-03-06T21:31:37+00:00
+Core Practice,4.6.3,9-12.P3,Recognizing and Defining Computational Problems,09-12,2025-03-06T21:31:37+00:00
+Standard,4.6.3.1,9-12.P3.1,"Identify complex, interdisciplinary, real-world problems that can be solved computationally.",09-12,2025-03-06T21:31:37+00:00
+Standard,4.6.3.2,9-12.P3.2,Decompose complex real-world problems into manageable subproblems that could integrate existing solutions or procedures.,09-12,2025-03-06T21:31:37+00:00
+Standard,4.6.3.3,9-12.P3.3,Evaluate whether it is appropriate and feasible to solve a problem computationally.,09-12,2025-03-06T21:31:37+00:00
+Core Practice,4.6.4,9-12.P4,Developing and Using Abstractions,09-12,2025-03-06T21:31:37+00:00
+Standard,4.6.4.1,9-12.P4.1,Extract common features from a set of interrelated processes or complex phenomena.,09-12,2025-03-06T21:31:37+00:00
+Standard,4.6.4.2,9-12.P4.2,Evaluate existing technological functionalities and incorporate them into new designs.,09-12,2025-03-06T21:31:37+00:00
+Standard,4.6.4.3,9-12.P4.3,Create modules and develop points of interaction that can apply to multiple situations and reduce complexity.,09-12,2025-03-06T21:31:37+00:00
+Standard,4.6.4.4,9-12.P4.4,Model phenomena and processes and simulate systems to understand and evaluate potential outcomes.,09-12,2025-03-06T21:31:37+00:00
+Core Practice,4.6.5,9-12.P5,Creating Computational Artifacts,09-12,2025-03-06T21:31:37+00:00
+Standard,4.6.5.1,9-12.P5.1,"Plan the development of a computational artifact using an iterative process that includes reflection on and modification of the plan, taking into account key features, time and resource constraints, and user expectations.",09-12,2025-03-06T21:31:37+00:00
+Standard,4.6.5.2,9-12.P5.2,"Create a computational artifact for practical intent, personal expression, or to address a societal issue.",09-12,2025-03-06T21:31:37+00:00
+Standard,4.6.5.3,9-12.P5.3,Modify an existing artifact to improve or customize it.,09-12,2025-03-06T21:31:37+00:00
+Core Practice,4.6.6,9-12.P6,Testing and Refining Computational Artifacts,09-12,2025-03-06T21:31:37+00:00
+Standard,4.6.6.1,9-12.P6.1,Systematically test computational artifacts by considering all scenarios and using test cases.,09-12,2025-03-06T21:31:37+00:00
+Standard,4.6.6.2,9-12.P6.2,Identify and fix errors using a systematic process.,09-12,2025-03-06T21:31:37+00:00
+Standard,4.6.6.3,9-12.P6.3,"Evaluate and refine a computational artifact multiple times to enhance its performance, reliability, usability, and accessibility.",09-12,2025-03-06T21:31:37+00:00
+Core Practice,4.6.7,9-12.P7,Communicating About Computing,09-12,2025-03-06T21:31:37+00:00
+Standard,4.6.7.1,9-12.P7.1,"Select, organize, and interpret large data sets from multiple sources to support a claim.",09-12,2025-03-06T21:31:37+00:00
+Standard,4.6.7.2,9-12.P7.2,"Describe, justify, and document computational processes and solutions using appropriate terminology consistent with the intended audience and purpose.",09-12,2025-03-06T21:31:37+00:00
+Standard,4.6.7.3,9-12.P7.3,Articulate ideas responsibly by observing intellectual property rights and giving appropriate attribution.,09-12,2025-03-06T21:31:37+00:00

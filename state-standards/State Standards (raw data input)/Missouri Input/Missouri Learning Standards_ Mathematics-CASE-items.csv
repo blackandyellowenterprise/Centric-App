@@ -1,0 +1,783 @@
+﻿Item Type,Sequence,Human Code,Full Statement,Ed. Level,Last Modified
+,1,,Standards for Math Content,KG-08,2023-11-19T00:00:00+00:00
+Grade Level,1.1,,Kindergarten,KG,2023-11-19T00:00:00+00:00
+Domain,1.1.1,,Number Sense,KG,2023-11-19T00:00:00+00:00
+Cluster,1.1.1.1,K.NS.A,Know number names and count sequence,KG,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.1.1.1.1,K.NS.A.1,Count to 100 by ones and tens.,KG,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.1.1.1.2,K.NS.A.2,Count forward beginning from a given number between 1 and 20.,KG,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.1.1.1.3,K.NS.A.3,Count backward from a given number between 10 and 1.,KG,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.1.1.1.4,K.NS.A.4,Read and write numerals and represent a number of objects from 0 to 20.,KG,2023-11-19T00:00:00+00:00
+Cluster,1.1.1.2,K.NS.B,Understand the relationship between numbers and quantities; connect counting to cardinality.,KG,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.1.1.2.1,K.NS.B.5,"Say the number names when counting objects, in the standard order, pairing each object with one and only one number name and each number name with one and only one object.",KG,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.1.1.2.2,K.NS.B.6,Demonstrate that the last number name said tells the number of objects counted and the number of objects is the same regardless of their arrangement or the order in which they were counted.,KG,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.1.1.2.3,K.NS.B.7,Demonstrate that each successive number name refers to a quantity that is one larger than the previous number.,KG,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.1.1.2.4,K.NS.B.8,"Recognize, without counting, the quantity of groups up to 5 objects arranged in common patterns.",KG,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.1.1.2.5,K.NS.B.9,Demonstrate that a number can be used to represent “how many” are in a set.,KG,2023-11-19T00:00:00+00:00
+Cluster,1.1.1.3,K.NS.C,Compare numbers.,KG,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.1.1.3.1,K.NS.C.10,"Compare two or more sets of objects and identify which set is equal to, more than or less than the other.",KG,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.1.1.3.2,K.NS.C.11,"Compare two numerals, between 1 and 10, and determine which is more than or less than the other.",KG,2023-11-19T00:00:00+00:00
+Domain,1.1.2,,Number Sense and Operations in Base Ten,KG,2023-11-19T00:00:00+00:00
+Cluster,1.1.2.1,K.NBT.A,Work with numbers 11 – 19 to gain foundations for place value.,KG,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.1.2.1.1,K.NBT.A.1,Compose and decompose numbers from 11 to 19 into sets of tens with additional ones.,KG,2023-11-19T00:00:00+00:00
+Domain,1.1.3,,Relationships and Algebraic Thinking,KG,2023-11-19T00:00:00+00:00
+Cluster,1.1.3.1,K.RA.A,"Understand addition as putting together or adding to, and understand subtraction as taking apart or taking from.",KG,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.1.3.1.1,K.RA.A.1,Represent addition and subtraction within 10.,KG,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.1.3.1.2,K.RA.A.2,Demonstrate fluency for addition and subtraction within 5.,KG,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.1.3.1.3,K.RA.A.3,Decompose numbers less than or equal to 10 in more than one way.,KG,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.1.3.1.4,K.RA.A.4,Make 10 for any number from 1 to 9.,KG,2023-11-19T00:00:00+00:00
+Domain,1.1.4,,Geometry and Measurement,KG,2023-11-19T00:00:00+00:00
+Cluster,1.1.4.1,K.GM.A,Reason with shapes and their attributes.,KG,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.1.4.1.1,K.GM.A.1,Describe several measureable attributes of objects.,KG,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.1.4.1.2,K.GM.A.2,Compare the measurable attributes of two objects.,KG,2023-11-19T00:00:00+00:00
+Cluster,1.1.4.2,K.GM.B,Work with time and money.,KG,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.1.4.2.1,K.GM.B.3,Demonstrate an understanding of concepts of time and devices that measure time.,KG,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.1.4.2.2,K.GM.B.4,Name the days of the week.,KG,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.1.4.2.3,K.GM.B.5,"Identify pennies, nickels, dimes and quarters.",KG,2023-11-19T00:00:00+00:00
+Cluster,1.1.4.3,K.GM.C,"Analyze squares, circles, triangles, rectangles, hexagons, cubes, cones, cylinders and spheres.",KG,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.1.4.3.1,K.GM.C.6,"Identify shapes and describe objects in the environment using names of shapes, recognizing the name stays the same regardless of orientation or size.",KG,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.1.4.3.2,K.GM.C.7,Describe the relative positions of objects in space.,KG,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.1.4.3.3,K.GM.C.8,"Identify and describe the attribute of shapes, and use the attributes to sort a collection of shapes.",KG,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.1.4.3.4,K.GM.C.9,Draw or model simple two-dimensional shapes.,KG,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.1.4.3.5,K.GM.C.10,Compose simple shapes to form larger shapes using manipulatives.,KG,2023-11-19T00:00:00+00:00
+Domain,1.1.5,,Data and Statistics,KG,2023-11-19T00:00:00+00:00
+Cluster,1.1.5.1,K.DS.A,Classify objects and count the number of objects in each category.,KG,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.1.5.1.1,K.DS.A.1,Classify objects into given categories; count the number of objects in each category.,KG,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.1.5.1.2,K.DS.A.2,Compare category counts using appropriate language.,KG,2023-11-19T00:00:00+00:00
+Grade Level,1.2,,Grade 1,01,2023-11-19T00:00:00+00:00
+Domain,1.2.1,,Number Sense,01,2023-11-19T00:00:00+00:00
+Cluster,1.2.1.1,1.NS.A,Understand and use numbers up to 120.,01,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.2.1.1.1,1.NS.A.1,"Count to 120, starting at any number less than 120.",01,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.2.1.1.2,1.NS.A.2,Read and write numerals and represent a number of objects with a written numeral.,01,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.2.1.1.3,1.NS.A.3,Count backward from a given number between 20 and 1.,01,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.2.1.1.4,1.NS.A.4,Count by 5s to 100 starting at any multiple of five.,01,2023-11-19T00:00:00+00:00
+Domain,1.2.2,,Number Sense and Operations in Base Ten,01,2023-11-19T00:00:00+00:00
+Cluster,1.2.2.1,1.NBT.A,Understand place value of two-digit numbers.,01,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.2.2.1.1,1.NBT.A.1,Understand that 10 can be thought of as a bundle of 10 ones – called a “ten”.,01,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.2.2.1.2,1.NBT.A.2,Understand two-digit numbers are composed of ten(s) and one(s).,01,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.2.2.1.3,1.NBT.A.3,"Compare two two-digit numbers using the symbols >, = or < .",01,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.2.2.1.4,1.NBT.A.4,Count by 10s to 120 starting at any number.,01,2023-11-19T00:00:00+00:00
+Cluster,1.2.2.2,1.NBT.B,Use place value understanding to add and subtract.,01,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.2.2.2.1,1.NBT.B.5,Add within 100.,01,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.2.2.2.2,1.NBT.B.6,Calculate 10 more or 10 less than a given number mentally without having to count.,01,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.2.2.2.3,1.NBT.B.7,"Add or subtract a multiple of 10 from another two-digit number, and justify the solution.",01,2023-11-19T00:00:00+00:00
+Domain,1.2.3,,Relationships and Algebraic Thinking,01,2023-11-19T00:00:00+00:00
+Cluster,1.2.3.1,1.RA.A,Represent and solve problems involving addition and subtraction.,01,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.2.3.1.1,1.RA.A.1,Use addition and subtraction within 20 to solve problems.,01,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.2.3.1.2,1.RA.A.2,Solve problems that call for addition of three whole numbers whose sum is within 20.,01,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.2.3.1.3,1.RA.A.3,Develop the meaning of the equal sign and determine if equations involving addition and subtraction are true or false.,01,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.2.3.1.4,1.RA.A.4,Determine the unknown whole number in an addition or subtraction equation relating three whole numbers.,01,2023-11-19T00:00:00+00:00
+Cluster,1.2.3.2,1.RA.B,Understand and apply properties of operations and the relationship between addition and subtraction.,01,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.2.3.2.1,1.RA.B.5,Use properties as strategies to add and subtract.,01,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.2.3.2.2,1.RA.B.6,Demonstrate that subtraction can be solved as an unknown-addend problem.,01,2023-11-19T00:00:00+00:00
+Cluster,1.2.3.3,1.RA.C,Add and subtract within 20.,01,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.2.3.3.1,1.RA.C.7,Add and subtract within 20.,01,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.2.3.3.2,1.RA.C.8,Demonstrate fluency with addition and subtraction within 10.,01,2023-11-19T00:00:00+00:00
+Domain,1.2.4,,Geometry and Measurement,01,2023-11-19T00:00:00+00:00
+Cluster,1.2.4.1,1.GM.A,Reason with shapes and their attributes.,01,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.2.4.1.1,1.GM.A.1,Distinguish between defining attributes versus non-defining attributes; build and draw shapes that possess defining attributes.,01,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.2.4.1.2,1.GM.A.2,Compose and decompose two- and three-dimensional shapes to build an understanding of part-whole relationships and the properties of the original and composite shapes.,01,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.2.4.1.3,1.GM.A.3,Recognize two- and three-dimensional shapes from different perspectives and orientations.,01,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.2.4.1.4,1.GM.A.4,"Partition circles and rectangles into two or four equal shares, and describe the shares and the wholes verbally.",01,2023-11-19T00:00:00+00:00
+Cluster,1.2.4.2,1.GM.B,Measure lengths in non-standard units.,01,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.2.4.2.1,1.GM.B.5,Order three or more objects by length.,01,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.2.4.2.2,1.GM.B.6,Compare the lengths of two objects indirectly by using a third object.,01,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.2.4.2.3,1.GM.B.7,Demonstrate the ability to measure length or distance using objects.,01,2023-11-19T00:00:00+00:00
+Cluster,1.2.4.3,1.GM.C,Work with time and money.,01,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.2.4.3.1,1.GM.C.8,Tell and write time in hours and half-hours using analog and digital clocks.,01,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.2.4.3.2,1.GM.C.9,"Know the value of a penny, nickel, dime and quarter.",01,2023-11-19T00:00:00+00:00
+Domain,1.2.5,,Data and Statistics,01,2023-11-19T00:00:00+00:00
+Cluster,1.2.5.1,1.DS.A,Represent and interpret data.,01,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.2.5.1.1,1.DS.A.1,"Collect, organize and represent data with up to three categories.",01,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.2.5.1.2,1.DS.A.2,"Draw conclusions from object graphs, picture graphs, T-charts and tallies.",01,2023-11-19T00:00:00+00:00
+Grade Level,1.3,,Grade 2,02,2023-11-19T00:00:00+00:00
+Domain,1.3.1,,Number Sense and Operations in Base Ten,02,2023-11-19T00:00:00+00:00
+Cluster,1.3.1.1,2.NBT.A,Understand place value of three digit numbers.,02,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.3.1.1.1,2.NBT.A.1,"Understand three-digit numbers are composed of hundreds, tens and ones.",02,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.3.1.1.2,2.NBT.A.2,Understand that 100 can be thought of as 10 tens – called a “hundred”.,02,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.3.1.1.3,2.NBT.A.3,"Count within 1000 by 1s, 10s and 100s starting with any number.",02,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.3.1.1.4,2.NBT.A.4,"Read and write numbers to 1000 using number names, base-ten numerals and expanded form.",02,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.3.1.1.5,2.NBT.A.5,"Compare two three-digit numbers using the symbols >, = or < .",02,2023-11-19T00:00:00+00:00
+Cluster,1.3.1.2,2.NBT.B,Use place value understanding and properties of operations to add and subtract.,02,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.3.1.2.1,2.NBT.B.6,Demonstrate fluency with addition and subtraction within 100.,02,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.3.1.2.2,2.NBT.B.7,Add up to four two-digit numbers.,02,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.3.1.2.3,2.NBT.B.8,"Add or subtract within 1000, and justify the solution.",02,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.3.1.2.4,2.NBT.B.9,Use the relationship between addition and subtraction to solve problems.,02,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.3.1.2.5,2.NBT.B.10,Add or subtract mentally 10 or 100 to or from a given number within 1000.,02,2023-11-19T00:00:00+00:00
+Cluster,1.3.1.3,2.NBT.C,Represent and solve problems involving addition and subtraction.,02,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.3.1.3.1,2.NBT.C.11,Write and solve problems involving addition and subtraction within 100.,02,2023-11-19T00:00:00+00:00
+Domain,1.3.2,,Relationships and Algebraic Thinking,02,2023-11-19T00:00:00+00:00
+Cluster,1.3.2.1,2.RA.A,Add and subtract within 20.,02,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.3.2.1.1,2.RA.A.1,Demonstrate fluency with addition and subtraction within 20.,02,2023-11-19T00:00:00+00:00
+Cluster,1.3.2.2,2.RA.B,Develop foundations for multiplication and division.,02,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.3.2.2.1,2.RA.B.2,Determine if a set of objects has an odd or even number of members.,02,2023-11-19T00:00:00+00:00
+Component,1.3.2.2.1.1,2.RA.B.2.a,Count by 2s to 100 starting with any even number.,02,2023-11-19T00:00:00+00:00
+Component,1.3.2.2.1.2,2.RA.B.2.b,"Express even numbers as pairings/groups of 2, and write an expression to represent the number using addends of 2.",02,2023-11-19T00:00:00+00:00
+Component,1.3.2.2.1.3,2.RA.B.2.c,Express even numbers as being composed of equal groups and write an expression to represent the number with 2 equal addends.,02,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.3.2.2.2,2.RA.B.3,"Find the total number of objects arranged in a rectangular array with up to 5 rows and 5 columns, and write an equation to represent the total as a sum of equal addends.",02,2023-11-19T00:00:00+00:00
+Domain,1.3.3,,Geometry and Measurement,02,2023-11-19T00:00:00+00:00
+Cluster,1.3.3.1,2.GM.A,Reason with shapes and their attributes.,02,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.3.3.1.1,2.GM.A.1,"Recognize and draw shapes having specified attributes, such as a given number of angles or sides.",02,2023-11-19T00:00:00+00:00
+Component,1.3.3.1.1.1,2.GM.A.1.a,"Identify triangles, quadrilaterals, pentagons, hexagons, circles and cubes.",02,2023-11-19T00:00:00+00:00
+Component,1.3.3.1.1.2,2.GM.A.1.b,Identify the faces of three-dimensional objects.,02,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.3.3.1.2,2.GM.A.2,Partition a rectangle into rows and columns of same-size squares and count to find the total number of squares.,02,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.3.3.1.3,2.GM.A.3,"Partition circles and rectangles into two, three or four equal shares, and describe the shares and the whole.",02,2023-11-19T00:00:00+00:00
+Component,1.3.3.1.3.1,2.GM.A.3.a,Demonstrate that equal shares of identical wholes need not have the same shape.,02,2023-11-19T00:00:00+00:00
+Cluster,1.3.3.2,2.GM.B,Measure and estimate lengths in standard units.,02,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.3.3.2.1,2.GM.B.4,Measure the length of an object by selecting and using appropriate tools.,02,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.3.3.2.2,2.GM.B.5,Analyze the results of measuring the same object with different units.,02,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.3.3.2.3,2.GM.B.6,"Estimate lengths using units of inches, feet, yards, centimeters and meters.",02,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.3.3.2.4,2.GM.B.7,Measure to determine how much longer one object is than another.,02,2023-11-19T00:00:00+00:00
+Cluster,1.3.3.3,2.GM.C,Relate addition and subtraction to length.,02,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.3.3.3.1,2.GM.C.8,Use addition and subtraction within 100 to solve problems involving lengths that are given in the same units.,02,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.3.3.3.2,2.GM.C.9,"Represent whole numbers as lengths on a number line, and represent whole-number sums and differences within 100 on a number line.",02,2023-11-19T00:00:00+00:00
+Cluster,1.3.3.4,2.GM.D,Work with time and money.,02,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.3.3.4.1,2.GM.D.10,"Tell and write time from analog and digital clocks to the nearest five minutes, using a.m. and p.m.",02,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.3.3.4.2,2.GM.D.11,"Describe a time shown on a digital clock as representing hours and minutes, and relate a time shown on a digital clock to the same time on an analog clock.",02,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.3.3.4.3,2.GM.D.12,"Find the value of combinations of dollar bills, quarters, dimes, nickels and pennies, using $ and ¢ appropriately.",02,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.3.3.4.4,2.GM.D.13,Find combinations of coins that equal a given amount.,02,2023-11-19T00:00:00+00:00
+Domain,1.3.4,,Data and Statistics,02,2023-11-19T00:00:00+00:00
+Cluster,1.3.4.1,2.DS.A,Represent and interpret data.,02,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.3.4.1.1,2.DS.A.1,"Create a line plot to represent a set of numeric data, given a horizontal scale marked in whole numbers.",02,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.3.4.1.2,2.DS.A.2,"Generate measurement data to the nearest whole unit, and display the data in a line plot.",02,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.3.4.1.3,2.DS.A.3,Draw a picture graph or a bar graph to represent a data set with up to four categories.,02,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.3.4.1.4,2.DS.A.4,"Solve problems using information presented in line plots, picture graphs and bar graphs.",02,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.3.4.1.5,2.DS.A.5,"Draw conclusions from line plots, picture graphs and bar graphs.",02,2023-11-19T00:00:00+00:00
+Grade Level,1.4,,Grade 3,03,2023-11-19T00:00:00+00:00
+Domain,1.4.1,,Number Sense and Operations in Base Ten,03,2023-11-19T00:00:00+00:00
+Cluster,1.4.1.1,3.NBT.A,Use place value understanding and properties of operations to perform multi-digit arithmetic.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.1.1.1,3.NBT.A.1,Round whole numbers to the nearest 10 or 100.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.1.1.2,3.NBT.A.2,"Read, write and identify whole numbers within 100,000 using base ten numerals, number names and expanded form.",03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.1.1.3,3.NBT.A.3,Demonstrate fluency with addition and subtraction within 1000.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.1.1.4,3.NBT.A.4,Multiply whole numbers by multiples of 10 in the range 10-90.,03,2023-11-19T00:00:00+00:00
+Domain,1.4.2,,Number Sense and Operations in Fractions,03,2023-11-19T00:00:00+00:00
+Cluster,1.4.2.1,3.NF.A,Develop understanding of fractions as numbers.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.2.1.1,3.NF.A.1,Understand a unit fraction as the quantity formed by one part when a whole is partitioned into equal parts.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.2.1.2,3.NF.A.2,"Understand that when a whole is partitioned equally, a fraction can be used to represent a portion of the whole.",03,2023-11-19T00:00:00+00:00
+Component,1.4.2.1.2.1,3.NF.A.2.a,Describe the numerator as representing the number of pieces being considered.,03,2023-11-19T00:00:00+00:00
+Component,1.4.2.1.2.2,3.NF.A.2.b,Describe the denominator as the number of pieces that make the whole.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.2.1.3,3.NF.A.3,Represent fractions on a number line.,03,2023-11-19T00:00:00+00:00
+Component,1.4.2.1.3.1,3.NF.A.3.a,Understand the whole is the interval from 0 to 1.,03,2023-11-19T00:00:00+00:00
+Component,1.4.2.1.3.2,3.NF.A.3.b,Understand the whole is partitioned into equal parts.,03,2023-11-19T00:00:00+00:00
+Component,1.4.2.1.3.3,3.NF.A.3.c,Understand a fraction represents the endpoint of the length a given number of partitions from 0.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.2.1.4,3.NF.A.4,Demonstrate that two fractions are equivalent if they are the same size or the same point on a number line.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.2.1.5,3.NF.A.5,"Recognize and generate equivalent fractions using visual models, and justify why the fractions are equivalent.",03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.2.1.6,3.NF.A.6,"Compare two fractions with the same numerator or denominator using the symbols > , = or < , and justify the solution.",03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.2.1.7,3.NF.A.7,Explain why fraction comparisons are only valid when the two fractions refer to the same whole.,03,2023-11-19T00:00:00+00:00
+Domain,1.4.3,,Relationships and Algebraic Thinking,03,2023-11-19T00:00:00+00:00
+Cluster,1.4.3.1,3.RA.A,Represent and solve problems involving multiplication and division.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.3.1.1,3.RA.A.1,Interpret products of whole numbers.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.3.1.2,3.RA.A.2,Interpret quotients of whole numbers.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.3.1.3,3.RA.A.3,Describe in words or drawings a problem that illustrates a multiplication or division situation.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.3.1.4,3.RA.A.4,Use multiplication and division within 100 to solve problems.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.3.1.5,3.RA.A.5,Determine the unknown number in a multiplication or division equation relating three whole numbers.,03,2023-11-19T00:00:00+00:00
+Cluster,1.4.3.2,3.RA.B,Understand properties of multiplication and the relationship between multiplication and division.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.3.2.1,3.RA.B.6,Apply properties of operations as strategies to multiply and divide.,03,2023-11-19T00:00:00+00:00
+Cluster,1.4.3.3,3.RA.C,Multiply and divide within 100.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.3.3.1,3.RA.C.7,Multiply and divide with numbers and results within 100 using strategies such as the relationship between multiplication and division or properties of operations. Know all products of two one-digit numbers.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.3.3.2,3.RA.C.8,Demonstrate fluency with products within 100.,03,2023-11-19T00:00:00+00:00
+Cluster,1.4.3.4,3.RA.D,Use the four operations to solve word problems.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.3.4.1,3.RA.D.9,Write and solve two-step problems involving variables using any of the four operations.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.3.4.2,3.RA.D.10,Interpret the reasonableness of answers using mental computation and estimation strategies including rounding.,03,2023-11-19T00:00:00+00:00
+Cluster,1.4.3.5,3.RA.E,Identify and explain arithmetic patterns.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.3.5.1,3.RA.E.11,Identify arithmetic patterns and explain the patterns using properties of operations.,03,2023-11-19T00:00:00+00:00
+Domain,1.4.4,,Geometry and Measurement,03,2023-11-19T00:00:00+00:00
+Cluster,1.4.4.1,3.GM.A,Reason with shapes and their attributes.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.4.1.1,3.GM.A.1,Understand that shapes in different categories may share attributes and that the shared attributes can define a larger category.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.4.1.2,3.GM.A.2,"Distinguish rhombuses and rectangles as examples of quadrilaterals, and draw examples of quadrilaterals that do not belong to these subcategories.",03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.4.1.3,3.GM.A.3,"Partition shapes into parts with equal areas, and express the area of each part as a unit fraction of the whole.",03,2023-11-19T00:00:00+00:00
+Cluster,1.4.4.2,3.GM.B,"Solve problems involving the measurement of time, liquid volumes and weights of objects.",03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.4.2.1,3.GM.B.4,Tell and write time to the nearest minute.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.4.2.2,3.GM.B.5,Estimate time intervals in minutes.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.4.2.3,3.GM.B.6,Solve problems involving addition and subtraction of minutes.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.4.2.4,3.GM.B.7,"Measure or estimate length, liquid volume and weight of objects.",03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.4.2.5,3.GM.B.8,"Use the four operations to solve problems involving lengths, liquid volumes or weights given in the same units.",03,2023-11-19T00:00:00+00:00
+Cluster,1.4.4.3,3.GM.C,Understand concepts of area.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.4.3.1,3.GM.C.9,Calculate area by using unit squares to cover a plane figure with no gaps or overlaps.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.4.3.2,3.GM.C.10,Label area measurements with squared units.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.4.3.3,3.GM.C.11,Demonstrate that tiling a rectangle to find the area and multiplying the side lengths result in the same value.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.4.3.4,3.GM.C.12,Multiply whole-number side lengths to solve problems involving the area of rectangles.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.4.3.5,3.GM.C.13,Find rectangular arrangements that can be formed for a given area.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.4.3.6,3.GM.C.14,Decompose a rectangle into smaller rectangles to find the area of the original rectangle.,03,2023-11-19T00:00:00+00:00
+Cluster,1.4.4.4,3.GM.D,Understand concepts of perimeter.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.4.4.1,3.GM.D.15,Solve problems involving perimeters of polygons.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.4.4.2,3.GM.D.16,"Understand that rectangles can have equal perimeters but different areas, or rectangles can have equal areas but different perimeters.",03,2023-11-19T00:00:00+00:00
+Domain,1.4.5,,Data and Statistics,03,2023-11-19T00:00:00+00:00
+Cluster,1.4.5.1,3.DS.A,Represent and analyze data.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.5.1.1,3.DS.A.1,"Create frequency tables, scaled picture graphs and bar graphs to represent a data set with several categories.",03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.5.1.2,3.DS.A.2,Solve one- and two-step problems using information presented in bar and/or picture graphs.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.5.1.3,3.DS.A.3,Create a line plot to represent data.,03,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.4.5.1.4,3.DS.A.4,Use data shown in a line plot to answer questions.,03,2023-11-19T00:00:00+00:00
+Grade Level,1.5,,Grade 4,04,2023-11-19T00:00:00+00:00
+Domain,1.5.1,,Number Sense and Operations in Base Ten,04,2023-11-19T00:00:00+00:00
+Cluster,1.5.1.1,4.NBT.A,Use place value understanding and properties of operations to perform multi-digit arithmetic with numbers up to one million.,04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.1.1.1,4.NBT.A.1,Round multi-digit whole numbers to any place.,04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.1.1.2,4.NBT.A.2,"Read, write and identify multi-digit whole numbers up to one million using number names, base ten numerals and expanded form.",04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.1.1.3,4.NBT.A.3,"Compare two multi-digit numbers using the symbols > , = or < , and justify the solution.",04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.1.1.4,4.NBT.A.4,"Understand that in a multi-digit whole number, a digit represents 10 times what it would represent in the place to its right.",04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.1.1.5,4.NBT.A.5,Demonstrate fluency with addition and subtraction of whole numbers.,04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.1.1.6,4.NBT.A.6,"Multiply a whole number of up to four digits by a one-digit whole number and multiply two two-digit numbers, and justify the solution.",04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.1.1.7,4.NBT.A.7,"Find whole-number quotients and remainders with up to four-digit dividends and one-digit divisors, and justify the solution.",04,2023-11-19T00:00:00+00:00
+Domain,1.5.2,,Number Sense and Operations in Fractions,04,2023-11-19T00:00:00+00:00
+Cluster,1.5.2.1,4.NF.A,Extend understanding of fraction equivalence and ordering.,04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.2.1.1,4.NF.A.1,Explain and/or illustrate why two fractions are equivalent.,04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.2.1.2,4.NF.A.2,Recognize and generate equivalent fractions.,04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.2.1.3,4.NF.A.3,"Compare two fractions using the symbols > , = or < , and justify the solution.",04,2023-11-19T00:00:00+00:00
+Cluster,1.5.2.2,4.NF.B,Extend understanding of operations on whole numbers to fraction operations.,04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.2.2.1,4.NF.B.4,Understand addition and subtraction of fractions as joining/composing and separating/decomposing parts referring to the same whole.,04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.2.2.2,4.NF.B.5,Decompose a fraction into a sum of fractions with the same denominator and record each decomposition with an equation and justification.,04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.2.2.3,4.NF.B.6,Solve problems involving adding and subtracting fractions and mixed numbers with like denominators.,04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.2.2.4,4.NF.B.7,Apply and extend previous understandings of multiplication to multiply a fraction by a whole number.,04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.2.2.5,4.NF.B.8,Solve problems involving multiplication of a fraction by a whole number.,04,2023-11-19T00:00:00+00:00
+Cluster,1.5.2.3,4.NF.C,"Understand decimal notation for fractions, and compare decimal fractions.",04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.2.3.1,4.NF.C.9,Use decimal notation for fractions with denominators of 10 or 100.,04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.2.3.2,4.NF.C.10,Understand that fractions and decimals are equivalent representations of the same quantity.,04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.2.3.3,4.NF.C.11,"Read, write and identify decimals to the hundredths place using number names, base ten numerals and expanded form.",04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.2.3.4,4.NF.C.12,"Compare two decimals to the hundredths place using the symbols > , = or < , and justify the solution.",04,2023-11-19T00:00:00+00:00
+Domain,1.5.3,,Relationships and Algebraic Thinking,04,2023-11-19T00:00:00+00:00
+Cluster,1.5.3.1,4.RA.A,Use the four operations with whole numbers to solve problems.,04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.3.1.1,4.RA.A.1,Multiply or divide to solve problems involving a multiplicative comparison.,04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.3.1.2,4.RA.A.2,Solve multi-step whole number problems involving the four operations and variables and using estimation to interpret the reasonableness of the answer.,04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.3.1.3,4.RA.A.3,"Solve whole number division problems involving variables in which remainders need to be interpreted, and justify the solution.",04,2023-11-19T00:00:00+00:00
+Cluster,1.5.3.2,4.RA.B,Work with factors and multiples.,04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.3.2.1,4.RA.B.4,Recognize that a whole number is a multiple of each of its factors and find the multiples for a given whole number.,04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.3.2.2,4.RA.B.5,"Determine if a whole number within 100 is composite or prime, and find all factor pairs for whole numbers within 100.",04,2023-11-19T00:00:00+00:00
+Cluster,1.5.3.3,4.RA.C,Generate and analyze patterns.,04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.3.3.1,4.RA.C.6,Generate a number pattern that follows a given rule.,04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.3.3.2,4.RA.C.7,Use words or mathematical symbols to express a rule for a given pattern.,04,2023-11-19T00:00:00+00:00
+Domain,1.5.4,,Geometry and Measurement,04,2023-11-19T00:00:00+00:00
+Cluster,1.5.4.1,4.GM.A,Classify 2-dimensional shapes by properties of their lines and angles.,04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.4.1.1,4.GM.A.1,"Draw and identify points, lines, line segments, rays, angles, perpendicular lines and parallel lines.",04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.4.1.2,4.GM.A.2,Classify two-dimensional shapes by their sides and/or angles.,04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.4.1.3,4.GM.A.3,Construct lines of symmetry for a two-dimensional figure.,04,2023-11-19T00:00:00+00:00
+Cluster,1.5.4.2,4.GM.B,Understand the concepts of angle and measure angles.,04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.4.2.1,4.GM.B.4,Identify and estimate angles and their measure.,04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.4.2.2,4.GM.B.5,Draw and measure angles in whole-number degrees using a protractor.,04,2023-11-19T00:00:00+00:00
+Cluster,1.5.4.3,4.GM.C,Solve problems involving measurement and conversion of measurements from a larger unit to a smaller unit.,04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.4.3.1,4.GM.C.6,Know relative sizes of measurement units within one system of units.,04,2023-11-19T00:00:00+00:00
+Component,1.5.4.3.1.1,4.GM.C.6.a,Convert measurements in a larger unit in terms of a smaller unit.,04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.4.3.2,4.GM.C.7,"Use the four operations to solve problems involving distances, intervals of time, liquid volume, weight of objects and money.",04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.4.3.3,4.GM.C.8,Apply the area and perimeter formulas for rectangles to solve problems.,04,2023-11-19T00:00:00+00:00
+Domain,1.5.5,,Data and Statistics,04,2023-11-19T00:00:00+00:00
+Cluster,1.5.5.1,4.DS.A,Represent and analyze data.,04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.5.1.1,4.DS.A.1,Create a frequency table and/or line plot to display measurement data.,04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.5.1.2,4.DS.A.2,Solve problems involving addition and subtraction by using information presented in a data display.,04,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.5.5.1.3,4.DS.A.3,"Analyze the data in a frequency table, line plot, bar graph or picture graph.",04,2023-11-19T00:00:00+00:00
+Grade Level,1.6,,Grade 5,05,2023-11-19T00:00:00+00:00
+Domain,1.6.1,,Number Sense and Operations in Base Ten,05,2023-11-19T00:00:00+00:00
+Cluster,1.6.1.1,5.NBT.A,Use place value system understanding to perform operations with multi-digit whole numbers to billions and decimals to thousandths.,05,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.6.1.1.1,5.NBT.A.1,"Read, write and identify numbers from billions to thousandths using number names, base ten numerals and expanded form.",05,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.6.1.1.2,5.NBT.A.2,"Compare two numbers from billions to thousandths using the symbols > , = or < , and justify the solution.",05,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.6.1.1.3,5.NBT.A.3,"Understand that in a multi-digit number, a digit represents 1/10 times what it would represents in the place to its left.",05,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.6.1.1.4,5.NBT.A.4,Evaluate the value of powers of 10 and understand the relationship to the place value system.,05,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.6.1.1.5,5.NBT.A.5,Round numbers from billions to thousandths place.,05,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.6.1.1.6,5.NBT.A.6,"Add and subtract multi-digit whole numbers and decimals to the thousandths place, and justify the solution.",05,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.6.1.1.7,5.NBT.A.7,"Multiply multi-digit whole numbers and decimals to the hundredths place, and justify the solution.",05,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.6.1.1.8,5.NBT.A.8,"Divide multi-digit whole numbers and decimals to the hundredths place using up to two-digit divisors and four-digit dividends, and justify the solution.",05,2023-11-19T00:00:00+00:00
+Domain,1.6.2,,Number Sense and Operations in Fractions,05,2023-11-19T00:00:00+00:00
+Cluster,1.6.2.1,5.NF.A,Understand the relationship between fractions and decimals (denominators that are factors of 100).,05,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.6.2.1.1,5.NF.A.1,Understand that parts of a whole can be expressed as fractions and/or decimals.,05,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.6.2.1.2,5.NF.A.2,Convert decimals to fractions and fractions to decimals.,05,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.6.2.1.3,5.NF.A.3,"Compare and order fractions and/or decimals to the thousandths place using the symbols > , = or < , and justify the solution.",05,2023-11-19T00:00:00+00:00
+Cluster,1.6.2.2,5.NF.B,Perform operations and solve problems with fractions and decimals.,05,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.6.2.2.1,5.NF.B.4,"Estimate results of sums, differences and products with fractions and decimals to the thousandths.",05,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.6.2.2.2,5.NF.B.5,Justify the reasonableness of a product when multiplying with fractions.,05,2023-11-19T00:00:00+00:00
+Component,1.6.2.2.2.1,5.NF.B.5.a,Estimate the size of the product based on the size of the two factors.,05,2023-11-19T00:00:00+00:00
+Component,1.6.2.2.2.2,5.NF.B.5.b,Explain why multiplying a given number by a fraction greater than 1 results in a product larger than the given number.,05,2023-11-19T00:00:00+00:00
+Component,1.6.2.2.2.3,5.NF.B.5.c,Explain why multiplying a given number by a fraction less than 1 results in a product smaller than the given number.,05,2023-11-19T00:00:00+00:00
+Component,1.6.2.2.2.4,5.NF.B.5.d,Explain why multiplying the numerator and denominator by the same number is equivalent to multiplying the fraction by 1.,05,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.6.2.2.3,5.NF.B.6,"Solve problems involving addition and subtraction of fractions and mixed numbers with unlike denominators, and justify the solution.",05,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.6.2.2.4,5.NF.B.7,Extend the concept of multiplication to multiply a fraction or whole number by a fraction.,05,2023-11-19T00:00:00+00:00
+Component,1.6.2.2.4.1,5.NF.B.7.a,Recognize the relationship between multiplying fractions and finding the areas of rectangles with fractional side lengths.,05,2023-11-19T00:00:00+00:00
+Component,1.6.2.2.4.2,5.NF.B.7.b,Calculate and interpret the product of a fraction by a whole number and a whole number by a fraction.,05,2023-11-19T00:00:00+00:00
+Component,1.6.2.2.4.3,5.NF.B.7.c,Calculate and interpret the product of two fractions less than one.,05,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.6.2.2.5,5.NF.B.8,Extend the concept of division to divide unit fractions and whole numbers by using visual fraction models and equations.,05,2023-11-19T00:00:00+00:00
+Component,1.6.2.2.5.1,5.NF.B.8.a,Calculate and interpret the quotient of a unit fraction by a non-zero whole number.,05,2023-11-19T00:00:00+00:00
+Component,1.6.2.2.5.2,5.NF.B.8.b,Calculate and interpret the quotient of a whole number by a unit fraction.,05,2023-11-19T00:00:00+00:00
+Domain,1.6.3,,Relationships and Algebraic Thinking,05,2023-11-19T00:00:00+00:00
+Cluster,1.6.3.1,5.RA.A,Represent and analyze patterns and relationships.,05,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.6.3.1.1,5.RA.A.1,Investigate the relationship between two numeric patterns.,05,2023-11-19T00:00:00+00:00
+Component,1.6.3.1.1.1,5.RA.A.1.a,Generate two numeric patterns given two rules.,05,2023-11-19T00:00:00+00:00
+Component,1.6.3.1.1.2,5.RA.A.1.b,Translate two numeric patterns into two sets of ordered pairs.,05,2023-11-19T00:00:00+00:00
+Component,1.6.3.1.1.3,5.RA.A.1.c,Graph numeric patterns on the Cartesian coordinate plane.,05,2023-11-19T00:00:00+00:00
+Component,1.6.3.1.1.4,5.RA.A.1.d,Identify the relationship between two numeric patterns.,05,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.6.3.1.2,5.RA.A.2,Write a rule to describe or explain a given numeric pattern.,05,2023-11-19T00:00:00+00:00
+Cluster,1.6.3.2,5.RA.B,Write and interpret numerical expressions.,05,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.6.3.2.1,5.RA.B.3,"Write, evaluate and interpret numeric expressions using the order of operations.",05,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.6.3.2.2,5.RA.B.4,Translate written expressions into algebraic expressions.,05,2023-11-19T00:00:00+00:00
+Cluster,1.6.3.3,5.RA.C,Use the four operations to represent and solve problems.,05,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.6.3.3.1,5.RA.C.5,"Solve and justify multi-step problems involving variables, whole numbers, fractions and decimals.",05,2023-11-19T00:00:00+00:00
+Domain,1.6.4,,Geometry and Measurement,05,2023-11-19T00:00:00+00:00
+Cluster,1.6.4.1,5.GM.A,Classify two- and three-dimensional geometric shapes.,05,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.6.4.1.1,5.GM.A.1,Understand that attributes belonging to a category of figures also belong to all subcategories.,05,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.6.4.1.2,5.GM.A.2,Classify figures in a hierarchy based on properties.,05,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.6.4.1.3,5.GM.A.3,Analyze and describe the properties of prisms and pyramids.,05,2023-11-19T00:00:00+00:00
+Cluster,1.6.4.2,5.GM.B,Understand and compute volume.,05,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.6.4.2.1,5.GM.B.4,Understand the concept of volume and recognize that volume is measured in cubic units.,05,2023-11-19T00:00:00+00:00
+Component,1.6.4.2.1.1,5.GM.B.4.a,Describe a cube with edge length 1 unit as a “unit cube” and is said to have “one cubic unit” of volume and can be used to measure volume.,05,2023-11-19T00:00:00+00:00
+Component,1.6.4.2.1.2,5.GM.B.4.b,Understand that the volume of a right rectangular prism can be found by stacking multiple layers of the base.,05,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.6.4.2.2,5.GM.B.5,Apply the formulas V = l × w × h and V = B × h for volume of right rectangular prisms with whole-number edge lengths.,05,2023-11-19T00:00:00+00:00
+Cluster,1.6.4.3,5.GM.C,Graph points on the Cartesian coordinate plane within the first quadrant to solve problems.,05,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.6.4.3.1,5.GM.C.6,Define a first quadrant Cartesian coordinate system.,05,2023-11-19T00:00:00+00:00
+Component,1.6.4.3.1.1,5.GM.C.6.a,"Represent the axes as scaled perpendicular number lines that both intersect at 0, the origin.",05,2023-11-19T00:00:00+00:00
+Component,1.6.4.3.1.2,5.GM.C.6.b,Identify any point on the Cartesian coordinate plane by its ordered pair coordinates.,05,2023-11-19T00:00:00+00:00
+Component,1.6.4.3.1.3,5.GM.C.6.c,Define the first number in an ordered pair as the horizontal distance from the origin.,05,2023-11-19T00:00:00+00:00
+Component,1.6.4.3.1.4,5.GM.C.6.d,Define the second number in an ordered pair as the vertical distance from the origin.,05,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.6.4.3.2,5.GM.C.7,Plot and interpret points in the first quadrant of the Cartesian coordinate plane.,05,2023-11-19T00:00:00+00:00
+Cluster,1.6.4.4,5.GM.D,Solve problems involving measurement and conversions within a measurement system.,05,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.6.4.4.1,5.GM.D.8,"Convert measurements of capacity, length and weight within a given measurement system.",05,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.6.4.4.2,5.GM.D.9,Solve multi-step problems that require measurement conversions.,05,2023-11-19T00:00:00+00:00
+Domain,1.6.5,,Data and Statistics,05,2023-11-19T00:00:00+00:00
+Cluster,1.6.5.1,5.DS.A,Represent and analyze data.,05,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.6.5.1.1,5.DS.A.1,"Create a line graph to represent a data set, and analyze the data to answer questions and solve problems.",05,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.6.5.1.2,5.DS.A.2,"Create a line plot to represent a given or generated data set, and analyze the data to answer questions and solve problems, recognizing the outliers and generating the median.",05,2023-11-19T00:00:00+00:00
+Grade Level,1.7,,Grade 6,06,2023-11-19T00:00:00+00:00
+Domain,1.7.1,,Ratios and Proportional Relationships,06,2023-11-19T00:00:00+00:00
+Cluster,1.7.1.1,6.RP.A,Understand and use ratios to solve problems.,06,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.7.1.1.1,6.RP.A.1,Understand a ratio as a comparison of two quantities and represent these comparisons.,06,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.7.1.1.2,6.RP.A.2,"Understand the concept of a unit rate associated with a ratio, and describe the meaning of unit rate.",06,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.7.1.1.3,6.RP.A.3,Solve problems involving ratios and rates.,06,2023-11-19T00:00:00+00:00
+Component,1.7.1.1.3.1,6.RP.A.3.a,"Create tables of equivalent ratios, find missing values in the tables and plot the pairs of values on the Cartesian coordinate plane.",06,2023-11-19T00:00:00+00:00
+Component,1.7.1.1.3.2,6.RP.A.3.b,Solve unit rate problems.,06,2023-11-19T00:00:00+00:00
+Component,1.7.1.1.3.3,6.RP.A.3.c,Solve percent problems.,06,2023-11-19T00:00:00+00:00
+Component,1.7.1.1.3.4,6.RP.A.3.d,Convert measurement units within and between two systems of measurement.,06,2023-11-19T00:00:00+00:00
+Domain,1.7.2,,Number Sense and Operations,06,2023-11-19T00:00:00+00:00
+Cluster,1.7.2.1,6.NS.A,Apply and extend previous understandings of multiplication and division to divide fractions by fractions.,06,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.7.2.1.1,6.NS.A.1,Compute and interpret quotients of positive fractions.,06,2023-11-19T00:00:00+00:00
+Component,1.7.2.1.1.1,6.NS.A.1.a,Solve problems involving division of fractions by fractions.,06,2023-11-19T00:00:00+00:00
+Cluster,1.7.2.2,6.NS.B,"Compute with non-negative multi-digit numbers, and find common factors and multiples.",06,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.7.2.2.1,6.NS.B.2,Demonstrate fluency with division of multi-digit whole numbers.,06,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.7.2.2.2,6.NS.B.3,"Demonstrate fluency with addition, subtraction, multiplication and division of decimals.",06,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.7.2.2.3,6.NS.B.4,Find common factors and multiples.,06,2023-11-19T00:00:00+00:00
+Component,1.7.2.2.3.1,6.NS.B.4.a,Find the greatest common factor (GCF) and the least common multiple (LCM).,06,2023-11-19T00:00:00+00:00
+Component,1.7.2.2.3.2,6.NS.B.4.b,Use the distributive property to express a sum of two whole numbers with a common factor as a multiple of a sum of two whole numbers.,06,2023-11-19T00:00:00+00:00
+Cluster,1.7.2.3,6.NS.C,Apply and extend previous understandings of numbers to the system of rational numbers.,06,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.7.2.3.1,6.NS.C.5,Use positive and negative numbers to represent quantities.,06,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.7.2.3.2,6.NS.C.6,Locate a rational number as a point on the number line.,06,2023-11-19T00:00:00+00:00
+Component,1.7.2.3.2.1,6.NS.C.6.a,Locate rational numbers on a horizontal or vertical number line.,06,2023-11-19T00:00:00+00:00
+Component,1.7.2.3.2.2,6.NS.C.6.b,"Write, interpret and explain problems of ordering of rational numbers.",06,2023-11-19T00:00:00+00:00
+Component,1.7.2.3.2.3,6.NS.C.6.c,Understand that a number and its opposite (additive inverse) are located on opposite sides of zero on the number line.,06,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.7.2.3.3,6.NS.C.7,Understand that the absolute value of a rational number is its distance from 0 on the number line.,06,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.7.2.3.4,6.NS.C.8,"Extend prior knowledge to generate equivalent representations of rational numbers between fractions, decimals and percentages (limited to terminating decimals and/or benchmark fractions of 1/3 and 2/3).",06,2023-11-19T00:00:00+00:00
+Domain,1.7.3,,"Expressions, Equations and Inequalities",06,2023-11-19T00:00:00+00:00
+Cluster,1.7.3.1,6.EEI.A,Apply and extend previous understandings of arithmetic to algebraic expressions.,06,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.7.3.1.1,6.EEI.A.1,Describe the difference between an expression and an equation.,06,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.7.3.1.2,6.EEI.A.2,Create and evaluate expressions involving variables and whole number exponents.,06,2023-11-19T00:00:00+00:00
+Component,1.7.3.1.2.1,6.EEI.A.2.a,Identify parts of an expression using mathematical terminology.,06,2023-11-19T00:00:00+00:00
+Component,1.7.3.1.2.2,6.EEI.A.2.b,Evaluate expressions at specific values of the variables.,06,2023-11-19T00:00:00+00:00
+Component,1.7.3.1.2.3,6.EEI.A.2.c,Evaluate non-negative rational number expressions.,06,2023-11-19T00:00:00+00:00
+Component,1.7.3.1.2.4,6.EEI.A.2.d,Write and evaluate algebraic expressions.,06,2023-11-19T00:00:00+00:00
+Component,1.7.3.1.2.5,6.EEI.A.2.e,Understand the meaning of the variable in the context of the situation.,06,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.7.3.1.3,6.EEI.A.3,Identify and generate equivalent algebraic expressions using mathematical properties.,06,2023-11-19T00:00:00+00:00
+Cluster,1.7.3.2,6.EEI.B,Reason about and solve one-variable equations and inequalities.,06,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.7.3.2.1,6.EEI.B.4,Use substitution to determine whether a given number in a specified set makes a one-variable equation or inequality true.,06,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.7.3.2.2,6.EEI.B.5,"Understand that if any solutions exist, the solution set for an equation or inequality consists of values that make the equation or inequality true.",06,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.7.3.2.3,6.EEI.B.6,"Write and solve equations using variables to represent quantities, and understand the meaning of the variable in the context of the situation.",06,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.7.3.2.4,6.EEI.B.7,Solve one-step linear equations in one variable involving non-negative rational numbers.,06,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.7.3.2.5,6.EEI.B.8,Recognize that inequalities may have infinitely many solutions.,06,2023-11-19T00:00:00+00:00
+Component,1.7.3.2.5.1,6.EEI.B.8.a,"Write an inequality of the form x > c, x < c, x ≥ c or x ≤ c to represent a constraint or condition.",06,2023-11-19T00:00:00+00:00
+Component,1.7.3.2.5.2,6.EEI.B.8.b,Graph the solution set of an inequality.,06,2023-11-19T00:00:00+00:00
+Cluster,1.7.3.3,6.EEI.C,Represent and analyze quantitative relationships between dependent and independent variables.,06,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.7.3.3.1,6.EEI.C.9,Identify and describe relationships between two variables that change in relationship to one another.,06,2023-11-19T00:00:00+00:00
+Component,1.7.3.3.1.1,6.EEI.C.9.a,"Write an equation to express one quantity, the dependent variable, in terms of the other quantity, the independent variable.",06,2023-11-19T00:00:00+00:00
+Component,1.7.3.3.1.2,6.EEI.C.9.b,"Analyze the relationship between the dependent and independent variables using graphs, tables and equations and relate these representations to each other.",06,2023-11-19T00:00:00+00:00
+Domain,1.7.4,,Geometry and Measurement,06,2023-11-19T00:00:00+00:00
+Cluster,1.7.4.1,6.GM.A,"Solve problems involving area, surface area and volume.",06,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.7.4.1.1,6.GM.A.1,Find the area of polygons by composing or decomposing the shapes into rectangles or triangles.,06,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.7.4.1.2,6.GM.A.2,Find the volume of right rectangular prisms.,06,2023-11-19T00:00:00+00:00
+Component,1.7.4.1.2.1,6.GM.A.2.a,Understand that the volume of a right rectangular prism can be found by filling the prism with multiple layers of the base.,06,2023-11-19T00:00:00+00:00
+Component,1.7.4.1.2.2,6.GM.A.2.b,Apply V = l * w * h and V = Bh to find the volume of right rectangular prisms.,06,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.7.4.1.3,6.GM.A.3,Solve problems by graphing points in all four quadrants of the Cartesian coordinate plane.,06,2023-11-19T00:00:00+00:00
+Component,1.7.4.1.3.1,6.GM.A.3.a,Understand signs of numbers in ordered pairs as indicating locations in quadrants of the Cartesian coordinate plane,06,2023-11-19T00:00:00+00:00
+Component,1.7.4.1.3.2,6.GM.A.3.b,"Recognize that when two ordered pairs differ only by signs, the locations of the points are related by reflections across one or both axes.",06,2023-11-19T00:00:00+00:00
+Component,1.7.4.1.3.3,6.GM.A.3.c,Find distances between points with the same first coordinate or the same second coordinate.,06,2023-11-19T00:00:00+00:00
+Component,1.7.4.1.3.4,6.GM.A.3.d,Construct polygons in the Cartesian coordinate plane.,06,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.7.4.1.4,6.GM.A.4,Solve problems using nets.,06,2023-11-19T00:00:00+00:00
+Component,1.7.4.1.4.1,6.GM.A.4.a,Represent three-dimensional figures using nets made up of rectangles and triangles.,06,2023-11-19T00:00:00+00:00
+Component,1.7.4.1.4.2,6.GM.A.4.b,Use nets to find the surface area of three-dimensional figures whose sides are made up of rectangles and triangles.,06,2023-11-19T00:00:00+00:00
+Domain,1.7.5,,"Data Analysis, Statistics and Probability",06,2023-11-19T00:00:00+00:00
+Cluster,1.7.5.1,6.DSP.A,Develop understanding of statistical variability.,06,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.7.5.1.1,6.DSP.A.1,Recognize a statistical question as one that anticipates variability in the data related to the question and accounts for it in the answers.,06,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.7.5.1.2,6.DSP.A.2,"Understand that a set of data collected to answer a statistical question has a distribution which can be described by its center, spread and overall shape.",06,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.7.5.1.3,6.DSP.A.3,"Recognize that a measure of center for a numerical data set summarizes all of its values with a single number, while a measure of variation describes how its values vary from a single number.",06,2023-11-19T00:00:00+00:00
+Cluster,1.7.5.2,6.DSP.B,Summarize and describe distributions.,06,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.7.5.2.1,6.DSP.B.4,Display and interpret data.,06,2023-11-19T00:00:00+00:00
+Component,1.7.5.2.1.1,6.DSP.B.4.a,"Use dot plots, histograms and box plots to display and interpret numerical data.",06,2023-11-19T00:00:00+00:00
+Component,1.7.5.2.1.2,6.DSP.B.4.b,Create and interpret circle graphs.,06,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.7.5.2.2,6.DSP.B.5,Summarize numerical data sets in relation to the context.,06,2023-11-19T00:00:00+00:00
+Component,1.7.5.2.2.1,6.DSP.B.5.a,Report the number of observations.,06,2023-11-19T00:00:00+00:00
+Component,1.7.5.2.2.2,6.DSP.B.5.b,"Describe the nature of the attribute under investigation, including how it was measured and its units of measurement.",06,2023-11-19T00:00:00+00:00
+Component,1.7.5.2.2.3,6.DSP.B.5.c,"Give quantitative measures of center (median and/or mean) and variability (interquartile range and/or mean absolute deviation), as well as describing any overall pattern and any striking deviations from the overall pattern with reference to the context of the data.",06,2023-11-19T00:00:00+00:00
+Component,1.7.5.2.2.4,6.DSP.B.5.d,Analyze the choice of measures of center and variability based on the shape of the data distribution and/or the context of the data.,06,2023-11-19T00:00:00+00:00
+Grade Level,1.8,,Grade 7,07,2023-11-19T00:00:00+00:00
+Domain,1.8.1,,Ratios and Proportional Relationships,07,2023-11-19T00:00:00+00:00
+Cluster,1.8.1.1,7.RP.A,Analyze proportional relationships and use them to solve problems.,07,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.8.1.1.1,7.RP.A.1,"Compute unit rates, including those that involve complex fractions, with like or different units.",07,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.8.1.1.2,7.RP.A.2,Recognize and represent proportional relationships between quantities.,07,2023-11-19T00:00:00+00:00
+Component,1.8.1.1.2.1,7.RP.A.2.a,Determine when two quantities are in a proportional relationship.,07,2023-11-19T00:00:00+00:00
+Component,1.8.1.1.2.2,7.RP.A.2.b,Identify and/or compute the constant of proportionality (unit rate).,07,2023-11-19T00:00:00+00:00
+Component,1.8.1.1.2.3,7.RP.A.2.c,"Explain what a point (x, y) on the graph of a proportional relationship means in terms of the situation.",07,2023-11-19T00:00:00+00:00
+Component,1.8.1.1.2.4,7.RP.A.2.d,Recognize that the graph of any proportional relationship will pass through the origin.,07,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.8.1.1.3,7.RP.A.3,"Solve problems involving ratios, rates, percentages and proportional relationships.",07,2023-11-19T00:00:00+00:00
+Domain,1.8.2,,Number Sense and Operations,07,2023-11-19T00:00:00+00:00
+Cluster,1.8.2.1,7.NS.A,"Apply and extend previous understandings of operations to add, subtract, multiply and divide rational numbers.",07,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.8.2.1.1,7.NS.A.1,Apply and extend previous understandings of numbers to add and subtract rational numbers.,07,2023-11-19T00:00:00+00:00
+Component,1.8.2.1.1.1,7.NS.A.1.a,Add and subtract rational numbers.,07,2023-11-19T00:00:00+00:00
+Component,1.8.2.1.1.2,7.NS.A.1.b,Represent addition and subtraction on a horizontal or vertical number line.,07,2023-11-19T00:00:00+00:00
+Component,1.8.2.1.1.3,7.NS.A.1.c,Describe situations and show that a number and its opposite have a sum of 0 (additive inverses).,07,2023-11-19T00:00:00+00:00
+Component,1.8.2.1.1.4,7.NS.A.1.d,Understand subtraction of rational numbers as adding the additive inverse.,07,2023-11-19T00:00:00+00:00
+Component,1.8.2.1.1.5,7.NS.A.1.e,Determine the distance between two rational numbers on the number line is the absolute value of their difference.,07,2023-11-19T00:00:00+00:00
+Component,1.8.2.1.1.6,7.NS.A.1.f,Interpret sums and differences of rational numbers.,07,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.8.2.1.2,7.NS.A.2,Apply and extend previous understandings of numbers to multiply and divide rational numbers.,07,2023-11-19T00:00:00+00:00
+Component,1.8.2.1.2.1,7.NS.A.2.a,Multiply and divide rational numbers.,07,2023-11-19T00:00:00+00:00
+Component,1.8.2.1.2.2,7.NS.A.2.b,Determine that a number and its reciprocal have a product of 1 (multiplicative inverse).,07,2023-11-19T00:00:00+00:00
+Component,1.8.2.1.2.3,7.NS.A.2.c,Understand that every quotient of integers (with non-zero divisor) is a rational number.,07,2023-11-19T00:00:00+00:00
+Component,1.8.2.1.2.4,7.NS.A.2.d,Convert a rational number to a decimal.,07,2023-11-19T00:00:00+00:00
+Component,1.8.2.1.2.5,7.NS.A.2.e,Understand that all rational numbers can be written as fractions or decimal numbers that terminate or repeat.,07,2023-11-19T00:00:00+00:00
+Component,1.8.2.1.2.6,7.NS.A.2.f,Interpret products and quotients of rational numbers by describing real-world contexts.,07,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.8.2.1.3,7.NS.A.3,Solve problems involving the four arithmetic operations with rational numbers.,07,2023-11-19T00:00:00+00:00
+Domain,1.8.3,,"Expressions, Equations and Inequalities",07,2023-11-19T00:00:00+00:00
+Cluster,1.8.3.1,7.EEI.A,Use properties of operations to generate equivalent expressions.,07,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.8.3.1.1,7.EEI.A.1,Apply properties of operations to simplify and to factor linear algebraic expressions with rational coefficients.,07,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.8.3.1.2,7.EEI.A.2,Understand how to use equivalent expressions to clarify quantities in a problem.,07,2023-11-19T00:00:00+00:00
+Cluster,1.8.3.2,7.EEI.B,Solve problems using numerical and algebraic expressions and equations.,07,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.8.3.2.1,7.EEI.B.3,Solve multi-step problems posed with rational numbers.,07,2023-11-19T00:00:00+00:00
+Component,1.8.3.2.1.1,7.EEI.B.3.a,Convert between equivalent forms of the same number.,07,2023-11-19T00:00:00+00:00
+Component,1.8.3.2.1.2,7.EEI.B.3.b,Assess the reasonableness of answers using mental computation and estimation strategies.,07,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.8.3.2.2,7.EEI.B.4,Write and/or solve linear equations and inequalities in one variable.,07,2023-11-19T00:00:00+00:00
+Component,1.8.3.2.2.1,7.EEI.B.4.a,Write and/or solve equations of the form x+p = q and px = q in which p and q are rational numbers.,07,2023-11-19T00:00:00+00:00
+Component,1.8.3.2.2.2,7.EEI.B.4.b,"Write and/or solve two-step equations of the form px + q = r and p(x + q) = r, where p, q and r are rational numbers, and interpret the meaning of the solution in the context of the problem.",07,2023-11-19T00:00:00+00:00
+Component,1.8.3.2.2.3,7.EEI.B.4.c,"Write, solve and/or graph inequalities of the form px + q > r or px + q < r, where p, q and r are rational numbers.",07,2023-11-19T00:00:00+00:00
+Domain,1.8.4,,Geometry and Measurement,07,2023-11-19T00:00:00+00:00
+Cluster,1.8.4.1,7.GM.A,Draw and describe geometrical figures and describe the relationships between them.,07,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.8.4.1.1,7.GM.A.1,"Solve problems involving scale drawings of real objects and geometric figures, including computing actual lengths and areas from a scale drawing and reproducing the drawing at a different scale.",07,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.8.4.1.2,7.GM.A.2,Use a variety of tools to construct geometric shapes.,07,2023-11-19T00:00:00+00:00
+Component,1.8.4.1.2.1,7.GM.A.2.a,Determine if provided constraints will create a unique triangle through construction.,07,2023-11-19T00:00:00+00:00
+Component,1.8.4.1.2.2,7.GM.A.2.b,Construct special quadrilaterals given specific parameters.,07,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.8.4.1.3,7.GM.A.3,"Describe two-dimensional cross sections of pyramids, prisms, cones and cylinders.",07,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.8.4.1.4,7.GM.A.4,Understand concepts of circles.,07,2023-11-19T00:00:00+00:00
+Component,1.8.4.1.4.1,7.GM.A.4.a,"Analyze the relationships among the circumference, the radius, the diameter, the area and Pi in a circle.",07,2023-11-19T00:00:00+00:00
+Component,1.8.4.1.4.2,7.GM.A.4.b,Know and apply the formulas for circumference and area of circles to solve problems.,07,2023-11-19T00:00:00+00:00
+Cluster,1.8.4.2,7.GM.B,"Apply and extend previous understanding of angle measure, area and volume.",07,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.8.4.2.1,7.GM.B.5,Use angle properties to write and solve equations for an unknown angle.,07,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.8.4.2.2,7.GM.B.6,"Understand the relationship between area, surface area and volume.",07,2023-11-19T00:00:00+00:00
+Component,1.8.4.2.2.1,7.GM.B.6.a,"Find the area of triangles, quadrilaterals and other polygons composed of triangles and rectangles.",07,2023-11-19T00:00:00+00:00
+Component,1.8.4.2.2.2,7.GM.B.6.b,"Find the volume and surface area of prisms, pyramids and cylinders.",07,2023-11-19T00:00:00+00:00
+Domain,1.8.5,,"Data Analysis, Statistics and Probability",07,2023-11-19T00:00:00+00:00
+Cluster,1.8.5.1,7.DSP.A,Use random sampling to draw inferences about a population.,07,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.8.5.1.1,7.DSP.A.1,Understand that statistics can be used to gain information about a population by examining a sample of the population.,07,2023-11-19T00:00:00+00:00
+Component,1.8.5.1.1.1,7.DSP.A.1.a,Understand that a sample is a subset of a population.,07,2023-11-19T00:00:00+00:00
+Component,1.8.5.1.1.2,7.DSP.A.1.b,Understand that generalizations from a sample are valid only if the sample is representative of the population.,07,2023-11-19T00:00:00+00:00
+Component,1.8.5.1.1.3,7.DSP.A.1.c,Understand that random sampling is used to produce representative samples and support valid inferences.,07,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.8.5.1.2,7.DSP.A.2,Use data from multiple samples to draw inferences about a population and investigate variability in estimates of the characteristic of interest.,07,2023-11-19T00:00:00+00:00
+Cluster,1.8.5.2,7.DSP.B,Draw informal comparative inferences about two populations.,07,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.8.5.2.1,7.DSP.B.3,Analyze different data distributions using statistical measures.,07,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.8.5.2.2,7.DSP.B.4,"Compare the numerical measures of center, measures of frequency and measures of variability from two random samples to draw inferences about the population.",07,2023-11-19T00:00:00+00:00
+Cluster,1.8.5.3,7.DSP.C,"Develop, use and evaluate probability models.",07,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.8.5.3.1,7.DSP.C.5,Investigate the probability of chance events.,07,2023-11-19T00:00:00+00:00
+Component,1.8.5.3.1.1,7.DSP.C.5.a,Determine probabilities of simple events.,07,2023-11-19T00:00:00+00:00
+Component,1.8.5.3.1.2,7.DSP.C.5.b,Understand that the probability of a chance event is a number between 0 and 1 that expresses the likelihood of the event occurring.,07,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.8.5.3.2,7.DSP.C.6,Investigate the relationship between theoretical and experimental probabilities for simple events.,07,2023-11-19T00:00:00+00:00
+Component,1.8.5.3.2.1,7.DSP.C.6.a,Predict outcomes using theoretical probability.,07,2023-11-19T00:00:00+00:00
+Component,1.8.5.3.2.2,7.DSP.C.6.b,Perform experiments that model theoretical probability.,07,2023-11-19T00:00:00+00:00
+Component,1.8.5.3.2.3,7.DSP.C.6.c,Compare theoretical and experimental probabilities.,07,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.8.5.3.3,7.DSP.C.7,Explain possible discrepancies between a developed probability model and observed frequencies.,07,2023-11-19T00:00:00+00:00
+Component,1.8.5.3.3.1,7.DSP.C.7.a,"Develop a uniform probability model by assigning equal probability to all outcomes, and use the model to determine probabilities of events.",07,2023-11-19T00:00:00+00:00
+Component,1.8.5.3.3.2,7.DSP.C.7.b,Develop a probability model (which may not be uniform) by observing frequencies in data generated from a chance process.,07,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.8.5.3.4,7.DSP.C.8,"Find probabilities of compound events using organized lists, tables, tree diagrams and simulations.",07,2023-11-19T00:00:00+00:00
+Component,1.8.5.3.4.1,7.DSP.C.8.a,Represent the sample space of a compound event.,07,2023-11-19T00:00:00+00:00
+Component,1.8.5.3.4.2,7.DSP.C.8.b,Design and use a simulation to generate frequencies for compound events.,07,2023-11-19T00:00:00+00:00
+Grade Level,1.9,,Grade 8,08,2023-11-19T00:00:00+00:00
+Domain,1.9.1,,Number Sense and Operations,08,2023-11-19T00:00:00+00:00
+Cluster,1.9.1.1,8.NS.A,"Know that there are numbers that are not rational, and approximate them by rational numbers.",08,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.9.1.1.1,8.NS.A.1,Explore the real number system.,08,2023-11-19T00:00:00+00:00
+Component,1.9.1.1.1.1,8.NS.A.1.a,Know the differences between rational and irrational numbers.,08,2023-11-19T00:00:00+00:00
+Component,1.9.1.1.1.2,8.NS.A.1.b,Understand that all rational numbers have a decimal expansion that terminates or repeats.,08,2023-11-19T00:00:00+00:00
+Component,1.9.1.1.1.3,8.NS.A.1.c,Convert decimals which repeat into fractions and fractions into repeating decimals.,08,2023-11-19T00:00:00+00:00
+Component,1.9.1.1.1.4,8.NS.A.1.d,Generate equivalent representations of rational numbers.,08,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.9.1.1.2,8.NS.A.2,Estimate the value and compare the size of irrational numbers and approximate their locations on a number line.,08,2023-11-19T00:00:00+00:00
+Domain,1.9.2,,"Expressions, Equations and Inequalities",08,2023-11-19T00:00:00+00:00
+Cluster,1.9.2.1,8.EEI.A,Work with radicals and integer exponents.,08,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.9.2.1.1,8.EEI.A.1,Know and apply the properties of integer exponents to generate equivalent expressions.,08,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.9.2.1.2,8.EEI.A.2,Investigate concepts of square and cube roots.,08,2023-11-19T00:00:00+00:00
+Component,1.9.2.1.2.1,8.EEI.A.2.a,"Solve equations of the form x² = p and x³ = p, where p is a positive rational number.",08,2023-11-19T00:00:00+00:00
+Component,1.9.2.1.2.2,8.EEI.A.2.b,Evaluate square roots of perfect squares less than or equal to 625 and cube roots of perfect cubes less than or equal to 1000.,08,2023-11-19T00:00:00+00:00
+Component,1.9.2.1.2.3,8.EEI.A.2.c,Recognize that square roots of non-perfect squares are irrational.,08,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.9.2.1.3,8.EEI.A.3,Express very large and very small quantities in scientific notation and approximate how many times larger one is than the other.,08,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.9.2.1.4,8.EEI.A.4,Use scientific notation to solve problems.,08,2023-11-19T00:00:00+00:00
+Component,1.9.2.1.4.1,8.EEI.A.4.a,"Perform operations with numbers expressed in scientific notation, including problems where both decimal and scientific notation are used.",08,2023-11-19T00:00:00+00:00
+Component,1.9.2.1.4.2,8.EEI.A.4.b,Use scientific notation and choose units of appropriate size for measurements of very large or very small quantities.,08,2023-11-19T00:00:00+00:00
+Cluster,1.9.2.2,8.EEI.B,"Understand the connections between proportional relationships, lines and linear equations.",08,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.9.2.2.1,8.EEI.B.5,Graph proportional relationships.,08,2023-11-19T00:00:00+00:00
+Component,1.9.2.2.1.1,8.EEI.B.5.a,Interpret the unit rate as the slope of the graph.,08,2023-11-19T00:00:00+00:00
+Component,1.9.2.2.1.2,8.EEI.B.5.b,Compare two different proportional relationships.,08,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.9.2.2.2,8.EEI.B.6,"Apply concepts of slope and y-intercept to graphs, equations and proportional relationships.",08,2023-11-19T00:00:00+00:00
+Component,1.9.2.2.2.1,8.EEI.B.6.a,Explain why the slope (m) is the same between any two distinct points on a non-vertical line in the Cartesian coordinate plane.,08,2023-11-19T00:00:00+00:00
+Component,1.9.2.2.2.2,8.EEI.B.6.b,Derive the equation y = mx for a line through the origin and the equation y = mx + b for a line intercepting the vertical axis at b.,08,2023-11-19T00:00:00+00:00
+Cluster,1.9.2.3,8.EEI.C,Analyze and solve linear equations and inequalities and pairs of simultaneous linear equations.,08,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.9.2.3.1,8.EEI.C.7,Solve linear equations and inequalities in one variable.,08,2023-11-19T00:00:00+00:00
+Component,1.9.2.3.1.1,8.EEI.C.7.a,"Create and identify linear equations with one solution, infinitely many solutions or no solutions.",08,2023-11-19T00:00:00+00:00
+Component,1.9.2.3.1.2,8.EEI.C.7.b,"Solve linear equations and inequalities with rational number coefficients, including equations and inequalities whose solutions require expanding expressions using the distributive property and combining like terms.",08,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.9.2.3.2,8.EEI.C.8,Analyze and solve systems of linear equations.,08,2023-11-19T00:00:00+00:00
+Component,1.9.2.3.2.1,8.EEI.C.8.a,Graph systems of linear equations and recognize the intersection as the solution to the system.,08,2023-11-19T00:00:00+00:00
+Component,1.9.2.3.2.2,8.EEI.C.8.b,Explain why solution(s) to a system of two linear equations in two variables correspond to point(s) of intersection of the graphs.,08,2023-11-19T00:00:00+00:00
+Component,1.9.2.3.2.3,8.EEI.C.8.c,"Explain why systems of linear equations can have one solution, no solution or infinitely many solutions.",08,2023-11-19T00:00:00+00:00
+Component,1.9.2.3.2.4,8.EEI.C.8.d,Solve systems of two linear equations.,08,2023-11-19T00:00:00+00:00
+Domain,1.9.3,,Geometry and Measurement,08,2023-11-19T00:00:00+00:00
+Cluster,1.9.3.1,8.GM.A,"Understand congruence and similarity using physical models, transparencies or geometry software.",08,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.9.3.1.1,8.GM.A.1,Verify experimentally the congruence properties of rigid transformations.,08,2023-11-19T00:00:00+00:00
+Component,1.9.3.1.1.1,8.GM.A.1.a,"Verify that angle measure, betweenness, collinearity and distance are preserved under rigid transformations.",08,2023-11-19T00:00:00+00:00
+Component,1.9.3.1.1.2,8.GM.A.1.b,Investigate if orientation is preserved under rigid transformations.,08,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.9.3.1.2,8.GM.A.2,Understand that two-dimensional figures are congruent if a series of rigid transformations can be performed to map the pre-image to the image.,08,2023-11-19T00:00:00+00:00
+Component,1.9.3.1.2.1,8.GM.A.2.a,Describe a possible sequence of rigid transformations between two congruent figures.,08,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.9.3.1.3,8.GM.A.3,"Describe the effect of dilations, translations, rotations and reflections on two-dimensional figures using coordinates.",08,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.9.3.1.4,8.GM.A.4,"Understand that two-dimensional figures are similar if a series of transformations (rotations, reflections, translations and dilations) can be performed to map the pre-image to the image.",08,2023-11-19T00:00:00+00:00
+Component,1.9.3.1.4.1,8.GM.A.4.a,Describe a possible sequence of transformations between two similar figures.,08,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.9.3.1.5,8.GM.A.5,Explore angle relationships and establish informal arguments.,08,2023-11-19T00:00:00+00:00
+Component,1.9.3.1.5.1,8.GM.A.5.a,Derive the sum of the interior angles of a triangle.,08,2023-11-19T00:00:00+00:00
+Component,1.9.3.1.5.2,8.GM.A.5.b,Explore the relationship between the interior and exterior angles of a triangle.,08,2023-11-19T00:00:00+00:00
+Component,1.9.3.1.5.3,8.GM.A.5.c,Construct and explore the angles created when parallel lines are cut by a transversal.,08,2023-11-19T00:00:00+00:00
+Component,1.9.3.1.5.4,8.GM.A.5.d,Use the properties of similar figures to solve problems.,08,2023-11-19T00:00:00+00:00
+Cluster,1.9.3.2,8.GM.B,Understand and apply the Pythagorean Theorem.,08,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.9.3.2.1,8.GM.B.6,Use models to demonstrate a proof of the Pythagorean Theorem and its converse.,08,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.9.3.2.2,8.GM.B.7,Use the Pythagorean Theorem to determine unknown side lengths in right triangles in problems in two- and three-dimensional contexts.,08,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.9.3.2.3,8.GM.B.8,Use the Pythagorean Theorem to find the distance between points in a Cartesian coordinate system.,08,2023-11-19T00:00:00+00:00
+Cluster,1.9.3.3,8.GM.C,"Solve problems involving volume of cones, pyramids and spheres.",08,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.9.3.3.1,8.GM.C.9,Solve problems involving surface area and volume.,08,2023-11-19T00:00:00+00:00
+Component,1.9.3.3.1.1,8.GM.C.9.a,Understand the concept of surface area and find surface area of pyramids.,08,2023-11-19T00:00:00+00:00
+Component,1.9.3.3.1.2,8.GM.C.9.b,"Understand the concepts of volume and find the volume of pyramids, cones and spheres.",08,2023-11-19T00:00:00+00:00
+Domain,1.9.4,,"Data Analysis, Statistics and Probability",08,2023-11-19T00:00:00+00:00
+Cluster,1.9.4.1,8.DSP.A,Investigate patterns of association in bivariate data.,08,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.9.4.1.1,8.DSP.A.1,Construct and interpret scatter plots of bivariate measurement data to investigate patterns of association between two quantities.,08,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.9.4.1.2,8.DSP.A.2,"Generate and use a trend line for bivariate data, and informally assess the fit of the line.",08,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.9.4.1.3,8.DSP.A.3,Interpret the parameters of a linear model of bivariate measurement data to solve problems.,08,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.9.4.1.4,8.DSP.A.4,Understand the patterns of association in bivariate categorical data displayed in a two-way table.,08,2023-11-19T00:00:00+00:00
+Component,1.9.4.1.4.1,8.DSP.A.4.a,Construct and interpret a two-way table summarizing data on two categorical variables collected from the same subjects.,08,2023-11-19T00:00:00+00:00
+Component,1.9.4.1.4.2,8.DSP.A.4.b,Use relative frequencies calculated for rows or columns to describe possible association between the two variables.,08,2023-11-19T00:00:00+00:00
+Domain,1.9.5,,Functions,08,2023-11-19T00:00:00+00:00
+Cluster,1.9.5.1,8.F.A,"Define, evaluate and compare functions.",08,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.9.5.1.1,8.F.A.1,Explore the concept of functions.,08,2023-11-19T00:00:00+00:00
+Component,1.9.5.1.1.1,8.F.A.1.a,Understand that a function assigns to each input exactly one output.,08,2023-11-19T00:00:00+00:00
+Component,1.9.5.1.1.2,8.F.A.1.b,Determine if a relation is a function.,08,2023-11-19T00:00:00+00:00
+Component,1.9.5.1.1.3,8.F.A.1.c,Graph a function.,08,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.9.5.1.2,8.F.A.2,Compare characteristics of two functions each represented in a different way.,08,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.9.5.1.3,8.F.A.3,Investigate the differences between linear and nonlinear functions.,08,2023-11-19T00:00:00+00:00
+Component,1.9.5.1.3.1,8.F.A.3.a,"Interpret the equation y = mx + b as defining a linear function, whose parameters are the slope (m) and the y-intercept (b).",08,2023-11-19T00:00:00+00:00
+Component,1.9.5.1.3.2,8.F.A.3.b,Recognize that the graph of a linear function has a constant rate of change,08,2023-11-19T00:00:00+00:00
+Component,1.9.5.1.3.3,8.F.A.3.c,Give examples of nonlinear functions.,08,2023-11-19T00:00:00+00:00
+Cluster,1.9.5.2,8.F.B,Use functions to model relationships between quantities.,08,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.9.5.2.1,8.F.B.4,Use functions to model linear relationships between quantities.,08,2023-11-19T00:00:00+00:00
+Component,1.9.5.2.1.1,8.F.B.4.a,Explain the parameters of a linear function based on the context of a problem.,08,2023-11-19T00:00:00+00:00
+Component,1.9.5.2.1.2,8.F.B.4.b,Determine the parameters of a linear function.,08,2023-11-19T00:00:00+00:00
+Component,1.9.5.2.1.3,8.F.B.4.c,Determine the x-intercept of a linear function.,08,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,1.9.5.2.2,8.F.B.5,Describe the functional relationship between two quantities from a graph or a verbal description.,08,2023-11-19T00:00:00+00:00
+Grade Level,2,,Standards for HS Math Content,09-12,2023-11-19T00:00:00+00:00
+Course,2.1,,Algebra 1,09-12,2023-11-19T00:00:00+00:00
+Domain,2.1.1,,Number and Quantity,09-12,2023-11-19T00:00:00+00:00
+Cluster,2.1.1.1,A1.NQ.A,Extend and use properties of rational exponents.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.1.1.1,A1.NQ.A.1,Explain how the meaning of rational exponents extends from the properties of integer exponents.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.1.1.2,A1.NQ.A.2,Rewrite expressions involving radicals and rational exponents using the properties of exponents. Limit to rational exponents with a numerator of 1.,09-12,2023-11-19T00:00:00+00:00
+Cluster,2.1.1.2,A1.NQ.B,Use units to solve problems.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.1.2.1,A1.NQ.B.3,Use units of measure as a way to understand and solve problems involving quantities.,09-12,2023-11-19T00:00:00+00:00
+Component,2.1.1.2.1.1,A1.NQ.B.3.a,"Identify, label and use appropriate units of measure within a problem.",09-12,2023-11-19T00:00:00+00:00
+Component,2.1.1.2.1.2,A1.NQ.B.3.b,Convert units and rates.,09-12,2023-11-19T00:00:00+00:00
+Component,2.1.1.2.1.3,A1.NQ.B.3.c,Use units within problems.,09-12,2023-11-19T00:00:00+00:00
+Component,2.1.1.2.1.4,A1.NQ.B.3.d,Choose and interpret the scale and the origin in graphs and data displays.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.1.2.2,A1.NQ.B.4,Define and use appropriate quantities for representing a given context or problem.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.1.2.3,A1.NQ.B.5,Choose a level of accuracy appropriate to limitations on measurement when reporting quantities.,09-12,2023-11-19T00:00:00+00:00
+Domain,2.1.2,,Seeing Structure in Expressions,09-12,2023-11-19T00:00:00+00:00
+Cluster,2.1.2.1,A1.SSE.A,Interpret and use structure.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.2.1.1,A1.SSE.A.1,Interpret the contextual meaning of individual terms or factors from a given problem that utilizes formulas or expressions.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.2.1.2,A1.SSE.A.2,Analyze the structure of polynomials to create equivalent expressions or equations.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.2.1.3,A1.SSE.A.3,Choose and produce equivalent forms of a quadratic expression or equations to reveal and explain properties.,09-12,2023-11-19T00:00:00+00:00
+Component,2.1.2.1.3.1,A1.SSE.A.3.a,Find the zeros of a quadratic function by rewriting it in factored form.,09-12,2023-11-19T00:00:00+00:00
+Component,2.1.2.1.3.2,A1.SSE.A.3.b,Find the maximum or minimum value of a quadratic function by completing the square.,09-12,2023-11-19T00:00:00+00:00
+Domain,2.1.3,,Creating Equations,09-12,2023-11-19T00:00:00+00:00
+Cluster,2.1.3.1,A1.CED.A,"Create equations that describe linear, quadratic and exponential relationships.",09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.3.1.1,A1.CED.A.1,Create equations and inequalities in one variable and use them to model and/or solve problems.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.3.1.2,A1.CED.A.2,"Create and graph linear, quadratic and exponential equations in two variables.",09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.3.1.3,A1.CED.A.3,"Represent constraints by equations or inequalities and by systems of equations or inequalities, and interpret the data points as a solution or non-solution in a modeling context.",09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.3.1.4,A1.CED.A.4,Solve literal equations and formulas for a specified variable that highlights a quantity of interest.,09-12,2023-11-19T00:00:00+00:00
+Domain,2.1.4,,Reasoning with Equations and Inequalities,09-12,2023-11-19T00:00:00+00:00
+Cluster,2.1.4.1,A1.REI.A,"Understand solving equations as a process, and solve equations and inequalities in one variable.",09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.4.1.1,A1.REI.A.1,Explain how each step taken when solving an equation or inequality in one variable creates an equivalent equation or inequality that has the same solution(s) as the original.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.4.1.2,A1.REI.A.2,Solve problems involving quadratic equations.,09-12,2023-11-19T00:00:00+00:00
+Component,2.1.4.1.2.1,A1.REI.A.2.a,Use the method of completing the square to create an equivalent quadratic equation.,09-12,2023-11-19T00:00:00+00:00
+Component,2.1.4.1.2.2,A1.REI.A.2.b,Derive the quadratic formula.,09-12,2023-11-19T00:00:00+00:00
+Component,2.1.4.1.2.3,A1.REI.A.2.c,Analyze different methods of solving quadratic equations.,09-12,2023-11-19T00:00:00+00:00
+Cluster,2.1.4.2,A1.REI.B,Solve systems of equations.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.4.2.1,A1.REI.B.3,Solve a system of linear equations algebraically and/or graphically.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.4.2.2,A1.REI.B.4,Solve a system consisting of a linear equation and a quadratic equation algebraically and/or graphically.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.4.2.3,A1.REI.B.5,Justify that the technique of linear combination produces an equivalent system of equations.,09-12,2023-11-19T00:00:00+00:00
+Cluster,2.1.4.3,A1.REI.C,Represent and solve linear and exponential equations and inequalities graphically.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.4.3.1,A1.REI.C.6,Explain that the graph of an equation in two variables is the set of all its solutions plotted in the Cartesian coordinate plane.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.4.3.2,A1.REI.C.7,Graph the solution to a linear inequality in two variables.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.4.3.3,A1.REI.C.8,Solve problems involving a system of linear inequalities.,09-12,2023-11-19T00:00:00+00:00
+Domain,2.1.5,,Arithmetic with Polynomials and Rational Expressions,09-12,2023-11-19T00:00:00+00:00
+Cluster,2.1.5.1,A1.APR.A,Perform operations on polynomials.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.5.1.1,A1.APR.A.1,"Add, subtract and multiply polynomials, and understand that polynomials follow the same general rules of arithmetic and are closed under these operations.",09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.5.1.2,A1.APR.A.2,Divide polynomials by monomials.,09-12,2023-11-19T00:00:00+00:00
+Domain,2.1.6,,Interpreting Functions,09-12,2023-11-19T00:00:00+00:00
+Cluster,2.1.6.1,A1.IF.A,Understand the concept of a function and use function notation.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.6.1.1,A1.IF.A.1,Understand that a function from one set (domain) to another set (range) assigns to each element of the domain exactly one element of the range.,09-12,2023-11-19T00:00:00+00:00
+Component,2.1.6.1.1.1,A1.IF.A.1.a,Represent a function using function notation.,09-12,2023-11-19T00:00:00+00:00
+Component,2.1.6.1.1.2,A1.IF.A.1.b,"Understand that the graph of a function labeled f is the set of all ordered pairs (x,y) that satisfy the equation y=f(x).",09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.6.1.2,A1.IF.A.2,"Use function notation to evaluate functions for inputs in their domains, and interpret statements that use function notation in terms of a context.",09-12,2023-11-19T00:00:00+00:00
+Cluster,2.1.6.2,A1.IF.B,"Interpret linear, quadratic and exponential functions in terms of the context.",09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.6.2.1,A1.IF.B.3,"Using tables, graphs and verbal descriptions, interpret key characteristics of a function that models the relationship between two quantities.",09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.6.2.2,A1.IF.B.4,"Relate the domain and range of a function to its graph and, where applicable, to the quantitative relationship it describes.",09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.6.2.3,A1.IF.B.5,Determine the average rate of change of a function over a specified interval and interpret the meaning.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.6.2.4,A1.IF.B.6,Interpret the parameters of a linear or exponential function in terms of the context.,09-12,2023-11-19T00:00:00+00:00
+Cluster,2.1.6.3,A1.IF.C,"Analyze linear, quadratic and exponential functions using different representations.",09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.6.3.1,A1.IF.C.7,Graph functions expressed symbolically and identify and interpret key features of the graph.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.6.3.2,A1.IF.C.8,Translate between different but equivalent forms of a function to reveal and explain properties of the function and interpret these in terms of a context.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.6.3.3,A1.IF.C.9,Compare the properties of two functions given different representations.,09-12,2023-11-19T00:00:00+00:00
+Domain,2.1.7,,Building Functions,09-12,2023-11-19T00:00:00+00:00
+Cluster,2.1.7.1,A1.BF.A,"Build new functions from existing functions (linear, quadratic and exponential).",09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.7.1.1,A1.BF.A.1,Analyze the effect of translations and scale changes on functions.,09-12,2023-11-19T00:00:00+00:00
+Domain,2.1.8,,"Linear, Quadratic and Exponential Models",09-12,2023-11-19T00:00:00+00:00
+Cluster,2.1.8.1,A1.LQE.A,"Construct and compare linear, quadratic and exponential models and solve problems.",09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.8.1.1,A1.LQE.A.1,Distinguish between situations that can be modeled with linear or exponential functions.,09-12,2023-11-19T00:00:00+00:00
+Component,2.1.8.1.1.1,A1.LQE.A.1.a,Determine that linear functions change by equal differences over equal intervals.,09-12,2023-11-19T00:00:00+00:00
+Component,2.1.8.1.1.2,A1.LQE.A.1.b,Recognize exponential situations in which a quantity grows or decays by a constant percent rate per unit interval.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.8.1.2,A1.LQE.A.2,"Describe, using graphs and tables, that a quantity increasing exponentially eventually exceeds a quantity increasing linearly or quadratically.",09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.8.1.3,A1.LQE.A.3,"Construct linear, quadratic and exponential equations given graphs, verbal descriptions or tables.",09-12,2023-11-19T00:00:00+00:00
+Cluster,2.1.8.2,A1.LQE.B,Use arithmetic and geometric sequences.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.8.2.1,A1.LQE.B.4,"Write arithmetic and geometric sequences in recursive and explicit forms, and use them to model situations and translate between the two forms.",09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.8.2.2,A1.LQE.B.5,"Recognize that sequences are functions, sometimes defined recursively, whose domain is a subset of the set of integers.",09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.8.2.3,A1.LQE.B.6,Find the terms of sequences given an explicit or recursive formula.,09-12,2023-11-19T00:00:00+00:00
+Domain,2.1.9,,Data and Statistical Analysis,09-12,2023-11-19T00:00:00+00:00
+Cluster,2.1.9.1,A1.DS.A,"Summarize, represent and interpret data.",09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.9.1.1,A1.DS.A.1,Analyze and interpret graphical displays of data.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.9.1.2,A1.DS.A.2,Use statistics appropriate to the shape of the data distribution to compare center and spread of two or more different data sets.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.9.1.3,A1.DS.A.3,"Interpret differences in shape, center and spreads in the context of the data sets, accounting for possible effects of outliers.",09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.9.1.4,A1.DS.A.4,Summarize data in two-way frequency tables.,09-12,2023-11-19T00:00:00+00:00
+Component,2.1.9.1.4.1,A1.DS.A.4.a,Interpret relative frequencies in the context of the data.,09-12,2023-11-19T00:00:00+00:00
+Component,2.1.9.1.4.2,A1.DS.A.4.b,Recognize possible associations and trends in the data.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.9.1.5,A1.DS.A.5,Construct a scatter plot of bivariate quantitative data describing how the variables are related; determine and use a function that models the relationship.,09-12,2023-11-19T00:00:00+00:00
+Component,2.1.9.1.5.1,A1.DS.A.5.a,Construct a linear function to model bivariate data represented on a scatter plot that minimizes residuals.,09-12,2023-11-19T00:00:00+00:00
+Component,2.1.9.1.5.2,A1.DS.A.5.b,Construct an exponential function to model bivariate data represented on a scatter plot that minimizes residuals.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.9.1.6,A1.DS.A.6,Interpret the slope (rate of change) and the y-intercept (constant term) of a linear model in the context of the data.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.9.1.7,A1.DS.A.7,Determine and interpret the correlation coefficient for a linear association.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.1.9.1.8,A1.DS.A.8,Distinguish between correlation and causation.,09-12,2023-11-19T00:00:00+00:00
+Course,2.2,,Geometry,09-12,2023-11-19T00:00:00+00:00
+Domain,2.2.1,,Congruence,09-12,2023-11-19T00:00:00+00:00
+Cluster,2.2.1.1,G.CO.A,Experiment with transformations in the plane.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.1.1.1,G.CO.A.1,"Define angle, circle, perpendicular line, parallel line, line segment and ray based on the undefined notions of point, line, distance along a line and distance around a circular arc.",09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.1.1.2,G.CO.A.2,"Represent transformations in the plane, and describe them as functions that take points in the plane as inputs and give other points as outputs.",09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.1.1.3,G.CO.A.3,Describe the rotational symmetry and lines of symmetry of two-dimensional figures.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.1.1.4,G.CO.A.4,"Develop definitions of rotations, reflections and translations in terms of angles, circles, perpendicular lines, parallel lines and line segments.",09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.1.1.5,G.CO.A.5,"Demonstrate the ability to rotate, reflect or translate a figure, and determine a possible sequence of transformations between two congruent figures.",09-12,2023-11-19T00:00:00+00:00
+Cluster,2.2.1.2,G.CO.B,Understand congruence in terms of rigid motions.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.1.2.1,G.CO.B.6,Develop the definition of congruence in terms of rigid motions.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.1.2.2,G.CO.B.7,Develop the criteria for triangle congruence from the definition of congruence in terms of rigid motions.,09-12,2023-11-19T00:00:00+00:00
+Cluster,2.2.1.3,G.CO.C,Prove geometric theorems.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.1.3.1,G.CO.C.10,Prove theorems about polygons.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.1.3.2,G.CO.C.8,Prove theorems about lines and angles.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.1.3.3,G.CO.C.9,Prove theorems about triangles.,09-12,2023-11-19T00:00:00+00:00
+Cluster,2.2.1.4,G.CO.D,Make geometric constructions.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.1.4.1,G.CO.D.11,Construct geometric figures using various tools and methods.,09-12,2023-11-19T00:00:00+00:00
+Domain,2.2.2,,"Similarity, Right Triangles and Trigonometry",09-12,2023-11-19T00:00:00+00:00
+Cluster,2.2.2.1,G.SRT.A,Understand similarity in terms of similarity transformations.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.2.1.1,G.SRT.A.1,Construct and analyze scale changes of geometric figures.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.2.1.2,G.SRT.A.2,Use the definition of similarity to decide if figures are similar and to solve problems involving similar figures.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.2.1.3,G.SRT.A.3,Use the properties of similarity transformations to establish the AA criterion for two triangles to be similar.,09-12,2023-11-19T00:00:00+00:00
+Cluster,2.2.2.2,G.SRT.B,Prove theorems involving similarity.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.2.2.1,G.SRT.B.4,Use congruence and similarity criteria for triangles to solve problems and to prove relationships in geometric figures.,09-12,2023-11-19T00:00:00+00:00
+Cluster,2.2.2.3,G.SRT.C,"Define trigonometric ratios, and solve problems involving right triangles.",09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.2.3.1,G.SRT.C.5,Understand that side ratios in right triangles define the trigonometric ratios for acute angles.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.2.3.2,G.SRT.C.6,Explain and use the relationship between the sine and cosine of complementary angles.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.2.3.3,G.SRT.C.7,Use trigonometric ratios and the Pythagorean Theorem to solve right triangles.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.2.3.4,G.SRT.C.8,Derive the formula A = 1/2 ab sin(C) for the area of a triangle.,09-12,2023-11-19T00:00:00+00:00
+Domain,2.2.3,,Circles,09-12,2023-11-19T00:00:00+00:00
+Cluster,2.2.3.1,G.C.A,Understand and apply theorems about circles.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.3.1.1,G.C.A.1,Prove that all circles are similar using similarity transformations.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.3.1.2,G.C.A.2,"Identify and describe relationships among inscribed angles, radii and chords of circles.",09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.3.1.3,G.C.A.3,"Construct the inscribed and circumscribed circles of a triangle, and prove properties of angles for a quadrilateral inscribed in a circle.",09-12,2023-11-19T00:00:00+00:00
+Cluster,2.2.3.2,G.C.B,Find arc lengths and areas of sectors of circles.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.3.2.1,G.C.B.4,Derive the formula for the length of an arc of a circle.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.3.2.2,G.C.B.5,Derive the formula for the area of a sector of a circle.,09-12,2023-11-19T00:00:00+00:00
+Domain,2.2.4,,Expressing Geometric Properties with Equations,09-12,2023-11-19T00:00:00+00:00
+Cluster,2.2.4.1,G.GPE.A,Translate between the geometric description and the equation for a conic section.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.4.1.1,G.GPE.A.1,Derive the equation of a circle.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.4.1.2,G.GPE.A.2,Derive the equation of a parabola given a focus and directrix.,09-12,2023-11-19T00:00:00+00:00
+Cluster,2.2.4.2,G.GPE.B,Use coordinates to prove geometric theorems algebraically.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.4.2.1,G.GPE.B.3,Use coordinates to prove geometric theorems algebraically.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.4.2.2,G.GPE.B.4,Prove the slope criteria for parallel and perpendicular lines and use them to solve problems.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.4.2.3,G.GPE.B.5,Find the point on a directed line segment between two given points that partitions the segment in a given ratio.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.4.2.4,G.GPE.B.6,Use coordinates to compute perimeters of polygons and areas of triangles and rectangles.,09-12,2023-11-19T00:00:00+00:00
+Domain,2.2.5,,Geometric Measurement and Dimension,09-12,2023-11-19T00:00:00+00:00
+Cluster,2.2.5.1,G.GMD.A,Explain volume formulas and use them to solve problems.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.5.1.1,G.GMD.A.1,"Give an informal argument for the formulas for the circumference of a circle, area of a circle, volume of a cylinder, pyramid and cone.",09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.5.1.2,G.GMD.A.2,"Use volume formulas for cylinders, pyramids, cones, spheres and composite figures to solve problems.",09-12,2023-11-19T00:00:00+00:00
+Cluster,2.2.5.2,G.GMD.B,Visualize relationships between two-dimensional and three-dimensional objects.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.5.2.1,G.GMD.B.3,Identify the shapes of two-dimensional cross-sections of three-dimensional objects.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.5.2.2,G.GMD.B.4,Identify three-dimensional objects generated by transformations of two-dimensional objects.,09-12,2023-11-19T00:00:00+00:00
+Domain,2.2.6,,Modeling with Geometry,09-12,2023-11-19T00:00:00+00:00
+Cluster,2.2.6.1,G.MG.A,Apply geometric concepts in modeling situations.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.6.1.1,G.MG.A.1,"Use geometric shapes, their measures and their properties to describe objects.",09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.6.1.2,G.MG.A.2,Apply concepts of density based on area and volume in modeling situations.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.6.1.3,G.MG.A.3,Apply geometric methods to solve design mathematical modeling problems.,09-12,2023-11-19T00:00:00+00:00
+Domain,2.2.7,,Conditional Probability and the Rules of Probability,09-12,2023-11-19T00:00:00+00:00
+Cluster,2.2.7.1,G.CP.A,Understand independence and conditional probability and use them to interpret data.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.7.1.1,G.CP.A.1,"Describe events as subsets of a sample space using characteristics of the outcomes, or as unions, intersections or complements of other events.",09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.7.1.2,G.CP.A.2,Understand the definition of independent events and use it to solve problems.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.7.1.3,G.CP.A.3,Calculate conditional probabilities of events.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.7.1.4,G.CP.A.4,Construct and interpret two-way frequency tables of data when two categories are associated with each object being classified. Use the two-way table as a sample space to decide if events are independent and to approximate conditional probabilities.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.7.1.5,G.CP.A.5,Recognize and explain the concepts of conditional probability and independence in a context.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.7.1.6,G.CP.A.6,Apply and interpret the Addition Rule for calculating probabilities.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.7.1.7,G.CP.A.7,Apply and Interpret the general Multiplication Rule in a uniform probability model.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.2.7.1.8,G.CP.A.8,Use permutations and combinations to solve problems.,09-12,2023-11-19T00:00:00+00:00
+Course,2.3,,Algebra 2,09-12,2023-11-19T00:00:00+00:00
+Domain,2.3.1,,Number and Quantity,09-12,2023-11-19T00:00:00+00:00
+Cluster,2.3.1.1,A2.NQ.A,Extend and use the relationship between rational exponents and radicals.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.3.1.1.1,A2.NQ.A.1,Extend the system of powers and roots to include rational exponents.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.3.1.1.2,A2.NQ.A.2,Create and recognize equivalent expressions involving radical and exponential forms of expressions.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.3.1.1.3,A2.NQ.A.3,"Add, subtract, multiply and divide radical expressions.",09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.3.1.1.4,A2.NQ.A.4,Solve equations involving rational exponents and/or radicals and identify situations where extraneous solutions may result.,09-12,2023-11-19T00:00:00+00:00
+Cluster,2.3.1.2,A2.NQ.B,Use complex numbers.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.3.1.2.1,A2.NQ.B.5,Represent complex numbers.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.3.1.2.2,A2.NQ.B.6,"Add, subtract, multiply and divide complex numbers.",09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.3.1.2.3,A2.NQ.B.7,Know and apply the Fundamental Theorem of Algebra.,09-12,2023-11-19T00:00:00+00:00
+Domain,2.3.2,,Seeing Structure in Expressions,09-12,2023-11-19T00:00:00+00:00
+Cluster,2.3.2.1,A2.SSE.A,Define and use logarithms.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.3.2.1.1,A2.SSE.A.1,Develop the definition of logarithms based on properties of exponents.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.3.2.1.2,A2.SSE.A.2,Use the inverse relationship between exponents and logarithms to solve exponential and logarithmic equations.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.3.2.1.3,A2.SSE.A.3,Use properties of logarithms to solve equations or find equivalent expressions.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.3.2.1.4,A2.SSE.A.4,"Understand why logarithmic scales are used, and use them to solve problems.",09-12,2023-11-19T00:00:00+00:00
+Domain,2.3.3,,Reasoning with Equations and Inequalities,09-12,2023-11-19T00:00:00+00:00
+Cluster,2.3.3.1,A2.REI.A,Solve equations and inequalities.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.3.3.1.1,A2.REI.A.1,"Create and solve equations and inequalities, including those that involve absolute value.",09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.3.3.1.2,A2.REI.A.2,Solve rational equations where numerators and denominators are polynomials and where extraneous solutions may result.,09-12,2023-11-19T00:00:00+00:00
+Cluster,2.3.3.2,A2.REI.B,Solve general systems of equations and inequalities.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.3.3.2.1,A2.REI.B.3,Create and solve systems of equations that may include non-linear equations and inequalities.,09-12,2023-11-19T00:00:00+00:00
+Domain,2.3.4,,Arithmetic with Polynomials and Rational Expressions,09-12,2023-11-19T00:00:00+00:00
+Cluster,2.3.4.1,A2.APR.A,Perform operations on polynomials and rational expressions.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.3.4.1.1,A2.APR.A.1,Extend the knowledge of factoring to include factors with complex coefficients.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.3.4.1.2,A2.APR.A.2,Understand the Remainder Theorem and use it to solve problems.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.3.4.1.3,A2.APR.A.3,Find the least common multiple of two or more polynomials.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.3.4.1.4,A2.APR.A.4,"Add, subtract, multiply and divide rational expressions.",09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.3.4.1.5,A2.APR.A.5,"Identify zeros of polynomials when suitable factorizations are available, and use the zeros to sketch the function defined by the polynomial.",09-12,2023-11-19T00:00:00+00:00
+Domain,2.3.5,,Interpreting Functions,09-12,2023-11-19T00:00:00+00:00
+Cluster,2.3.5.1,A2.IF.A,Use and interpret functions.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.3.5.1.1,A2.IF.A.1,"Identify and interpret key characteristics of functions represented graphically, with tables and with algebraic symbolism to solve problems.",09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.3.5.1.2,A2.IF.A.2,Translate between equivalent forms of functions.,09-12,2023-11-19T00:00:00+00:00
+Domain,2.3.6,,Building Functions,09-12,2023-11-19T00:00:00+00:00
+Cluster,2.3.6.1,A2.BF.A,Create new functions from existing functions.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.3.6.1.1,A2.BF.A.1,Create new functions by applying the four arithmetic operations and composition of functions (modifying the domain and range as necessary).,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.3.6.1.2,A2.BF.A.2,"Derive inverses of functions, and compose the inverse with the original function to show that the functions are inverses.",09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.3.6.1.3,A2.BF.A.3,"Describe the effects of transformations algebraically and graphically, creating vertical and horizontal translations, vertical and horizontal reflections and dilations (expansions/compressions) for linear, quadratic, cubic, square and cube root, absolute value, exponential and logarithmic functions.",09-12,2023-11-19T00:00:00+00:00
+Domain,2.3.7,,Function Modeling,09-12,2023-11-19T00:00:00+00:00
+Cluster,2.3.7.1,A2.FM.A,Use functions to model real-world problems.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.3.7.1.1,A2.FM.A.1,Create functions and use them to solve applications of quadratic and exponential function modeling problems.,09-12,2023-11-19T00:00:00+00:00
+Domain,2.3.8,,Data and Statistical Analysis,09-12,2023-11-19T00:00:00+00:00
+Cluster,2.3.8.1,A2.DS.A,Make inferences and justify conclusions.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.3.8.1.1,A2.DS.A.1,Analyze how random sampling could be used to make inferences about population parameters.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.3.8.1.2,A2.DS.A.2,Determine whether a specified model is consistent with a given data set.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.3.8.1.3,A2.DS.A.3,"Describe and explain the purposes, relationship to randomization and differences, among sample surveys, experiments and observational studies.",09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.3.8.1.4,A2.DS.A.4,Use data from a sample to estimate characteristics of the population and recognize the meaning of the margin of error in these estimates.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.3.8.1.5,A2.DS.A.5,Describe and explain how the relative sizes of a sample and the population affect the margin of error of predictions.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.3.8.1.6,A2.DS.A.6,Analyze decisions and strategies using probability concepts.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.3.8.1.7,A2.DS.A.7,Evaluate reports based on data.,09-12,2023-11-19T00:00:00+00:00
+Cluster,2.3.8.2,A2.DS.B,Fit a data set to a normal distribution.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.3.8.2.1,A2.DS.B.8,Know and use the characteristics of normally distributed data sets; predict what percentage of the data will be above or below a given value that is a multiple of standard deviations above or below the mean.,09-12,2023-11-19T00:00:00+00:00
+Grade-Level Expectation,2.3.8.2.2,A2.DS.B.9,Fit a data set to a distribution using its mean and standard deviation to determine whether the data is approximately normally distributed.,09-12,2023-11-19T00:00:00+00:00

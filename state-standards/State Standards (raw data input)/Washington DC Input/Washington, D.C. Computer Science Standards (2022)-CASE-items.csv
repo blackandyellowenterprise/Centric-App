@@ -1,0 +1,271 @@
+﻿Item Type,Sequence,Human Code,Full Statement,Ed. Level,Last Modified
+Course,1,,Fundamentals of Computer Science,09-12,2025-04-08T13:14:47+00:00
+Standard,1.1,FCS.A,**Creativity and innovation** The student develops products and generates new understanding by extending existing knowledge.,09-12,2025-04-08T13:14:47+00:00
+Indicator,1.1.1,FCS.A.1,*The student is expected to* investigate and explore various career opportunities within the computer science field and report findings through various media.,09-12,2025-04-08T13:14:47+00:00
+Indicator,1.1.2,FCS.A.2,"*The student is expected to* create and publish interactive stories, games, and animations.",09-12,2025-04-08T13:14:47+00:00
+Indicator,1.1.3,FCS.A.3,*The student is expected to* create and publish interactive animations.,09-12,2025-04-08T13:14:47+00:00
+Indicator,1.1.4,FCS.A.4,*The student is expected to* create algorithms for the solution of various problems.,09-12,2025-04-08T13:14:47+00:00
+Indicator,1.1.5,FCS.A.5,*The student is expected to* create web pages using a mark-up language.,09-12,2025-04-08T13:14:47+00:00
+Indicator,1.1.6,FCS.A.6,*The student is expected to* use the Internet to create and publish solutions.,09-12,2025-04-08T13:14:47+00:00
+Indicator,1.1.7,FCS.A.7,*The student is expected to* design creative and effective user interfaces.,09-12,2025-04-08T13:14:47+00:00
+Standard,1.2,FCS.B,**Communication and collaboration** The student communicates and collaborates with peers to contribute to his or her own learning and the learning of others.,09-12,2025-04-08T13:14:47+00:00
+Indicator,1.2.1,FCS.B.1,*The student is expected to* seek and respond to advice from peers and professionals in evaluating problem solutions.,09-12,2025-04-08T13:14:47+00:00
+Indicator,1.2.2,FCS.B.2,*The student is expected to* debug and solve problems using reference materials and effective strategies.,09-12,2025-04-08T13:14:47+00:00
+Indicator,1.2.3,FCS.B.3,"*The student is expected to* publish information in a variety of ways such as print, monitor display, web pages, and video.",09-12,2025-04-08T13:14:47+00:00
+Standard,1.3,FCS.C,**The student develops technology skills**,09-12,2025-04-08T13:14:47+00:00
+Indicator,1.3.1,FCS.C.1,"*The student is expected to* use technology as a tool to research, organize, evaluate, and communicate information.",09-12,2025-04-08T13:14:47+00:00
+Indicator,1.3.2,FCS.C.2,"*The student is expected to* use digital technologies (computers, PDAs, media players, GPSs, etc.), communication/networking tools, and social networks appropriately to access, manage, integrate, evaluate, and create information to successfully function in a knowledge economy.",09-12,2025-04-08T13:14:47+00:00
+Indicator,1.3.3,FCS.C.3,"*The student is expected to* demonstrate utilizing current and new technologies specific to the program of study, course, and/or industry.",09-12,2025-04-08T13:14:47+00:00
+Indicator,1.3.4,FCS.C.4,*The student is expected to* apply a fundamental understanding of the ethical/legal issues surrounding the access and use of information technologies.,09-12,2025-04-08T13:14:47+00:00
+Standard,1.4,FCS.D,"**Research and information fluency** The student locates, analyzes, processes, and organizes data.",09-12,2025-04-08T13:14:47+00:00
+Indicator,1.4.1,FCS.D.1,*The student is expected to* construct appropriate electronic search strategies.,09-12,2025-04-08T13:14:47+00:00
+Indicator,1.4.2,FCS.D.2,"*The student is expected to* use a variety of resources, including other subject areas, together with various productivity tools to gather authentic data as a basis for individual and group programming projects.",09-12,2025-04-08T13:14:47+00:00
+Standard,1.5,FCS.E,"**Critical thinking, problem-solving, and decision-making** The student uses appropriate strategies to analyze problems and design algorithms.",09-12,2025-04-08T13:14:47+00:00
+Indicator,1.5.1,FCS.E.1,*The student is expected to* demonstrate the ability to insert applets into web pages.,09-12,2025-04-08T13:14:47+00:00
+Indicator,1.5.2,FCS.E.2,"*The student is expected to* find, download, and insert scripting code into web pages to enhance interactivity.",09-12,2025-04-08T13:14:47+00:00
+Indicator,1.5.3,FCS.E.3,"*The student is expected to* understand binary representation of data in computer systems, perform conversions between decimal and binary number systems, and count in binary number systems.",09-12,2025-04-08T13:14:47+00:00
+Indicator,1.5.4,FCS.E.4,"*The student is expected to* read and define a problem's description, purpose, and goals.",09-12,2025-04-08T13:14:47+00:00
+Indicator,1.5.5,FCS.E.5,"*The student is expected to* demonstrate coding proficiency in a contemporary programming language by developing solutions that create stories, games, and animations.",09-12,2025-04-08T13:14:47+00:00
+Indicator,1.5.6,FCS.E.6,"*The student is expected to* choose, identify, and use the appropriate data type to properly represent data in a problem solution.",09-12,2025-04-08T13:14:47+00:00
+Indicator,1.5.7,FCS.E.7,"*The student is expected to* demonstrate an understanding of and use variables within a programmed story, game, or animation.",09-12,2025-04-08T13:14:47+00:00
+Indicator,1.5.8,FCS.E.8,"*The student is expected to* demonstrate proficiency in the use of arithmetic operators to create mathematical expressions, including addition, subtraction, multiplication, real division, integer division, and modulus division.",09-12,2025-04-08T13:14:47+00:00
+Indicator,1.5.9,FCS.E.9,"*The student is expected to* demonstrate an understanding of and use sequence within a programmed story, game, or animation.",09-12,2025-04-08T13:14:47+00:00
+Indicator,1.5.10,FCS.E.10,"*The student is expected to* demonstrate an understanding of and use conditional statements within a programmed story, game, or animation.",09-12,2025-04-08T13:14:47+00:00
+Indicator,1.5.11,FCS.E.11,"*The student is expected to* demonstrate an understanding of and use iteration within a programmed story, game, or animation.",09-12,2025-04-08T13:14:47+00:00
+Indicator,1.5.12,FCS.E.12,"*The student is expected to* create an interactive story, game, or animation.",09-12,2025-04-08T13:14:47+00:00
+Indicator,1.5.13,FCS.E.13,"*The student is expected to* use random numbers within a programmed story, game, or animation.",09-12,2025-04-08T13:14:47+00:00
+Indicator,1.5.14,FCS.E.14,*The student is expected to* test program solutions by investigating valid and invalid data.,09-12,2025-04-08T13:14:47+00:00
+Standard,1.6,FCS.F,"**Digital citizenship** The student explores and understands safety, legal, cultural, and societal issues relating to the use of technology and information.",09-12,2025-04-08T13:14:47+00:00
+Indicator,1.6.1,FCS.F.1,*The student is expected to* discuss copyright laws/issues and model ethical acquisition of digital information by citing sources using established methods.,09-12,2025-04-08T13:14:47+00:00
+Indicator,1.6.2,FCS.F.2,"*The student is expected to* demonstrate proper digital etiquette and knowledge of acceptable use policies when using networks, especially resources on the Internet and on intranets.",09-12,2025-04-08T13:14:47+00:00
+Indicator,1.6.3,FCS.F.3,*The student is expected to* investigate measures such as passwords or virus detection/prevention to protect computer systems and databases from unauthorized use and tampering.,09-12,2025-04-08T13:14:47+00:00
+Indicator,1.6.4,FCS.F.4,*The student is expected to* understand the safety risks associated with the use of social networking sites.,09-12,2025-04-08T13:14:47+00:00
+Indicator,1.6.5,FCS.F.5,*The student is expected to* discuss the impact of computing and computing-related advancements on society.,09-12,2025-04-08T13:14:47+00:00
+Indicator,1.6.6,FCS.F.6,*The student is expected to* determine the reliability of information available through electronic media.,09-12,2025-04-08T13:14:47+00:00
+Standard,1.7,FCS.G,"**Technology operations and concepts** The student understands technology concepts, systems, and operations as they apply to computer science.",09-12,2025-04-08T13:14:47+00:00
+Indicator,1.7.1,FCS.G.1,"*The student is expected to* demonstrate knowledge of the basic computer components, including a central processing unit (CPU), storage, and input/output devices.",09-12,2025-04-08T13:14:47+00:00
+Indicator,1.7.2,FCS.G.2,"*The student is expected to* use operating system tools, including appropriate file management.",09-12,2025-04-08T13:14:47+00:00
+Indicator,1.7.3,FCS.G.3,*The student is expected to* demonstrate knowledge and appropriate use of different operating systems.,09-12,2025-04-08T13:14:47+00:00
+Indicator,1.7.4,FCS.G.4,*The student is expected to* demonstrate knowledge and understanding of basic network connectivity.,09-12,2025-04-08T13:14:47+00:00
+Indicator,1.7.5,FCS.G.5,"*The student is expected to* describe, compare, and contrast the differences between an application and an operating system.",09-12,2025-04-08T13:14:47+00:00
+Indicator,1.7.6,FCS.G.6,"*The student is expected to* compare, contrast, and appropriately use various input, processing, output, and primary/secondary storage devices.",09-12,2025-04-08T13:14:47+00:00
+Standard,1.8,FCS.H,**The student develops technology skills**,09-12,2025-04-08T13:14:47+00:00
+Indicator,1.8.1,FCS.H.1,"*The student is expected to* use technology as a tool to research, organize, evaluate, and communicate information.",09-12,2025-04-08T13:14:47+00:00
+Indicator,1.8.2,FCS.H.2,"*The student is expected to* use digital technologies (computers, PDAs, media players, GPSs, etc.); communication/networking tools, and social networks appropriately to access, manage, integrate, evaluate, and create information to function in a knowledge economy successfully.",09-12,2025-04-08T13:14:47+00:00
+Indicator,1.8.3,FCS.H.3,"*The student is expected to* demonstrate using current and new technologies specific to the program of study, course, and/or industry.",09-12,2025-04-08T13:14:47+00:00
+Indicator,1.8.4,FCS.H.4,*The student is expected to* apply a fundamental understanding of the ethical/legal issues surrounding the access and use of information technologies.,09-12,2025-04-08T13:14:47+00:00
+Course,2,,Computer Science I,09-12,2025-04-08T13:14:47+00:00
+Standard,2.1,CS1.A,**Creativity and innovation** The student develops products and generates new understandings by extending existing knowledge.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.1.1,CS1.A.1,"*The student is expected to* participate with electronic communities as a learner, initiator, contributor, and teacher/mentor.",09-12,2025-04-08T13:14:47+00:00
+Indicator,2.1.2,CS1.A.2,*The student is expected to* extend the learning environment beyond the school walls with digital products created to increase teaching and learning in the other subject areas.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.1.3,CS1.A.3,"*The student is expected to* participate in relevant, meaningful activities in the larger community and society to create electronic projects.",09-12,2025-04-08T13:14:47+00:00
+Standard,2.2,CS1.B,**Communication and collaboration** The student communicates and collaborates with peers to contribute to his or her own learning and the learning of others.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.2.1,CS1.B.1,*The student is expected to* create and properly display meaningful output.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.2.2,CS1.B.2,"*The student is expected to* create interactive console display interfaces, with appropriate user prompts, to acquire data from a user.",09-12,2025-04-08T13:14:47+00:00
+Indicator,2.2.3,CS1.B.3,*The student is expected to* use Graphical User Interfaces (GUIs) to create interactive interfaces to acquire data from a user and display program results.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.2.4,CS1.B.4,"*The student is expected to* write programs with proper programming style to enhance the readability and functionality of the code by using meaningful descriptive identifiers, internal comments, white space, spacing, indentation, and a standardized program style.",09-12,2025-04-08T13:14:47+00:00
+Indicator,2.2.5,CS1.B.5,*The student is expected to* improve numeric display by optimizing data visualization.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.2.6,CS1.B.6,"*The student is expected to* display simple vector graphics using lines, circles, and rectangles.",09-12,2025-04-08T13:14:47+00:00
+Indicator,2.2.7,CS1.B.7,*The student is expected to* display simple bitmap images.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.2.8,CS1.B.8,*The student is expected to* seek and respond to advice from peers and professionals in evaluating quality and accuracy.,09-12,2025-04-08T13:14:47+00:00
+Standard,2.3,CS1.C,"**Research and information fluency** The student locates, analyzes, processes, and organizes data.",09-12,2025-04-08T13:14:47+00:00
+Indicator,2.3.1,CS1.C.1,"*The student is expected to* use a variety of resources, including foundation and enrichment curricula, to gather authentic data as a basis for individual and group programming projects.",09-12,2025-04-08T13:14:47+00:00
+Indicator,2.3.2,CS1.C.2,*The student is expected to* use various productivity tools to gather authentic data as a basis for individual and group programming projects.,09-12,2025-04-08T13:14:47+00:00
+Standard,2.4,CS1.D,"**Critical thinking, problem solving, and decision making** The student uses appropriate strategies to analyze problems and design algorithms.",09-12,2025-04-08T13:14:47+00:00
+Indicator,2.4.1,CS1.D.1,*The student is expected to* use program design problem-solving strategies to create program solutions.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.4.2,CS1.D.2,*The student is expected to* define and specify the purpose and goals of solving a problem.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.4.3,CS1.D.3,*The student is expected to* identify the subtasks needed to solve a problem.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.4.4,CS1.D.4,*The student is expected to* identify the data types and objects needed to solve a problem.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.4.5,CS1.D.5,*The student is expected to* identify reusable components from existing code.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.4.6,CS1.D.6,*The student is expected to* design a solution to a problem.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.4.7,CS1.D.7,*The student is expected to* code a solution from a program design.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.4.8,CS1.D.8,*The student is expected to* identify and debug errors.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.4.9,CS1.D.9,*The student is expected to* test program solutions with appropriate valid and invalid test data for correctness.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.4.10,CS1.D.10,"*The student is expected to* debug and solve problems using error messages, reference materials, language documentation, and effective strategies.",09-12,2025-04-08T13:14:47+00:00
+Indicator,2.4.11,CS1.D.11,"*The student is expected to* explore common algorithms, including finding greatest common divisor, finding the biggest number out of three, finding primes, making change, and finding the average.",09-12,2025-04-08T13:14:47+00:00
+Indicator,2.4.12,CS1.D.12,*The student is expected to* analyze and modify existing code to improve the underlying algorithm.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.4.13,CS1.D.13,"*The student is expected to* create program solutions that exhibit robust behavior by understanding, avoiding, and preventing runtime errors, including division by zero and type mismatch.",09-12,2025-04-08T13:14:47+00:00
+Indicator,2.4.14,CS1.D.14,*The student is expected to* select the most appropriate algorithm for a defined problem.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.4.15,CS1.D.15,"*The student is expected to* demonstrate proficiency in the use of the arithmetic operators to create mathematical expressions, including addition, subtraction, multiplication, real division, integer division, and modulus division.",09-12,2025-04-08T13:14:47+00:00
+Indicator,2.4.16,CS1.D.16,"*The student is expected to* create program solutions to problems using available mathematics libraries, including absolute value, round, power, square, and square root.",09-12,2025-04-08T13:14:47+00:00
+Indicator,2.4.17,CS1.D.17,*The student is expected to* develop program solutions that use assignment.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.4.18,CS1.D.18,*The student is expected to* develop sequential algorithms to solve non-branching and non-iterative problems.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.4.19,CS1.D.19,*The student is expected to* develop algorithms to decision-making problems using branching control statements.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.4.20,CS1.D.20,*The student is expected to* develop iterative algorithms and code programs to solve practical problems,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.4.21,CS1.D.21,*The student is expected to* demonstrate proficiency in the use of the relational operators.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.4.22,CS1.D.22,*The student is expected to* demonstrate proficiency in the use of the logical operators.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.4.23,CS1.D.23,*The student is expected to* generate and use random numbers.,09-12,2025-04-08T13:14:47+00:00
+Standard,2.5,CS1.E,"**Digital citizenship** The student explores and understands safety, legal, cultural, and societal issues relating to the use of technology and information.",09-12,2025-04-08T13:14:47+00:00
+Indicator,2.5.1,CS1.E.1,"*The student is expected to* discuss intellectual property, privacy, sharing of information, copyright laws, and software licensing agreements.",09-12,2025-04-08T13:14:47+00:00
+Indicator,2.5.2,CS1.E.2,*The student is expected to* model ethical acquisition and use of digital information.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.5.3,CS1.E.3,"*The student is expected to* demonstrate proper digital etiquette, responsible use of software, and knowledge of acceptable use policies.",09-12,2025-04-08T13:14:47+00:00
+Indicator,2.5.4,CS1.E.4,"*The student is expected to* investigate measures, including passwords and virus detection/prevention, to protect computer systems and databases from unauthorized use and tampering.",09-12,2025-04-08T13:14:47+00:00
+Indicator,2.5.5,CS1.E.5,*The student is expected to* investigate how technology has changed and the social and ethical ramifications of computer usage.,09-12,2025-04-08T13:14:47+00:00
+Standard,2.6,CS1.F,"**Technology operations, systems, and concepts** The student understands technology concepts, systems, and operations as they apply to computer science.",09-12,2025-04-08T13:14:47+00:00
+Indicator,2.6.1,CS1.F.1,"*The student is expected to* compare and contrast types of operating systems, software applications, and programming languages.",09-12,2025-04-08T13:14:47+00:00
+Indicator,2.6.2,CS1.F.2,"*The student is expected to* demonstrate knowledge of major hardware components, including primary and secondary memory, a central processing unit (CPU), and peripherals.",09-12,2025-04-08T13:14:47+00:00
+Indicator,2.6.3,CS1.F.3,"*The student is expected to* differentiate among current programming languages, discuss the use of those languages in other fields of study, and demonstrate knowledge of specific programming terminology and concepts.",09-12,2025-04-08T13:14:47+00:00
+Indicator,2.6.4,CS1.F.4,*The student is expected to* differentiate between a high-level compiled language and an interpreted language.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.6.5,CS1.F.5,*The student is expected to* understand concepts of object-oriented design.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.6.6,CS1.F.6,*The student is expected to* use local and global scope access variable declarations.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.6.7,CS1.F.7,*The student is expected to* encapsulate data and associated subroutines into an abstract data type.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.6.8,CS1.F.8,*The student is expected to* create subroutines that do not return values with and without the use of arguments and parameters.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.6.9,CS1.F.9,*The student is expected to* create subroutines that return typed values with and without the use of arguments and parameters.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.6.10,CS1.F.10,*The student is expected to* understand and identify the data-binding process between arguments and parameters.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.6.11,CS1.F.11,*The student is expected to* compare objects using reference values and a comparison routine.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.6.12,CS1.F.12,*The student is expected to* understand the binary representation of numeric and nonnumeric data in computer systems.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.6.13,CS1.F.13,*The student is expected to* understand the finite limits of numeric data.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.6.14,CS1.F.14,*The student is expected to* perform numerical conversions between the decimal and binary number systems and count in the binary number system.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.6.15,CS1.F.15,"*The student is expected to* choose, identify, and use the appropriate data types for integer, real, and Boolean data when writing program solutions.",09-12,2025-04-08T13:14:47+00:00
+Indicator,2.6.16,CS1.F.16,*The student is expected to* demonstrate an understanding of the concept of a variable.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.6.17,CS1.F.17,*The student is expected to* demonstrate an understanding of and use reference variables for objects.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.6.18,CS1.F.18,"*The student is expected to* demonstrate an understanding of how to represent and manipulate text data, including concatenation and other string functions.",09-12,2025-04-08T13:14:47+00:00
+Indicator,2.6.19,CS1.F.19,*The student is expected to* demonstrate an understanding of the concept of scope.,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.6.20,CS1.F.20,"*The student is expected to* identify and use the structured data type of one-dimensional arrays to traverse, search, and modify data.",09-12,2025-04-08T13:14:47+00:00
+Indicator,2.6.21,CS1.F.21,"*The student is expected to* choose, identify, and use the appropriate data type and structure to properly represent the data in a program problem solution.",09-12,2025-04-08T13:14:47+00:00
+Indicator,2.6.22,CS1.F.22,*The student is expected to* compare and contrast strongly typed and un-typed programming languages.,09-12,2025-04-08T13:14:47+00:00
+Standard,2.7,CS1.G,**The student develops technology skills**,09-12,2025-04-08T13:14:47+00:00
+Indicator,2.7.1,CS1.G.1,"*The student is expected to* use technology as a tool to research, organize, evaluate, and communicate information.",09-12,2025-04-08T13:14:47+00:00
+Indicator,2.7.2,CS1.G.2,"*The student is expected to* use digital technologies (computers, PDAs, media players, GPSs, etc.); communication/networking tools, and social networks appropriately to access, manage, integrate, evaluate, and create information to function in a knowledge economy successfully.",09-12,2025-04-08T13:14:47+00:00
+Indicator,2.7.3,CS1.G.3,"*The student is expected to* demonstrate using current and new technologies specific to the program of study, course, and/or industry.",09-12,2025-04-08T13:14:47+00:00
+Indicator,2.7.4,CS1.G.4,*The student is expected to* apply a fundamental understanding of the ethical/legal issues surrounding the access and use of information technologies.,09-12,2025-04-08T13:14:47+00:00
+Course,3,,Computer Science II,10-12,2025-04-08T13:15:03+00:00
+Standard,3.1,CS2.A,**Creativity and innovation** The student develops products and generates new understandings by extending existing knowledge.,10-12,2025-04-08T13:15:03+00:00
+Indicator,3.1.1,CS2.A.1,*The student is expected to* use program design problem-solving strategies to create program solutions.,10-12,2025-04-08T13:15:03+00:00
+Indicator,3.1.2,CS2.A.2,"*The student is expected to* demonstrate the ability to read and modify large programs, including the design description and process development.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.1.3,CS2.A.3,"*The student is expected to* follow the systematic problem-solving process of identifying the specifications of purpose and goals, the data types and objects needed, and the subtasks to be performed.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.1.4,CS2.A.4,"*The student is expected to* compare and contrast design methodologies and implementation techniques such as top-down, bottom-up, and black box.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.1.5,CS2.A.5,"*The student is expected to* analyze, modify, and evaluate existing code by performing a case study on a large program, including inheritance and black box programming.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.1.6,CS2.A.6,*The student is expected to* identify the data types and objects needed to solve a problem.,10-12,2025-04-08T13:15:03+00:00
+Indicator,3.1.7,CS2.A.7,"*The student is expected to* choose, identify, and use the appropriate abstract data type, advanced data structure, and supporting algorithms to properly represent the data in a program problem solution.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.1.8,CS2.A.8,"*The student is expected to* use object-oriented programming development methodology, data abstraction, encapsulation with information hiding, and procedural abstraction in program development and testing.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.1.9,CS2.A.9,"*The student is expected to* create, edit, and manipulate bitmap images that are used to enhance user interfaces and program functionality.",10-12,2025-04-08T13:15:03+00:00
+Standard,3.2,CS2.B,**Communication and collaboration** The student communicates and collaborates with peers to contribute to his or her own learning and the learning of others.,10-12,2025-04-08T13:15:03+00:00
+Indicator,3.2.1,CS2.B.1,"*The student is expected to* use the principles of software engineering to work in software design teams, break a problem statement into specific solution requirements, create a program development plan, code part of a solution from a program development plan while a partner codes the remaining part, team test the solution for correctness, and develop presentations to report the solution findings.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.2.2,CS2.B.2,*The student is expected to* create interactive console display interfaces with appropriate user prompts.,10-12,2025-04-08T13:15:03+00:00
+Indicator,3.2.3,CS2.B.3,*The student is expected to* create interactive human interfaces to acquire data from a user and display program results using an advanced Graphical User Interface (GUI).,10-12,2025-04-08T13:15:03+00:00
+Indicator,3.2.4,CS2.B.4,"*The student is expected to* write programs and communicate with proper programming style to enhance the readability and functionality of the code by using meaningful descriptive identifiers, internal comments, white space, indentation, and a standardized program style.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.2.5,CS2.B.5,*The student is expected to* improve data display by optimizing data visualization.,10-12,2025-04-08T13:15:03+00:00
+Indicator,3.2.6,CS2.B.6,*The student is expected to* display simple vector graphics to interpret and display program results; an,10-12,2025-04-08T13:15:03+00:00
+Indicator,3.2.7,CS2.B.7,*The student is expected to* display simple bitmap images.,10-12,2025-04-08T13:15:03+00:00
+Standard,3.3,CS2.C,"**Research and information fluency** The student locates, analyzes, processes, and organizes data.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.3.1,CS2.C.1,"*The student is expected to* use local area networks (LANs) and wide area networks (WANs), including the Internet and intranets, in research, file management, and collaboration.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.3.2,CS2.C.2,*The student is expected to* understand programming file structure and file access for required resources.,10-12,2025-04-08T13:15:03+00:00
+Indicator,3.3.3,CS2.C.3,"*The student is expected to* acquire and process information from text files, including files of known and unknown sizes.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.3.4,CS2.C.4,*The student is expected to* manipulate data structures using string processing.,10-12,2025-04-08T13:15:03+00:00
+Indicator,3.3.5,CS2.C.5,*The student is expected to* manipulate data values by casting between data types.,10-12,2025-04-08T13:15:03+00:00
+Indicator,3.3.6,CS2.C.6,"*The student is expected to* identify and use the structured data type of one-dimensional arrays to traverse, search, modify, insert, and delete data.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.3.7,CS2.C.7,"*The student is expected to* identify and use the structured data type of two-dimensional arrays to traverse, search, modify, insert, and delete data.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.3.8,CS2.C.8,"*The student is expected to* identify and use a list object data structure to traverse, search, insert, and delete data.",10-12,2025-04-08T13:15:03+00:00
+Standard,3.4,CS2.D,"**Critical thinking, problem solving, and decision making** The student uses appropriate strategies to analyze problems and design algorithms.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.1,CS2.D.1,"*The student is expected to* develop sequential algorithms using branching control statements, including nested structures, to create solutions to decision-making problems.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.2,CS2.D.2,*The student is expected to* develop choice algorithms using selection control statements based on ordinal values.,10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.3,CS2.D.3,*The student is expected to* demonstrate proficiency in the use of short-circuit evaluation.,10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.4,CS2.D.4,"*The student is expected to* demonstrate proficiency in the use of Boolean algebra, including De Morgan's Law.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.5,CS2.D.5,*The student is expected to* develop iterative algorithms using nested loops.,10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.6,CS2.D.6,"*The student is expected to* identify, trace, and appropriately use recursion in programming solutions, including algebraic computations.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.7,CS2.D.7,"*The student is expected to* design, construct, evaluate, and compare search algorithms, including linear searching and binary searching.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.8,CS2.D.8,"*The student is expected to* identify, describe, design, create, evaluate, and compare standard sorting algorithms, including selection sort, bubble sort, insertion sort, and merge sort.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.9,CS2.D.9,*The student is expected to* measure time/space efficiency of various sorting algorithms.,10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.10,CS2.D.10,"*The student is expected to* compare and contrast search and sort algorithms, including linear, quadratic, and recursive strategies, for time/space efficiency.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.11,CS2.D.11,"*The student is expected to* analyze algorithms using ""big-O"" notation for best, average, and worst-case data patterns.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.12,CS2.D.12,"*The student is expected to* develop algorithms to solve various problems, including factoring, summing a series, finding the roots of a quadratic equation, and generating Fibonacci numbers.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.13,CS2.D.13,"*The student is expected to* test program solutions by investigating boundary conditions; testing classes, methods, and libraries in isolation; and performing stepwise refinement.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.14,CS2.D.14,"*The student is expected to* identify and debug compile, syntax, runtime, and logic errors.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.15,CS2.D.15,"*The student is expected to* compare and contrast algorithm efficiency by using informal runtime comparisons, exact calculation of statement execution counts, and theoretical efficiency values using ""big-O"" notation, including worst-case, best-case, and average-case time/space analysis.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.16,CS2.D.16,"*The student is expected to* demonstrate the ability to count, convert, and perform mathematical operations in the binary and hexadecimal number systems.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.17,CS2.D.17,"*The student is expected to* demonstrate knowledge of the maximum integer boundary, minimum integer boundary, imprecision of real number representations, and round-off errors.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.18,CS2.D.18,*The student is expected to* create program solutions to problems using the mathematics library class.,10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.19,CS2.D.19,*The student is expected to* use random algorithms to create simulations that model the real world.,10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.20,CS2.D.20,"*The student is expected to* identify, understand, and create class specifications and relationships among classes, including composition and inheritance relationships.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.21,CS2.D.21,"*The student is expected to* understand and explain object relationships among defined classes, abstract classes, and interfaces.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.22,CS2.D.22,"*The student is expected to* create object-oriented definitions using class declarations, variable declarations, constant declarations, method declarations, parameter declarations, and interface declarations.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.23,CS2.D.23,*The student is expected to* create robust classes that encapsulate data and the methods that operate on that data and incorporate overloading to enrich the object's behavior.,10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.24,CS2.D.24,*The student is expected to* design and implement a set of interactive classes.,10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.25,CS2.D.25,"*The student is expected to* design, create, and evaluate multiclass programs that use abstract classes and interfaces.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.26,CS2.D.26,*The student is expected to* understand and implement a student-created class hierarchy.,10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.27,CS2.D.27,"*The student is expected to* extend, modify, and improve existing code using inheritance.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.28,CS2.D.28,"*The student is expected to* create adaptive behaviors, including overloading, using polymorphism.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.29,CS2.D.29,*The student is expected to* understand and use reference variables for object and string data types.,10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.30,CS2.D.30,*The student is expected to* understand and implement access scope modifiers.,10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.31,CS2.D.31,*The student is expected to* understand and demonstrate how to compare objects.,10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.32,CS2.D.32,*The student is expected to* duplicate objects using the appropriate deep and/or shallow copy.,10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.33,CS2.D.33,*The student is expected to* define and implement abstract classes and interfaces in program problem solutions.,10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.34,CS2.D.34,*The student is expected to* apply functional decomposition to a program solution.,10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.35,CS2.D.35,*The student is expected to* create simple and robust objects from class definitions through instantiation.,10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.36,CS2.D.36,"*The student is expected to* apply class membership of variables, constants, and methods.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.37,CS2.D.37,*The student is expected to* examine and mutate the properties of an object using assessors and modifiers.,10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.38,CS2.D.38,*The student is expected to* understand and implement a composite class.,10-12,2025-04-08T13:15:03+00:00
+Indicator,3.4.39,CS2.D.39,*The student is expected to* design and implement an interface.,10-12,2025-04-08T13:15:03+00:00
+Standard,3.5,CS2.E,"**Digital citizenship** The student explores and understands safety, legal, cultural, and societal issues relating to the use of technology and information.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.5.1,CS2.E.1,*The student is expected to* model ethical acquisition and use of digital information.,10-12,2025-04-08T13:15:03+00:00
+Indicator,3.5.2,CS2.E.2,"*The student is expected to* demonstrate proper digital etiquette, responsible use of software, and knowledge of acceptable use policies.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.5.3,CS2.E.3,*The student is expected to* investigate digital rights management.,10-12,2025-04-08T13:15:03+00:00
+Standard,3.6,CS2.F,"**Technology operations and concepts** The student understands technology concepts, systems, and operations as they apply to computer science.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.6.1,CS2.F.1,"*The student is expected to* compare and contrast types of operating systems, software applications, hardware platforms, and programming languages.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.6.2,CS2.F.2,"*The student is expected to* demonstrate knowledge of major hardware components, including primary and secondary memory, a central processing unit (CPU), and peripherals.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.6.3,CS2.F.3,"*The student is expected to* demonstrate knowledge of major networking components, including hosts, servers, switches, and routers.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.6.4,CS2.F.4,"*The student is expected to* demonstrate knowledge of computer communication systems, including single-user, peer-to-peer, workgroup, client-server, and networked.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.6.5,CS2.F.5,"*The student is expected to* demonstrate knowledge of computer addressing systems, including Internet Protocol (IP) address and Media Access Control (MAC) address.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.6.6,CS2.F.6,"*The student is expected to* differentiate among the categories of programming languages, including machine, assembly, high-level compiled, high-level interpreted, and scripted.",10-12,2025-04-08T13:15:03+00:00
+Standard,3.7,CS2.G,**The student develops technology skills**,10-12,2025-04-08T13:15:03+00:00
+Indicator,3.7.1,CS2.G.1,"*The student is expected to* use technology as a tool to research, organize, evaluate, and communicate information.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.7.2,CS2.G.2,"*The student is expected to* use digital technologies (computers, PDAs, media players, GPSs, etc.); communication/networking tools, and social networks appropriately to access, manage, integrate, evaluate, and create information to function in a knowledge economy successfully.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.7.3,CS2.G.3,"*The student is expected to* demonstrate using current and new technologies specific to the program of study, course, and/or industry.",10-12,2025-04-08T13:15:03+00:00
+Indicator,3.7.4,CS2.G.4,*The student is expected to* apply a fundamental understanding of the ethical/legal issues surrounding the access and use of information technologies.,10-12,2025-04-08T13:15:03+00:00
+Course,4,,Computer Science III,11-12,2025-04-08T13:15:10+00:00
+Standard,4.1,CS3.A,**Creativity and innovation** The student develops products and generates new understandings by extending existing knowledge.,11-12,2025-04-08T13:15:10+00:00
+Indicator,4.1.1,CS3.A.1,*The student is expected to* apply data abstraction and encapsulation to manage complexity.,11-12,2025-04-08T13:15:10+00:00
+Indicator,4.1.2,CS3.A.2,*The student is expected to* implement a student-created class hierarchy.,11-12,2025-04-08T13:15:10+00:00
+Indicator,4.1.3,CS3.A.3,"*The student is expected to* read and write class specifications using visual organizers, including Unified Modeling Language.",11-12,2025-04-08T13:15:10+00:00
+Indicator,4.1.4,CS3.A.4,*The student is expected to* use black box programming methodology.,11-12,2025-04-08T13:15:10+00:00
+Indicator,4.1.5,CS3.A.5,"*The student is expected to* design, create, and use interfaces to apply protocols.",11-12,2025-04-08T13:15:10+00:00
+Indicator,4.1.6,CS3.A.6,"*The student is expected to* identify, describe, design, create, evaluate, and compare standard sorting algorithms that perform sorting operations on data structures, including quick sort and heap sort.",11-12,2025-04-08T13:15:10+00:00
+Indicator,4.1.7,CS3.A.7,"*The student is expected to* select, identify, and use the appropriate abstract data type, advanced data structure, and supporting algorithms to properly represent the data in a program problem solution.",11-12,2025-04-08T13:15:10+00:00
+Indicator,4.1.8,CS3.A.8,*The student is expected to* manage complexity by using a systems approach.,11-12,2025-04-08T13:15:10+00:00
+Standard,4.2,CS3.B,**Communication and collaboration** The student communicates and collaborates with peers to contribute to his or her own learning and the learning of others.,11-12,2025-04-08T13:15:10+00:00
+Indicator,4.2.1,CS3.B.1,"*The student is expected to* use local area networks (LANs) and wide area networks (WANs), including the Internet and intranets, in research, file management, and collaboration.",11-12,2025-04-08T13:15:10+00:00
+Indicator,4.2.2,CS3.B.2,*The student is expected to* create interactive human interfaces to acquire data from a user and display program results using an advanced Graphical User Interface (GUI).,11-12,2025-04-08T13:15:10+00:00
+Indicator,4.2.3,CS3.B.3,"*The student is expected to* write programs and communicate with proper programming style to enhance the readability and functionality of the code by using meaningful descriptive identifiers, internal comments, white space, indentation, and a standardized program style.",11-12,2025-04-08T13:15:10+00:00
+Indicator,4.2.4,CS3.B.4,*The student is expected to* work in software design teams.,11-12,2025-04-08T13:15:10+00:00
+Standard,4.3,CS3.C,"**Research and information fluency** The student locates, analyzes, processes, and organizes data.",11-12,2025-04-08T13:15:10+00:00
+Indicator,4.3.1,CS3.C.1,"*The student is expected to* identify and use the structured data type of arrays of objects to traverse, search, modify, insert, and delete data.",11-12,2025-04-08T13:15:10+00:00
+Indicator,4.3.2,CS3.C.2,"*The student is expected to* identify and use two-dimensional ragged arrays to traverse, search, modify, insert, and delete data.",11-12,2025-04-08T13:15:10+00:00
+Indicator,4.3.3,CS3.C.3,"*The student is expected to* identify and use a list object data structure, including vector, to traverse, search, insert, and delete object data.",11-12,2025-04-08T13:15:10+00:00
+Indicator,4.3.4,CS3.C.4,*The student is expected to* understand and trace a linked-list data structure.,11-12,2025-04-08T13:15:10+00:00
+Indicator,4.3.5,CS3.C.5,"*The student is expected to* create program solutions using a linked-list data structure, including unordered single, ordered single, double, and circular linked.",11-12,2025-04-08T13:15:10+00:00
+Indicator,4.3.6,CS3.C.6,"*The student is expected to* understand composite data structures, including a linked list of linked lists.",11-12,2025-04-08T13:15:10+00:00
+Indicator,4.3.7,CS3.C.7,"*The student is expected to* understand and create program solutions using stacks, queues, trees, heaps, priority queues, graph theory, and enumerated data types.",11-12,2025-04-08T13:15:10+00:00
+Indicator,4.3.8,CS3.C.8,"*The student is expected to* understand and create program solutions using sets, including HashSet and TreeSet.",11-12,2025-04-08T13:15:10+00:00
+Indicator,4.3.9,CS3.C.9,"*The student is expected to* understand and create program solutions using maps, including HashMap and TreeMap.",11-12,2025-04-08T13:15:10+00:00
+Indicator,4.3.10,CS3.C.10,*The student is expected to* write and modify text file data.,11-12,2025-04-08T13:15:10+00:00
+Standard,4.4,CS3.D,"**Critical thinking, problem solving, and decision making** The student uses appropriate strategies to analyze problems and design algorithms.",11-12,2025-04-08T13:15:10+00:00
+Indicator,4.4.1,CS3.D.1,"*The student is expected to* develop choice algorithms using selection control statements, including break, label, and continue.",11-12,2025-04-08T13:15:10+00:00
+Indicator,4.4.2,CS3.D.2,*The student is expected to* demonstrate proficiency in the use of the bitwise operators.,11-12,2025-04-08T13:15:10+00:00
+Indicator,4.4.3,CS3.D.3,*The student is expected to* develop iterative algorithms using do-while loops.,11-12,2025-04-08T13:15:10+00:00
+Indicator,4.4.4,CS3.D.4,*The student is expected to* demonstrate proficiency in the use of the ternary operator.,11-12,2025-04-08T13:15:10+00:00
+Indicator,4.4.5,CS3.D.5,*The student is expected to* create program solutions that use iterators.,11-12,2025-04-08T13:15:10+00:00
+Indicator,4.4.6,CS3.D.6,"*The student is expected to* identify, trace, and appropriately use recursion.",11-12,2025-04-08T13:15:10+00:00
+Indicator,4.4.7,CS3.D.7,*The student is expected to* understand and create program solutions using hashing.,11-12,2025-04-08T13:15:10+00:00
+Indicator,4.4.8,CS3.D.8,*The student is expected to* perform pattern recognition using regular expressions.,11-12,2025-04-08T13:15:10+00:00
+Indicator,4.4.9,CS3.D.9,"*The student is expected to* explore common algorithms, including matrix addition and multiplication, fractals, Towers of Hanoi, and magic square.",11-12,2025-04-08T13:15:10+00:00
+Indicator,4.4.10,CS3.D.10,*The student is expected to* create program solutions that exhibit robust behavior by understanding and avoiding runtime errors and handling anticipated errors.,11-12,2025-04-08T13:15:10+00:00
+Indicator,4.4.11,CS3.D.11,"*The student is expected to* understand object-oriented design concepts of inner classes, outer classes, and anonymous classes.",11-12,2025-04-08T13:15:10+00:00
+Indicator,4.4.12,CS3.D.12,"*The student is expected to* use object reference scope identifiers, including null, this, and super.",11-12,2025-04-08T13:15:10+00:00
+Indicator,4.4.13,CS3.D.13,*The student is expected to* provide object functionality to primitive data types.,11-12,2025-04-08T13:15:10+00:00
+Indicator,4.4.14,CS3.D.14,*The student is expected to* write program assumptions in the form of assertions.,11-12,2025-04-08T13:15:10+00:00
+Indicator,4.4.15,CS3.D.15,*The student is expected to* write a Boolean expression to test a program assertion.,11-12,2025-04-08T13:15:10+00:00
+Indicator,4.4.16,CS3.D.16,*The student is expected to* construct assertions to make explicit program invariants.,11-12,2025-04-08T13:15:10+00:00
+Standard,4.5,CS3.E,"**Digital citizenship** The student explores and understands safety, legal, cultural, and societal issues relating to the use of technology and information.",11-12,2025-04-08T13:15:10+00:00
+Indicator,4.5.1,CS3.E.1,*The student is expected to* model ethical acquisition and use of digital information.,11-12,2025-04-08T13:15:10+00:00
+Indicator,4.5.2,CS3.E.2,"*The student is expected to* demonstrate proper digital etiquette, responsible use of software, and knowledge of acceptable use policies.",11-12,2025-04-08T13:15:10+00:00
+Standard,4.6,CS3.F,"**Technology operations and concepts** The student understands technology concepts, systems, and operations as they apply to computer science.",11-12,2025-04-08T13:15:10+00:00
+Indicator,4.6.1,CS3.F.1,*The student is expected to* compare and contrast high-level programming languages.,11-12,2025-04-08T13:15:10+00:00
+Indicator,4.6.2,CS3.F.2,*The student is expected to* create a small workgroup network.,11-12,2025-04-08T13:15:10+00:00
+Indicator,4.6.3,CS3.F.3,*The student is expected to* create and apply a basic network addressing scheme.,11-12,2025-04-08T13:15:10+00:00
+Indicator,4.6.4,CS3.F.4,"*The student is expected to* create discovery programs in a low-level language, high-level language, and scripting language.",11-12,2025-04-08T13:15:10+00:00
+Standard,4.7,CS3.G,**The student develops technology skills**,11-12,2025-04-08T13:15:10+00:00
+Indicator,4.7.1,CS3.G.1,"*The student is expected to* use technology as a tool to research, organize, evaluate, and communicate information.",11-12,2025-04-08T13:15:10+00:00
+Indicator,4.7.2,CS3.G.2,"*The student is expected to* use digital technologies (computers, PDAs, media players, GPSs, etc.); communication/networking tools, and social networks appropriately to access, manage, integrate, evaluate, and create information to function in a knowledge economy successfully.",11-12,2025-04-08T13:15:10+00:00
+Indicator,4.7.3,CS3.G.3,"*The student is expected to* demonstrate using current and new technologies specific to the program of study, course, and/or industry.",11-12,2025-04-08T13:15:10+00:00
+Indicator,4.7.4,CS3.G.4,*The student is expected to* apply a fundamental understanding of the ethical/legal issues surrounding the access and use of information technologies.,11-12,2025-04-08T13:15:10+00:00

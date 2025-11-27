@@ -1,0 +1,987 @@
+﻿Item Type,Sequence,Human Code,Full Statement,Ed. Level,Last Modified
+Grade Level,1,,Kindergarten,KG,2025-02-25T23:11:00+00:00
+Strand,1.1,,Computational Thinking and Problem Solving,KG,2025-02-25T23:11:00+00:00
+Content Cluster,1.1.1,Content Cluster 1:,Students will analyze and utilize problem-solving strategies.,KG,2025-02-25T23:11:00+00:00
+Standard,1.1.1.1,CSK8.K.1.1,"Discuss the following basic steps when problem solving:
+* understanding the problem
+* considering various strategies",KG,2025-02-25T23:11:00+00:00
+Standard,1.1.1.2,CSK8.K.1.2,Begins in Grade 5,KG,2025-02-25T23:11:00+00:00
+Standard,1.1.1.3,CSK8.K.1.3,Solve level-appropriate problems cooperatively,KG,2025-02-25T23:11:00+00:00
+Standard,1.1.1.4,CSK8.K.1.4,Identify simple hardware and software problems that may occur during use,KG,2025-02-25T23:11:00+00:00
+Content Cluster,1.1.2,Content Cluster 2:,Students will analyze and utilize connections between elements of mathematics and computer science.,KG,2025-02-25T23:11:00+00:00
+Standard,1.1.2.1,CSK8.K.2.1,Begins in Grade 6,KG,2025-02-25T23:11:00+00:00
+Standard,1.1.2.2,CSK8.K.2.2,Begins in Grade 6,KG,2025-02-25T23:11:00+00:00
+Standard,1.1.2.3,CSK8.K.2.3,"Discuss the relative positions of objects within a program (e.g., up, down, left, right, over, under, on top of, behind, in front of, to the left, to the right)",KG,2025-02-25T23:11:00+00:00
+Standard,1.1.2.4,CSK8.K.2.4,Begins in Grade 6,KG,2025-02-25T23:11:00+00:00
+Strand,1.2,,"Data, Information, and Security",KG,2025-02-25T23:11:00+00:00
+Content Cluster,1.2.1,Content Cluster 3:,Students will analyze and utilize data through the use of computing devices.,KG,2025-02-25T23:11:00+00:00
+Standard,1.2.1.1,CSK8.K.3.1,Define data and provide examples,KG,2025-02-25T23:11:00+00:00
+Standard,1.2.1.2,CSK8.K.3.2,"Recognize and discuss ways people represent data differently (e.g., thumbs up for yes; thumbs down for no)",KG,2025-02-25T23:11:00+00:00
+Standard,1.2.1.3,CSK8.K.3.3,Interpret and analyze concrete and pictorial graphs,KG,2025-02-25T23:11:00+00:00
+Standard,1.2.1.4,CSK8.K.3.4,"Collect and arrange data based on a characteristic (e.g., alphabetic, color, shape, size)",KG,2025-02-25T23:11:00+00:00
+Standard,1.2.1.5,CSK8.K.3.5,Identify the purpose for data collection,KG,2025-02-25T23:11:00+00:00
+Standard,1.2.1.6,CSK8.K.3.6,Represent data visually,KG,2025-02-25T23:11:00+00:00
+Content Cluster,1.2.2,Content Cluster 4:,Students will analyze and utilize concepts of cybersecurity.,KG,2025-02-25T23:11:00+00:00
+Standard,1.2.2.1,CSK8.K.4.1,Model safe use of technology and authentication methods,KG,2025-02-25T23:11:00+00:00
+Standard,1.2.2.2,CSK8.K.4.2,"Discuss level-appropriate issues related to the appropriate use of technology and information, and the consequences of inappropriate use",KG,2025-02-25T23:11:00+00:00
+Standard,1.2.2.3,CSK8.K.4.3,Begins in Grade 1,KG,2025-02-25T23:11:00+00:00
+Strand,1.3,,Algorithms and Programs,KG,2025-02-25T23:11:00+00:00
+Content Cluster,1.3.1,Content Cluster 5:,"Students will create, evaluate, and modify algorithms.",KG,2025-02-25T23:11:00+00:00
+Standard,1.3.1.1,CSK8.K.5.1,Create and follow algorithms to accomplish a task or solve a problem,KG,2025-02-25T23:11:00+00:00
+Standard,1.3.1.2,CSK8.K.5.2,Design algorithms to show a simple process,KG,2025-02-25T23:11:00+00:00
+Standard,1.3.1.3,CSK8.K.5.3,Compare and contrast algorithms that include sequences and loops,KG,2025-02-25T23:11:00+00:00
+Standard,1.3.1.4,CSK8.K.5.4,Demonstrate how to correct errors within an algorithm that includes sequences and loops and accomplishes a level-appropriate task,KG,2025-02-25T23:11:00+00:00
+Content Cluster,1.3.2,Content Cluster 6:,Students will create programs to solve problems.,KG,2025-02-25T23:11:00+00:00
+Standard,1.3.2.1,CSK8.K.6.1,Use a block-based programming language individually and collaboratively to solve level-appropriate problems,KG,2025-02-25T23:11:00+00:00
+Standard,1.3.2.2,CSK8.K.6.2,Begins in Grade 5,KG,2025-02-25T23:11:00+00:00
+Standard,1.3.2.3,CSK8.K.6.3,Begins in Grade 2,KG,2025-02-25T23:11:00+00:00
+Strand,1.4,,Computers and Communications,KG,2025-02-25T23:11:00+00:00
+Content Cluster,1.4.1,Content Cluster 7:,Students will analyze the utilization of computers within industry.,KG,2025-02-25T23:11:00+00:00
+Standard,1.4.1.1,CSK8.K.7.1,"Discuss that computers perform actions or outputs based on human input (e.g., keyboard, microphone, mouse, video game controller)",KG,2025-02-25T23:11:00+00:00
+Standard,1.4.1.2,CSK8.K.7.2,Demonstrate proper care of computer equipment,KG,2025-02-25T23:11:00+00:00
+Content Cluster,1.4.2,Content Cluster 8:,Students will analyze communication methods and systems used to transmit information among computing devices.,KG,2025-02-25T23:11:00+00:00
+Standard,1.4.2.1,CSK8.K.8.1,Identify how information can be transmitted using computing devices via a network,KG,2025-02-25T23:11:00+00:00
+Standard,1.4.2.2,CSK8.K.8.2,"Practice locating:
+* enter key
+* letter and number keys
+* shift key for capital letters
+* spacebar with thumb",KG,2025-02-25T23:11:00+00:00
+Standard,1.4.2.3,CSK8.K.8.3,Discuss proper seat posture,KG,2025-02-25T23:11:00+00:00
+Content Cluster,1.4.3,Content Cluster 9:,Students will utilize appropriate hardware and software.,KG,2025-02-25T23:11:00+00:00
+Standard,1.4.3.1,CSK8.K.9.1,Begins in Grade 7,KG,2025-02-25T23:11:00+00:00
+Standard,1.4.3.2,CSK8.K.9.2,Use various input/output devices,KG,2025-02-25T23:11:00+00:00
+Standard,1.4.3.3,CSK8.K.9.3,Begins in Grade 3,KG,2025-02-25T23:11:00+00:00
+Strand,1.5,,Professionalism and Impacts of Computing,KG,2025-02-25T23:11:00+00:00
+Content Cluster,1.5.1,Content Cluster 10:,Students will analyze the impacts of technology and professionalism within the computing community.,KG,2025-02-25T23:11:00+00:00
+Standard,1.5.1.1,CSK8.K.10.1,Identify the dangers of social media and other online engagement platforms,KG,2025-02-25T23:11:00+00:00
+Standard,1.5.1.2,CSK8.K.10.2,Begins in Grade 5,KG,2025-02-25T23:11:00+00:00
+Standard,1.5.1.3,CSK8.K.10.3,"Identify what and when information (e.g., address, age, passwords, phone numbers, pictures) should be shared/not shared with others",KG,2025-02-25T23:11:00+00:00
+Standard,1.5.1.4,CSK8.K.10.4,Begins in Grade 5,KG,2025-02-25T23:11:00+00:00
+Standard,1.5.1.5,CSK8.K.10.5,Explore uses of computing and technology,KG,2025-02-25T23:11:00+00:00
+Standard,1.5.1.6,CSK8.K.10.6,Begins in Grade 1,KG,2025-02-25T23:11:00+00:00
+Standard,1.5.1.7,CSK8.K.10.7,Identify copyright in various media,KG,2025-02-25T23:11:00+00:00
+Content Cluster,1.5.2,Content Cluster 11:,Students will demonstrate understanding of storytelling with data and appropriately communicate about technical information.,KG,2025-02-25T23:11:00+00:00
+Standard,1.5.2.1,CSK8.K.11.1,Begins in Grade 5,KG,2025-02-25T23:11:00+00:00
+Standard,1.5.2.2,CSK8.K.11.2,Begins in Grade 5,KG,2025-02-25T23:11:00+00:00
+Standard,1.5.2.3,CSK8.K.11.3,Identify various electronic information sources,KG,2025-02-25T23:11:00+00:00
+Standard,1.5.2.4,CSK8.K.11.4,Begins in Grade 5,KG,2025-02-25T23:11:00+00:00
+Standard,1.5.2.5,CSK8.K.11.5,Begins in Grade 5,KG,2025-02-25T23:11:00+00:00
+Grade Level,2,,Grade 1,01,2025-02-25T23:11:00+00:00
+Strand,2.1,,Computational Thinking and Problem Solving,01,2025-02-25T23:11:00+00:00
+Content Cluster,2.1.1,Content Cluster 1:,Students will analyze and utilize problem-solving strategies.,01,2025-02-25T23:11:00+00:00
+Standard,2.1.1.1,CSK8.G1.1.1,"Demonstrate the following basic steps when problem solving:
+*	understanding the problem
+*	considering various strategies",01,2025-02-25T23:11:00+00:00
+Standard,2.1.1.2,CSK8.G1.1.2,Begins in Grade 5,01,2025-02-25T23:11:00+00:00
+Standard,2.1.1.3,CSK8.G1.1.3,Solve level-appropriate problems cooperatively,01,2025-02-25T23:11:00+00:00
+Standard,2.1.1.4,CSK8.G1.1.4,Identify simple hardware and software problems that may occur during use,01,2025-02-25T23:11:00+00:00
+Content Cluster,2.1.2,Content Cluster 2:,Students will analyze and utilize connections between concepts of mathematics and computer science.,01,2025-02-25T23:11:00+00:00
+Standard,2.1.2.1,CSK8.G1.2.1,Begins in Grade 6,01,2025-02-25T23:11:00+00:00
+Standard,2.1.2.2,CSK8.G1.2.2,Begins in Grade 6,01,2025-02-25T23:11:00+00:00
+Standard,2.1.2.3,CSK8.G1.2.3,"Demonstrate understanding of the relative positions of objects within a program (e.g., up, down, left, right, over, under, on top of, behind, in front of, to the left, to the right)",01,2025-02-25T23:11:00+00:00
+Standard,2.1.2.4,CSK8.G1.2.4,Begins in Grade 6,01,2025-02-25T23:11:00+00:00
+Strand,2.2,,"Data, Information, and Security",01,2025-02-25T23:11:00+00:00
+Content Cluster,2.2.1,Content Cluster 3:,Students will analyze and utilize data through the use of computing devices.,01,2025-02-25T23:11:00+00:00
+Standard,2.2.1.1,CSK8.G1.3.1,Describe why and how data is used,01,2025-02-25T23:11:00+00:00
+Standard,2.2.1.2,CSK8.G1.3.2,"Describe how numbers can be used to represent data (e.g., color by number, secret codes)",01,2025-02-25T23:11:00+00:00
+Standard,2.2.1.3,CSK8.G1.3.3,Interpret and analyze concrete and pictorial graphs,01,2025-02-25T23:11:00+00:00
+Standard,2.2.1.4,CSK8.G1.3.4,"Collect and arrange data based on a characteristic (e.g., alphabetic, color, shape, size)",01,2025-02-25T23:11:00+00:00
+Standard,2.2.1.5,CSK8.G1.3.5,Recognize and discuss various tools for data collection,01,2025-02-25T23:11:00+00:00
+Standard,2.2.1.6,CSK8.G1.3.6,Organize and visually represent data,01,2025-02-25T23:11:00+00:00
+Content Cluster,2.2.2,Content Cluster 4:,Students will analyze and utilize concepts of cybersecurity.,01,2025-02-25T23:11:00+00:00
+Standard,2.2.2.1,CSK8.G1.4.1,Discuss the relationship between usernames and authentication methods and demonstrate utilization of both to access technology,01,2025-02-25T23:11:00+00:00
+Standard,2.2.2.2,CSK8.G1.4.2,"Discuss level-appropriate issues related to the appropriate use of technology and information, and the consequences of inappropriate use",01,2025-02-25T23:11:00+00:00
+Standard,2.2.2.3,CSK8.G1.4.3,"Discuss the concept of a digital footprint and the responsibilities and opportunities of living, learning, and working in a digitally connected world",01,2025-02-25T23:11:00+00:00
+Strand,2.3,,Algorithms and Programs,01,2025-02-25T23:11:00+00:00
+Content Cluster,2.3.1,Content Cluster 5:,"Students will create, evaluate, and modify algorithms.",01,2025-02-25T23:11:00+00:00
+Standard,2.3.1.1,CSK8.G1.5.1,Create and follow algorithms to accomplish a task or solve a problem,01,2025-02-25T23:11:00+00:00
+Standard,2.3.1.2,CSK8.G1.5.2,Design and test algorithms collaboratively,01,2025-02-25T23:11:00+00:00
+Standard,2.3.1.3,CSK8.G1.5.3,Compare and contrast algorithms that include sequences and loops,01,2025-02-25T23:11:00+00:00
+Standard,2.3.1.4,CSK8.G1.5.4,Identify and correct errors within an algorithm that includes sequences and loops and accomplishes a level-appropriate task,01,2025-02-25T23:11:00+00:00
+Content Cluster,2.3.2,Content Cluster 6:,Students will create programs to solve problems.,01,2025-02-25T23:11:00+00:00
+Standard,2.3.2.1,CSK8.G1.6.1,Use a block-based programming language individually and collaboratively to solve level-appropriate problems,01,2025-02-25T23:11:00+00:00
+Standard,2.3.2.2,CSK8.G1.6.2,Begins in Grade 5,01,2025-02-25T23:11:00+00:00
+Standard,2.3.2.3,CSK8.G1.6.3,Begins in Grade 2,01,2025-02-25T23:11:00+00:00
+Strand,2.4,,Computers and Communications,01,2025-02-25T23:11:00+00:00
+Content Cluster,2.4.1,Content Cluster 7:,Students will analyze the utilization of computers within industry.,01,2025-02-25T23:11:00+00:00
+Standard,2.4.1.1,CSK8.G1.7.1,"Discuss that computers perform actions or outputs based on human input (e.g., keyboard, microphone, mouse, video game controller)",01,2025-02-25T23:11:00+00:00
+Standard,2.4.1.2,CSK8.G1.7.2,Demonstrate proper care of computer equipment,01,2025-02-25T23:11:00+00:00
+Content Cluster,2.4.2,Content Cluster 8:,Students will analyze communication methods and systems used to transmit information among computing devices.,01,2025-02-25T23:11:00+00:00
+Standard,2.4.2.1,CSK8.G1.8.1,Identify how information can be transmitted using computing devices via a network,01,2025-02-25T23:11:00+00:00
+Standard,2.4.2.2,CSK8.G1.8.2,"Practice locating:
+* enter key
+* letter and number keys
+* shift key for capital letters
+* spacebar with thumb",01,2025-02-25T23:11:00+00:00
+Standard,2.4.2.3,CSK8.G1.8.3,Demonstrate proper seat posture,01,2025-02-25T23:11:00+00:00
+Content Cluster,2.4.3,Content Cluster 9:,Students will utilize appropriate hardware and software.,01,2025-02-25T23:11:00+00:00
+Standard,2.4.3.1,CSK8.G1.9.1,Begins in Grade 7,01,2025-02-25T23:11:00+00:00
+Standard,2.4.3.2,CSK8.G1.9.2,Demonstrate proficiency with various input/output devices,01,2025-02-25T23:11:00+00:00
+Standard,2.4.3.3,CSK8.G1.9.3,Begins in Grade 3,01,2025-02-25T23:11:00+00:00
+Strand,2.5,,Professionalism and Impacts of Computing,01,2025-02-25T23:11:00+00:00
+Content Cluster,2.5.1,Content Cluster 10:,Students will analyze the impacts of technology and professionalism within the computing community.,01,2025-02-25T23:11:00+00:00
+Standard,2.5.1.1,CSK8.G1.10.1,Identify the dangers of social media and other online engagement platforms,01,2025-02-25T23:11:00+00:00
+Standard,2.5.1.2,CSK8.G1.10.2,Begins in Grade 5,01,2025-02-25T23:11:00+00:00
+Standard,2.5.1.3,CSK8.G1.10.3,"Identify what and when information (e.g., address, age, passwords, phone numbers, pictures) should be shared/not shared with others",01,2025-02-25T23:11:00+00:00
+Standard,2.5.1.4,CSK8.G1.10.4,Begins in Grade 5,01,2025-02-25T23:11:00+00:00
+Standard,2.5.1.5,CSK8.G1.10.5,Identify uses of computing and technology,01,2025-02-25T23:11:00+00:00
+Standard,2.5.1.6,CSK8.G1.10.6,Identify and discuss positive and negative impacts of technology on the daily life of individual students,01,2025-02-25T23:11:00+00:00
+Standard,2.5.1.7,CSK8.G1.10.7,Discuss copyright in various media,01,2025-02-25T23:11:00+00:00
+Content Cluster,2.5.2,Content Cluster 11:,Students will demonstrate understanding of storytelling with data and appropriately communicate about technical information.,01,2025-02-25T23:11:00+00:00
+Standard,2.5.2.1,CSK8.G1.11.1,Begins in Grade 5,01,2025-02-25T23:11:00+00:00
+Standard,2.5.2.2,CSK8.G1.11.2,Begins in Grade 5,01,2025-02-25T23:11:00+00:00
+Standard,2.5.2.3,CSK8.G1.11.3,Identify various electronic information sources,01,2025-02-25T23:11:00+00:00
+Standard,2.5.2.4,CSK8.G1.11.4,Begins in Grade 5,01,2025-02-25T23:11:00+00:00
+Standard,2.5.2.5,CSK8.G1.11.5,Begins in Grade 5,01,2025-02-25T23:11:00+00:00
+Grade Level,3,,Grade 2,02,2025-02-25T23:11:00+00:00
+Strand,3.1,,Computational Thinking and Problem Solving,02,2025-02-25T23:11:00+00:00
+Content Cluster,3.1.1,Content Cluster 1:,Students will analyze and utilize problem-solving strategies.,02,2025-02-25T23:11:00+00:00
+Standard,3.1.1.1,CSK8.G2.1.1,"Demonstrate the following basic steps when problem solving:
+* understanding the problem
+* considering and examining the efficiency of various strategies",02,2025-02-25T23:11:00+00:00
+Standard,3.1.1.2,CSK8.G2.1.2,Begins in Grade 5,02,2025-02-25T23:11:00+00:00
+Standard,3.1.1.3,CSK8.G2.1.3,Solve level-appropriate problems collaboratively,02,2025-02-25T23:11:00+00:00
+Standard,3.1.1.4,CSK8.G2.1.4,Identify simple hardware and software problems that may occur during use,02,2025-02-25T23:11:00+00:00
+Content Cluster,3.1.2,Content Cluster 2:,Students will analyze and utilize connections between elements of mathematics and computer science.,02,2025-02-25T23:11:00+00:00
+Standard,3.1.2.1,CSK8.G2.2.1,Begins in Grade 6,02,2025-02-25T23:11:00+00:00
+Standard,3.1.2.2,CSK8.G2.2.2,Begins in Grade 6,02,2025-02-25T23:11:00+00:00
+Standard,3.1.2.3,CSK8.G2.2.3,"Demonstrate understanding of the relative positions of objects within a program (e.g., up, down, left, right, diagonal)",02,2025-02-25T23:11:00+00:00
+Standard,3.1.2.4,CSK8.G2.2.4,Begins in Grade 6,02,2025-02-25T23:11:00+00:00
+Strand,3.2,,"Data, Information, and Security",02,2025-02-25T23:11:00+00:00
+Content Cluster,3.2.1,Content Cluster 3:,Students will analyze and utilize data through the use of computing devices.,02,2025-02-25T23:11:00+00:00
+Standard,3.2.1.1,CSK8.G2.3.1,Compare types of data and describe how data is used,02,2025-02-25T23:11:00+00:00
+Standard,3.2.1.2,CSK8.G2.3.2,"Use numbers to represent data (e.g., encoding and decoding a word with numbers)",02,2025-02-25T23:11:00+00:00
+Standard,3.2.1.3,CSK8.G2.3.3,Interpret and analyze graphs,02,2025-02-25T23:11:00+00:00
+Standard,3.2.1.4,CSK8.G2.3.4,"Collect and arrange data based on multiple characteristics (e.g., alphabetic and phonemic patterns, both size and color)",02,2025-02-25T23:11:00+00:00
+Standard,3.2.1.5,CSK8.G2.3.5,Utilize various tools to collect data,02,2025-02-25T23:11:00+00:00
+Standard,3.2.1.6,CSK8.G1.3.6,Organize and visually represent data with bar graphs and pictographs,02,2025-02-25T23:11:00+00:00
+Content Cluster,3.2.2,Content Cluster 4:,Students will analyze and utilize concepts of cybersecurity.,02,2025-02-25T23:11:00+00:00
+Standard,3.2.2.1,CSK8.G2.4.1,Discuss strategies for protecting authentication methods,02,2025-02-25T23:11:00+00:00
+Standard,3.2.2.2,CSK8.G2.4.2,"Discuss level-appropriate issues related to the appropriate use of technology and information, and the consequences of inappropriate use",02,2025-02-25T23:11:00+00:00
+Standard,3.2.2.3,CSK8.G2.4.3,"Discuss the concept of a digital footprint and the responsibilities and opportunities of living, learning, and working in a digitally connected world",02,2025-02-25T23:11:00+00:00
+Strand,3.3,,Algorithms and Programs,02,2025-02-25T23:11:00+00:00
+Content Cluster,3.3.1,Content Cluster 5:,"Students will create, evaluate, and modify algorithms.",02,2025-02-25T23:11:00+00:00
+Standard,3.3.1.1,CSK8.G2.5.1,Create and follow algorithms to accomplish a task or solve a problem,02,2025-02-25T23:11:00+00:00
+Standard,3.3.1.2,CSK8.G2.5.2,Design and test algorithms collaboratively,02,2025-02-25T23:11:00+00:00
+Standard,3.3.1.3,CSK8.G2.5.3,Compare and contrast algorithms that include sequences and loops,02,2025-02-25T23:11:00+00:00
+Standard,3.3.1.4,CSK8.G2.5.4,Identify and correct errors within an algorithm that includes sequences and loops and accomplishes a level-appropriate task,02,2025-02-25T23:11:00+00:00
+Content Cluster,3.3.2,Content Cluster 6:,Students will create programs to solve problems.,02,2025-02-25T23:11:00+00:00
+Standard,3.3.2.1,CSK8.G2.6.1,Use a block-based programming language individually and collaboratively to solve level-appropriate problems,02,2025-02-25T23:11:00+00:00
+Standard,3.3.2.2,CSK8.G2.6.2,Begins in Grade 5,02,2025-02-25T23:11:00+00:00
+Standard,3.3.2.3,CSK8.G2.6.3,Improve or remix existing block-based programs,02,2025-02-25T23:11:00+00:00
+Strand,3.4,,Computers and Communications,02,2025-02-25T23:11:00+00:00
+Content Cluster,3.4.1,Content Cluster 7:,Students will analyze the utilization of computers within industry.,02,2025-02-25T23:11:00+00:00
+Standard,3.4.1.1,CSK8.G2.7.1,"Discuss how computers perform actions or outputs based on human input (e.g., keyboard, microphone, mouse, video game controller)",02,2025-02-25T23:11:00+00:00
+Standard,3.4.1.2,CSK8.G2.7.2,Recognize the expense of computer equipment and how care and protection of the computers can prolong use and save the cost of purchasing new equipment,02,2025-02-25T23:11:00+00:00
+Content Cluster,3.4.2,Content Cluster 8:,Students will analyze communication methods and systems used to transmit information among computing devices.,02,2025-02-25T23:11:00+00:00
+Standard,3.4.2.1,CSK8.G2.8.1,Identify how information can be transmitted using computing devices via a network,02,2025-02-25T23:11:00+00:00
+Standard,3.4.2.2,CSK8.G2.8.2,"Use proper keyboarding technique and finger positioning:
+* enter key
+* fingers on home row keys
+* punctuation appropriate to writing level
+* shift key for capital letters
+* thumb on spacebar",02,2025-02-25T23:11:00+00:00
+Standard,3.4.2.3,CSK8.G2.8.3,"Recognize proper keyboarding technique:
+* body centered in front of keyboard
+* elbows down
+* eyes focused on the screen
+* proper posture",02,2025-02-25T23:11:00+00:00
+Content Cluster,3.4.3,Content Cluster 9:,Students will utilize appropriate hardware and software.,02,2025-02-25T23:11:00+00:00
+Standard,3.4.3.1,CSK8.G2.9.1,Begins in Grade 7,02,2025-02-25T23:11:00+00:00
+Standard,3.4.3.2,CSK8.G2.9.2,Demonstrate proficiency with keyboards and other input/output devices,02,2025-02-25T23:11:00+00:00
+Standard,3.4.3.3,CSK8.G2.9.3,Begins in Grade 3,02,2025-02-25T23:11:00+00:00
+Strand,3.5,,Professionalism and Impacts of Computing,02,2025-02-25T23:11:00+00:00
+Content Cluster,3.5.1,Content Cluster 10:,Students will analyze the impacts of technology and professionalism within the computing community.,02,2025-02-25T23:11:00+00:00
+Standard,3.5.1.1,CSK8.G2.10.1,Identify the dangers of social media and other online engagement platforms,02,2025-02-25T23:11:00+00:00
+Standard,3.5.1.2,CSK8.G2.10.2,Begins in Grade 5,02,2025-02-25T23:11:00+00:00
+Standard,3.5.1.3,CSK8.G2.10.3,"Identify different relationships (e.g., parents, trusted adults, friends, strangers, anonymous users) and how they determine what information should be shared",02,2025-02-25T23:11:00+00:00
+Standard,3.5.1.4,CSK8.G2.10.4,Begins in Grade 5,02,2025-02-25T23:11:00+00:00
+Standard,3.5.1.5,CSK8.G2.10.5,Examine uses of computing and technology,02,2025-02-25T23:11:00+00:00
+Standard,3.5.1.6,CSK8.G2.10.6,Identify and discuss positive and negative impacts of technology on the daily life of individual people,02,2025-02-25T23:11:00+00:00
+Standard,3.5.1.7,CSK8.G2.10.7,Identify and name resources used in the process of gathering information,02,2025-02-25T23:11:00+00:00
+Content Cluster,3.5.2,Content Cluster 11:,Students will demonstrate understanding of storytelling with data and appropriately communicate about technical information.,02,2025-02-25T23:11:00+00:00
+Standard,3.5.2.1,CSK8.G2.11.1,Begins in Grade 5,02,2025-02-25T23:11:00+00:00
+Standard,3.5.2.2,CSK8.G2.11.2,Begins in Grade 5,02,2025-02-25T23:11:00+00:00
+Standard,3.5.2.3,CSK8.G2.11.3,Identify various electronic information sources and discuss the validity and accuracy of the information found,02,2025-02-25T23:11:00+00:00
+Standard,3.5.2.4,CSK8.G2.11.4,Begins in Grade 5,02,2025-02-25T23:11:00+00:00
+Standard,3.5.2.5,CSK8.G2.11.5,Begins in Grade 5,02,2025-02-25T23:11:00+00:00
+Grade Level,4,,Grade 3,03,2025-02-25T23:11:00+00:00
+Strand,4.1,,Computational Thinking and Problem Solving,03,2025-02-25T23:11:00+00:00
+Content Cluster,4.1.1,Content Cluster 1:,Students will analyze and utilize problem-solving strategies.,03,2025-02-25T23:11:00+00:00
+Standard,4.1.1.1,CSK8.G3.1.1,Solve problems using a defined process,03,2025-02-25T23:11:00+00:00
+Standard,4.1.1.2,CSK8.G3.1.2,Begins in Grade 5,03,2025-02-25T23:11:00+00:00
+Standard,4.1.1.3,CSK8.G3.1.3,Construct innovative solutions to level-appropriate problems collaboratively,03,2025-02-25T23:11:00+00:00
+Standard,4.1.1.4,CSK8.G3.1.4,Apply strategies for solving simple hardware and software problems that may occur during use,03,2025-02-25T23:11:00+00:00
+Content Cluster,4.1.2,Content Cluster 2:,Students will analyze and utilize connections between elements of mathematics and computer science.,03,2025-02-25T23:11:00+00:00
+Standard,4.1.2.1,CSK8.G3.2.1,Begins in Grade 6,03,2025-02-25T23:11:00+00:00
+Standard,4.1.2.2,CSK8.G3.2.2,Begins in Grade 6,03,2025-02-25T23:11:00+00:00
+Standard,4.1.2.3,CSK8.G3.2.3,"Apply fractional rotations within a program (e.g., quarter turns and half turns)",03,2025-02-25T23:11:00+00:00
+Standard,4.1.2.4,CSK8.G3.2.4,Begins in Grade 6,03,2025-02-25T23:11:00+00:00
+Strand,4.2,,"Data, Information, and Security",03,2025-02-25T23:11:00+00:00
+Content Cluster,4.2.1,Content Cluster 3:,Students will analyze and utilize data through the use of computing devices.,03,2025-02-25T23:11:00+00:00
+Standard,4.2.1.1,CSK8.G3.3.1,Describe how representation of data can exist in multiple formats,03,2025-02-25T23:11:00+00:00
+Standard,4.2.1.2,CSK8.G3.3.2,Describe how 0s and 1s can be used to represent data,03,2025-02-25T23:11:00+00:00
+Standard,4.2.1.3,CSK8.G3.3.3,Interpret and analyze graphs,03,2025-02-25T23:11:00+00:00
+Standard,4.2.1.4,CSK8.G3.3.4,Collect and arrange data logically based on multiple characteristics,03,2025-02-25T23:11:00+00:00
+Standard,4.2.1.5,CSK8.G3.3.5,Select and use appropriate tools to collect data,03,2025-02-25T23:11:00+00:00
+Standard,4.2.1.6,CSK8.G3.3.6,Organize and create visual representations of data with bar graphs and pictographs,03,2025-02-25T23:11:00+00:00
+Content Cluster,4.2.2,Content Cluster 4:,Students will analyze and utilize concepts of cybersecurity.,03,2025-02-25T23:11:00+00:00
+Standard,4.2.2.1,CSK8.G3.4.1,Identify strategies for protecting authentication methods and explore ways to secure compromised information,03,2025-02-25T23:11:00+00:00
+Standard,4.2.2.2,CSK8.G3.4.2,"Discuss level-appropriate issues related to the use of technology, acceptable use policies and codes of conduct, and the consequences of inappropriate use",03,2025-02-25T23:11:00+00:00
+Standard,4.2.2.3,CSK8.G3.4.3,"Identify individual digital footprint (e.g., game profiles, shares on social media and other online accounts) and the responsibilities and opportunities of living, learning, and working in a digitally connected world",03,2025-02-25T23:11:00+00:00
+Strand,4.3,,Algorithms and Programs,03,2025-02-25T23:11:00+00:00
+Content Cluster,4.3.1,Content Cluster 5:,"Students will create, evaluate, and modify algorithms.",03,2025-02-25T23:11:00+00:00
+Standard,4.3.1.1,CSK8.G3.5.1,Create and follow algorithms to accomplish a task or solve a problem,03,2025-02-25T23:11:00+00:00
+Standard,4.3.1.2,CSK8.G3.5.2,Design and test algorithms collaboratively using technology,03,2025-02-25T23:11:00+00:00
+Standard,4.3.1.3,CSK8.G3.5.3,Compare and refine algorithms that include sequences and loops,03,2025-02-25T23:11:00+00:00
+Standard,4.3.1.4,CSK8.G3.5.4,Identify and correct multiple errors within an algorithm that accomplishes a level-appropriate task or solves a level-appropriate problem,03,2025-02-25T23:11:00+00:00
+Content Cluster,4.3.2,Content Cluster 6:,Students will create programs to solve problems.,03,2025-02-25T23:11:00+00:00
+Standard,4.3.2.1,CSK8.G3.6.1,Use a block-based programming language individually and collaboratively to solve level-appropriate problems,03,2025-02-25T23:11:00+00:00
+Standard,4.3.2.2,CSK8.G3.6.2,Begins in Grade 5,03,2025-02-25T23:11:00+00:00
+Standard,4.3.2.3,CSK8.G3.6.3,Improve or remix existing block-based programs,03,2025-02-25T23:11:00+00:00
+Strand,4.4,,Computers and Communications,03,2025-02-25T23:11:00+00:00
+Content Cluster,4.4.1,Content Cluster 7:,Students will analyze the utilization of computers within industry.,03,2025-02-25T23:11:00+00:00
+Standard,4.4.1.1,CSK8.G3.7.1,"Identify how computers perform actions or outputs based on human input (e.g., keyboard, microphone, mouse, video game controller)",03,2025-02-25T23:11:00+00:00
+Standard,4.4.1.2,CSK8.G3.7.2,Recognize the expense of computer equipment and how care and protection of the computers can prolong use and save the cost of purchasing new equipment,03,2025-02-25T23:11:00+00:00
+Content Cluster,4.4.2,Content Cluster 8:,Students will analyze communication methods and systems used to transmit information among computing devices.,03,2025-02-25T23:11:00+00:00
+Standard,4.4.2.1,CSK8.G3.8.1,Identify how information can be transmitted using computing devices via a network,03,2025-02-25T23:11:00+00:00
+Standard,4.4.2.2,CSK8.G3.8.2,Demonstrate touch typing techniques while increasing speed and maintaining accuracy,03,2025-02-25T23:11:00+00:00
+Standard,4.4.2.3,CSK8.G3.8.3,"Demonstrate proper keyboarding technique:
+* body centered in front of keyboard
+* elbows down
+* eyes focused on the screen
+* proper posture",03,2025-02-25T23:11:00+00:00
+Content Cluster,4.4.3,Content Cluster 9:,Students will utilize appropriate hardware and software.,03,2025-02-25T23:11:00+00:00
+Standard,4.4.3.1,CSK8.G3.9.1,Begins in Grade 7,03,2025-02-25T23:11:00+00:00
+Standard,4.4.3.2,CSK8.G3.9.2,Demonstrate proficiency with keyboards and other input/output devices,03,2025-02-25T23:11:00+00:00
+Standard,4.4.3.3,CSK8.G3.9.3,"Identify and use productivity technology tools for writing, communicating, and publishing activities",03,2025-02-25T23:11:00+00:00
+Strand,4.5,,Professionalism and Impacts of Computing,03,2025-02-25T23:11:00+00:00
+Content Cluster,4.5.1,Content Cluster 10:,Students will analyze the impacts of technology and professionalism within the computing community.,03,2025-02-25T23:11:00+00:00
+Standard,4.5.1.1,CSK8.G3.10.1,Identify the dangers of social media and other online engagement platforms,03,2025-02-25T23:11:00+00:00
+Standard,4.5.1.2,CSK8.G3.10.2,Begins in Grade 5,03,2025-02-25T23:11:00+00:00
+Standard,4.5.1.3,CSK8.G3.10.3,"Identify different relationships (e.g., parents, trusted adults, friends, strangers, anonymous users) and how they determine what information should be shared",03,2025-02-25T23:11:00+00:00
+Standard,4.5.1.4,CSK8.G3.10.4,Begins in Grade 5,03,2025-02-25T23:11:00+00:00
+Standard,4.5.1.5,CSK8.G3.10.5,Discuss various careers that require computing and technology,03,2025-02-25T23:11:00+00:00
+Standard,4.5.1.6,CSK8.G3.10.6,Identify and discuss positive and negative impacts of technology on the daily life of individual people and the greater impact on society,03,2025-02-25T23:11:00+00:00
+Standard,4.5.1.7,CSK8.G3.10.7,Identify and name resources used in the process of gathering information,03,2025-02-25T23:11:00+00:00
+Content Cluster,4.5.2,Content Cluster 11:,Students will demonstrate understanding of storytelling with data and appropriately communicate about technical information.,03,2025-02-25T23:11:00+00:00
+Standard,4.5.2.1,CSK8.G3.11.1,Begins in Grade 5,03,2025-02-25T23:11:00+00:00
+Standard,4.5.2.2,CSK8.G3.11.2,Begins in Grade 5,03,2025-02-25T23:11:00+00:00
+Standard,4.5.2.3,CSK8.G4.11.3,"Identify and discuss the attributes (e.g., bias, credible, fact, opinion) of various electronic information sources",03,2025-02-25T23:11:00+00:00
+Standard,4.5.2.4,CSK8.G3.11.4,Begins in Grade 5,03,2025-02-25T23:11:00+00:00
+Standard,4.5.2.5,CSK8.G3.11.5,Begins in Grade 5,03,2025-02-25T23:11:00+00:00
+Grade Level,5,,Grade 4,04,2025-02-25T23:11:00+00:00
+Strand,5.1,,Computational Thinking and Problem Solving,04,2025-02-25T23:11:00+00:00
+Content Cluster,5.1.1,Content Cluster 1:,Students will analyze and utilize problem-solving strategies.,04,2025-02-25T23:11:00+00:00
+Standard,5.1.1.1,CSK8.G4.1.1,Examine the process of problem solving and how it applies to algorithmic problem solving,04,2025-02-25T23:11:00+00:00
+Standard,5.1.1.2,CSK8.G4.1.2,Begins in Grade 5,04,2025-02-25T23:11:00+00:00
+Standard,5.1.1.3,CSK8.G4.1.3,Construct innovative solutions to level-appropriate problems collaboratively,04,2025-02-25T23:11:00+00:00
+Standard,5.1.1.4,CSK8.G4.1.4,Apply strategies for solving simple hardware and software problems that may occur during use,04,2025-02-25T23:11:00+00:00
+Content Cluster,5.1.2,Content Cluster 2:,Students will analyze and utilize connections between elements of mathematics and computer science.,04,2025-02-25T23:11:00+00:00
+Standard,5.1.2.1,CSK8.G4.2.1,Begins in Grade 6,04,2025-02-25T23:11:00+00:00
+Standard,5.1.2.2,CSK8.G4.2.2,Begins in Grade 6,04,2025-02-25T23:11:00+00:00
+Standard,5.1.2.3,CSK8.G4.2.3,"Examine the relative position of objects using angles within a program (e.g., 30-degree turn)",04,2025-02-25T23:11:00+00:00
+Standard,5.1.2.4,CSK8.G4.2.4,Begins in Grade 6,04,2025-02-25T23:11:00+00:00
+Strand,5.2,,"Data, Information, and Security",04,2025-02-25T23:11:00+00:00
+Content Cluster,5.2.1,Content Cluster 3:,Students will analyze and utilize data through the use of computing devices.,04,2025-02-25T23:11:00+00:00
+Standard,5.2.1.1,CSK8.G4.3.1,Compare the representation of existing data in multiple formats,04,2025-02-25T23:11:00+00:00
+Standard,5.2.1.2,CSK8.G4.3.2,"Use 0s and 1s to represent data (e.g., encoding and decoding a word with 0s and 1s)",04,2025-02-25T23:11:00+00:00
+Standard,5.2.1.3,CSK8.G4.3.3,Explore graphs as models for data analysis,04,2025-02-25T23:11:00+00:00
+Standard,5.2.1.4,CSK8.G4.3.4,Collect and arrange data logically based on multiple characteristics,04,2025-02-25T23:11:00+00:00
+Standard,5.2.1.5,CSK8.G4.3.5,Select and use appropriate tools to collect data,04,2025-02-25T23:11:00+00:00
+Standard,5.2.1.6,CSK8.G4.3.6,"Compare different ways to visually represent data with bar graphs, line plots, and pictographs",04,2025-02-25T23:11:00+00:00
+Content Cluster,5.2.2,Content Cluster 4:,Students will analyze and utilize concepts of cybersecurity.,04,2025-02-25T23:11:00+00:00
+Standard,5.2.2.1,CSK8.G4.4.1,Identify strategies for protecting authentication methods and explore ways to secure compromised information,04,2025-02-25T23:11:00+00:00
+Standard,5.2.2.2,CSK8.G4.4.2,"Discuss level-appropriate issues related to the use of technology, acceptable use policies and codes of conduct, and the consequences of inappropriate use",04,2025-02-25T23:11:00+00:00
+Standard,5.2.2.3,CSK8.G4.4.3,"Identify individual digital footprint (e.g., game profiles, shares on social media and other online accounts) and the responsibilities and opportunities of living, learning, and working in a digitally connected world",04,2025-02-25T23:11:00+00:00
+Strand,5.3,,Algorithms and Programs,04,2025-02-25T23:11:00+00:00
+Content Cluster,5.3.1,Content Cluster 5:,"Students will create, evaluate, and modify algorithms.",04,2025-02-25T23:11:00+00:00
+Standard,5.3.1.1,CSK8.G4.5.1,Create and follow algorithms to accomplish a task or solve a problem,04,2025-02-25T23:11:00+00:00
+Standard,5.3.1.2,CSK8.G4.5.2,Design and test algorithms collaboratively using technology,04,2025-02-25T23:11:00+00:00
+Standard,5.3.1.3,CSK8.G4.5.3,Compare and refine algorithms that include sequences and loops,04,2025-02-25T23:11:00+00:00
+Standard,5.3.1.4,CSK8.G4.5.4,Identify and correct multiple errors within an algorithm that accomplishes a level-appropriate task or solves a level-appropriate problem,04,2025-02-25T23:11:00+00:00
+Content Cluster,5.3.2,Content Cluster 6:,Students will create programs to solve problems.,04,2025-02-25T23:11:00+00:00
+Standard,5.3.2.1,CSK8.G4.6.1,Use a block-based programming language individually and collaboratively to solve level-appropriate problems,04,2025-02-25T23:11:00+00:00
+Standard,5.3.2.2,CSK8.G4.6.2,Begins in Grade 5,04,2025-02-25T23:11:00+00:00
+Standard,5.3.2.3,CSK8.G4.6.3,Improve or remix existing block-based programs,04,2025-02-25T23:11:00+00:00
+Strand,5.4,,Computers and Communications,04,2025-02-25T23:11:00+00:00
+Content Cluster,5.4.1,Content Cluster 7:,Students will analyze the utilization of computers within industry.,04,2025-02-25T23:11:00+00:00
+Standard,5.4.1.1,CSK8.G4.7.1,"Identify how computers perform actions or outputs based on human input (e.g., keyboard, microphone, mouse, video game controller)",04,2025-02-25T23:11:00+00:00
+Standard,5.4.1.2,CSK8.G4.7.2,Recognize the expense of computer equipment and how care and protection of the computers can prolong use and save the cost of purchasing new equipment,04,2025-02-25T23:11:00+00:00
+Content Cluster,5.4.2,Content Cluster 8:,Students will analyze communication methods and systems used to transmit information among computing devices.,04,2025-02-25T23:11:00+00:00
+Standard,5.4.2.1,CSK8.G4.8.1,Identify how information can be transmitted using computing devices via a network,04,2025-02-25T23:11:00+00:00
+Standard,5.4.2.2,CSK8.G4.8.2,Demonstrate touch typing techniques while increasing speed and maintaining accuracy,04,2025-02-25T23:11:00+00:00
+Standard,5.4.2.3,CSK8.G4.8.3,"Practice proper keyboarding technique:
+* body centered in front of keyboard
+* elbows down
+* eyes focused on the screen
+* proper posture",04,2025-02-25T23:11:00+00:00
+Content Cluster,5.4.3,Content Cluster 9:,Students will utilize appropriate hardware and software.,04,2025-02-25T23:11:00+00:00
+Standard,5.4.3.1,CSK8.G4.9.1,Begins in Grade 7,04,2025-02-25T23:11:00+00:00
+Standard,5.4.3.2,CSK8.G4.9.2,Demonstrate proficiency with keyboards and other input/output devices,04,2025-02-25T23:11:00+00:00
+Standard,5.4.3.3,CSK8.G4.9.3,"Use productivity technology tools for writing, communicating, and publishing activities",04,2025-02-25T23:11:00+00:00
+Strand,5.5,,Professionalism and Impacts of Computing,04,2025-02-25T23:11:00+00:00
+Content Cluster,5.5.1,Content Cluster 10:,Students will analyze the impacts of technology and professionalism within the computing community.,04,2025-02-25T23:11:00+00:00
+Standard,5.5.1.1,CSK8.G4.10.1,Identify the dangers of social media and other online engagement platforms and strategies to address these dangers,04,2025-02-25T23:11:00+00:00
+Standard,5.5.1.2,CSK8.G4.10.2,Begins in Grade 5,04,2025-02-25T23:11:00+00:00
+Standard,5.5.1.3,CSK8.G4.10.3,"Identify different relationships (e.g., parents, trusted adults, friends, strangers, anonymous users) and how they determine what information should be shared",04,2025-02-25T23:11:00+00:00
+Standard,5.5.1.4,CSK8.G4.10.4,Begins in Grade 5,04,2025-02-25T23:11:00+00:00
+Standard,5.5.1.5,CSK8.G4.10.5,Identify various careers that require computing and technology,04,2025-02-25T23:11:00+00:00
+Standard,5.5.1.6,CSK8.G4.10.6,Identify and discuss positive and negative impacts of technology on the daily life of individual people and the greater impact on society,04,2025-02-25T23:11:00+00:00
+Standard,5.5.1.7,CSK8.G4.10.7,"Demonstrate an understanding of ethical issues in copyright laws, fair use exemptions, and intellectual property rights in various media",04,2025-02-25T23:11:00+00:00
+Content Cluster,5.5.2,Content Cluster 11:,Students will demonstrate understanding of storytelling with data and appropriately communicate about technical information.,04,2025-02-25T23:11:00+00:00
+Standard,5.5.2.1,CSK8.G4.11.1,Begins in Grade 5,04,2025-02-25T23:11:00+00:00
+Standard,5.5.2.2,CSK8.G4.11.2,Begins in Grade 5,04,2025-02-25T23:11:00+00:00
+Standard,5.5.2.3,CSK8.G4.11.3,"Identify and discuss the attributes (e.g., bias, credible, fact, opinion) of various electronic information sources",04,2025-02-25T23:11:00+00:00
+Standard,5.5.2.4,CSK8.G4.11.4,Begins in Grade 5,04,2025-02-25T23:11:00+00:00
+Standard,5.5.2.5,CSK8.G4.11.5,Begins in Grade 5,04,2025-02-25T23:11:00+00:00
+Grade Level,6,,Grade 5,05,2025-02-25T23:11:00+00:00
+Strand,6.1,,Computational Thinking and Problem Solving,05,2025-02-25T23:11:00+00:00
+Content Cluster,6.1.1,Content Cluster 1:,Students will analyze and utilize problem-solving strategies.,05,2025-02-25T23:11:00+00:00
+Standard,6.1.1.1,CSK8.G5.1.1,"Identify and utilize level-appropriate, algorithmic problem-solving strategies",05,2025-02-25T23:11:00+00:00
+Standard,6.1.1.2,CSK8.G5.1.2,"Examine visual representations of problem-solving logic (e.g., flowcharts) to solve problems of level-appropriate complexity",05,2025-02-25T23:11:00+00:00
+Standard,6.1.1.3,CSK8.G5.1.3,Evaluate effective ways that collaboration can support problem solving and innovation,05,2025-02-25T23:11:00+00:00
+Standard,6.1.1.4,CSK8.G5.1.4,Apply strategies for solving simple hardware and software problems that may occur during use,05,2025-02-25T23:11:00+00:00
+Content Cluster,6.1.2,Content Cluster 2:,Students will analyze and utilize connections between elements of mathematics and computer science.,05,2025-02-25T23:11:00+00:00
+Standard,6.1.2.1,CSK8.G5.2.1,Begins in Grade 6,05,2025-02-25T23:11:00+00:00
+Standard,6.1.2.2,CSK8.G5.2.2,Begins in Grade 6,05,2025-02-25T23:11:00+00:00
+Standard,6.1.2.3,CSK8.G5.2.3,"Compare and contrast the relative positions of objects using ordered pairs within a program (e.g., battleships, block-based programming, treasure maps)",05,2025-02-25T23:11:00+00:00
+Standard,6.1.2.4,CSK8.G5.2.4,Begins in Grade 6,05,2025-02-25T23:11:00+00:00
+Strand,6.2,,"Data, Information, and Security",05,2025-02-25T23:11:00+00:00
+Content Cluster,6.2.1,Content Cluster 3:,Students will analyze and utilize data through the use of computing devices.,05,2025-02-25T23:11:00+00:00
+Standard,6.2.1.1,CSK8.G5.3.1,Illustrate how different kinds of data can be represented,05,2025-02-25T23:11:00+00:00
+Standard,6.2.1.2,CSK8.G5.3.2,"Recognize that binary can represent data using only two options (e.g., on/off)",05,2025-02-25T23:11:00+00:00
+Standard,6.2.1.3,CSK8.G5.3.3,"Explore various models and simulations (e.g., ecosystems, epidemics) to support research and data analysis",05,2025-02-25T23:11:00+00:00
+Standard,6.2.1.4,CSK8.G5.3.4,"Identify the characteristics (e.g., collection environment, input method, units of measure) of the collected data",05,2025-02-25T23:11:00+00:00
+Standard,6.2.1.5,CSK8.G5.3.5,"Evaluate, select, and use level-appropriate tools to collect data",05,2025-02-25T23:11:00+00:00
+Standard,6.2.1.6,CSK8.G5.3.6,"Evaluate the most effective ways to arrange, collect, and visually represent data",05,2025-02-25T23:11:00+00:00
+Content Cluster,6.2.2,Content Cluster 4:,Students will analyze and utilize concepts of cybersecurity.,05,2025-02-25T23:11:00+00:00
+Standard,6.2.2.1,CSK8.G5.4.1,"Identify real-world cybersecurity problems (e.g., malicious hacking) and apply strategies for protecting and securing personal digital information",05,2025-02-25T23:11:00+00:00
+Standard,6.2.2.2,CSK8.G5.4.2,"Discuss issues related to the use of technology, acceptable use policies, and codes of conduct and the consequences of inappropriate use",05,2025-02-25T23:11:00+00:00
+Standard,6.2.2.3,CSK8.G5.4.3,"Identify individual digital footprint (e.g., game profiles, other online accounts, and shares on social media) and the responsibilities and opportunities of living, learning, and working in a digitally connected world",05,2025-02-25T23:11:00+00:00
+Strand,6.3,,Algorithms and Programs,05,2025-02-25T23:11:00+00:00
+Content Cluster,6.3.1,Content Cluster 5:,"Students will create, evaluate, and modify algorithms.",05,2025-02-25T23:11:00+00:00
+Standard,6.3.1.1,CSK8.G5.5.1,Create algorithms to solve problems and evaluate effectiveness,05,2025-02-25T23:11:00+00:00
+Standard,6.3.1.2,CSK8.G5.5.2,Design and test algorithms collaboratively using technology,05,2025-02-25T23:11:00+00:00
+Standard,6.3.1.3,CSK8.G5.5.3,Compare and refine algorithms,05,2025-02-25T23:11:00+00:00
+Standard,6.3.1.4,CSK8.G5.5.4,Identify and correct multiple errors within a level-appropriate algorithm,05,2025-02-25T23:11:00+00:00
+Content Cluster,6.3.2,Content Cluster 6:,Students will create programs to solve problems.,05,2025-02-25T23:11:00+00:00
+Standard,6.3.2.1,CSK8.G5.6.1,Use a visual block-based or text-based programming language individually and collaboratively to solve level-appropriate problems,05,2025-02-25T23:11:00+00:00
+Standard,6.3.2.2,CSK8.G5.6.2,"Discuss and apply best practices of documentation (e.g., comments, descriptive variable names, program headers)",05,2025-02-25T23:11:00+00:00
+Standard,6.3.2.3,CSK8.G5.6.3,Improve or remix existing block-based and/or text-based programs,05,2025-02-25T23:11:00+00:00
+Strand,6.4,,Computers and Communications,05,2025-02-25T23:11:00+00:00
+Content Cluster,6.4.1,Content Cluster 7:,Students will analyze the utilization of computers within industry.,05,2025-02-25T23:11:00+00:00
+Standard,6.4.1.1,CSK8.G5.7.1,"Discuss ways that humans create input for a desired output through a device (e.g., changing device settings, texting)",05,2025-02-25T23:11:00+00:00
+Standard,6.4.1.2,CSK8.G5.7.2,Recognize the expense of computer equipment and how care and protection of the computers can prolong use and save the cost of purchasing new equipment,05,2025-02-25T23:11:00+00:00
+Content Cluster,6.4.2,Content Cluster 8:,Students will analyze communication methods and systems used to transmit information among computing devices.,05,2025-02-25T23:11:00+00:00
+Standard,6.4.2.1,CSK8.G5.8.1,Describe how information can be transmitted using computing devices via a network,05,2025-02-25T23:11:00+00:00
+Standard,6.4.2.2,CSK8.G5.8.2,Demonstrate touch typing techniques while increasing speed and maintaining accuracy,05,2025-02-25T23:11:00+00:00
+Standard,6.4.2.3,CSK8.G5.8.3,"Practice proper keyboarding technique:
+* body centered in front of keyboard
+* elbows down
+* eyes focused on the screen
+* proper posture",05,2025-02-25T23:11:00+00:00
+Content Cluster,6.4.3,Content Cluster 9:,Students will utilize appropriate hardware and software.,05,2025-02-25T23:11:00+00:00
+Standard,6.4.3.1,CSK8.G5.9.1,Begins in Grade 7,05,2025-02-25T23:11:00+00:00
+Standard,6.4.3.2,CSK8.G5.9.2,Demonstrate level-appropriate proficiency with keyboards and other input/output devices,05,2025-02-25T23:11:00+00:00
+Standard,6.4.3.3,CSK8.G5.9.3,"Use and evaluate productivity technology tools for effectiveness in writing, communication, and publishing activities",05,2025-02-25T23:11:00+00:00
+Strand,6.5,,Professionalism and Impacts of Computing,05,2025-02-25T23:11:00+00:00
+Content Cluster,6.5.1,Content Cluster 10:,Students will analyze the impacts of technology and professionalism within the computing community.,05,2025-02-25T23:11:00+00:00
+Standard,6.5.1.1,CSK8.G5.10.1,"Identify the dangers of social media and other online engagement platforms, and strategies to address these dangers",05,2025-02-25T23:11:00+00:00
+Standard,6.5.1.2,CSK8.G5.10.2,Discuss the impact of access to computing resources,05,2025-02-25T23:11:00+00:00
+Standard,6.5.1.3,CSK8.G5.10.3,"Classify different types of relationships (e.g., parents, trusted adults, friends, strangers, anonymous users) and how they affect what information should be shared",05,2025-02-25T23:11:00+00:00
+Standard,6.5.1.4,CSK8.G5.10.4,Research the history of computers and technology,05,2025-02-25T23:11:00+00:00
+Standard,6.5.1.5,CSK8.G5.10.5,Examine the range and types of careers that require computing and technology,05,2025-02-25T23:11:00+00:00
+Standard,6.5.1.6,CSK8.G5.10.6,Explain positive and negative impacts of technology on the daily life of individuals and society,05,2025-02-25T23:11:00+00:00
+Standard,6.5.1.7,CSK8.G5.10.7,"Demonstrate an understanding of ethical issues in copyright laws, fair use exemptions, and intellectual property rights in various media",05,2025-02-25T23:11:00+00:00
+Content Cluster,6.5.2,Content Cluster 11:,Students will demonstrate understanding of storytelling with data and appropriately communicate about technical information.,05,2025-02-25T23:11:00+00:00
+Standard,6.5.2.1,CSK8.G5.11.1,"Communicate (e.g., present, report, verbalize) technical information using correct terminology",05,2025-02-25T23:11:00+00:00
+Standard,6.5.2.2,CSK8.G5.11.2,Utilize storytelling to explain program design and collected data,05,2025-02-25T23:11:00+00:00
+Standard,6.5.2.3,CSK8.G5.11.3,"Compare the accuracy, bias, credibility, and relevance of electronic information sources",05,2025-02-25T23:11:00+00:00
+Standard,6.5.2.4,CSK8.G5.11.4,Identify the concepts of causation and correlation,05,2025-02-25T23:11:00+00:00
+Standard,6.5.2.5,CSK8.G5.11.5,"Create descriptions of, make connections between, and draw conclusions from collected data",05,2025-02-25T23:11:00+00:00
+Grade Level,7,,Grade 6,06,2025-02-25T23:11:00+00:00
+Strand,7.1,,Computational Thinking and Problem Solving,06,2025-02-25T23:11:00+00:00
+Content Cluster,7.1.1,Content Cluster 1:,Students will analyze and utilize problem-solving strategies.,06,2025-02-25T23:11:00+00:00
+Standard,7.1.1.1,CSK8.G6.1.1,"Identify and utilize level-appropriate, algorithmic problem-solving strategies",06,2025-02-25T23:11:00+00:00
+Standard,7.1.1.2,CSK8.G6.1.2,"Utilize visual representations of problem-solving logic (e.g., flowcharts) to solve problems of level-appropriate complexity",06,2025-02-25T23:11:00+00:00
+Standard,7.1.1.3,CSK8.G6.1.3,"Analyze appropriate collaborative behaviors (e.g., accepting multiple perspectives, integrating feedback, providing useful feedback, understanding and using socialization) to solve problems",06,2025-02-25T23:11:00+00:00
+Standard,7.1.1.4,CSK8.G6.1.4,Apply strategies for solving simple hardware and software problems that may occur during use,06,2025-02-25T23:11:00+00:00
+Content Cluster,7.1.2,Content Cluster 2:,Students will analyze and utilize connections between elements of mathematics and computer science.,06,2025-02-25T23:11:00+00:00
+Standard,7.1.2.1,CSK8.G6.2.1,"Describe subsets of a sample set identifying unions, intersections, and complements (e.g., describing information sorted with a Venn diagram)",06,2025-02-25T23:11:00+00:00
+Standard,7.1.2.2,CSK8.G6.2.2,Explore how variables are used to represent data,06,2025-02-25T23:11:00+00:00
+Standard,7.1.2.3,CSK8.G6.2.3,"Compare and contrast the relative positions of objects using ordered pairs within a program (e.g., battleships, block-based programming, treasure maps)",06,2025-02-25T23:11:00+00:00
+Standard,7.1.2.4,CSK8.G6.2.4,"Discuss binary numbers, logic, sets, and functions and their application to computer science",06,2025-02-25T23:11:00+00:00
+Strand,7.2,,"Data, Information, and Security",06,2025-02-25T23:11:00+00:00
+Content Cluster,7.2.1,Content Cluster 3:,Students will analyze and utilize data through the use of computing devices.,06,2025-02-25T23:11:00+00:00
+Standard,7.2.1.1,CSK8.G6.3.1,Represent a variety of data in multiple formats,06,2025-02-25T23:11:00+00:00
+Standard,7.2.1.2,CSK8.G6.3.2,Discuss how and why binary can represent data in a computer,06,2025-02-25T23:11:00+00:00
+Standard,7.2.1.3,CSK8.G6.3.3,Compare problems that can be solved using models and simulations that utilize data analysis,06,2025-02-25T23:11:00+00:00
+Standard,7.2.1.4,CSK8.G6.3.4,"Describe the characteristics (e.g., collection environment, input method, units of measure) of the collected data",06,2025-02-25T23:11:00+00:00
+Standard,7.2.1.5,CSK8.G6.3.5,"Collect and analyze data using a variety of level-appropriate tools (e.g., analog, digital)",06,2025-02-25T23:11:00+00:00
+Standard,7.2.1.6,CSK8.G6.3.6,"Evaluate the most effective ways to arrange, collect, and visually represent data",06,2025-02-25T23:11:00+00:00
+Content Cluster,7.2.2,Content Cluster 4:,Students will analyze and utilize concepts of cybersecurity.,06,2025-02-25T23:11:00+00:00
+Standard,7.2.2.1,CSK8.G6.4.1,"Identify real-world cybersecurity problems (e.g., malicious hacking) as they relate to personal cybersecurity, and how to apply strategies for protecting and securing personal digital information",06,2025-02-25T23:11:00+00:00
+Standard,7.2.2.2,CSK8.G6.4.2,"Discuss the difference between appropriate, legal, and ethical uses of technology, acceptable use policies, and codes of conduct and the consequences of inappropriate use",06,2025-02-25T23:11:00+00:00
+Standard,7.2.2.3,CSK8.G6.4.3,"Apply strategies to protect personal digital footprints (e.g., game profiles, other online accounts, and shares on social media) and the responsibilities and opportunities of living, learning, and working in a digitally connected world",06,2025-02-25T23:11:00+00:00
+Strand,7.3,,Algorithms and Programs,06,2025-02-25T23:11:00+00:00
+Content Cluster,7.3.1,Content Cluster 5:,"Students will create, evaluate, and modify algorithms.",06,2025-02-25T23:11:00+00:00
+Standard,7.3.1.1,CSK8.G6.5.1,Create algorithms to solve problems and evaluate effectiveness,06,2025-02-25T23:11:00+00:00
+Standard,7.3.1.2,CSK8.G6.5.2,Design and test algorithms collaboratively using technology,06,2025-02-25T23:11:00+00:00
+Standard,7.3.1.3,CSK8.G6.5.3,Compare and refine algorithms,06,2025-02-25T23:11:00+00:00
+Standard,7.3.1.4,CSK8.G6.5.4,Identify and correct errors within multiple level-appropriate algorithms,06,2025-02-25T23:11:00+00:00
+Content Cluster,7.3.2,Content Cluster 6:,Students will create programs to solve problems.,06,2025-02-25T23:11:00+00:00
+Standard,7.3.2.1,CSK8.G6.6.1,Use a visual block-based or text-based programming language individually and collaboratively to solve level-appropriate problems,06,2025-02-25T23:11:00+00:00
+Standard,7.3.2.2,CSK8.G6.6.2,"Discuss and apply best practices of documentation (e.g., comments, descriptive variable names, program headers)",06,2025-02-25T23:11:00+00:00
+Standard,7.3.2.3,CSK8.G6.6.3,Improve or remix existing block-based and/or text-based programs,06,2025-02-25T23:11:00+00:00
+Strand,7.4,,Computers and Communications,06,2025-02-25T23:11:00+00:00
+Content Cluster,7.4.1,Content Cluster 7:,Students will analyze the utilization of computers within industry.,06,2025-02-25T23:11:00+00:00
+Standard,7.4.1.1,CSK8.G6.7.1,"Identify what distinguishes humans from machines, including focusing on human intelligence versus machine intelligence (e.g., computer vision, language understanding, robot motion, speech)",06,2025-02-25T23:11:00+00:00
+Standard,7.4.1.2,CSK8.G6.7.2,Recognize the expense of computer equipment and how care and protection of the computers can prolong use and save the cost of purchasing new equipment,06,2025-02-25T23:11:00+00:00
+Content Cluster,7.4.2,Content Cluster 8:,Students will analyze communication methods and systems used to transmit information among computing devices.,06,2025-02-25T23:11:00+00:00
+Standard,7.4.2.1,CSK8.G6.8.1,Describe how information can be transmitted using computing devices via a network,06,2025-02-25T23:11:00+00:00
+Standard,7.4.2.2,CSK8.G6.8.2,Demonstrate touch typing techniques while increasing speed and maintaining accuracy,06,2025-02-25T23:11:00+00:00
+Standard,7.4.2.3,CSK8.G6.8.3,"Practice proper keyboarding technique
+* body centered in front of keyboard
+* elbows down
+* eyes focused on the screen
+* proper posture",06,2025-02-25T23:11:00+00:00
+Content Cluster,7.4.3,Content Cluster 9:,Students will utilize appropriate hardware and software.,06,2025-02-25T23:11:00+00:00
+Standard,7.4.3.1,CSK8.G6.9.1,Begins in Grade 7,06,2025-02-25T23:11:00+00:00
+Standard,7.4.3.2,CSK8.G6.9.2,Demonstrate level-appropriate proficiency with keyboards and other input/output devices.,06,2025-02-25T23:11:00+00:00
+Standard,7.4.3.3,CSK8.G6.9.3,Apply productivity/multimedia tools to support communication throughout the curriculum,06,2025-02-25T23:11:00+00:00
+Strand,7.5,,Professionalism and Impacts of Computing,06,2025-02-25T23:11:00+00:00
+Content Cluster,7.5.1,Content Cluster 10:,Students will analyze the impacts of technology and professionalism within the computing community.,06,2025-02-25T23:11:00+00:00
+Standard,7.5.1.1,CSK8.G6.10.1,"Identify the dangers of social media and other online engagement platforms, and strategies to address these dangers",06,2025-02-25T23:11:00+00:00
+Standard,7.5.1.2,CSK8.G6.10.2,Demonstrate an understanding of the impact of access to computing resources,06,2025-02-25T23:11:00+00:00
+Standard,7.5.1.3,CSK8.G6.10.3,Identify the potential outcomes of oversharing information with otherwise trusted parties and how to minimize the effects,06,2025-02-25T23:11:00+00:00
+Standard,7.5.1.4,CSK8.G6.10.4,Research the history of computers and technology,06,2025-02-25T23:11:00+00:00
+Standard,7.5.1.5,CSK8.G6.10.5,Investigate a career that requires computing and technology,06,2025-02-25T23:11:00+00:00
+Standard,7.5.1.6,CSK8.G6.10.6,Demonstrate an understanding of positive and negative impacts of technology on the daily life of individuals and society,06,2025-02-25T23:11:00+00:00
+Standard,7.5.1.7,CSK8.G6.10.7,"Demonstrate ethical uses of copyright laws, fair use exemptions, and intellectual property in various media",06,2025-02-25T23:11:00+00:00
+Content Cluster,7.5.2,Content Cluster 11:,Students will demonstrate understanding of storytelling with data and appropriately communicate about technical information.,06,2025-02-25T23:11:00+00:00
+Standard,7.5.2.1,CSK8.G6.11.1,"Communicate (e.g., present, report, verbalize) technical information using correct terminology",06,2025-02-25T23:11:00+00:00
+Standard,7.5.2.2,CSK8.G6.11.2,Utilize storytelling to explain program design and collected data,06,2025-02-25T23:11:00+00:00
+Standard,7.5.2.3,CSK8.G6.11.3,"Demonstrate an understanding of the accuracy, age appropriateness, bias, comprehensiveness, credibility, and relevance of electronic information sources",06,2025-02-25T23:11:00+00:00
+Standard,7.5.2.4,CSK8.G6.11.4,Utilize data analysis to distinguish between causation and correlation,06,2025-02-25T23:11:00+00:00
+Standard,7.5.2.5,CSK8.G6.11.5,"Create descriptions of, make connections between, and draw conclusions from collected data",06,2025-02-25T23:11:00+00:00
+Grade Level,8,,Grade 7,07,2025-02-25T23:11:00+00:00
+Strand,8.1,,Computational Thinking and Problem Solving,07,2025-02-25T23:11:00+00:00
+Content Cluster,8.1.1,Content Cluster 1:,Students will analyze and utilize problem-solving strategies.,07,2025-02-25T23:11:00+00:00
+Standard,8.1.1.1,CSK8.G7.1.1,"Identify and utilize level-appropriate, algorithmic problem-solving strategies",07,2025-02-25T23:11:00+00:00
+Standard,8.1.1.2,CSK8.G7.1.2,"Utilize visual representations of problem-solving logic (e.g., flowcharts) to solve problems of level-appropriate complexity",07,2025-02-25T23:11:00+00:00
+Standard,8.1.1.3,CSK8.G7.1.3,"Demonstrate appropriate collaborative behaviors (e.g., accepting multiple perspectives, integrating feedback, providing useful feedback, understanding and using socialization) to solve problems",07,2025-02-25T23:11:00+00:00
+Standard,8.1.1.4,CSK8.G7.1.4,Apply strategies for identifying and solving routine hardware and software problems that occur during everyday computer use,07,2025-02-25T23:11:00+00:00
+Content Cluster,8.1.2,Content Cluster 2:,Students will analyze and utilize connections between elements of mathematics and computer science.,07,2025-02-25T23:11:00+00:00
+Standard,8.1.2.1,CSK8.G7.2.1,"Create compound statements that represent unions, intersections, and complements using OR, AND, and NOT (e.g., writing statements from information sorted with a Venn diagram)",07,2025-02-25T23:11:00+00:00
+Standard,8.1.2.2,CSK8.G7.2.2,Utilize variables to construct expressions and equations,07,2025-02-25T23:11:00+00:00
+Standard,8.1.2.3,CSK8.G7.2.3,"Compare and contrast the relative positions of objects using ordered pairs within a program (e.g., battleships, block-based programming, treasure maps)",07,2025-02-25T23:11:00+00:00
+Standard,8.1.2.4,CSK8.G7.2.4,"Examine binary numbers, logic, sets, and functions and their application to computer science",07,2025-02-25T23:11:00+00:00
+Strand,8.2,,"Data, Information, and Security",07,2025-02-25T23:11:00+00:00
+Content Cluster,8.2.1,Content Cluster 3:,Students will analyze and utilize data through the use of computing devices.,07,2025-02-25T23:11:00+00:00
+Standard,8.2.1.1,CSK8.G7.3.1,Evaluate the effectiveness of visual representations of data,07,2025-02-25T23:11:00+00:00
+Standard,8.2.1.2,CSK8.G7.3.2,Discuss how American Standard Code for Information Interchange (ASCII) codes represent data in a computer,07,2025-02-25T23:11:00+00:00
+Standard,8.2.1.3,CSK8.G7.3.3,Evaluate the effectiveness of models and simulations for problem solving and analyze data,07,2025-02-25T23:11:00+00:00
+Standard,8.2.1.4,CSK8.G7.3.4,"Analyze the quality of collected data based on its characteristics (e.g., temperatures gathered at different scale) to determine the value provided to the user",07,2025-02-25T23:11:00+00:00
+Standard,8.2.1.5,CSK8.G7.3.5,"Collect and analyze data from multiple sources using a variety of level-appropriate tools (e.g., analog, digital)",07,2025-02-25T23:11:00+00:00
+Standard,8.2.1.6,CSK8.G7.3.6,"Evaluate the most effective ways to arrange, collect, and visually represent data",07,2025-02-25T23:11:00+00:00
+Content Cluster,8.2.2,Content Cluster 4:,Students will analyze and utilize concepts of cybersecurity.,07,2025-02-25T23:11:00+00:00
+Standard,8.2.2.1,CSK8.G7.4.1,"Research and describe real-world cybersecurity problems (e.g., identity theft) as they relate to personal cybersecurity and how to apply digital and physical methods for protecting and securing personal information",07,2025-02-25T23:11:00+00:00
+Standard,8.2.2.2,CSK8.G7.4.2,"Demonstrate an understanding between appropriate, legal, and ethical uses of technology, acceptable use policies, and codes of conduct and the consequences of inappropriate use",07,2025-02-25T23:11:00+00:00
+Standard,8.2.2.3,CSK8.G7.4.3,"Apply strategies to protect personal digital footprints (e.g., game profiles, other online accounts, and shares on social media) and the responsibilities and opportunities of living, learning, and working in a digitally connected world",07,2025-02-25T23:11:00+00:00
+Strand,8.3,,Algorithms and Programs,07,2025-02-25T23:11:00+00:00
+Content Cluster,8.3.1,Content Cluster 5:,"Students will create, evaluate, and modify algorithms.",07,2025-02-25T23:11:00+00:00
+Standard,8.3.1.1,CSK8.G7.5.1,Create algorithms using constraints to solve problems and evaluate effectiveness,07,2025-02-25T23:11:00+00:00
+Standard,8.3.1.2,CSK8.G7.5.2,Design and test algorithms using technology,07,2025-02-25T23:11:00+00:00
+Standard,8.3.1.3,CSK8.G7.5.3,Compare and refine algorithms,07,2025-02-25T23:11:00+00:00
+Standard,8.3.1.4,CSK8.G7.5.4,Identify and correct multiple errors within a level-appropriate program,07,2025-02-25T23:11:00+00:00
+Content Cluster,8.3.2,Content Cluster 6:,Students will create programs to solve problems.,07,2025-02-25T23:11:00+00:00
+Standard,8.3.2.1,CSK8.G7.6.1,Use a visual block-based or text-based programming language individually and collaboratively to solve level-appropriate problems,07,2025-02-25T23:11:00+00:00
+Standard,8.3.2.2,CSK8.G6.6.2,"Utilize best practices of documentation (e.g., comments, descriptive variable names, program headers)",07,2025-02-25T23:11:00+00:00
+Standard,8.3.2.3,CSK8.G7.6.3,Improve or remix existing block-based and/or text-based programs,07,2025-02-25T23:11:00+00:00
+Strand,8.4,,Computers and Communications,07,2025-02-25T23:11:00+00:00
+Content Cluster,8.4.1,Content Cluster 7:,Students will analyze the utilization of computers within industry.,07,2025-02-25T23:11:00+00:00
+Standard,8.4.1.1,CSK8.G7.7.1,"Describe ways in which computers use models of intelligent behavior (e.g., computer vision, language understanding, robot motion, speech)",07,2025-02-25T23:11:00+00:00
+Standard,8.4.1.2,CSK8.G7.7.2,Recognize the expense of computer equipment and how care and protection of the computers can prolong use and save the cost of purchasing new equipment,07,2025-02-25T23:11:00+00:00
+Content Cluster,8.4.2,Content Cluster 8:,Students will analyze communication methods and systems used to transmit information among computing devices.,07,2025-02-25T23:11:00+00:00
+Standard,8.4.2.1,CSK8.G7.8.1,Identify major components and functions of computer systems and networks,07,2025-02-25T23:11:00+00:00
+Standard,8.4.2.2,CSK8.G7.8.2,Demonstrate touch typing techniques while increasing speed and maintaining accuracy,07,2025-02-25T23:11:00+00:00
+Standard,8.4.2.3,CSK8.G7.8.3,"Practice proper keyboarding technique
+* body centered in front of keyboard
+* elbows down
+* eyes focused on the screen
+* proper posture",07,2025-02-25T23:11:00+00:00
+Content Cluster,8.4.3,Content Cluster 9:,Students will utilize appropriate hardware and software.,07,2025-02-25T23:11:00+00:00
+Standard,8.4.3.1,CSK8.G7.9.1,Compare and contrast examples of high-level and low-level programming languages,07,2025-02-25T23:11:00+00:00
+Standard,8.4.3.2,CSK8.G7.9.2,Demonstrate level-appropriate proficiency with keyboards and other input/output devices.,07,2025-02-25T23:11:00+00:00
+Standard,8.4.3.3,CSK8.G7.9.3,Apply productivity/multimedia tools to support communication throughout the curriculum,07,2025-02-25T23:11:00+00:00
+Strand,8.5,,Professionalism and Impacts of Computing,07,2025-02-25T23:11:00+00:00
+Content Cluster,8.5.1,Content Cluster 10:,Students will analyze the impacts of technology and professionalism within the computing community.,07,2025-02-25T23:11:00+00:00
+Standard,8.5.1.1,CSK8.G7.10.1,"Identify the dangers of social media and other online engagement platforms, and strategies to address these dangers",07,2025-02-25T23:11:00+00:00
+Standard,8.5.1.2,CSK8.G7.10.2,Demonstrate an understanding of the impact of access to computing resources on a global economy,07,2025-02-25T23:11:00+00:00
+Standard,8.5.1.3,CSK8.G7.10.3,Research and discuss potential outcomes of oversharing information with otherwise trusted parties and how to minimize the effects,07,2025-02-25T23:11:00+00:00
+Standard,8.5.1.4,CSK8.G7.10.4,Research the history of computers and technology,07,2025-02-25T23:11:00+00:00
+Standard,8.5.1.5,CSK8.G7.10.5,Describe how computer science enhances other career fields,07,2025-02-25T23:11:00+00:00
+Standard,8.5.1.6,CSK8.G7.10.6,Analyze changes in technology through time and the effects those changes have on the daily life of individuals and society,07,2025-02-25T23:11:00+00:00
+Standard,8.5.1.7,CSK8.G7.10.7,"Demonstrate ethical uses of copyright laws, fair use exemptions, and intellectual property in various media",07,2025-02-25T23:11:00+00:00
+Content Cluster,8.5.2,Content Cluster 11:,Students will demonstrate understanding of storytelling with data and appropriately communicate about technical information.,07,2025-02-25T23:11:00+00:00
+Standard,8.5.2.1,CSK8.G7.11.1,"Communicate (e.g., present, report, verbalize) technical information using correct terminology",07,2025-02-25T23:11:00+00:00
+Standard,8.5.2.2,CSK8.G7.11.2,Utilize storytelling to explain program design and collected data,07,2025-02-25T23:11:00+00:00
+Standard,8.5.2.3,CSK8.G7.11.3,"Evaluate and discuss the accuracy, age appropriateness, bias, comprehensiveness, credibility, and relevance of electronic information sources concerning real-world problems",07,2025-02-25T23:11:00+00:00
+Standard,8.5.2.4,CSK8.G7.11.4,Utilize data analysis to distinguish between causation and correlation,07,2025-02-25T23:11:00+00:00
+Standard,8.5.2.5,CSK8.G7.11.5,"Create descriptions of, make connections between, and draw conclusions from collected data",07,2025-02-25T23:11:00+00:00
+Grade Level,9,,Grade 8,08,2025-02-25T23:11:00+00:00
+Strand,9.1,,Computational Thinking and Problem Solving,08,2025-02-25T23:11:00+00:00
+Content Cluster,9.1.1,Content Cluster 1:,Students will analyze and utilize problem-solving strategies.,08,2025-02-25T23:11:00+00:00
+Standard,9.1.1.1,CSK8.G8.1.1,"Identify and utilize level-appropriate, algorithmic problem-solving strategies",08,2025-02-25T23:11:00+00:00
+Standard,9.1.1.2,CSK8.G8.1.2,"Utilize visual representations of problem-solving logic (e.g., flowcharts) to solve problems of level-appropriate complexity",08,2025-02-25T23:11:00+00:00
+Standard,9.1.1.3,CSK8.G8.1.3,"Demonstrate appropriate collaborative behaviors (e.g., accepting multiple perspectives, integrating feedback, providing useful feedback, understanding and using socialization) to solve problems",08,2025-02-25T23:11:00+00:00
+Standard,9.1.1.4,CSK8.G8.1.4,Apply strategies for identifying and solving routine hardware and software problems that occur in everyday computer use,08,2025-02-25T23:11:00+00:00
+Content Cluster,9.1.2,Content Cluster 2:,Students will analyze and utilize connections between elements of mathematics and computer science.,08,2025-02-25T23:11:00+00:00
+Standard,9.1.2.1,CSK8.G8.2.1,"Create subsets of a sample set by using logic (e.g., OR, AND, NOT, XOR)",08,2025-02-25T23:11:00+00:00
+Standard,9.1.2.2,CSK8.G8.2.2,"Utilize variables in the creation of functions, methods, or similar constructs",08,2025-02-25T23:11:00+00:00
+Standard,9.1.2.3,CSK8.G8.2.3,"Compare and contrast the relative positions of objects using ordered pairs within a program (e.g., battleships, text-based programming, treasure maps)",08,2025-02-25T23:11:00+00:00
+Standard,9.1.2.4,CSK8.G8.2.4,Evaluate the relationship between binary and hexadecimal representations,08,2025-02-25T23:11:00+00:00
+Strand,9.2,,"Data, Information, and Security",08,2025-02-25T23:11:00+00:00
+Content Cluster,9.2.1,Content Cluster 3:,Students will analyze and utilize data through the use of computing devices.,08,2025-02-25T23:11:00+00:00
+Standard,9.2.1.1,CSK8.G8.3.1,Create and analyze data representations of various artifacts,08,2025-02-25T23:11:00+00:00
+Standard,9.2.1.2,CSK8.G8.3.2,Discuss how and why hexadecimal codes are used to represent data in a computer,08,2025-02-25T23:11:00+00:00
+Standard,9.2.1.3,CSK8.G8.3.3,Analyze the degree to which a computer model accurately represents an actual situation,08,2025-02-25T23:11:00+00:00
+Standard,9.2.1.4,CSK8.G8.3.4,Collect data to be used for quality analysis,08,2025-02-25T23:11:00+00:00
+Standard,9.2.1.5,CSK8.G8.3.5,"Collect, analyze, and present data from multiple sources using a variety of level-appropriate tools (e.g., analog, digital)",08,2025-02-25T23:11:00+00:00
+Standard,9.2.1.6,CSK8.G8.3.6,"Evaluate the most effective ways to arrange, collect, and visually represent data",08,2025-02-25T23:11:00+00:00
+Content Cluster,9.2.2,Content Cluster 4:,Students will analyze and utilize concepts of cybersecurity.,08,2025-02-25T23:11:00+00:00
+Standard,9.2.2.1,CSK8.G8.4.1,"Research and describe real-world cybersecurity problems (e.g., identity theft) as they relate to personal cybersecurity and how to apply digital and physical methods for protecting and securing personal information",08,2025-02-25T23:11:00+00:00
+Standard,9.2.2.2,CSK8.G8.4.2,"Analyze the difference between appropriate, legal, and ethical uses of technology, acceptable use policies, and codes of conduct and the consequences of inappropriate use",08,2025-02-25T23:11:00+00:00
+Standard,9.2.2.3,CSK8.G8.4.3,"Apply strategies to protect personal digital footprints (e.g., game profiles, other online accounts, and shares on social media) and the responsibilities and opportunities of living, learning, and working in a digitally connected world",08,2025-02-25T23:11:00+00:00
+Strand,9.3,,Algorithms and Programs,08,2025-02-25T23:11:00+00:00
+Content Cluster,9.3.1,Content Cluster 5:,"Students will create, evaluate, and modify algorithms.",08,2025-02-25T23:11:00+00:00
+Standard,9.3.1.1,CSK8.G8.5.1,Create algorithms using constraints to solve problems and evaluate effectiveness,08,2025-02-25T23:11:00+00:00
+Standard,9.3.1.2,CSK8.G8.5.2,Design and test algorithms using technology,08,2025-02-25T23:11:00+00:00
+Standard,9.3.1.3,CSK8.G8.5.3,Compare and refine algorithms,08,2025-02-25T23:11:00+00:00
+Standard,9.3.1.4,CSK8.G8.5.4,Identify and correct multiple errors within a level-appropriate program,08,2025-02-25T23:11:00+00:00
+Content Cluster,9.3.2,Content Cluster 6:,Students will create programs to solve problems.,08,2025-02-25T23:11:00+00:00
+Standard,9.3.2.1,CSK8.G8.6.1,Create a level-appropriate program individually and collaboratively using a text-based programming language,08,2025-02-25T23:11:00+00:00
+Standard,9.3.2.2,CSK8.G8.6.2,"Utilize best practices of documentation (e.g., comments, descriptive variable names, program headers)",08,2025-02-25T23:11:00+00:00
+Standard,9.3.2.3,CSK8.G8.6.3,Improve or remix existing text-based programs,08,2025-02-25T23:11:00+00:00
+Strand,9.4,,Computers and Communications,08,2025-02-25T23:11:00+00:00
+Content Cluster,9.4.1,Content Cluster 7:,Students will analyze the utilization of computers within industry.,08,2025-02-25T23:11:00+00:00
+Standard,9.4.1.1,CSK8.G8.7.1,"Compare and contrast human intelligence and computer intelligence (e.g., common sense, emotional decisions, literal versus abstract)",08,2025-02-25T23:11:00+00:00
+Standard,9.4.1.2,CSK8.G8.7.2,Recognize the expense of computer equipment and how care and protection of the computers can prolong use and save the cost of purchasing new equipment,08,2025-02-25T23:11:00+00:00
+Content Cluster,9.4.2,Content Cluster 8:,Students will analyze communication methods and systems used to transmit information among computing devices.,08,2025-02-25T23:11:00+00:00
+Standard,9.4.2.1,CSK8.G8.8.1,Describe major components and functions of computer systems and networks,08,2025-02-25T23:11:00+00:00
+Standard,9.4.2.2,CSK8.G8.8.2,Demonstrate touch typing techniques while increasing speed and maintaining accuracy,08,2025-02-25T23:11:00+00:00
+Standard,9.4.2.3,CSK8.G8.8.3,"Practice proper keyboarding technique
+* body centered in front of keyboard
+* elbows down
+* eyes focused on the screen
+* proper posture",08,2025-02-25T23:11:00+00:00
+Content Cluster,9.4.3,Content Cluster 9:,Students will utilize appropriate hardware and software.,08,2025-02-25T23:11:00+00:00
+Standard,9.4.3.1,CSK8.G8.9.1,"Research the hierarchy in computing including high-level languages, instruction sets, logic circuits, and translations",08,2025-02-25T23:11:00+00:00
+Standard,9.4.3.2,CSK8.G8.9.2,Demonstrate level-appropriate proficiency with keyboards and other input/output devices.,08,2025-02-25T23:11:00+00:00
+Standard,9.4.3.3,CSK8.G8.9.3,"Design, develop, and publish/present products (e.g., podcasts, videos, websites) using technology resources that demonstrate and communicate curriculum concepts",08,2025-02-25T23:11:00+00:00
+Strand,9.5,,Professionalism and Impacts of Computing,08,2025-02-25T23:11:00+00:00
+Content Cluster,9.5.1,Content Cluster 10:,Students will analyze the impacts of technology and professionalism within the computing community.,08,2025-02-25T23:11:00+00:00
+Standard,9.5.1.1,CSK8.G8.10.1,"Identify the dangers of social media and other online engagement platforms, and strategies to address these dangers",08,2025-02-25T23:11:00+00:00
+Standard,9.5.1.2,CSK8.G8.10.2,Analyze the impact of the availability to computing resources on accessing critical information,08,2025-02-25T23:11:00+00:00
+Standard,9.5.1.3,CSK8.G8.10.3,Research and discuss potential outcomes of oversharing information with otherwise trusted parties and how to minimize the effects,08,2025-02-25T23:11:00+00:00
+Standard,9.5.1.4,CSK8.G8.10.4,Research the history of computers and technology,08,2025-02-25T23:11:00+00:00
+Standard,9.5.1.5,CSK8.G8.10.5,Predict the role of computer science in future careers,08,2025-02-25T23:11:00+00:00
+Standard,9.5.1.6,CSK8.G8.10.6,"Analyze positive and negative impacts of technology on aspects of the world (e.g., culture, economy, education, environment, workforce)",08,2025-02-25T23:11:00+00:00
+Standard,9.5.1.7,CSK8.G8.10.7,"Analyze ethical issues that relate to copyright laws, fair use exemptions, and intellectual property in various media",08,2025-02-25T23:11:00+00:00
+Content Cluster,9.5.2,Content Cluster 11:,Students will demonstrate understanding of storytelling with data and appropriately communicate about technical information.,08,2025-02-25T23:11:00+00:00
+Standard,9.5.2.1,CSK8.G8.11.1,"Communicate (e.g., present, report, verbalize) technical information using correct terminology",08,2025-02-25T23:11:00+00:00
+Standard,9.5.2.2,CSK8.G8.11.2,Utilize storytelling to explain program design and collected data,08,2025-02-25T23:11:00+00:00
+Standard,9.5.2.3,CSK8.G8.11.3,Apply strategies for determining the reliability of information found on the internet,08,2025-02-25T23:11:00+00:00
+Standard,9.5.2.4,CSK8.G8.11.4,Utilize data analysis to distinguish between causation and correlation,08,2025-02-25T23:11:00+00:00
+Standard,9.5.2.5,CSK8.G8.11.5,"Create descriptions of, make connections between, and draw conclusions from collected data",08,2025-02-25T23:11:00+00:00
+HS Courses,10,,High School Computer Science Courses,09-12,2025-02-25T23:11:00+00:00
+Program of Study,10.1,,High School Artificial Intelligence and Machine Learning,09-12,2025-02-25T23:11:00+00:00
+Course,10.1.1,,Year 1,09-12,2025-02-25T23:11:00+00:00
+Strand,10.1.1.1,,Computational Thinking and Problem Solving,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.1.1.1.1,Content Cluster 1:,Students will analyze and utilize problem-solving strategies.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.1.1.1,AIML.Y1.1.1,Leverage problem-solving strategies to solve problems of level-appropriate complexity,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.1.1.2,AIML.Y1.1.2,Analyze and utilize multiple representations of problem-solving logic used to solve problems of appropriate complexity,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.1.1.3,AIML.Y1.1.3,Analyze and utilize collaborative methods in problem solving of level-appropriate complexity,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.1.1.4,AIML.Y1.1.4,Analyze and utilize level-appropriate troubleshooting strategies for hardware and software,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.1.1.1.2,Content Cluster 2:,Students will analyze and utilize connections between concepts of mathematics and computer science.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.1.2.1,AIML.Y1.2.1,Interpret relational and logical expressions of level-appropriate complexity using comparison and Boolean operators,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.1.2.2,AIML.Y1.2.2,"Classify the types of information that can be stored as variables and analyze the appropriateness of each (e.g., Booleans, characters, integers, floating points, strings)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.1.2.3,AIML.Y1.2.3,Analyze how computer science concepts relate to the field of mathematics,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.1.2.4,AIML.Y1.2.4,Discuss and apply concepts of abstraction,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.1.2.5,AIML.Y1.2.5,"Perform operations of level-appropriate complexity with binary, decimal, and hexadecimal numbers",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.1.2.6,AIML.Y1.2.6,Demonstrate operator precedence in expressions and statements,09-12,2025-02-25T23:11:00+00:00
+Strand,10.1.1.2,,"Data, Information, and Security",09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.1.1.2.1,Content Cluster 3:,Students will analyze and utilize data through the use of computing devices.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.2.1.1,AIML.Y1.3.1,"Define, store, access, and manipulate level-appropriate data (e.g., primitive, linear)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.2.1.2,AIML.Y1.3.2,Define and discuss different examples of level-appropriate quantitative and qualitative data,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.2.1.3,AIML.Y1.3.4,"Analyze, utilize, and visually represent level-appropriate data",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.2.1.4,AIML.Y1.3.5,Perform level-appropriate data analysis using computing tools,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.1.1.2.2,Content Cluster 4:,Students will analyze and utilize concepts of cybersecurity.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.2.2.1,AIML.Y1.4.1,Identify the five pillars of cybersecurity and evaluate the relevance of each pillar to computer science concepts,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.2.2.2,AIML.Y1.4.2,"Research and describe different roles within the hacking community (e.g., white hat, black hat, gray hat hacking), including positive and negative motivations, significant impacts, and social stereotypes",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.2.2.3,AIML.Y1.4.3,"Research and describe the impacts of ransomware, trojans, viruses, and other malware",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.2.2.4,AIML.Y1.4.4,Explain implications related to identification and responsible reporting of a vulnerability versus exploitation,09-12,2025-02-25T23:11:00+00:00
+Strand,10.1.1.3,,Algorithms and Programs,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.1.1.3.1,Content Cluster 5:,"Students will create, evaluate, and modify algorithms.",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.3.1.1,AIML.Y1.5.1,"Design and implement level-appropriate algorithms that use iteration, selection, and sequence",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.3.1.2,AIML.Y1.5.2,Illustrate the flow of execution of algorithms in level-appropriate programs including branching and looping,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.3.1.3,AIML.Y1.5.3,Evaluate the qualities of level-appropriate student-created and non-student-created algorithms,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.3.1.4,AIML.Y1.5.4,Use a systematic approach to detect and resolve errors in a given algorithm,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.1.1.3.2,Content Cluster 6:,Students will create programs to solve problems.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.3.2.1,AIML.Y1.6.1,Create programs using procedures to solve problems of level-appropriate complexity,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.3.2.2,AIML.Y1.6.2,"Discuss and apply best practices of program design and format (e.g., descriptive names, documentation, indentation, user experience design, whitespace)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.3.2.3,AIML.Y1.6.3,Determine the scope and state of variables declared in procedures and control structures over time,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.3.2.4,AIML.Y1.6.4,"Create programs of level-appropriate complexity that read from standard input, write to standard output, read from a file, write to a file, and append to a file",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.3.2.5,AIML.Y1.6.5,"Use a systematic approach to detect logic, runtime, and syntax errors within a program",09-12,2025-02-25T23:11:00+00:00
+Strand,10.1.1.4,,Computers and Communications,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.1.1.4.1,Content Cluster 7:,Students will analyze the utilization of computers within industry.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.4.1.1,AIML.Y1.7.1,Identify hardware and software specific to carrying out the mission of regional industries,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.4.1.2,AIML.Y1.7.2,"Research advancing and emerging technologies (e.g., artificially intelligent agents, blockchain, extended reality, Internet of Things (IoT), machine learning, robotics)",09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.1.1.4.2,Content Cluster 8:,Students will analyze communication methods and systems used to transmit information among computing devices.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.4.2.1,AIML.Y1.8.1,Utilize the command line to accomplish common network troubleshooting tasks at an introductory level,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.4.2.2,AIML.Y1.8.2,Research and describe common networking concepts at an introductory level,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.4.2.3,AIML.Y1.8.3,"Research and describe modems, network interface cards, routers (e.g., consumer, industrial), switches, and wireless access points, and identify their purposes within a network",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.4.2.4,AIML.Y1.8.4,Describe the importance of creating and using common rules for communication and the utilization of common network protocols including the relationship between client and server,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.1.1.4.3,Content Cluster 9:,Students will utilize appropriate hardware and software.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.4.3.1,AIML.Y1.9.1,"Compare and contrast computer programming paradigms (e.g., functional, imperative, object-oriented)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.4.3.2,AIML.Y1.9.2,"Research, describe, and utilize at an appropriate level:
+* debugging strategies
+* integrated development environments (IDE)
+* source-code editors
+* version control strategies",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.4.3.3,AIML.Y1.9.3,"Classify layers of software (e.g., applications, drivers, firmware, operating systems) utilized within various platforms (e.g., Android, ChromeOS, iOS, Linux, macOS, Windows)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.4.3.4,AIML.Y1.9.4,Identify and describe the purpose of hardware components within various personal computing platforms,09-12,2025-02-25T23:11:00+00:00
+Strand,10.1.1.5,,Professionalism and Impacts of Computing,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.1.1.5.1,Content Cluster 10:,Students will analyze the impacts of technology and professionalism within the computing community.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.5.1.1,AIML.Y1.10.1,Research and describe the risks and risk mitigation strategies associated with the utilization and implementation of social media and other digital technology implications,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.5.1.2,AIML.Y1.10.3,Research and describe the potential benefits associated with the utilization and implementation of social media and other digital technologies,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.5.1.3,AIML.Y1.10.4,"Research and describe the relationship between access and security (e.g., active and passive data, convenience, data mining, digital marketing, online wallets, privacy, theft of personal information)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.5.1.4,AIML.Y1.10.6,Research the history of computing devices and their impact on society,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.5.1.5,AIML.Y1.10.7,"Research and identify diverse careers and career opportunities (e.g., accessibility, availability, demand) that are influenced by computer science and the technical and soft skills needed for each",09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.1.1.5.2,Content Cluster 11:,Students will demonstrate understanding of storytelling with data and appropriately communicate about technical information.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.5.2.1,AIML.Y1.11.1,"Communicate basic technical information effectively to diverse audiences including, but not limited to, non-technical audience members",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.5.2.2,AIML.Y1.11.2,Describe and utilize the concepts of storytelling with data,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.5.2.3,AIML.Y1.11.3,"Describe the following common types of data bias:
+* confirmation bias
+* confounding variables
+* outliers
+* overfitting/underfitting
+* selection bias",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.5.2.4,AIML.Y1.11.4,Compare and contrast causation and correlation,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.1.5.2.5,AIML.Y1.11.5,"Compare and contrast interpreting data, inferring using data, and implicating with data",09-12,2025-02-25T23:11:00+00:00
+Course,10.1.2,,Year 2,09-12,2025-02-25T23:11:00+00:00
+Strand,10.1.2.1,,Computational Thinking and Problem Solving,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.1.2.1.1,Content Cluster 1:,Students will analyze and utilize problem-solving strategies.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.1.1.1,AIML.Y2.1.1,Leverage problem-solving strategies to solve problems of level-appropriate complexity,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.1.1.2,AIML.Y2.1.2,Analyze and utilize multiple representations of problem-solving logic used to solve problems of appropriate complexity,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.1.1.3,AIML.Y2.1.3,Analyze and utilize collaborative methods in problem solving of level-appropriate complexity,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.1.1.4,AIML.Y2.1.4,Analyze and utilize level-appropriate troubleshooting strategies for hardware and software,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.1.1.5,AIML.Y2.1.5,"Decompose problems, including constraint satisfaction problems, of level-appropriate complexity",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.1.1.6,AIML.Y2.1.6,"Analyze and utilize decision theory techniques (e.g., adversarial searches, decision networks, game theory, influence diagrams, Markov decision processes, probability theory, satisficing, utility theory) to represent and solve problems of level-appropriate complexity",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.1.1.7,AIML.Y2.1.7,"Research, describe, and utilize goal reaching strategies, decision-making concepts, and historical context of thinking humanly as found within the field of artificial intelligence and machine learning including, but not limited to, cognitive modelling (e.g., brain imaging, introspection, psychological testing)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.1.1.8,AIML.Y2.1.8,"Research, describe, and utilize goal-reaching strategies, decision-making concepts, and historical context of acting humanly as found within the field of artificial intelligence and machine learning including, but not limited to, operational tests for intelligent behavior (e.g., Turing Test)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.1.1.9,AIML.Y2.1.9,"Research, describe, and utilize goal-reaching strategies, decision-making concepts, and historical context of thinking rationally as found within the field of artificial intelligence and machine learning including Laws of Thought (e.g., Law of Excluded Middle, Law of Identity, Law of Noncontradiction)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.1.1.10,AIML.Y2.1.10,"Research, describe, and utilize goal-reaching strategies, decision-making concepts, and historical contexts of acting rationally as found within the field of artificial intelligence and machine learning, including the use and limitations of rational agents",09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.1.2.1.2,Content Cluster 2:,Students will analyze and utilize connections between concepts of mathematics and computer science.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.1.2.1,AIML.Y2.2.1,"Construct and evaluate compound expressions using multiple relational and logical operators, including the use of laws of logic symbology (e.g., p, ∼p, ⊃, ∀), to represent and solve problems of a level-appropriate complexity",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.1.2.2,AIML.Y2.2.2,"Analyze the concepts and utilization of intelligent agents (e.g., agent programs, architecture, environments, goal-based agents, learning agents, model-based agents, rational agents, utility-based agents) and logical agents",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.1.2.3,AIML.Y2.2.3,"Compare and contrast concepts and utilization of first-order logic, fuzzy logic, probability theory, propositional logic, and temporal logic",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.1.2.4,AIML.Y2.2.4,Analyze and utilize concepts of abstraction as modeling and abstraction as encapsulation,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.1.2.5,AIML.Y2.2.5,"Perform operations of level-appropriate complexity with binary, octal, decimal, and hexadecimal numbers",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.1.2.6,AIML.Y2.2.7,"Analyze the utilization of conditional probability, including the application of Bayes Theorem and naive Bayes models, in the development and application of machine learning",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.1.2.7,AIML.Y2.2.8,"Analyze and utilize automated planning (e.g., classical, hierarchical, non-deterministic, scheduling)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.1.2.8,AIML.Y2.2.9,"Analyze and apply strategies used to overcome issues of uncertainty (e.g., nondeterminism, partial observation)",09-12,2025-02-25T23:11:00+00:00
+Strand,10.1.2.2,,"Data, Information, and Security",09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.1.2.2.1,Content Cluster 3:,Students will analyze and utilize data through the use of computing devices.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.2.1.1,AIML.Y2.3.1,"Create programs to store, access, and manipulate level-appropriate data (e.g., structured data, objects)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.2.1.2,AIML.Y2.3.2,Define and discuss different examples of level-appropriate quantitative and qualitative data,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.2.1.3,AIML.Y2.3.3,"Research, discuss, and create level-appropriate programs to model and simulate probabilistic and real-world scenarios",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.2.1.4,AIML.Y2.3.4,"Analyze, utilize, and visually represent level-appropriate static and dynamic data",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.2.1.5,AIML.Y2.3.5,Perform level-appropriate data analysis using computing tools,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.1.2.2.2,Content Cluster 4:,Students will analyze and utilize concepts of cybersecurity.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.2.2.1,AIML.Y2.4.1,Apply the five pillars of cybersecurity as applicable to level-appropriate computer science concepts,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.2.2.2,AIML.Y2.4.3,"Research and describe common attacks on hardware, software, and networks",09-12,2025-02-25T23:11:00+00:00
+Strand,10.1.2.3,,Algorithms and Programs,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.1.2.3.1,Content Cluster 5:,"Students will create, evaluate, and modify algorithms.",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.3.1.1,AIML.Y2.5.1,"Design and implement level-appropriate algorithms that use iteration, recursion, selection, and sequence",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.3.1.2,AIML.Y2.5.2,"Evaluate multiple student-created algorithms and non-student-created algorithms in terms of time and space complexities (e.g., Big O notation)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.3.1.3,AIML.Y2.5.3,Evaluate the qualities of level-appropriate student-created and non-student-created algorithms including classic search and sort algorithms,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.3.1.4,AIML.Y2.5.4,Use a systematic approach to detect and resolve errors in a given algorithm,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.3.1.5,AIML.Y2.5.5,Identify and utilize the metrics for measuring artificial intelligence and machine learning algorithms,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.1.2.3.2,Content Cluster 6:,Students will create programs to solve problems.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.3.2.1,AIML.Y2.6.1,Create programs to solve problems of level-appropriate complexity,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.3.2.2,AIML.Y2.6.2,"Discuss and apply best practices of program design and format (e.g., descriptive names, documentation, indentation, user experience design, whitespace)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.3.2.3,AIML.Y2.6.4,"Create programs that read from, write to, and append to a file of level-appropriate complexity that includes structured data",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.3.2.4,AIML.Y2.6.5,"Use a systematic approach to detect logic, runtime, and syntax errors within a program",09-12,2025-02-25T23:11:00+00:00
+Strand,10.1.2.4,,Computers and Communications,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.1.2.4.1,Content Cluster 7:,Students will analyze the utilization of computers within industry.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.4.1.1,AIML.Y2.7.1,Utilize hardware and/or software to solve level-appropriate industry-based problems,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.4.1.2,AIML.Y2.7.2,"Research cutting-edge technologies that incorporate artificial intelligence and machine learning as a core component of its decision making processes (e.g., autonomous vehicles, recommended purchase suggestions, speech recognition)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.4.1.3,AIML.Y2.7.3,"Compare and contrast the types of machine learning, including supervised learning algorithms, unsupervised learning algorithms, and reinforcement learning algorithms",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.4.1.4,AIML.Y2.7.4,"Compare and contrast concepts and uses of machine learning, deep learning, general artificial intelligence, and narrow artificial intelligence",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.4.1.5,AIML.Y2.7.5,Identify industry standard terminology within the fields of artificial intelligence and machine learning,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.1.2.4.2,Content Cluster 9:,Students will utilize appropriate hardware and software.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.4.2.1,AIML.Y2.9.1,"Research, describe, and utilize generative programs and probabilistic programming languages",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.4.2.2,AIML.Y2.9.2,Use collaboration tools and version control systems in a group software project of appropriate complexity,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.4.2.3,AIML.Y2.9.4,Identify and describe the purpose of hardware components within artificial intelligence and machine learning systems,09-12,2025-02-25T23:11:00+00:00
+Strand,10.1.2.5,,Professionalism and Impacts of Computing,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.1.2.5.1,Content Cluster 10:,Students will analyze the impacts of technology and professionalism within the computing community.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.5.1.1,AIML.Y2.10.1,"Research and describe the risks and risk mitigation strategies associated with the implementation of artificial intelligence and machine learning in the real world (e.g., biased decision making, lethal autonomous weapons, social media echo chambers, surveillance)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.5.1.2,AIML.Y2.10.2,"Research and describe issues related to creating and enforcing cyber-related laws and regulations (e.g., ethical challenges, policy vacuum, privacy versus security, unintended consequences)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.5.1.3,AIML.Y2.10.3,Research and describe the potential benefits associated with the implementation of artificial intelligence and machine learning in the real world,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.5.1.4,AIML.Y2.10.4,"Identify the ethical implications encountered in the curation, management, and monetization of data (e.g., harvesting, information overload, knowledge management repositories, sharing, summarizing)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.5.1.5,AIML.Y2.10.5,"Explain advantages and disadvantages of various software life cycle processes (e.g., Agile, spiral, waterfall)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.5.1.6,AIML.Y2.10.6,"Research and outline the history of the development of artificial intelligence within the following time periods:
+* Pre-1940 (e.g., mathematics, philosophy, psychology)
+* 1940 - 1980
+* 1980 - 2000
+* 2000 - 2020",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.5.1.7,AIML.Y2.10.7,Demonstrate industry-relevant technical and soft skills,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.5.1.8,AIML.Y2.10.8,"Research and describe the ethical, philosophical, and safety ramifications of the implementation of both weak and strong artificial intelligence",09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.1.2.5.2,Content Cluster 11:,Students will demonstrate understanding of storytelling with data and appropriately communicate about technical information.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.5.2.1,AIML.Y2.11.3,"Research and describe the history of bias within artificial intelligence and machine learning and how it has contributed to classification errors and lead to unintended outcomes (e.g., Correctional Offender Management Profiling for Alternative Sanctions [COMPAS] software, Microsoft’s Tay)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.2.5.2.2,AIML.Y2.11.5,"Analyze bias sampling of data and bias labeling of data, and employ methods to mitigate both",09-12,2025-02-25T23:11:00+00:00
+Course,10.1.3,,Year 3,09-12,2025-02-25T23:11:00+00:00
+Strand,10.1.3.1,,Computational Thinking and Problem Solving,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.1.3.1.1,Content Cluster 1:,Students will analyze and utilize problem-solving strategies.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.3.1.1.1,AIML.Y3.1.1,"Leverage problem-solving strategies to solve problems of level-appropriate complexity, including but not limited to, utilizing advanced pattern recognition strategies; advanced search techniques (e.g., continuous space searches, nondeterministic actions, partial observations); backtracking; and searches within complex environments and online environments",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.3.1.1.2,AIML.Y3.1.2,"Analyze and utilize multiple representations of problem-solving logic used to solve problems of appropriate complexity including, but not limited to, backtracking of constraint satisfaction problems and game-based adversarial searches",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.3.1.1.3,AIML.Y3.1.3,Analyze and utilize collaborative methods in problem solving of level-appropriate complexity,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.3.1.1.4,AIML.Y3.1.4,Analyze and utilize level-appropriate troubleshooting strategies for hardware and software,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.3.1.1.5,AIML.Y3.1.5,Decompose problems of level-appropriate complexity,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.3.1.1.6,AIML.Y3.1.6,"Utilize decision theory techniques (e.g., adversarial searches, decision networks, game theory, influence diagrams, information value theory, Markov decision processes, multiattribute utility theory, non-cooperative game theory, probability theory, satisficing, utility theory) to represent and solve problems of level-appropriate complexity",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.3.1.1.7,AIML.Y3.1.7,"Utilize goal reaching strategies and decision-making concepts of thinking humanly as found within the field of artificial intelligence and machine learning including, but not limited to, cognitive modelling (e.g., brain imaging, introspection, psychological testing)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.3.1.1.8,AIML.Y3.1.8,"Utilize goal-reaching strategies and decision-making concepts of acting humanly as found within the field of artificial intelligence and machine learning including, but not limited to, operational tests for intelligent behavior (e.g., Turing Test)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.3.1.1.9,AIML.Y3.1.9,"Utilize goal-reaching strategies and decision-making concepts of thinking rationally as found within the field of artificial intelligence and machine learning including Laws of Thought (e.g., Law of Excluded Middle, Law of Identity, Law of Noncontradiction)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.3.1.1.10,AIML.Y3.1.10,"Utilize goal-reaching strategies and decision-making concepts of acting rationally as found within the field of artificial intelligence and machine learning, including the utilization of rational agents",09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.1.3.1.2,Content Cluster 2:,Students will analyze and utilize connections between concepts of mathematics and computer science.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.3.1.2.1,AIML.Y3.2.1,Analyze the use of Boolean classification in machine learning,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.3.1.2.2,AIML.Y3.2.2,Analyze the concepts and utilization of multiagent systems,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.3.1.2.3,AIML.Y3.2.3,"Analyze and apply strategies used in the development of machine learning systems (e.g., decision trees, deep learning, ensemble learning, linear regression, nonparametric models, reinforcement learning)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.3.1.2.4,AIML.Y3.2.7,"Analyze the utilization of probabilistic reasoning concepts (e.g., Bayesian Networks, Causal Networks) to define independence and conditional independence relationships",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.3.1.2.5,AIML.Y3.2.8,"Utilize models (e.g., discrete-time, temporal, transition) and techniques to model dynamic real-world scenarios over time",09-12,2025-02-25T23:11:00+00:00
+Strand,10.1.3.2,,"Data, Information, and Security",09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.1.3.2.1,Content Cluster 3:,Students will analyze and utilize data through the use of computing devices.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.3.2.1.1,AIML.Y3.3.3,Create level-appropriate programs to calculate the probability of real-world scenarios,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.3.2.1.2,AIML.Y3.3.4,"Utilize data (e.g., complete data, hidden variables) in agent learning of probabilistic theories",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.3.2.1.3,AIML.Y3.3.5,"Utilize level-appropriate data analysis to implement predictive, probabilistic, and probabilistic-over-time models",09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.1.3.2.2,Content Cluster 4:,Students will analyze and utilize concepts of cybersecurity.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.3.2.2.1,AIML.Y3.4.1,Apply the five pillars of cybersecurity as applicable to level-appropriate computer science concepts,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.3.2.2.2,AIML.Y3.4.3,Research and describe methods of protecting data with machine learning,09-12,2025-02-25T23:11:00+00:00
+Strand,10.1.3.3,,Algorithms and Programs,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.1.3.3.1,Content Cluster 5:,"Students will create, evaluate, and modify algorithms.",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.3.3.1.1,AIML.Y3.5.1,"Design and implement level-appropriate algorithms that use appropriate techniques (e.g., dynamic programming, linear programming, policy iteration, value iteration) to solve Markov decision process problems and other complex decisions",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.3.3.1.2,AIML.Y3.5.4,Use a systematic approach to prevent or mitigate classification errors within artificial intelligence and machine learning implementation algorithms,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.3.3.1.3,AIML.Y3.5.5,Evaluate artificial intelligence and machine learning algorithms based on identified metrics,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.1.3.3.2,Content Cluster 6:,Students will create programs to solve problems.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.3.3.2.1,AIML.Y3.6.1,"Create level-appropriate programs that utilize supervised learning algorithms, unsupervised learning algorithms, and reinforcement learning algorithms to solve problems of level-appropriate complexity",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.3.3.2.2,AIML.Y3.6.2,"Apply best practices of program design and format (e.g., descriptive names, documentation, indentation, user experience design, whitespace)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.3.3.2.3,AIML.Y3.6.4,Create programs of level-appropriate complexity that leverage real-time sensory input to make decisions for completing physical tasks,09-12,2025-02-25T23:11:00+00:00
+Strand,10.1.3.4,,Computers and Communications,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.1.3.4.1,Content Cluster 7:,Students will analyze the utilization of computers within industry.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.3.4.1.1,AIML.Y3.7.1,"Identify applications, libraries, and software packages utilized within artificial intelligence and machine learning industries specifically used for deep learning",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.3.4.1.2,AIML.Y3.7.2,"Research potential future outcomes, both positive and negative, of artificial intelligence and machine learning",09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.1.3.4.2,Content Cluster 9:,Students will utilize appropriate hardware and software.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.3.4.2.1,AIML.Y3.9.1,"Research, describe, and utilize the concepts of natural language processing",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.3.4.2.2,AIML.Y3.9.4,"Discuss how accelerators (e.g., digital signal processors, field-programmable gate arrays, graphics processing units) can be used to improve performance",09-12,2025-02-25T23:11:00+00:00
+Strand,10.1.3.5,,Professionalism and Impacts of Computing,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.1.3.5.1,Content Cluster 10:,Students will analyze the impacts of technology and professionalism within the computing community.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.3.5.1.1,AIML.Y3.10.2,Research and analyze existing laws and regulations specifically directed at technologies that utilize artificial intelligence and machine learning,09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.3.5.1.2,AIML.Y3.10.6,"Research, outline, and describe advances in artificial intelligence since 2020",09-12,2025-02-25T23:11:00+00:00
+Standard,10.1.3.5.1.3,AIML.Y3.10.8,"Discuss the ethical, philosophical, and safety ramifications of emerging artificial intelligence and machine learning technologies",09-12,2025-02-25T23:11:00+00:00
+HS Courses,10.2,,High School Computer Engineering,09-12,2025-02-25T23:11:00+00:00
+Program of Study,10.2.1,,High School Artificial Intelligence and Machine Learning,09-12,2025-02-25T23:11:00+00:00
+Course,10.2.1.1,,Year 1,09-12,2025-02-25T23:11:00+00:00
+Strand,10.2.1.1.1,,Computational Thinking and Problem Solving,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.2.1.1.1.1,Content Cluster 1:,Students will analyze and utilize problem-solving strategies.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.1.1.1,AIML.Y1.1.1,Leverage problem-solving strategies to solve problems of level-appropriate complexity,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.1.1.2,AIML.Y1.1.2,Analyze and utilize multiple representations of problem-solving logic used to solve problems of appropriate complexity,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.1.1.3,AIML.Y1.1.3,Analyze and utilize collaborative methods in problem solving of level-appropriate complexity,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.1.1.4,AIML.Y1.1.4,Analyze and utilize level-appropriate troubleshooting strategies for hardware and software,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.2.1.1.1.2,Content Cluster 2:,Students will analyze and utilize connections between concepts of mathematics and computer science.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.1.2.1,AIML.Y1.2.1,Interpret relational and logical expressions of level-appropriate complexity using comparison and Boolean operators,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.1.2.2,AIML.Y1.2.2,"Classify the types of information that can be stored as variables and analyze the appropriateness of each (e.g., Booleans, characters, integers, floating points, strings)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.1.2.3,AIML.Y1.2.3,Analyze how computer science concepts relate to the field of mathematics,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.1.2.4,AIML.Y1.2.4,Discuss and apply concepts of abstraction,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.1.2.5,AIML.Y1.2.5,"Perform operations of level-appropriate complexity with binary, decimal, and hexadecimal numbers",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.1.2.6,AIML.Y1.2.6,Demonstrate operator precedence in expressions and statements,09-12,2025-02-25T23:11:00+00:00
+Strand,10.2.1.1.2,,"Data, Information, and Security",09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.2.1.1.2.1,Content Cluster 3:,Students will analyze and utilize data through the use of computing devices.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.2.1.1,AIML.Y1.3.1,"Define, store, access, and manipulate level-appropriate data (e.g., primitive, linear)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.2.1.2,AIML.Y1.3.2,Define and discuss different examples of level-appropriate quantitative and qualitative data,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.2.1.3,AIML.Y1.3.4,"Analyze, utilize, and visually represent level-appropriate data",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.2.1.4,AIML.Y1.3.5,Perform level-appropriate data analysis using computing tools,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.2.1.1.2.2,Content Cluster 4:,Students will analyze and utilize concepts of cybersecurity.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.2.2.1,AIML.Y1.4.2,"Research and describe different roles within the hacking community (e.g., white hat, black hat, gray hat hacking), including positive and negative motivations, significant impacts, and social stereotypes",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.2.2.2,AIML.Y1.4.3,"Research and describe the impacts of ransomware, trojans, viruses, and other malware",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.2.2.3,AIML.Y1.4.4,Explain implications related to identification and responsible reporting of a vulnerability versus exploitation,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.2.2.4,AIML.Y1.4.1,Identify the five pillars of cybersecurity and evaluate the relevance of each pillar to computer science concepts,09-12,2025-02-25T23:11:00+00:00
+Strand,10.2.1.1.3,,Algorithms and Programs,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.2.1.1.3.1,Content Cluster 5:,"Students will create, evaluate, and modify algorithms.",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.3.1.1,AIML.Y1.5.1,"Design and implement level-appropriate algorithms that use iteration, selection, and sequence",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.3.1.2,AIML.Y1.5.2,Illustrate the flow of execution of algorithms in level-appropriate programs including branching and looping,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.3.1.3,AIML.Y1.5.3,Evaluate the qualities of level-appropriate student-created and non-student-created algorithms,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.3.1.4,AIML.Y1.5.4,Use a systematic approach to detect and resolve errors in a given algorithm,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.2.1.1.3.2,Content Cluster 6:,Students will create programs to solve problems.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.3.2.1,AIML.Y1.6.1,Create programs using procedures to solve problems of level-appropriate complexity,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.3.2.2,AIML.Y1.6.2,"Discuss and apply best practices of program design and format (e.g., descriptive names, documentation, indentation, user experience design, whitespace)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.3.2.3,AIML.Y1.6.3,Determine the scope and state of variables declared in procedures and control structures over time,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.3.2.4,AIML.Y1.6.4,"Create programs of level-appropriate complexity that read from standard input, write to standard output, read from a file, write to a file, and append to a file",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.3.2.5,AIML.Y1.6.5,"Use a systematic approach to detect logic, runtime, and syntax errors within a program",09-12,2025-02-25T23:11:00+00:00
+Strand,10.2.1.1.4,,Computers and Communications,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.2.1.1.4.1,Content Cluster 7:,Students will analyze the utilization of computers within industry.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.4.1.1,AIML.Y1.7.1,Identify hardware and software specific to carrying out the mission of regional industries,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.4.1.2,AIML.Y1.7.2,"Research advancing and emerging technologies (e.g., artificially intelligent agents, blockchain, extended reality, Internet of Things (IoT), machine learning, robotics)",09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.2.1.1.4.2,Content Cluster 8:,Students will analyze communication methods and systems used to transmit information among computing devices.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.4.2.1,AIML.Y1.8.1,Utilize the command line to accomplish common network troubleshooting tasks at an introductory level,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.4.2.2,AIML.Y1.8.2,Research and describe common networking concepts at an introductory level,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.4.2.3,AIML.Y1.8.3,"Research and describe modems, network interface cards, routers (e.g., consumer, industrial), switches, and wireless access points, and identify their purposes within a network",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.4.2.4,AIML.Y1.8.4,Describe the importance of creating and using common rules for communication and the utilization of common network protocols including the relationship between client and server,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.2.1.1.4.3,Content Cluster 9:,Students will utilize appropriate hardware and software.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.4.3.1,AIML.Y1.9.1,"Compare and contrast computer programming paradigms (e.g., functional, imperative, object-oriented)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.4.3.2,AIML.Y1.9.2,"Research, describe, and utilize at an appropriate level:
+* debugging strategies
+* integrated development environments (IDE)
+* source-code editors
+* version control strategies",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.4.3.3,AIML.Y1.9.3,"Classify layers of software (e.g., applications, drivers, firmware, operating systems) utilized within various platforms (e.g., Android, ChromeOS, iOS, Linux, macOS, Windows)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.4.3.4,AIML.Y1.9.4,Identify and describe the purpose of hardware components within various personal computing platforms,09-12,2025-02-25T23:11:00+00:00
+Strand,10.2.1.1.5,,Professionalism and Impacts of Computing,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.2.1.1.5.1,Content Cluster 10:,Students will analyze the impacts of technology and professionalism within the computing community.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.5.1.1,AIML.Y1.10.1,Research and describe the risks and risk mitigation strategies associated with the utilization and implementation of social media and other digital technology implications,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.5.1.2,AIML.Y1.10.3,Research and describe the potential benefits associated with the utilization and implementation of social media and other digital technologies,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.5.1.3,AIML.Y1.10.4,"Research and describe the relationship between access and security (e.g., active and passive data, convenience, data mining, digital marketing, online wallets, privacy, theft of personal information)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.5.1.4,AIML.Y1.10.6,Research the history of computing devices and their impact on society,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.5.1.5,AIML.Y1.10.7,"Research and identify diverse careers and career opportunities (e.g., accessibility, availability, demand) that are influenced by computer science and the technical and soft skills needed for each",09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.2.1.1.5.2,Content Cluster 11:,Students will demonstrate understanding of storytelling with data and appropriately communicate about technical information.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.5.2.1,AIML.Y1.11.2,Describe and utilize the concepts of storytelling with data,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.5.2.2,AIML.Y1.11.3,"Describe the following common types of data bias:
+* confirmation bias
+* confounding variables
+* outliers
+* overfitting/underfitting
+* selection bias",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.5.2.3,AIML.Y1.11.4,Compare and contrast causation and correlation,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.5.2.4,AIML.Y1.11.5,"Compare and contrast interpreting data, inferring using data, and implicating with data",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.1.5.2.5,AIML.Y1.11.1,"Communicate basic technical information effectively to diverse audiences including, but not limited to, non-technical audience members",09-12,2025-02-25T23:11:00+00:00
+Course,10.2.1.2,,Year 2,09-12,2025-02-25T23:11:00+00:00
+Strand,10.2.1.2.1,,"Data, Information, and Security",09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.2.1.2.1.1,Content Cluster 4:,Students will analyze and utilize concepts of cybersecurity.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.1.1.1,AIML.Y2.4.3,"Research and describe common attacks on hardware, software, and networks",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.1.1.2,AIML.Y2.4.1,Apply the five pillars of cybersecurity as applicable to level-appropriate computer science concepts,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.2.1.2.1.2,Content Cluster 3:,Students will analyze and utilize data through the use of computing devices.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.1.2.1,AIML.Y2.3.2,Define and discuss different examples of level-appropriate quantitative and qualitative data,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.1.2.2,AIML.Y2.3.4,"Analyze, utilize, and visually represent level-appropriate static and dynamic data",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.1.2.3,AIML.Y2.3.5,Perform level-appropriate data analysis using computing tools,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.1.2.4,AIML.Y2.3.1,"Create programs to store, access, and manipulate level-appropriate data (e.g., structured data, objects)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.1.2.5,AIML.Y2.3.3,"Research, discuss, and create level-appropriate programs to model and simulate probabilistic and real-world scenarios",09-12,2025-02-25T23:11:00+00:00
+Strand,10.2.1.2.2,,Algorithms and Programs,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.2.1.2.2.1,Content Cluster 6:,Students will create programs to solve problems.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.2.1.1,AIML.Y2.6.2,"Discuss and apply best practices of program design and format (e.g., descriptive names, documentation, indentation, user experience design, whitespace)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.2.1.2,AIML.Y2.6.4,"Create programs that read from, write to, and append to a file of level-appropriate complexity that includes structured data",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.2.1.3,AIML.Y2.6.5,"Use a systematic approach to detect logic, runtime, and syntax errors within a program",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.2.1.4,AIML.Y2.6.1,Create programs to solve problems of level-appropriate complexity,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.2.1.2.2.2,Content Cluster 5:,"Students will create, evaluate, and modify algorithms.",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.2.2.1,AIML.Y2.5.2,"Evaluate multiple student-created algorithms and non-student-created algorithms in terms of time and space complexities (e.g., Big O notation)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.2.2.2,AIML.Y2.5.3,Evaluate the qualities of level-appropriate student-created and non-student-created algorithms including classic search and sort algorithms,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.2.2.3,AIML.Y2.5.4,Use a systematic approach to detect and resolve errors in a given algorithm,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.2.2.4,AIML.Y2.5.1,"Design and implement level-appropriate algorithms that use iteration, recursion, selection, and sequence",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.2.2.5,AIML.Y2.5.5,Identify and utilize the metrics for measuring artificial intelligence and machine learning algorithms,09-12,2025-02-25T23:11:00+00:00
+Strand,10.2.1.2.3,,Computers and Communications,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.2.1.2.3.1,Content Cluster 9:,Students will utilize appropriate hardware and software.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.3.1.1,AIML.Y2.9.2,Use collaboration tools and version control systems in a group software project of appropriate complexity,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.3.1.2,AIML.Y2.9.4,Identify and describe the purpose of hardware components within artificial intelligence and machine learning systems,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.3.1.3,AIML.Y2.9.1,"Research, describe, and utilize generative programs and probabilistic programming languages",09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.2.1.2.3.2,Content Cluster 7:,Students will analyze the utilization of computers within industry.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.3.2.1,AIML.Y2.7.2,"Research cutting-edge technologies that incorporate artificial intelligence and machine learning as a core component of its decision making processes (e.g., autonomous vehicles, recommended purchase suggestions, speech recognition)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.3.2.2,AIML.Y2.7.1,Utilize hardware and/or software to solve level-appropriate industry-based problems,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.3.2.3,AIML.Y2.7.3,"Compare and contrast the types of machine learning, including supervised learning algorithms, unsupervised learning algorithms, and reinforcement learning algorithms",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.3.2.4,AIML.Y2.7.4,"Compare and contrast concepts and uses of machine learning, deep learning, general artificial intelligence, and narrow artificial intelligence",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.3.2.5,AIML.Y2.7.5,Identify industry standard terminology within the fields of artificial intelligence and machine learning,09-12,2025-02-25T23:11:00+00:00
+Strand,10.2.1.2.4,,Professionalism and Impacts of Computing,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.2.1.2.4.1,Content Cluster 11:,Students will demonstrate understanding of storytelling with data and appropriately communicate about technical information.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.4.1.1,AIML.Y2.11.3,"Research and describe the history of bias within artificial intelligence and machine learning and how it has contributed to classification errors and lead to unintended outcomes (e.g., Correctional Offender Management Profiling for Alternative Sanctions [COMPAS] software, Microsoft’s Tay)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.4.1.2,AIML.Y2.11.5,"Analyze bias sampling of data and bias labeling of data, and employ methods to mitigate both",09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.2.1.2.4.2,Content Cluster 10:,Students will analyze the impacts of technology and professionalism within the computing community.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.4.2.1,AIML.Y2.10.3,Research and describe the potential benefits associated with the implementation of artificial intelligence and machine learning in the real world,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.4.2.2,AIML.Y2.10.4,"Identify the ethical implications encountered in the curation, management, and monetization of data (e.g., harvesting, information overload, knowledge management repositories, sharing, summarizing)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.4.2.3,AIML.Y2.10.6,"Research and outline the history of the development of artificial intelligence within the following time periods:
+* Pre-1940 (e.g., mathematics, philosophy, psychology)
+* 1940 - 1980
+* 1980 - 2000
+* 2000 - 2020",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.4.2.4,AIML.Y2.10.7,Demonstrate industry-relevant technical and soft skills,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.4.2.5,AIML.Y2.10.1,"Research and describe the risks and risk mitigation strategies associated with the implementation of artificial intelligence and machine learning in the real world (e.g., biased decision making, lethal autonomous weapons, social media echo chambers, surveillance)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.4.2.6,AIML.Y2.10.2,"Research and describe issues related to creating and enforcing cyber-related laws and regulations (e.g., ethical challenges, policy vacuum, privacy versus security, unintended consequences)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.4.2.7,AIML.Y2.10.5,"Explain advantages and disadvantages of various software life cycle processes (e.g., Agile, spiral, waterfall)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.4.2.8,AIML.Y2.10.8,"Research and describe the ethical, philosophical, and safety ramifications of the implementation of both weak and strong artificial intelligence",09-12,2025-02-25T23:11:00+00:00
+Strand,10.2.1.2.5,,Computational Thinking and Problem Solving,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.2.1.2.5.1,Content Cluster 2:,Students will analyze and utilize connections between concepts of mathematics and computer science.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.5.1.1,AIML.Y2.2.2,"Analyze the concepts and utilization of intelligent agents (e.g., agent programs, architecture, environments, goal-based agents, learning agents, model-based agents, rational agents, utility-based agents) and logical agents",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.5.1.2,AIML.Y2.2.3,"Compare and contrast concepts and utilization of first-order logic, fuzzy logic, probability theory, propositional logic, and temporal logic",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.5.1.3,AIML.Y2.2.4,Analyze and utilize concepts of abstraction as modeling and abstraction as encapsulation,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.5.1.4,AIML.Y2.2.5,"Perform operations of level-appropriate complexity with binary, octal, decimal, and hexadecimal numbers",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.5.1.5,AIML.Y2.2.7,"Analyze the utilization of conditional probability, including the application of Bayes Theorem and naive Bayes models, in the development and application of machine learning",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.5.1.6,AIML.Y2.2.1,"Construct and evaluate compound expressions using multiple relational and logical operators, including the use of laws of logic symbology (e.g., p, ∼p, ⊃, ∀), to represent and solve problems of a level-appropriate complexity",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.5.1.7,AIML.Y2.2.8,"Analyze and utilize automated planning (e.g., classical, hierarchical, non-deterministic, scheduling)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.5.1.8,AIML.Y2.2.9,"Analyze and apply strategies used to overcome issues of uncertainty (e.g., nondeterminism, partial observation)",09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.2.1.2.5.2,Content Cluster 1:,Students will analyze and utilize problem-solving strategies.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.5.2.1,AIML.Y2.1.1,Leverage problem-solving strategies to solve problems of level-appropriate complexity,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.5.2.2,AIML.Y2.1.2,Analyze and utilize multiple representations of problem-solving logic used to solve problems of appropriate complexity,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.5.2.3,AIML.Y2.1.3,Analyze and utilize collaborative methods in problem solving of level-appropriate complexity,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.5.2.4,AIML.Y2.1.4,Analyze and utilize level-appropriate troubleshooting strategies for hardware and software,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.5.2.5,AIML.Y2.1.5,"Decompose problems, including constraint satisfaction problems, of level-appropriate complexity",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.5.2.6,AIML.Y2.1.6,"Analyze and utilize decision theory techniques (e.g., adversarial searches, decision networks, game theory, influence diagrams, Markov decision processes, probability theory, satisficing, utility theory) to represent and solve problems of level-appropriate complexity",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.5.2.7,AIML.Y2.1.7,"Research, describe, and utilize goal reaching strategies, decision-making concepts, and historical context of thinking humanly as found within the field of artificial intelligence and machine learning including, but not limited to, cognitive modelling (e.g., brain imaging, introspection, psychological testing)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.5.2.8,AIML.Y2.1.8,"Research, describe, and utilize goal-reaching strategies, decision-making concepts, and historical context of acting humanly as found within the field of artificial intelligence and machine learning including, but not limited to, operational tests for intelligent behavior (e.g., Turing Test)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.5.2.9,AIML.Y2.1.9,"Research, describe, and utilize goal-reaching strategies, decision-making concepts, and historical context of thinking rationally as found within the field of artificial intelligence and machine learning including Laws of Thought (e.g., Law of Excluded Middle, Law of Identity, Law of Noncontradiction)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.2.5.2.10,AIML.Y2.1.10,"Research, describe, and utilize goal-reaching strategies, decision-making concepts, and historical contexts of acting rationally as found within the field of artificial intelligence and machine learning, including the use and limitations of rational agents",09-12,2025-02-25T23:11:00+00:00
+Course,10.2.1.3,,Year 3,09-12,2025-02-25T23:11:00+00:00
+Strand,10.2.1.3.1,,"Data, Information, and Security",09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.2.1.3.1.1,Content Cluster 4:,Students will analyze and utilize concepts of cybersecurity.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.3.1.1.1,AIML.Y3.4.3,Research and describe methods of protecting data with machine learning,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.3.1.1.2,AIML.Y3.4.1,Apply the five pillars of cybersecurity as applicable to level-appropriate computer science concepts,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.2.1.3.1.2,Content Cluster 3:,Students will analyze and utilize data through the use of computing devices.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.3.1.2.1,AIML.Y3.3.4,"Utilize data (e.g., complete data, hidden variables) in agent learning of probabilistic theories",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.3.1.2.2,AIML.Y3.3.5,"Utilize level-appropriate data analysis to implement predictive, probabilistic, and probabilistic-over-time models",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.3.1.2.3,AIML.Y3.3.3,Create level-appropriate programs to calculate the probability of real-world scenarios,09-12,2025-02-25T23:11:00+00:00
+Strand,10.2.1.3.2,,Algorithms and Programs,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.2.1.3.2.1,Content Cluster 6:,Students will create programs to solve problems.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.3.2.1.1,AIML.Y3.6.2,"Apply best practices of program design and format (e.g., descriptive names, documentation, indentation, user experience design, whitespace)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.3.2.1.2,AIML.Y3.6.4,Create programs of level-appropriate complexity that leverage real-time sensory input to make decisions for completing physical tasks,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.3.2.1.3,AIML.Y3.6.1,"Create level-appropriate programs that utilize supervised learning algorithms, unsupervised learning algorithms, and reinforcement learning algorithms to solve problems of level-appropriate complexity",09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.2.1.3.2.2,Content Cluster 5:,"Students will create, evaluate, and modify algorithms.",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.3.2.2.1,AIML.Y3.5.4,Use a systematic approach to prevent or mitigate classification errors within artificial intelligence and machine learning implementation algorithms,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.3.2.2.2,AIML.Y3.5.5,Evaluate artificial intelligence and machine learning algorithms based on identified metrics,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.3.2.2.3,AIML.Y3.5.1,"Design and implement level-appropriate algorithms that use appropriate techniques (e.g., dynamic programming, linear programming, policy iteration, value iteration) to solve Markov decision process problems and other complex decisions",09-12,2025-02-25T23:11:00+00:00
+Strand,10.2.1.3.3,,Computers and Communications,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.2.1.3.3.1,Content Cluster 9:,Students will utilize appropriate hardware and software.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.3.3.1.1,AIML.Y3.9.4,"Discuss how accelerators (e.g., digital signal processors, field-programmable gate arrays, graphics processing units) can be used to improve performance",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.3.3.1.2,AIML.Y3.9.1,"Research, describe, and utilize the concepts of natural language processing",09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.2.1.3.3.2,Content Cluster 7:,Students will analyze the utilization of computers within industry.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.3.3.2.1,AIML.Y3.7.2,"Research potential future outcomes, both positive and negative, of artificial intelligence and machine learning",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.3.3.2.2,AIML.Y3.7.1,"Identify applications, libraries, and software packages utilized within artificial intelligence and machine learning industries specifically used for deep learning",09-12,2025-02-25T23:11:00+00:00
+Strand,10.2.1.3.4,,Professionalism and Impacts of Computing,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.2.1.3.4.1,Content Cluster 10:,Students will analyze the impacts of technology and professionalism within the computing community.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.3.4.1.1,AIML.Y3.10.6,"Research, outline, and describe advances in artificial intelligence since 2020",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.3.4.1.2,AIML.Y3.10.8,"Discuss the ethical, philosophical, and safety ramifications of emerging artificial intelligence and machine learning technologies",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.3.4.1.3,AIML.Y3.10.2,Research and analyze existing laws and regulations specifically directed at technologies that utilize artificial intelligence and machine learning,09-12,2025-02-25T23:11:00+00:00
+Strand,10.2.1.3.5,,Computational Thinking and Problem Solving,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.2.1.3.5.1,Content Cluster 2:,Students will analyze and utilize connections between concepts of mathematics and computer science.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.3.5.1.1,AIML.Y3.2.2,Analyze the concepts and utilization of multiagent systems,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.3.5.1.2,AIML.Y3.2.8,"Utilize models (e.g., discrete-time, temporal, transition) and techniques to model dynamic real-world scenarios over time",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.3.5.1.3,AIML.Y3.2.3,"Analyze and apply strategies used in the development of machine learning systems (e.g., decision trees, deep learning, ensemble learning, linear regression, nonparametric models, reinforcement learning)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.3.5.1.4,AIML.Y3.2.7,"Analyze the utilization of probabilistic reasoning concepts (e.g., Bayesian Networks, Causal Networks) to define independence and conditional independence relationships",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.3.5.1.5,AIML.Y3.2.1,Analyze the use of Boolean classification in machine learning,09-12,2025-02-25T23:11:00+00:00
+Content Cluster,10.2.1.3.5.2,Content Cluster 1:,Students will analyze and utilize problem-solving strategies.,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.3.5.2.1,AIML.Y3.1.1,"Leverage problem-solving strategies to solve problems of level-appropriate complexity, including but not limited to, utilizing advanced pattern recognition strategies; advanced search techniques (e.g., continuous space searches, nondeterministic actions, partial observations); backtracking; and searches within complex environments and online environments",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.3.5.2.2,AIML.Y3.1.2,"Analyze and utilize multiple representations of problem-solving logic used to solve problems of appropriate complexity including, but not limited to, backtracking of constraint satisfaction problems and game-based adversarial searches",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.3.5.2.3,AIML.Y3.1.5,Decompose problems of level-appropriate complexity,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.3.5.2.4,AIML.Y3.1.3,Analyze and utilize collaborative methods in problem solving of level-appropriate complexity,09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.3.5.2.5,AIML.Y3.1.6,"Utilize decision theory techniques (e.g., adversarial searches, decision networks, game theory, influence diagrams, information value theory, Markov decision processes, multiattribute utility theory, non-cooperative game theory, probability theory, satisficing, utility theory) to represent and solve problems of level-appropriate complexity",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.3.5.2.6,AIML.Y3.1.7,"Utilize goal reaching strategies and decision-making concepts of thinking humanly as found within the field of artificial intelligence and machine learning including, but not limited to, cognitive modelling (e.g., brain imaging, introspection, psychological testing)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.3.5.2.7,AIML.Y3.1.8,"Utilize goal-reaching strategies and decision-making concepts of acting humanly as found within the field of artificial intelligence and machine learning including, but not limited to, operational tests for intelligent behavior (e.g., Turing Test)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.3.5.2.8,AIML.Y3.1.9,"Utilize goal-reaching strategies and decision-making concepts of thinking rationally as found within the field of artificial intelligence and machine learning including Laws of Thought (e.g., Law of Excluded Middle, Law of Identity, Law of Noncontradiction)",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.3.5.2.9,AIML.Y3.1.10,"Utilize goal-reaching strategies and decision-making concepts of acting rationally as found within the field of artificial intelligence and machine learning, including the utilization of rational agents",09-12,2025-02-25T23:11:00+00:00
+Standard,10.2.1.3.5.2.10,AIML.Y3.1.4,Analyze and utilize level-appropriate troubleshooting strategies for hardware and software,09-12,2025-02-25T23:11:00+00:00

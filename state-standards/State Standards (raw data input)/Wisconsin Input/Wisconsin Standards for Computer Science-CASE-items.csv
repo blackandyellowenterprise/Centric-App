@@ -1,0 +1,449 @@
+﻿Item Type,Sequence,Human Code,Full Statement,Ed. Level,Last Modified
+Discipline,1,CS,Computer Science,,2023-08-04T21:19:40+00:00
+Grade Level,1.1,CS.e,K-2,K-2,2023-08-09T14:57:51+00:00
+Content Area,1.1.1,CS.e.AP,Algorithms and Programming,,2023-08-08T17:17:21+00:00
+Standard,1.1.1.1,CS.e.AP.1,Students will recognize and define computational problems using algorithms and programming.,,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.1.1.1,CS.e.AP.1.a,Develop algorithms,,2023-08-08T17:17:21+00:00
+Performance Indicator,1.1.1.1.1.1,CS.e.AP.1.a.1,"Construct and execute algorithms (sets of step-by-step instructions), which include sequencing, and simple loops to accomplish a task, both independently and collaboratively, with or without a computing device.",,2023-08-08T17:17:21+00:00
+Performance Indicator,1.1.1.1.1.2,CS.e.AP.1.a.2,"Decompose (break down) a larger computational problem into smaller sub-problems independently or with teacher guidance. (e.g., to draw a snowman, we can draw several different, simpler shapes).",,2023-08-08T17:17:21+00:00
+Performance Indicator,1.1.1.1.1.3,CS.e.AP.1.a.3,"Categorize a group of items based on the attributes or actions of each item, with or without a computing device.",,2023-08-08T17:17:21+00:00
+Standard,1.1.1.2,CS.e.AP.2,Students will create computational artifacts using algorithms and programming.,,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.1.2.1,CS.e.AP.2.a,Develop and implement an artifact,,2023-08-08T17:17:21+00:00
+Performance Indicator,1.1.1.2.1.1,CS.e.AP.2.a.1,"Construct programs to accomplish a task or as a means of creative expression, which include sequencing, events and simple loops, using a block-based visual programming language, both independently and collaboratively (e.g., pair programming).",,2023-08-08T17:17:21+00:00
+Performance Indicator,1.1.1.2.1.2,CS.e.AP.2.a.2,"Plan and create a design document to illustrate thoughts, ideas, and stories in a sequential (step-by-step) manner (e.g., story map, storyboard, sequential graphic organizer).",,2023-08-08T17:17:21+00:00
+Standard,1.1.1.3,CS.e.AP.3,Students will communicate about computing ideas.,,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.1.3.1,CS.e.AP.3.a,Recognize and cite sources,,2023-08-08T17:17:21+00:00
+Performance Indicator,1.1.1.3.1.1,CS.e.AP.3.a.1,"Give credit to the source when using code, music, or pictures that were created by others.",,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.1.3.2,CS.e.AP.3.b,Communicate about technical and social issues,,2023-08-08T17:17:21+00:00
+Performance Indicator,1.1.1.3.2.1,CS.e.AP.3.b.1,"Follow simple instructions to complete a task, such as a simple visual tutorial.",,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.1.3.3,CS.e.AP.3.c,Document code,,2023-08-08T17:17:21+00:00
+Standard,1.1.1.4,CS.e.AP.4,Students will develop and use abstractions.,,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.1.4.1,CS.e.AP.4.a,Create and use abstractions (representations) to solve complex computational problems,,2023-08-08T17:17:21+00:00
+Performance Indicator,1.1.1.4.1.1,CS.e.AP.4.a.1,"Use numbers or other symbols to represent data (e.g., thumbs up/down for yes/no, color by number, arrows for direction, encoding/decoding a word using numbers or pictographs).",,2023-08-08T17:17:21+00:00
+Standard,1.1.1.5,CS.e.AP.5,Students will collaborate with diverse teams.,,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.1.5.1,CS.e.AP.5.a,Work together to solve computational problems using a variety of resources,,2023-08-08T17:17:21+00:00
+Performance Indicator,1.1.1.5.1.1,CS.e.AP.5.a.1,Work together with a team to create a solution to a computational problem.,,2023-08-08T17:17:21+00:00
+Performance Indicator,1.1.1.5.1.2,CS.e.AP.5.a.2,"Use teachers, parents, and other resources to solve a computational problem.",,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.1.5.2,CS.e.AP.5.b,Fostering an inclusive computing culture,,2023-08-08T17:17:21+00:00
+Performance Indicator,1.1.1.5.2.1,CS.e.AP.5.b.1,"Understand the value for teams of including members with different perspectives, experiences, and backgrounds, including race, gender, ethnicity, language, disability, family background, and family income.",,2023-08-08T17:17:21+00:00
+Standard,1.1.1.6,CS.e.AP.6,Students will test and refine computational solutions.,,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.1.6.1,CS.e.AP.6.a,Test and debug computational solutions,,2023-08-08T17:17:21+00:00
+Performance Indicator,1.1.1.6.1.1,CS.e.AP.6.a.1,"Analyze and debug (fix) an algorithm, which includes sequencing and simple loops, with or without a computing device.",,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.1.6.2,CS.e.AP.6.b,Develop and apply success criteria,,2023-08-08T17:17:21+00:00
+Content Area,1.1.2,CS.e.CS,Computing Systems,,2023-08-08T17:17:21+00:00
+Standard,1.1.2.1,CS.e.CS.1,Students will communicate about computing systems.,,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.2.1.1,CS.e.CS.1.a,Identification of hardware and software components,,2023-08-08T17:17:21+00:00
+Performance Indicator,1.1.2.1.1.1,CS.e.CS.1.a.1,"Identify and use software that controls computational devices to accomplish a task (e.g., use an app to draw on the screen, use software to write a story or control robots).",,2023-08-08T17:17:21+00:00
+Performance Indicator,1.1.2.1.1.2,CS.e.CS.1.a.2,"Use appropriate terminology in naming and describing the function of common computing devices and components (e.g., desktop computer, laptop computer, tablet device, monitor, keyboard, mouse, printer).",,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.2.1.2,CS.e.CS.1.b,Understand how the components of a computer system work together,,2023-08-08T17:17:21+00:00
+Performance Indicator,1.1.2.1.2.1,CS.e.CS.1.b.1,"Identify the components of a computer system and what the basic functions are (e.g., hard drive, and memory) as well as external features and their uses (e.g., printers, scanners, external hard drives, and cloud storage).",,2023-08-08T17:17:21+00:00
+Standard,1.1.2.2,CS.e.CS2,Students will test and refine computing systems.,,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.2.2.1,CS.e.CS.2.a,Problem solve and debug,,2023-08-08T17:17:21+00:00
+Performance Indicator,1.1.2.2.1.1,CS.e.CS.2.a.1,"Identify, using accurate terminology, simple hardware and software problems that may occur during use (e.g., app or program not working as expected, no sound, device won't turn on).",,2023-08-08T17:17:21+00:00
+Standard,1.1.2.3,CS.e.CS3,Students will develop and use abstractions in computing systems.,,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.2.3.1,CS.e.CS.3.a,Generalize in computer systems,,2023-08-08T17:17:21+00:00
+Standard,1.1.2.4,CS.e.CS4,Students will create and modify computing systems.,,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.2.4.1,CS.e.CS.4.a,Modify and create computational artifacts,,2023-08-08T17:17:21+00:00
+Content Area,1.1.3,CS.e.DA,Data and Analysis,,2023-08-08T17:17:21+00:00
+Standard,1.1.3.1,CS.e.DA.1,Students will create computational artifacts using data and analysis.,,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.3.1.1,CS.e.DA.1.a,Represent and manipulate data,,2023-08-08T17:17:21+00:00
+Standard,1.1.3.2,CS.e.DA.2,Students will recognize and define data in computational problems.,,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.3.2.1,CS.e.DA.2.a,Gather data to support computational problem solving,,2023-08-08T17:17:21+00:00
+Performance Indicator,1.1.3.2.1.1,CS.e.DA.2.a.1,"Collect simple quantitative data over time (e.g., daily temperatures or sunrise time).",,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.3.2.2,CS.e.DA.2.b,Categorize and analyze data,,2023-08-08T17:17:21+00:00
+Performance Indicator,1.1.3.2.2.1,CS.e.DA.2.b.1,"Sort objects into buckets, recognizing relevant and/or irrelevant data (e.g., one of these things is not like the other).",,2023-08-08T17:17:21+00:00
+Standard,1.1.3.3,CS.e.DA.3,Students will communicate about data in computing.,,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.3.3.1,CS.e.DA.3.a,Communicate about data,,2023-08-08T17:17:21+00:00
+Performance Indicator,1.1.3.3.1.1,CS.e.DA.3.a.1,Collect data over time and organize it in a chart or graph in order to make and communicate a prediction.,,2023-08-08T17:17:21+00:00
+Standard,1.1.3.4,CS.e.DA.4,Students will develop and use data abstractions.,,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.3.4.1,CS.e.DA.4.a,Model with data,,2023-08-08T17:17:21+00:00
+Performance Indicator,1.1.3.4.1.1,CS.e.DA.4.a.1,"Use a computing device to store, search, retrieve, modify, and delete information and define the information stored as data.",,2023-08-08T17:17:21+00:00
+Performance Indicator,1.1.3.4.1.2,CS.e.DA.4.a.2,"Create a model of an object or process in order to identify patterns and essential elements (e.g., water cycle, butterfly life cycle, seasonal weather patterns).",,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.3.4.2,CS.e.DA.4.b,Identify patterns,,2023-08-08T17:17:21+00:00
+Content Area,1.1.4,CS.e.IC,Impacts of Computing,,2023-08-08T17:17:21+00:00
+Standard,1.1.4.1,CS.e.IC.1,Students will understand the impact and effect computing technology has on our everyday lives.,,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.4.1.1,CS.e.IC.1.a,"Understand the impact technology has on our everyday lives, and the effects of computing on the economy and culture.",,2023-08-08T17:17:21+00:00
+Performance Indicator,1.1.4.1.1.1,CS.e.IC.1.a.1,"Compare and contrast examples of how computing technology has changed the way people live, work, and interact.",,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.4.1.2,CS.e.IC.1.b,Understand the effects of computing on communication and relationships.,,2023-08-08T17:17:21+00:00
+Performance Indicator,1.1.4.1.2.1,CS.e.IC.1.b.1,Explain the differences between communicating electronically and communicating in person.,,2023-08-08T17:17:21+00:00
+Standard,1.1.4.2,CS.e.IC.2,"Students will experience learning within a collaborative, inclusive computing culture and explain the steps needed to ensure that all people have access to computing.",,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.4.2.1,CS.e.IC.2.a,Understand the effects of the digital divide.,,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.4.2.2,CS.e.IC.2.b,Test and refine digital artifacts for accessibility.,,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.4.2.3,CS.e.IC.2.c,Collaborate ethically in the creation of digital artifacts.,,2023-08-08T17:17:21+00:00
+Performance Indicator,1.1.4.2.3.1,CS.e.IC.2.c.1,"Work with others as co-learners to solve a problem, or reach a goal.",,2023-08-08T17:17:21+00:00
+Standard,1.1.4.3,CS.e.IC.3,Students will understand the importance of proper use of data and information in a computing society.,,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.4.3.1,CS.e.IC.3.a,Understand intellectual property and fair use.,,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.4.3.2,CS.e.IC.3.b,Assess the practice of digital privacy.,,2023-08-08T17:17:21+00:00
+Performance Indicator,1.1.4.3.2.1,CS.e.IC.3.b.1,Respect other students' information and refrain from accessing others' devices or accounts without permission.,,2023-08-08T17:17:21+00:00
+Performance Indicator,1.1.4.3.2.2,CS.e.IC.3.b.2,"Understand what kinds of digital information is considered private, take steps to keep their information private, and respect the privacy of other students' information.",,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.4.3.3,CS.e.IC.3.c,Assess interrelationship between computing and society.,,2023-08-08T17:17:21+00:00
+Content Area,1.1.5,CS.e.NI,Networking and the Internet,,2023-08-08T17:17:21+00:00
+Standard,1.1.5.1,CS.e.NI.1,Students will understand the importance of security when using technology.,,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.5.1.1,CS.e.NI.1.a,Use secure practices for personal computing.,,2023-08-08T17:17:21+00:00
+Performance Indicator,1.1.5.1.1.1,CS.e.NI.1.a.1,Use secure practices (such as passwords) to protect private information and discuss the effects of misuse.,,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.5.1.2,CS.e.NI.1.b,Understand the importance of institutional security.,,2023-08-08T17:17:21+00:00
+Standard,1.1.5.2,CS.e.NI.2,Students will understand how information is sent by the Internet.,,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.5.2.1,CS.e.NI.2.a,Demonstrate how the Internet works at the physical layer.,,2023-08-08T17:17:21+00:00
+Performance Indicator,1.1.5.2.1.1,CS.e.NI.2.a.1,"Use a physical tool (e.g. flashlight, string) to communicate with another student.",,2023-08-08T17:17:21+00:00
+Performance Indicator,1.1.5.2.1.2,CS.e.NI.2.a.2,Provide examples of computer use that involve the Internet.,,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.5.2.2,CS.e.NI.2.b,Demonstrate how the Internet works at the protocol layer.,,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.5.2.3,CS.e.NI.2.c,Demonstrate how the Internet works at the addressing layer.,,2023-08-08T17:17:21+00:00
+Performance Indicator,1.1.5.2.3.1,CS.e.NI.2.c.1,"Devise a system for sending a physical message to anyone in their school by using addressing techniques (e.g., address envelopes by student first name, and teacher, grade, or room).",,2023-08-08T17:17:21+00:00
+Learning Priority,1.1.5.2.4,CS.e.NI.2.d,Demonstrate and explain encryption methods.,,2023-08-08T17:17:21+00:00
+Grade Level,1.2,CS.i,3-5,3-5,2023-08-09T14:58:18+00:00
+Content Area,1.2.1,CS.i.AP,Algorithms and Programming,,2023-08-08T20:52:29+00:00
+Standard,1.2.1.1,CS.i.AP.1,Students will recognize and define computational problems using algorithms and programming.,,2023-08-08T20:52:29+00:00
+Learning Priority,1.2.1.1.1,CS.i.AP.1.a,Develop algorithms,,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.1.1.1.1,CS.i.AP.1.a.4,"Construct and execute algorithms (sets of step-by-step instructions), which include sequencing, loops, and conditionals to accomplish a task, both independently and collaboratively, with or without a computing device.",,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.1.1.1.2,CS.i.AP.1.a.5,Decompose (break down) a larger computational problem into smaller sub-problems independently or in a collaborative group.,,2023-08-08T20:52:29+00:00
+Standard,1.2.1.2,CS.i.AP.2,Students will create computational artifacts using algorithms and programming.,,2023-08-08T20:52:29+00:00
+Learning Priority,1.2.1.2.1,CS.i.AP.2.a,Develop and implement an artifact,,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.1.2.1.1,CS.i.AP.2.a.3,"Construct programs in order to solve a problem or for creative expression, which include sequencing, events, loops, conditionals, parallelism and variables, using a block-based visual programming language or text based language, both independently and collaboratively (e.g., pair programming).",,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.1.2.1.2,CS.i.AP.2.a.4,"Create a plan as part of the iterative design process, both independently and with diverse collaborative teams (e.g., storyboard, flowchart, pseudo-code, story map).",,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.1.2.1.3,CS.i.AP.2.a.5,Use mathematical operations to change a value stored in a variable.,,2023-08-08T20:52:29+00:00
+Standard,1.2.1.3,CS.i.AP.3,Students will communicate about computing ideas.,,2023-08-08T20:52:29+00:00
+Learning Priority,1.2.1.3.1,CS.i.AP.3.a,Recognize and cite sources,,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.1.3.1.1,CS.i.AP.3.a.2,"Use proper citations and document when ideas are borrowed and changed for their own use (e.g., using pictures created by others, using music created by others, remixing programming projects).",,2023-08-08T20:52:29+00:00
+Learning Priority,1.2.1.3.2,CS.i.AP.3.b,Communicate about technical and social issues,,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.1.3.2.1,CS.i.AP.3.b.2,Understand that algorithms have impacted society in both beneficial and harmful ways.,,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.1.3.2.2,CS.i.AP.3.b.3,Compare different problem solving techniques.,,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.1.3.2.3,CS.i.AP.3.b.4,"Modify a set of instructions (e.g., in dancing, cooking or other areas) and discuss how many paths can lead to the same result.",,2023-08-08T20:52:29+00:00
+Learning Priority,1.2.1.3.3,CS.i.AP.3.c,Document code,,2023-08-08T20:52:29+00:00
+Standard,1.2.1.4,CS.i.AP.4,Students will develop and use abstractions.,,2023-08-08T20:52:29+00:00
+Learning Priority,1.2.1.4.1,CS.i.AP.4.a,Create and use abstractions (representations) to solve complex computational problems,,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.1.4.1.1,CS.i.AP.4.a.2,"Use several existing functions/procedures to solve a problem (e.g., using several square, circle, and triangle drawing functions to create a larger picture).",,2023-08-08T20:52:29+00:00
+Standard,1.2.1.5,CS.i.AP.5,Students will collaborate with diverse teams.,,2023-08-08T20:52:29+00:00
+Learning Priority,1.2.1.5.1,CS.i.AP.5.a,Work together to solve computational problems using a variety of resources,,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.1.5.1.1,CS.i.AP.5.a.3,Apply collaboration strategies to support problem solving within the design cycle of a program.,,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.1.5.1.2,CS.i.AP.5.a.4,Understand there are many resources that can be used/tapped to solve a problem.,,2023-08-08T20:52:29+00:00
+Learning Priority,1.2.1.5.2,CS.i.AP.5.b,Fostering an inclusive computing culture,,2023-08-08T20:52:29+00:00
+Standard,1.2.1.6,CS.i.AP.6,Students will test and refine computational solutions.,,2023-08-08T20:52:29+00:00
+Learning Priority,1.2.1.6.1,CS.i.AP.6.a,Test and debug computational solutions,,2023-08-09T19:45:43+00:00
+Performance Indicator,1.2.1.6.1.1,CS.i.AP.6.a.2,"Analyze and debug (fix) an algorithm, which includes sequencing, events, loops, conditionals, parallelism, and variables.",,2023-08-09T19:46:05+00:00
+Learning Priority,1.2.1.6.2,CS.i.AP.6.b,Develop and apply success criteria,,2023-08-09T19:53:29+00:00
+Performance Indicator,1.2.1.6.2.1,CS.i.AP.6.b.1,Determine the correctness of a computational problem solution by listening to a classmate describe the solution.,,2023-08-09T19:53:41+00:00
+Content Area,1.2.2,CS.i.CS,Computing Systems,,2023-08-08T20:52:29+00:00
+Standard,1.2.2.1,CS.i.CS.1,Students will communicate about computing systems.,,2023-08-08T20:52:29+00:00
+Learning Priority,1.2.2.1.1,CS.i.CS.1.a,Identification of hardware and software components,,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.2.1.1.1,CS.i.CS.1.a.3,Select and operate appropriate software to perform a variety of tasks and recognize that users have different needs and preferences for the technology they use.,,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.2.1.1.2,CS.i.CS.1.a.4,"Use appropriate terminology in naming internal and external components of computing devices and describing their relationships, capabilities, and limitations.",,2023-08-08T20:52:29+00:00
+Learning Priority,1.2.2.1.2,CS.i.CS.1.b,Understand how the components of a computer system work together,,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.2.1.2.1,CS.i.CS.1.b.2,"Model how a computer system works. [Clarification: Only includes basic elements of a computer system, such as input, output, processor, sensors, and storage].",,2023-08-08T20:52:29+00:00
+Standard,1.2.2.2,CS.i.CS.2,Students will test and refine computing systems.,,2023-08-08T20:52:29+00:00
+Learning Priority,1.2.2.2.1,CS.i.CS.2a,Problem solve and debug,,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.2.2.1.1,CS.i.CS.2.a.2,"Identify, using accurate terminology, simple hardware and software problems that may occur during use, and apply strategies for solving problems (e.g., reboot device, check for power, check network availability, close and reopen app).",,2023-08-09T20:13:42+00:00
+Standard,1.2.2.3,CS.i.CS.3,Students will develop and use abstractions in computing systems.,,2023-08-08T20:52:29+00:00
+Learning Priority,1.2.2.3.1,CS.i.CS.3.a,Generalize in computer systems,,2023-08-08T20:52:29+00:00
+Standard,1.2.2.4,CS.i.CS.4,Students will create and modify computing systems.,,2023-08-08T20:52:29+00:00
+Learning Priority,1.2.2.4.1,CS.i.CS.4.a,Modify and create computational artifacts,,2023-08-08T20:52:29+00:00
+Content Area,1.2.3,CS.i.DA,Data and Analysis,,2023-08-08T20:52:29+00:00
+Standard,1.2.3.1,CS.i.DA.1,Students will create computational artifacts using data and analysis.,,2023-08-08T20:52:29+00:00
+Learning Priority,1.2.3.1.1,CS.i.DA.1.a,Represent and manipulate data,,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.3.1.1.1,CS.i.DA.1.a.1,"Use numeric values to represent non-numeric ideas in the computer (e.g., binary, American Standard Code for Information Interchange (ASCII), pixel attributes such as Red Green Blue (RGB)).",,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.3.1.1.2,CS.i.DA.1.a.2,"Answer a question by using a computer to manipulate (e.g., sort, total and/or average, chart, graph) and analyze data that has been collected by the class or student.",,2023-08-08T20:52:29+00:00
+Standard,1.2.3.2,CS.i.DA.2,Students will recognize and define data in computational problems.,,2023-08-08T20:52:29+00:00
+Learning Priority,1.2.3.2.1,CS.i.DA.2.a,Gather data to support computational problem solving,,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.3.2.1.1,CS.i.DA.2.a.2,"Collect quantitative data over time from multiple sources (e.g., class or group pools individual observations of street traffic).",,2023-08-08T20:52:29+00:00
+Learning Priority,1.2.3.2.2,CS.i.DA.2.b,Categorize and analyze data,,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.3.2.2.1,CS.i.DA.2.b.2,"Choose appropriate classifications or grouping for data by shape, color, size, or other attributes.",,2023-08-08T20:52:29+00:00
+Standard,1.2.3.3,CS.i.DA.3,Students will communicate about data in computing.,,2023-08-08T20:52:29+00:00
+Learning Priority,1.2.3.3.1,CS.i.DA.3.a,Communicate about data,,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.3.3.1.1,CS.i.DA.3.a.2,Organize data into new subsets to provide different views or commonalities and present insights gained using visual representations.,,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.3.3.1.2,CS.i.DA.3.a.3,Organize and evaluate data for its sufficiency and relevance to making accurate inferences or predictions.,,2023-08-08T20:52:29+00:00
+Standard,1.2.3.4,CS.i.DA.4,Students will develop and use data abstractions.,,2023-08-08T20:52:29+00:00
+Learning Priority,1.2.3.4.1,CS.i.DA.4.a,Model with data,,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.3.4.1.1,CS.i.DA.4.a.3,"Create a computational artifact to model the attributes and behaviors associated with a concept (e.g., solar system, life cycle of a plant).",,2023-08-08T20:52:29+00:00
+Learning Priority,1.2.3.4.2,CS.i.DA.4.b,Identify patterns,,2023-08-08T20:52:29+00:00
+Content Area,1.2.4,CS.i.IC,Impacts of Computing,,2023-08-08T20:52:29+00:00
+Standard,1.2.4.1,CS.i.IC.1,Students will understand the impact and effect computing technology has on our everyday lives.,,2023-08-08T20:52:29+00:00
+Learning Priority,1.2.4.1.1,CS.i.IC.1.a,"Understand the impact technology has on our everyday lives, and the effects of computing on the economy and culture.",,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.4.1.1.1,CS.i.IC.1.a.2,"Discuss computing technologies that have changed the world and express how those technologies influence, and are influenced by, cultural practices.",,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.4.1.1.2,CS.i.IC.1.a.3,"Generate examples of how computing can affect society, and also how societal values can shape computing choices.",,2023-08-08T20:52:29+00:00
+Learning Priority,1.2.4.1.2,CS.i.IC.1.b,Understand the effects of computing on communication and relationships.,,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.4.1.2.1,CS.i.IC.1.b.2,Compare and contrast the effects of communicating electronically to communicating in person.,,2023-08-08T20:52:29+00:00
+Standard,1.2.4.2,CS.i.IC.2,"Students will experience learning within a collaborative, inclusive computing culture and explain the steps needed to ensure that all people have access to computing.",,2023-08-08T20:52:29+00:00
+Learning Priority,1.2.4.2.1,CS.i.IC.2.a,Understand the effects of the digital divide.,,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.4.2.1.1,CS.i.IC.2.a.1,Brainstorm and advocate for ways in which computing devices and the Internet could be made more available to all people.,,2023-08-08T20:52:29+00:00
+Learning Priority,1.2.4.2.2,CS.i.IC.2.b,Test and refine digital artifacts for accessibility.,,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.4.2.2.1,CS.i.IC.2.b.1,Brainstorm ways in which computing devices could be made more accessible to all users.,,2023-08-08T20:52:29+00:00
+Learning Priority,1.2.4.2.3,CS.i.IC.2.c,Collaborate ethically in the creation of digital artifacts.,,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.4.2.3.1,CS.i.IC.2.c.2,Use online collaborative spaces ethically and safely to work with another student to solve a problem or reach a goal.,,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.4.2.3.2,CS.i.IC.2.c.3,"Seek out and compare diverse perspectives, synchronously or asynchronously, to improve a project.",,2023-08-08T20:52:29+00:00
+Standard,1.2.4.3,CS.i.IC.3,Students will understand the importance of proper use of data and information in a computing society.,,2023-08-08T20:52:29+00:00
+Learning Priority,1.2.4.3.1,CS.i.IC.3.a,Understand intellectual property and fair use.,,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.4.3.1.1,CS.i.IC.3.a.1,Use resources from the World Wide Web in making artifacts and recognize that the work came from others.,,2023-08-08T20:52:29+00:00
+Learning Priority,1.2.4.3.2,CS.i.IC.3.b,Assess the practice of digital privacy.,,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.4.3.2.1,CS.i.IC.3.b.3,"Explain problems that relate to using computing devices and networks (e.g., logging out to deter others from using your account, cyberbullying, privacy of personal information, and ownership).",,2023-08-08T20:52:29+00:00
+Learning Priority,1.2.4.3.3,CS.i.IC.3.c,Assess interrelationship between computing and society.,,2023-08-08T20:52:29+00:00
+Content Area,1.2.5,CS.i.NI,Networking and the Internet,,2023-08-08T20:52:29+00:00
+Standard,1.2.5.1,CS.i.NI.1,Students will understand the importance of security when using technology.,,2023-08-08T20:52:29+00:00
+Learning Priority,1.2.5.1.1,CS.i.NI.1.a,Use secure practices for personal computing.,,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.5.1.1.1,CS.i.NI.1.a.2,"Create examples of strong passwords, explain why strong passwords should be used, and demonstrate proper use and protection of personal passwords.",,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.5.1.1.2,CS.i.NI.1.a.3,Remember basic concepts/facts regarding security issues with general computer use.,,2023-08-08T20:52:29+00:00
+Learning Priority,1.2.5.1.2,CS.i.NI.1.b,Understand the importance of institutional security.,,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.5.1.2.1,CS.i.NI.1.b.1,Give examples of information that organizations keep private as opposed to information that they make public.,,2023-08-08T20:52:29+00:00
+Standard,1.2.5.2,CS.i.NI.2,Students will understand how information is sent by the Internet.,,2023-08-08T20:52:29+00:00
+Learning Priority,1.2.5.2.1,CS.i.NI.2.a,Demonstrate how the Internet works at the physical layer.,,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.5.2.1.1,CS.i.NI.2.a.3,Model how a device on a network sends a message from one device (sender) to another (receiver) while following specific rules.,,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.5.2.1.2,CS.i.NI.2.a.4,"Differentiate between using the Internet and not using the Internet (e.g. identify difference between local and remote computation, such as collaborating on a Google Doc in ""the cloud"" versus editing a local document).",,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.5.2.1.3,CS.i.NI.2.a.5,Illustrate how information travels on the Internet.,,2023-08-08T20:52:29+00:00
+Learning Priority,1.2.5.2.2,CS.i.NI.2.b,Demonstrate how the Internet works at the protocol layer.,,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.5.2.2.1,CS.i.NI.2.b.1,"Act out a protocol that people use in common everyday communications (e.g., checking out a book from the library, meeting a new person, making an appointment, playing a class game, or calling a friend on the phone to invite them over).",,2023-08-08T20:52:29+00:00
+Learning Priority,1.2.5.2.3,CS.i.NI.2.c,Demonstrate how the Internet works at the addressing layer.,,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.5.2.3.1,CS.i.NI.2.c.2,"Devise a system for sending a physical message to anyone in their school by using addressing techniques, and then draw a tree or visual representation of their addressing system, and finally act out their addressing system by sending messages.",,2023-08-08T20:52:29+00:00
+Learning Priority,1.2.5.2.4,CS.i.NI.2.d,Demonstrate and explain encryption methods.,,2023-08-08T20:52:29+00:00
+Performance Indicator,1.2.5.2.4.1,CS.i.NI.2.d.1,"Communicate across a classroom using a secure method of their own design (e.g., pictures, physical movement, text).",,2023-08-08T20:52:29+00:00
+Grade Level,1.3,CS.m,6-8,6-8,2023-08-09T14:58:52+00:00
+Content Area,1.3.1,CS.m.AP,Algorithms and Programming,,2023-08-09T14:16:56+00:00
+Standard,1.3.1.1,CS.m.AP.1,Students will recognize and define computational problems using algorithms and programming.,,2023-08-09T14:16:56+00:00
+Learning Priority,1.3.1.1.1,CS.m.AP.1.a,Develop algorithms,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.1.1.1.1,CS.m.AP.1.a.6,Decompose a computational problem into parts and create solutions for one or more parts.,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.1.1.1.2,CS.m.AP.1.a.7,"Identify how subproblems could be recombined to create something new (e.g., break down the individual parts that would be needed to program a certain type of game and then show how the parts could be reused in other types of games).",,2023-08-09T14:16:56+00:00
+Standard,1.3.1.2,CS.m.AP.2,Students will create computational artifacts using algorithms and programming.,,2023-08-09T14:16:56+00:00
+Learning Priority,1.3.1.2.1,CS.m.AP.2.a,Develop and implement an artifact,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.1.2.1.1,CS.m.AP.2.a.6,"Develop programs, both independently and collaboratively, which include sequencing with nested loops and multiple branches [Clarification: At this level, students may use block-based and/or text-based languages].",,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.1.2.1.2,CS.m.AP.2.a.7,Produce computational artifacts with broad accessibility and usability through careful consideration of diverse needs and wants of the community.,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.1.2.1.3,CS.m.AP.2.a.8,"Use an iterative design process (e.g., define the problem, generate ideas, build, test, and improve solutions) to solve computational problems, both independently and collaboratively.",,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.1.2.1.4,CS.m.AP.2.a.9,Create variables that represent different types of data and manipulate their values.,,2023-08-09T14:16:56+00:00
+Standard,1.3.1.3,CS.m.AP.3,Students will communicate about computing ideas.,,2023-08-09T14:16:56+00:00
+Learning Priority,1.3.1.3.1,CS.m.AP.3.a,Recognize and cite sources,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.1.3.1.1,CS.m.AP.3.a.3,Provide proper attribution when code is borrowed or built upon.,,2023-08-09T14:16:56+00:00
+Learning Priority,1.3.1.3.2,CS.m.AP.3.b,Communicate about technical and social issues,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.1.3.2.1,CS.m.AP.3.b.5,Discuss how algorithms have impacted society - both the beneficial and harmful effects.,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.1.3.2.2,CS.m.AP.3.b.6,"Compare different algorithms that may be used to solve the same problem in terms of their speed, clarity and size (e.g., different algorithms solve the same problem, but one might be faster than the other). [Clarification",,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.1.3.2.3,CS.m.AP.3.b.7,"Modify existing code to change its functionality, and discuss the variety of ways in which to do this.",,2023-08-09T14:16:56+00:00
+Learning Priority,1.3.1.3.3,CS.m.AP.3.c,Document code,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.1.3.3.1,CS.m.AP.3.c.1,"Interpret the flow of execution of algorithms and predict their outcomes. [Clarification: Algorithms can be expressed using natural language, flow and control diagrams, comments within code, and pseudocode].",,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.1.3.3.2,CS.m.AP.3.c.2,Use documentation regarding code to modify programs.,,2023-08-09T14:16:56+00:00
+Standard,1.3.1.4,CS.m.AP.4,Students will develop and use abstractions.,,2023-08-09T14:16:56+00:00
+Learning Priority,1.3.1.4.1,CS.m.AP.4.a,Create and use abstractions (representations) to solve complex computational problems,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.1.4.1.1,CS.m.AP.4.a.3,"Define and use functions/procedures that hide the complexity of a task and can be reused to solve similar tasks. [Clarification Students use and modify, but do not necessarily create, functions or procedures with parameters].",,2023-08-09T14:16:56+00:00
+Standard,1.3.1.5,CS.m.AP.5,Students will collaborate with diverse teams.,,2023-08-09T14:16:56+00:00
+Learning Priority,1.3.1.5.1,CS.m.AP.5a,Work together to solve computational problems using a variety of resources,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.1.5.1.1,CS.m.AP.5.a.5,Solicit and integrate peer feedback as appropriate to develop or refine a program.,,2023-08-09T14:16:56+00:00
+Learning Priority,1.3.1.5.2,CS.m.AP.5.b,Fostering an inclusive computing culture,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.1.5.2.1,CS.m.AP.5.b.2,Analyze team members' strengths and utilize them to foster an inclusive computing culture.,,2023-08-09T14:16:56+00:00
+Standard,1.3.1.6,CS.m.AP.6,Students will test and refine computational solutions.,,2023-08-09T14:16:56+00:00
+Learning Priority,1.3.1.6.1,CS.m.AP.6.a,Test and debug computational solutions,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.1.6.1.1,CS.m.AP.6.a.3,Use testing and debugging methods to ensure program correctness and completeness.,,2023-08-09T14:16:56+00:00
+Learning Priority,1.3.1.6.2,CS.m.AP.6.b,Develop and apply success criteria,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.1.6.2.1,CS.m.AP.6.b.2,Apply a rubric to determine if and how well a program meets objectives.,,2023-08-09T14:16:56+00:00
+Content Area,1.3.2,CS.m.CS,Computing Systems,,2023-08-09T14:16:56+00:00
+Standard,1.3.2.1,CS.m.CS.1,Students will communicate about computing systems.,,2023-08-09T14:16:56+00:00
+Learning Priority,1.3.2.1.1,CS.m.CS.1.a,Identification of hardware and software components,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.2.1.1.1,CS.m.CS.1.a.5,"Justify the suitability of hardware and software chosen to accomplish a task (e.g., comparison of the features of a tablet vs. desktop, selecting which sensors and platform to use in building a robot or developing a mobile app).",,2023-08-09T14:16:56+00:00
+Learning Priority,1.3.2.1.2,CS.m.CS.1.b,Understand how the components of a computer system work together,,2023-08-09T14:16:56+00:00
+Standard,1.3.2.2,CS.m.CS.2,Students will test and refine computing systems.,,2023-08-09T14:16:56+00:00
+Learning Priority,1.3.2.2.1,CS.m.CS.2.a,Problem solve and debug,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.2.2.1.1,CS.m.CS.2.a.3,"Use a systematic process to identify the source of a problem within individual and connected devices (e.g., follow a troubleshooting flow diagram, make changes to software to see if hardware will work, restart device, check connections, swap in working components).",,2023-08-09T14:16:56+00:00
+Standard,1.3.2.3,CS.m.CS.3,Students will develop and use abstractions in computing systems.,,2023-08-09T14:16:56+00:00
+Learning Priority,1.3.2.3.1,CS.m.CS.3.a,Generalize in computer systems,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.2.3.1.1,CS.m.CS.3.a.1,"Analyze the relationship between a device's computational components and its capabilities. (e.g., computing systems include not only computers, but also cars, microwaves, smartphones, traffic lights, and flash drives).",,2023-08-09T14:16:56+00:00
+Standard,1.3.2.4,CS.m.CS.4,Students will create and modify computing systems.,,2023-08-09T14:16:56+00:00
+Learning Priority,1.3.2.4.1,CS.m.CS.4.a,Modify and create computational artifacts,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.2.4.1.1,CS.m.CS.4.a.1,"Extend or modify existing programs to add simple features and behaviors using different forms of inputs and outputs (e.g., inputs such as sensors, mouse clicks, data sets; outputs such as text, graphics, sounds).",,2023-08-09T14:16:56+00:00
+Content Area,1.3.3,CS.m.DA,Data and Analysis,,2023-08-09T14:16:56+00:00
+Standard,1.3.3.1,CS.m.DA.1,Students will create computational artifacts using data and analysis.,,2023-08-09T14:16:56+00:00
+Learning Priority,1.3.3.1.1,CS.m.DA.1.a,Represent and manipulate data,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.3.1.1.1,CS.m.DA.1.a.3,"Represent data using different encoding schemes (e.g., binary, Unicode, Morse code, shorthand, student-created codes).",,2023-08-09T14:16:56+00:00
+Standard,1.3.3.2,CS.m.DA.2,Students will recognize and define data in computational problems.,,2023-08-09T14:16:56+00:00
+Learning Priority,1.3.3.2.1,CS.m.DA.2.a,Gather data to support computational problem solving,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.3.2.1.1,CS.m.DA.2.a.3,"Gather and organize multiple quantitative data elements using a computational tool (e.g., spreadsheet software).",,2023-08-09T14:16:56+00:00
+Learning Priority,1.3.3.2.2,CS.m.DA.2.b,Categorize and analyze data,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.3.2.2.1,CS.m.DA.2.b.3,"<b style=""font-weight:normal;"" id=""docs-internal-guid-6e5b7559-7fff-9cf8-5235-ca2f14e4534d""><span style=""font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"">Develop a strategy to answer a question by using a computer to manipulate (.e.g., sort, total and/or average, chart, graph) and analyze data that has been collected by the class or student. </span></b>",,2023-08-09T21:25:31+00:00
+Standard,1.3.3.3,CS.m.DA.3,Students will communicate about data in computing.,,2023-08-09T14:16:56+00:00
+Learning Priority,1.3.3.3.1,CS.m.DA.3.a,Communicate about data,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.3.3.1.1,CS.m.DA.3.a.4,"Describe how different formats of stored data represent tradeoffs between quality and size. [Clarification: compare examples of music, text and/or image formats].",,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.3.3.1.2,CS.m.DA.3.a.5,"Explain the processes used to collect, transform, and analyze data to solve a problem using computational tools (e.g., use an app or spreadsheet form to collect data, decide which data to use or ignore, and choose a visualization method).",,2023-08-09T14:16:56+00:00
+Standard,1.3.3.4,CS.m.DA.4,Students will develop and use data abstractions.,,2023-08-09T14:16:56+00:00
+Learning Priority,1.3.3.4.1,CS.m.DA.4.a,Model with data,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.3.4.1.1,CS.m.DA.4.a.4,"Revise computational models to more accurately reflect real-world systems (e.g., ecosystems, epidemics, spread of ideas).",,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.3.4.1.2,CS.m.DA.4.a.5,"Modify an existing computational model to emphasize key features and relationships within a system. (A model can be used to simulate events, examine theories and inferences, or make predictions).",,2023-08-09T14:16:56+00:00
+Learning Priority,1.3.3.4.2,CS.m.DA.4.b,Identify patterns,,2023-08-09T14:16:56+00:00
+Content Area,1.3.4,CS.m.IC,Impacts of Computing,,2023-08-09T14:16:56+00:00
+Standard,1.3.4.1,CS.m.IC.1,Students will understand the impact and effect computing technology has on our everyday lives.,,2023-08-09T14:16:56+00:00
+Learning Priority,1.3.4.1.1,CS.m.IC.1.a,"Understand the impact technology has on our everyday lives, and the effects of computing on the economy and culture.",,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.4.1.1.1,CS.m.IC.1.a.4,"Provide examples of how computational artifacts and devices impact health and wellbeing, both positively and negatively, locally and globally (e.g., effects of globalization, and automation).",,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.4.1.1.2,CS.m.IC.1.a.5,Explain how computer science fosters innovation and can enhance careers and disciplines.,,2023-08-09T14:16:56+00:00
+Learning Priority,1.3.4.1.2,CS.m.IC.1.b,Understand the effects of computing on communication and relationships.,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.4.1.2.1,CS.m.IC.1.b.3,Analyze and present beneficial and harmful effects of personal electronic communication and social electronic communication.,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.4.1.2.2,CS.m.IC.1.b.4,Describe ways in which the Internet impacts global communication and collaborating.,,2023-08-09T14:16:56+00:00
+Standard,1.3.4.2,CS.m.IC.2,"Students will experience learning within a collaborative, inclusive computing culture and explain the steps needed to ensure that all people have access to computing.",,2023-08-09T14:16:56+00:00
+Learning Priority,1.3.4.2.1,CS.m.IC.2.a,Understand the effects of the digital divide.,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.4.2.1.1,CS.m.IC.2.a.2,"Explain the impact of the digital divide (i.e., uneven access to computing, computing education, and interfaces) on access to critical information.",,2023-08-09T14:16:56+00:00
+Learning Priority,1.3.4.2.2,CS.m.IC.2.b,Test and refine digital artifacts for accessibility.,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.4.2.2.1,CS.m.IC.2.b.2,"Critically evaluate and redesign a computational artifact to remove barriers to universal access (e.g., using captions on images, high contrast colors, and/or larger font sizes).",,2023-08-09T14:16:56+00:00
+Learning Priority,1.3.4.2.3,CS.m.IC.2.c,Collaborate ethically in the creation of digital artifacts.,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.4.2.3.1,CS.m.IC.2.c.4,Use the Internet ethically and safely to work with a group of people who are not physically near to solve a problem or reach a goal.,,2023-08-09T14:16:56+00:00
+Standard,1.3.4.3,CS.m.IC.3,Students will understand the importance of proper use of data and information in a computing society.,,2023-08-09T14:16:56+00:00
+Learning Priority,1.3.4.3.1,CS.m.IC.3.a,Understand intellectual property and fair use.,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.4.3.1.1,CS.m.IC.3.a.2,"Understand laws associated with digital information (e.g., intellectual property, fair use, and Creative Commons).",,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.4.3.1.2,CS.m.IC.3.a.3,"Describe ethical issues that relate to computing devices and networks (e.g., equity of access, security, hacking, intellectual property, copyright, Creative Commons licensing, and plagiarism).",,2023-08-09T14:16:56+00:00
+Learning Priority,1.3.4.3.2,CS.m.IC.3.b,Assess the practice of digital privacy.,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.4.3.2.1,CS.m.IC.3.b.4,"Analyze and summarize negative and positive impacts of using data and information to categorize people, predict behavior, and make recommendations based on those predictions (e.g., customizing search results or targeted advertising, based on previous browsing history, can save search time and limit options at the same time).",,2023-08-09T14:16:56+00:00
+Learning Priority,1.3.4.3.3,CS.m.IC.3.c,Assess interrelationship between computing and society.,,2023-08-09T14:16:56+00:00
+Content Area,1.3.5,CS.m.NI,Networking and the Internet,,2023-08-09T14:16:56+00:00
+Standard,1.3.5.1,CS.m.NI.1,Students will understand the importance of security when using technology.,,2023-08-09T14:16:56+00:00
+Learning Priority,1.3.5.1.1,CS.m.NI.1.a,Use secure practices for personal computing.,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.5.1.1.1,CS.m.NI.1.a.4,"Analyze and summarize security risks associated with weak passwords, lack of encryption, insecure transactions, and persistence of data.",,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.5.1.1.2,CS.m.NI.1.a.5,Understand security issues with general computer use.,,2023-08-09T14:16:56+00:00
+Learning Priority,1.3.5.1.2,CS.m.NI.1.b,Understand the importance of institutional security.,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.5.1.2.1,CS.m.NI.1.b.2,"Explain the principles of information security (confidentiality, integrity, availability) and authentication techniques.",,2023-08-09T14:16:56+00:00
+Standard,1.3.5.2,CS.m.NI.2,Students will understand how information is sent by the Internet.,,2023-08-09T14:16:56+00:00
+Learning Priority,1.3.5.2.1,CS.m.NI.2.a,Demonstrate how the Internet works at the physical layer.,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.5.2.1.1,CS.m.NI.2.a.6,Simulate how information is transmitted as packets through multiple devices over the Internet and networks.,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.5.2.1.2,CS.m.NI.2.a.7,"Explain, using basic terms, how a wireless or cellular network allows Internet information to be transmitted from a server to a user device.",,2023-08-09T14:16:56+00:00
+Learning Priority,1.3.5.2.2,CS.m.NI.2.b,Demonstrate how the Internet works at the protocol layer.,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.5.2.2.1,CS.m.NI.2.b.2,"Define the term protocol, provide an example of protocols in daily life, and explain their use on the Internet.",,2023-08-09T14:16:56+00:00
+Learning Priority,1.3.5.2.3,CS.m.NI.2.c,Demonstrate how the Internet works at the addressing layer.,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.5.2.3.1,CS.m.NI.2.c.3,Explain the hierarchical structure of the Internet Domain Name System (IDNS).,,2023-08-10T17:48:51+00:00
+Learning Priority,1.3.5.2.4,CS.m.NI.2.d,Demonstrate and explain encryption methods.,,2023-08-09T14:16:56+00:00
+Performance Indicator,1.3.5.2.4.1,CS.m.NI.2.d.2,"Encode and decode text-based messages using basic algorithms (e.g., shift cipher, substitution cipher).",,2023-08-09T14:16:56+00:00
+Grade Level,1.4,CS.h,9-12,9-12,2023-08-09T14:59:18+00:00
+Content Area,1.4.1,CS.h.AP,Algorithms and Programming,,2023-08-09T14:47:50+00:00
+Standard,1.4.1.1,CS.h.AP.1,Students will recognize and define computational problems using algorithms and programming.,,2023-08-09T14:47:50+00:00
+Learning Priority,1.4.1.1.1,CS.h.AP.1.a,Develop algorithms,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.1.1.1.1,CS.h.AP.1.a.8,"Analyze a problem, and then design and implement an algorithmic solution using sequence, selection and iteration.",,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.1.1.1.2,CS.h.AP.1.a.9,"Explain and demonstrate how modeling and simulation can be used to explore natural phenomena (e.g., flocking behaviors, queueing, life cycles).",,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.1.1.1.3,CS.h.AP.1.a.10,(+) Provide examples of computationally solvable problems and difficult-to-solve problems.,,2023-08-09T20:24:39+00:00
+Performance Indicator,1.4.1.1.1.4,CS.h.AP.1.a.11,(+) Decompose a large-scale computational problem by identifying generalizable patterns and applying them in a solution.,,2023-08-09T20:25:05+00:00
+Performance Indicator,1.4.1.1.1.5,CS.h.AP.1.a.12,(+) Illustrate the flow of execution of a recursive algorithm.,,2023-08-09T20:25:16+00:00
+Performance Indicator,1.4.1.1.1.6,CS.h.AP.1.a.13,"(+) Describe how parallel processing can be used to solve large computational problems (e.g., SETI at Home, FoldIt).",,2023-08-09T20:25:27+00:00
+Performance Indicator,1.4.1.1.1.7,CS.h.AP.1.a.14,(+) Develop and use a series of test cases to verify that a program performs according to its design specifications.,,2023-08-09T20:25:37+00:00
+Performance Indicator,1.4.1.1.1.8,CS.h.AP.1.a.15,(+) Explain the value of heuristic algorithms (discovery methods) to approximate solutions for difficult to solve computational problems.,,2023-08-09T20:25:47+00:00
+Standard,1.4.1.2,CS.h.AP.2,Students will create computational artifacts using algorithms and programming.,,2023-08-09T14:47:50+00:00
+Learning Priority,1.4.1.2.1,CS.h.AP.2.a,Develop and implement an artifact,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.1.2.1.1,CS.h.AP.2.a.10,"Use user-centered research and design techniques (e.g., surveys, interviews) to create software solutions.",,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.1.2.1.2,CS.h.AP.2.a.11,"Integrate grade-level appropriate mathematical techniques, concepts, and processes in the creation of computational artifacts.",,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.1.2.1.3,CS.h.AP.2.a.12,"Design, develop, and implement a computing artifact that responds to an event (e.g., robot that responds to a sensor, mobile app that responds to a text message, sprite that responds to a broadcast).",,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.1.2.1.4,CS.h.AP.2.a.13,"(+) Decompose a computational problem by creating new data types, functions or classes.",,2023-08-09T20:27:48+00:00
+Performance Indicator,1.4.1.2.1.5,CS.h.AP.2.a.14,"(+) Develop programs for multiple computing platforms (e.g., computer desktop, web, mobile).",,2023-08-09T20:27:58+00:00
+Performance Indicator,1.4.1.2.1.6,CS.h.AP.2.a.15,(+) Implement an Artificial Intelligence (AI) algorithm to play a game against a human opponent or solve a problem.,,2023-08-09T20:28:08+00:00
+Performance Indicator,1.4.1.2.1.7,CS.h.AP.2.a.16,"(+) Demonstrate code reuse by creating programming solutions using libraries and Application Program Interfaces (APIs). (e.g., graphics libraries, maps, API).",,2023-08-09T20:28:18+00:00
+Standard,1.4.1.3,CS.h.AP.3,Students will communicate about computing ideas.,,2023-08-09T14:47:50+00:00
+Learning Priority,1.4.1.3.1,CS.h.AP.3.a,Recognize and cite sources,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.1.3.1.1,CS.h.AP.3.a.4,"Compare and contrast various software licensing schemes (e.g., open source, freeware, commercial).",,2023-08-09T14:47:50+00:00
+Learning Priority,1.4.1.3.2,CS.h.AP.3.b,Communicate about technical and social issues,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.1.3.2.1,CS.h.AP.3.b.8,Evaluate and analyze how algorithms have impacted our society and discuss the benefits and harmful impacts of a variety of technological innovations.,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.1.3.2.2,CS.h.AP.3.b.9,"(+) Compare a variety of programming languages and identify features that make them useful for solving different types of problems and developing different kinds of systems (e.g., declarative, logic, parallel, functional, compiled, interpreted, real-time).",,2023-08-09T20:29:37+00:00
+Performance Indicator,1.4.1.3.2.3,CS.h.AP.3.b.10,"(+) Modify an existing program to add additional functionality and discuss intended and unintended implications (e.g., breaking other functionality).",,2023-08-09T20:29:53+00:00
+Learning Priority,1.4.1.3.3,CS.h.AP.3.c,Document code,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.1.3.3.1,CS.h.AP.3.c.3,"(+) Describe how Artificial Intelligence (AI) drives many software and physical systems (e.g., autonomous robots, computer vision, pattern recognition, text analysis).",,2023-08-09T20:30:43+00:00
+Performance Indicator,1.4.1.3.3.2,CS.h.AP.3.c.4,Write appropriate documentation for programs.,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.1.3.3.3,CS.h.AP.3.c.5,(+) Use application programming interface (APIs) documentation resources.,,2023-08-09T20:30:55+00:00
+Performance Indicator,1.4.1.3.3.4,CS.h.AP.3.c.6,Use online resources to answer technical questions.,,2023-08-09T14:47:50+00:00
+Standard,1.4.1.4,CS.h.AP.4,Students will develop and use abstractions.,,2023-08-09T14:47:50+00:00
+Learning Priority,1.4.1.4.1,CS.h.AP.4.a,Create and use abstractions (representations) to solve complex computational problems,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.1.4.1.1,CS.h.AP.4.a.4,"Demonstrate the value of abstraction for managing problem complexity (e.g., using a list instead of discrete variables).",,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.1.4.1.2,CS.h.AP.4.a.5,"Understand the notion of hierarchy and abstraction in high-level languages, translation, instruction sets, and logic circuits.",,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.1.4.1.3,CS.h.AP.4.a.6,"Deconstruct a complex problem into simpler parts using predefined constructs (e.g., functions and parameters and/or classes).",,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.1.4.1.4,CS.h.AP.4.a.7,"(+) Compare and contrast fundamental data structures and their uses (e.g., lists, maps, arrays, stacks, queues, trees, graphs).",,2023-08-09T20:31:45+00:00
+Performance Indicator,1.4.1.4.1.5,CS.h.AP.4.a.8,"(+) Critically analyze and evaluate classic algorithms (e.g., sorting, searching) and use in different contexts, adapting as appropriate.",,2023-08-09T20:32:04+00:00
+Performance Indicator,1.4.1.4.1.6,CS.h.AP.4.a.9,"(+) Discuss issues that arise when breaking large-scale problems down into parts that must be processed simultaneously on separate systems (e.g., cloud computing, parallelization, concurrency).",,2023-08-09T20:32:13+00:00
+Performance Indicator,1.4.1.4.1.7,CS.h.AP.4.a.10,(+) Define the functionality of an abstraction without implementing the abstraction.,,2023-08-09T20:32:23+00:00
+Performance Indicator,1.4.1.4.1.8,CS.h.AP.4.a.11,"(+) Evaluate algorithms (e.g., sorting, searching) in terms of their efficiency, correctness and clarity.",,2023-08-09T20:32:32+00:00
+Performance Indicator,1.4.1.4.1.9,CS.h.AP.4.a.12,(+) Identify programming language features that can be used to define or specify an abstraction.,,2023-08-09T20:32:46+00:00
+Performance Indicator,1.4.1.4.1.10,CS.h.AP.4.a.13,(+) Identify abstractions used in a solution (program or software artifact) and reuse those abstractions to solve a different problem.,,2023-08-09T20:32:56+00:00
+Standard,1.4.1.5,CS.h.AP.5,Students will collaborate with diverse teams.,,2023-08-09T14:47:50+00:00
+Learning Priority,1.4.1.5.1,CS.h.AP.5.a,Work together to solve computational problems using a variety of resources,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.1.5.1.1,CS.h.AP.5.a.6,Design and develop a software artifact working in a team.,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.1.5.1.2,CS.h.AP.5.a.7,"Demonstrate how diverse collaborating impacts the design and development of software products (e.g., discussing real-world examples of products which have been improved through having a diverse design team or reflecting on their own team's development experience).",,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.1.5.1.3,CS.h.AP.5.a.8,"(+) Demonstrate software life cycle processes (e.g., spiral, waterfall) by participating on software project teams (e.g., community service project with real-world clients).",,2023-08-09T20:33:59+00:00
+Performance Indicator,1.4.1.5.1.4,CS.h.AP.5.a.9,"(+) Use version control systems, Integrated Development Environments (IDEs), and collaboration tools and practices (code documentation) in a group software project.",,2023-08-09T20:34:17+00:00
+Learning Priority,1.4.1.5.2,CS.h.AP.5.b,Fostering an inclusive computing culture,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.1.5.2.1,CS.h.AP.5.b.3,Create design teams taking into account the strengths and perspectives of potential team members.,,2023-08-09T14:47:50+00:00
+Standard,1.4.1.6,CS.h.AP.6,Students will test and refine computational solutions.,,2023-08-09T14:47:50+00:00
+Learning Priority,1.4.1.6.1,CS.h.AP.6.a,Test and debug computational solutions,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.1.6.1.1,CS.h.AP.6.a.4,"Use a systematic approach and debugging tools to independently debug a program (e.g., setting breakpoints, inspecting variables with a debugger).",,2023-08-09T14:47:50+00:00
+Learning Priority,1.4.1.6.2,CS.h.AP.6.b,Develop and apply success criteria,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.1.6.2.1,CS.h.AP.6.b.3,"(+) Evaluate key qualities of a program (e.g., correctness, usability, readability, efficiency, portability, scalability) through a process such as a code review.",,2023-08-09T20:34:59+00:00
+Content Area,1.4.2,CS.h.CS,Computing Systems,,2023-08-09T14:47:50+00:00
+Standard,1.4.2.1,CS.h.CS.1,Students will communicate about computing systems.,,2023-08-09T14:47:50+00:00
+Learning Priority,1.4.2.1.1,CS.h.CS.1.a,Identification of hardware and software components,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.2.1.1.1,CS.h.CS.1.a.6,"Develop and apply criteria (e.g., power consumption, processing speed, storage space, battery life, cost, operating system) for evaluating a computer system for a given purpose (e.g., system specification needed to run a game, web browsing, graphic design or video editing).",,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.2.1.1.2,CS.h.CS.1.a.7,"(+) Identify the functionality of various categories of hardware components and communication between them (e.g., physical layers, logic gates, chips, input and output devices).",,2023-08-09T20:36:00+00:00
+Learning Priority,1.4.2.1.2,CS.h.CS.1.b,Understand how the components of a computer system work together,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.2.1.2.1,CS.h.CS.1.b.3,"(+) Explain the role of operating systems (e.g., how programs are stored in memory, how data is organized/retrieved, how processes are managed and multi-tasked).",,2023-08-09T20:36:23+00:00
+Standard,1.4.2.2,CS.h.CS.2,Students will test and refine computing systems.,,2023-08-09T14:47:50+00:00
+Learning Priority,1.4.2.2.1,CS.h.CS.2.a,Problem solve and debug,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.2.2.1.1,CS.h.CS.2.a.4,"Devise a systematic process to identify the source of a problem within individual and connected devices (e.g., research, investigate, problem solve).",,2023-08-09T14:47:50+00:00
+Standard,1.4.2.3,CS.h.CS.3,Students will develop and use abstractions in computing systems.,,2023-08-09T14:47:50+00:00
+Learning Priority,1.4.2.3.1,CS.h.CS.3.a,Generalize in computer systems,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.2.3.1.1,CS.h.CS.3.a.2,"Demonstrate the role and interaction of a computer embedded within a physical system, such as a consumer electronic, biological system, or vehicle, by creating a diagram, model, simulation, or prototype.",,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.2.3.1.2,CS.h.CS.3.a.3,"(+) Describe the steps necessary for a computer to execute high-level source code (e.g., compilation to machine language, interpretation, fetch-decode-execute cycle).",,2023-08-09T20:37:35+00:00
+Standard,1.4.2.4,CS.h.CS.4,Students will create and modify computing systems.,,2023-08-09T14:47:50+00:00
+Learning Priority,1.4.2.4.1,CS.h.CS.4.a,Modify and create computational artifacts,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.2.4.1.1,CS.h.CS.4.a.2,"Create, extend, or modify existing programs to add new features and behaviors using different forms of inputs and outputs (e.g., inputs such as sensors, mouse clicks, data sets; outputs such as text, graphics, sounds).",,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.2.4.1.2,CS.h.CS.4.a.3,"(+) Create a new artifact that uses a variety of forms of inputs and outputs (e.g., inputs such as sensors, mouse clicks, data sets; outputs such as text, graphics, sounds).",,2023-08-09T20:38:15+00:00
+Content Area,1.4.3,CS.h.DA,Data and Analysis,,2023-08-09T14:47:50+00:00
+Standard,1.4.3.1,CS.h.DA.1,Students will create computational artifacts using data and analysis.,,2023-08-09T14:47:50+00:00
+Learning Priority,1.4.3.1.1,CS.h.DA.1.a,Represent and manipulate data,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.3.1.1.1,CS.h.DA.1.a.4,"Convert between binary, decimal, and hexadecimal representations of data (e.g., convert hexadecimal color codes to decimal percentages, ASCII/Unicode representation).",,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.3.1.1.2,CS.h.DA.1.a.5,"Analyze the representation tradeoffs among various forms of digital information (e.g., lossy vs. lossless compression, encrypted vs. unencrypted, various image representations).",,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.3.1.1.3,CS.h.DA.1.a.6,"(+) Discuss how data sequences (e.g., binary, hexadecimal, octal) can be interpreted in a variety of forms (e.g., instructions, numbers, text, sound, image).",,2023-08-09T20:56:49+00:00
+Standard,1.4.3.2,CS.h.DA.2,Students will recognize and define data in computational problems.,,2023-08-09T14:47:50+00:00
+Learning Priority,1.4.3.2.1,CS.h.DA.2.a,Gather data to support computational problem solving,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.3.2.1.1,CS.h.DA.2.a.4,"Discuss techniques used to store, process, and retrieve different amounts of information (e.g., files, databases, data warehouses).",,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.3.2.1.2,CS.h.DA.2.a.5,"(+) Use various data collection techniques for different types of computational problems ( e.g., mobile device global positioning system, user surveys, embedded system sensors, open data sets, social media data sets.)",,2023-08-09T21:40:47+00:00
+Learning Priority,1.4.3.2.2,CS.h.DA.2.b,Categorize and analyze data,,2023-08-09T21:28:08+00:00
+Performance Indicator,1.4.3.2.2.1,CS.h.DA.2.b.4,"Apply basic techniques for locating and collecting small- and large-scale data sets (e.g., creating and distributing user surveys, accessing real-world data sets).",,2023-08-09T14:47:50+00:00
+Standard,1.4.3.3,CS.h.DA.3,Students will communicate about data in computing.,,2023-08-09T14:47:50+00:00
+Learning Priority,1.4.3.3.1,CS.h.DA.3.a,Communicate about data,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.3.3.1.1,CS.h.DA.3.a.6,"Use computational tools to collect, transform, and organize data about a problem to explain to others.",,2023-08-09T14:47:50+00:00
+Standard,1.4.3.4,CS.h.DA.4,Students will develop and use data abstractions.,,2023-08-09T14:47:50+00:00
+Learning Priority,1.4.3.4.1,CS.h.DA.4.a,Model with data,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.3.4.1.1,CS.h.DA.4.a.6,"Create computational models that simulate real-world systems (e.g., ecosystems, epidemics, spread of ideas).",,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.3.4.1.2,CS.h.DA.4.a.7,"(+) Evaluate the ability of models and simulations to formulate, refine, and test hypotheses.",,2023-08-10T17:17:11+00:00
+Learning Priority,1.4.3.4.2,CS.h.DA.4.b,Identify patterns,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.3.4.2.1,CS.h.DA.4.b.1,"(+) Use data analysis to identify significant patterns in complex systems (e.g., take existing data sets and make sense of them).",,2023-08-10T17:17:30+00:00
+Performance Indicator,1.4.3.4.2.2,CS.h.DA.4.b.2,"(+) Identify mathematical and computational patterns through modeling and simulation (e.g., regression, queueing theory, discrete event simulation).",,2023-08-10T17:18:01+00:00
+Content Area,1.4.4,CS.h.IC,Impacts of Computing,,2023-08-09T14:47:50+00:00
+Standard,1.4.4.1,CS.h.IC.1,Students will understand the impact and effect computing technology has on our everyday lives.,,2023-08-09T14:47:50+00:00
+Learning Priority,1.4.4.1.1,CS.h.IC.1.a,"Understand the impact technology has on our everyday lives, and the effects of computing on the economy and culture.",,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.4.1.1.1,CS.h.IC.1.a.6,"Debate the social and economic implications associated with ethical and unethical computing practices (e.g., intellectual property rights, hacktivism, software piracy, new computers shipped with malware).",,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.4.1.1.2,CS.h.IC.1.a.7,"Discuss implications of the collection and large-scale analysis of information about individuals (e.g., how businesses, social media, and government collect and use personal data).",,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.4.1.1.3,CS.h.IC.1.a.8,"Compare and debate the positive and negative impacts of computing on behavior and culture (e.g., evolution from hitchhiking to ride-sharing apps, online accommodation rental services).",,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.4.1.1.4,CS.h.IC.1.a.9,Describe how computation shares features with art and music by translating human intention into an artifact.,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.4.1.1.5,CS.h.IC.1.a.10,(+) Develop criteria to evaluate the beneficial and harmful effects of computing innovations on people and society.,,2023-08-10T17:19:05+00:00
+Learning Priority,1.4.4.1.2,CS.h.IC.1.b,Understand the effects of computing on communication and relationships.,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.4.1.2.1,CS.h.IC.1.b.5,Evaluate the negative impacts of electronic communication on personal relationships and evaluate differences between face-to-face and electronic communication.,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.4.1.2.2,CS.h.IC.1.b.6,(+) Create a list of practices that individuals and organizations can use to encourage proper use of both electronic and face-to-face communication.,,2023-08-10T17:19:48+00:00
+Performance Indicator,1.4.4.1.2.3,CS.h.IC.1.b.7,(+) Evaluate the negative impacts on societal discourse caused by social media and electronic communities.,,2023-08-10T17:20:01+00:00
+Standard,1.4.4.2,CS.h.IC.2,"Students will experience learning within a collaborative, inclusive computing culture and explain the steps needed to ensure that all people have access to computing.",,2023-08-09T14:47:50+00:00
+Learning Priority,1.4.4.2.1,CS.h.IC.2.a,Understand the effects of the digital divide.,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.4.2.1.1,CS.h.IC.2.a.3,"(+) Evaluate the impact of equity, access, and influence on the distribution of computing resources in a global society.",,2023-08-10T17:21:05+00:00
+Learning Priority,1.4.4.2.2,CS.h.IC.2.b,Test and refine digital artifacts for accessibility.,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.4.2.2.1,CS.h.IC.2.b.3,"Design a user interface (e.g., web pages, mobile applications, animations) to be more inclusive, accessible, minimizing the impact of the designer's inherent bias.",,2023-08-09T14:47:50+00:00
+Learning Priority,1.4.4.2.3,CS.h.IC.2.c,Collaborate ethically in the creation of digital artifacts.,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.4.2.3.1,CS.h.IC.2.c.5,"Ethically and safely select, observe, and contribute to global collaboration in the development of a computational artifact (e.g., contribute the resolution of a bug in an open-source project platform, or contribute an online article).",,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.4.2.3.2,CS.h.IC.2.c.6,"Demonstrate how computing enables new forms of experience, expression, communication, and collaboration.",,2023-08-09T14:47:50+00:00
+Standard,1.4.4.3,CS.h.IC.3,Students will understand the importance of proper use of data and information in a computing society.,,2023-08-09T14:47:50+00:00
+Learning Priority,1.4.4.3.1,CS.h.IC.3.a,Understand intellectual property and fair use.,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.4.3.1.1,CS.h.IC.3.a.4,Compare and contrast information access and distribution rights.,,2023-08-09T14:47:50+00:00
+Learning Priority,1.4.4.3.2,CS.h.IC.3.b,Assess the practice of digital privacy.,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.4.3.2.1,CS.h.IC.3.b.5,Research and understand misuses of private digital information in our society.,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.4.3.2.2,CS.h.IC.3.b.6,"Debate laws regarding an individual's digital privacy, and be able to explain the main arguments from multiple perspectives.",,2023-08-09T14:47:50+00:00
+Learning Priority,1.4.4.3.3,CS.h.IC.3.c,Assess interrelationship between computing and society.,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.4.3.3.1,CS.h.IC.3.c.1,"(+) Design and implement a study that evaluates how computation has revolutionized an aspect of our culture, or predicts how an aspect might evolve (e.g., education, healthcare, art/entertainment, energy).",,2023-08-10T17:22:44+00:00
+Performance Indicator,1.4.4.3.3.2,CS.h.IC.3.c.2,"(+) Debate laws and regulations that impact the development and use of software, and be able to explain the main arguments from multiple perspectives.",,2023-08-10T17:22:54+00:00
+Content Area,1.4.5,CS.h.NI,Networking and the Internet,,2023-08-09T14:47:50+00:00
+Standard,1.4.5.1,CS.h.NI.1,Students will understand the importance of security when using technology.,,2023-08-09T14:47:50+00:00
+Learning Priority,1.4.5.1.1,CS.h.NI.1.a,Use secure practices for personal computing.,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.5.1.1.1,CS.h.NI.1.a.6,Provide examples of personal data that should be kept secure and the methods by which individuals keep their private data secure.,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.5.1.1.2,CS.h.NI.1.a.7,"(+) Explain security issues that might lead to compromised computer programs (e.g., circular references, ambiguous program calls, lack of error checking, and field size checking).",,2023-08-10T17:23:47+00:00
+Learning Priority,1.4.5.1.2,CS.h.NI.1.b,Understand the importance of institutional security.,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.5.1.2.1,CS.h.NI.1.b.3,"Compare and contrast multiple viewpoints on cybersecurity (e.g., from the perspective of security experts, privacy advocates, national security).",,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.5.1.2.2,CS.h.NI.1.b.4,Identify digital and physical strategies to secure networks and discuss the tradeoffs between ease of access and need for security.,,2023-08-09T14:47:50+00:00
+Standard,1.4.5.2,CS.h.NI.2,Students will understand how information is sent by the Internet.,,2023-08-09T14:47:50+00:00
+Learning Priority,1.4.5.2.1,CS.h.NI.2.a,Demonstrate how the Internet works at the physical layer.,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.5.2.1.1,CS.h.NI.2.a.8,"Illustrate the basic components of computer networks (e.g., draw logical and topological diagrams of networks including routers, switches, servers, and end user devices; create model with string and paper).",,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.5.2.1.2,CS.h.NI.2.a.9,(+) Explain ways in which the Internet is decentralized and fault-tolerant.,,2023-08-10T17:24:33+00:00
+Performance Indicator,1.4.5.2.1.3,CS.h.NI.2.a.10,"(+) Simulate and discuss the issues (e.g., bandwidth, load, delay, topology) that impact network functionality (e.g., use free network simulators).",,2023-08-10T17:24:42+00:00
+Learning Priority,1.4.5.2.2,CS.h.NI.2.b,Demonstrate how the Internet works at the protocol layer.,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.5.2.2.1,CS.h.NI.2.b.3,"Describe key protocols and underlying processes of Internet-based services (e.g., http/https and Simple Mail Transfer Protocol (SMTP)/Internet Message Access Protocol (IMAP), routing protocols).",,2023-08-09T14:47:50+00:00
+Learning Priority,1.4.5.2.3,CS.h.NI.2.c,Demonstrate how the Internet works at the addressing layer.,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.5.2.3.1,CS.h.NI.2.c.4,(+) Evaluate how the hierarchical nature of the Domain Name System helps the Internet work efficiently.,,2023-08-10T17:25:12+00:00
+Learning Priority,1.4.5.2.4,CS.h.NI.2.d,Demonstrate and explain encryption methods.,,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.5.2.4.1,CS.h.NI.2.d.3,"Write a program that performs basic encryption (e.g., shift cipher, substitution cipher).",,2023-08-09T14:47:50+00:00
+Performance Indicator,1.4.5.2.4.2,CS.h.NI.2.d.4,(+) Explain the features of public key cryptography.,,2023-08-10T17:41:20+00:00
+Performance Indicator,1.4.5.2.4.3,CS.h.NI.2.d.5,"(+) Explore security policies by implementing and comparing encryption and authentication strategies (e.g., secure coding, safeguarding keys).",,2023-08-10T17:41:40+00:00

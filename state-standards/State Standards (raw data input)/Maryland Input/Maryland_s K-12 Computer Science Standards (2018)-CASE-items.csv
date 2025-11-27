@@ -1,0 +1,493 @@
+﻿Item Type,Sequence,Human Code,Full Statement,Ed. Level,Last Modified
+Grade Range,1,,Grades K-2,KG-02,2025-02-28T17:26:31+00:00
+Course,1.1,,Kindergarten,KG,2025-02-28T17:27:08+00:00
+Concept,1.1.1,,Computing Systems,,2025-02-28T17:10:01+00:00
+Subconcept,1.1.1.1,,Devices,,2025-02-28T17:10:01+00:00
+Standard,1.1.1.1.1,K.CS.D.01,Select and operate the appropriate computing device to perform a variety of different tasks,,2025-02-28T17:10:01+00:00
+Subconcept,1.1.1.2,,Hardware & Software,,2025-02-28T17:10:01+00:00
+Standard,1.1.1.2.1,K.CS.HS.01,"Identify by name and locate common computing devices and external hardware in a variety of environments, using appropriate technical terminology (e.g., mobile devices, desktop computer, laptop computer, mouse, keyboard, wearables).",,2025-02-28T17:10:01+00:00
+Subconcept,1.1.1.3,,Troubleshooting,,2025-02-28T17:10:01+00:00
+Standard,1.1.1.3.1,K.CS.T.01,"Recognize the possibility computing systems might not work as expected and identify basic hardware and software problems using appropriate technical terminology (e.g., monitor turned off, volume decreased on headphones).",,2025-02-28T17:10:01+00:00
+Concept,1.1.2,,Networks and the Internet,,2025-02-28T17:10:01+00:00
+Subconcept,1.1.2.1,,Network Communication & Organization,,2025-02-28T17:10:01+00:00
+Standard,1.1.2.1.1,K.NI.NCO.01,Recognize that basic computing devices and components can be connected to one another.,,2025-02-28T17:10:01+00:00
+Subconcept,1.1.2.2,,Cybersecurity,,2025-02-28T17:10:01+00:00
+Standard,1.1.2.2.1,K.NI.C.01,Identify and use passwords and discuss why they are not shared with others.,,2025-02-28T17:10:01+00:00
+Concept,1.1.3,,Data Analysis,,2025-02-28T17:10:01+00:00
+Subconcept,1.1.3.1,,Storage,,2025-02-28T17:10:01+00:00
+Standard,1.1.3.1.1,K.DA.S.01,Identify that information from our everyday lives can be stored and accessed via computing devices.,,2025-02-28T17:10:01+00:00
+Subconcept,1.1.3.2,,"Collection, Visualization & Transformation",,2025-02-28T17:10:01+00:00
+Standard,1.1.3.2.1,K.DA.CVT.01,"With guidance, collect data on a basic topic (e.g., weather, temperature) and present it visually.",,2025-02-28T17:10:01+00:00
+Subconcept,1.1.3.3,,Inference & Models,,2025-02-28T17:10:01+00:00
+Standard,1.1.3.3.1,K.DA.IM.01,"With guidance, draw conclusions and make predictions based on picture graphs or patterns (e.g., make predictions based on weather data presented in a picture graph, complete a pattern) with or without a computing device.",,2025-02-28T17:10:01+00:00
+Concept,1.1.4,,Algorithms and Programming,,2025-02-28T17:10:01+00:00
+Subconcept,1.1.4.1,,Algorithms,,2025-02-28T17:10:01+00:00
+Standard,1.1.4.1.1,K.AP.A.01,Model daily processes and follow basic algorithms (step-by-step lists of instructions) to complete tasks.,,2025-02-28T17:10:01+00:00
+Subconcept,1.1.4.2,,Variables,,2025-02-28T17:10:01+00:00
+Standard,1.1.4.2.1,K.AP.V.01,"With guidance, model the way programs store and manipulate gradelevel data by using numbers or other symbols to represent information (e.g., encode or decode words using numbers, pictographs or symbols to letters, words, or direction).",,2025-02-28T17:10:01+00:00
+Subconcept,1.1.4.3,,Control,,2025-02-28T17:10:01+00:00
+Standard,1.1.4.3.1,K.AP.C.01,"With guidance, create a set of instructions (programs) to accomplish a task using a programming language, device, or unplugged activity, including sequencing, emphasizing the beginning, middle, and end.",,2025-02-28T17:10:01+00:00
+Subconcept,1.1.4.4,,Program Development,,2025-02-28T17:10:01+00:00
+Standard,1.1.4.4.1,K.AP.PD.01,"With guidance, create a grade level appropriate document to illustrate thoughts, ideas, or stories in a sequential manner (e.g., storyboard, story map, sequential graphic organizer).",,2025-02-28T17:10:01+00:00
+Standard,1.1.4.4.2,K.AP.PD.02,"Give attribution to ideas, solutions, and creations of others, verbally, while developing algorithms.",,2025-02-28T17:10:01+00:00
+Standard,1.1.4.4.3,K.AP.PD.03,Identify errors in an algorithm that includes sequencing and repeated procedures using a programming language or unplugged activity. Discuss how errors in the algorithm could be corrected.,,2025-02-28T17:10:01+00:00
+Standard,1.1.4.4.4,K.AP.PD.04,"Use correct terminology (e.g., first, second, etc.) in the development of an algorithm to solve a simple problem.",,2025-02-28T17:10:01+00:00
+Concept,1.1.5,,Impacts of Computing,,2025-02-28T17:10:01+00:00
+Subconcept,1.1.5.1,,Culture and Diversity,,2025-02-28T17:10:01+00:00
+Standard,1.1.5.1.1,K.IC.C.01,Use grade-level appropriate language to identify and describe how people use a variety of technologies and applications in their daily work and personal lives.,,2025-02-28T17:10:01+00:00
+Subconcept,1.1.5.2,,Social Interactions,,2025-02-28T17:10:01+00:00
+Standard,1.1.5.2.1,K.IC.SI.01,Identify appropriate and safe behaviors when participating online.,,2025-02-28T17:10:01+00:00
+Subconcept,1.1.5.3,,"Safety, Law & Ethics",,2025-02-28T17:10:01+00:00
+Standard,1.1.5.3.1,K.IC.SLE.01,Keep login information private and log off devices appropriately.,,2025-02-28T17:10:01+00:00
+Course,1.2,,Grade 1,01,2025-02-28T17:27:01+00:00
+Concept,1.2.1,,Computing Systems,,2025-02-28T17:10:01+00:00
+Subconcept,1.2.1.1,,Devices,,2025-02-28T17:10:01+00:00
+Standard,1.2.1.1.1,1.CS.D.01,Select and operate the appropriate application/software to perform a variety of tasks or obtain a desired outcome.,,2025-02-28T17:10:01+00:00
+Subconcept,1.2.1.2,,Hardware & Software,,2025-02-28T17:10:01+00:00
+Standard,1.2.1.2.1,1.CS.HS.01,"Identify and describe functions of common computing devices and external hardware (e.g., mobile devices, desktop computer, laptop computer, mouse, keyboard, printer, wearables).",,2025-02-28T17:10:01+00:00
+Subconcept,1.2.1.3,,Troubleshooting,,2025-02-28T17:10:01+00:00
+Standard,1.2.1.3.1,1.CS.T.01,"Identify and communicate basic hardware and software problems that may occur during use (e.g., application/program not working correctly, no sound coming from device, caps lock turned on), using appropriate technical terminology.",,2025-02-28T17:10:01+00:00
+Concept,1.2.2,,Networks and the Internet,,2025-02-28T17:10:01+00:00
+Subconcept,1.2.2.1,,Network Communication & Organization,,2025-02-28T17:10:01+00:00
+Standard,1.2.2.1.1,1.NI.NCO.01,Recognize that computing devices can be connected through physical or wireless pathways.,,2025-02-28T17:10:01+00:00
+Subconcept,1.2.2.2,,Cybersecurity,,2025-02-28T17:10:01+00:00
+Standard,1.2.2.2.1,1.NI.C.01,"Recognize what passwords are, why they are used, and why they are not shared.",,2025-02-28T17:10:01+00:00
+Concept,1.2.3,,Data Analysis,,2025-02-28T17:10:01+00:00
+Subconcept,1.2.3.1,,Storage,,2025-02-28T17:10:01+00:00
+Standard,1.2.3.1.1,1.DA.S.01,"Identify, access, modify, and save an existing file with a computing device.",,2025-02-28T17:10:01+00:00
+Subconcept,1.2.3.2,,"Collection, Visualization & Transformation",,2025-02-28T17:10:01+00:00
+Standard,1.2.3.2.1,1.DA.CVT.01,"With guidance, collect and organize data. Present data effectively in two different ways",,2025-02-28T17:10:01+00:00
+Subconcept,1.2.3.3,,Inference & Models,,2025-02-28T17:10:01+00:00
+Standard,1.2.3.3.1,1.DA.IM.01,"With guidance, identify, interpret, and analyze data from a chart or graphical display (visualization) in order to make a prediction, with or without a computing device",,2025-02-28T17:10:01+00:00
+Concept,1.2.4,,Algorithms and Programming,,2025-02-28T17:10:01+00:00
+Subconcept,1.2.4.1,,Algorithms,,2025-02-28T17:10:01+00:00
+Standard,1.2.4.1.1,1.AP.A.01,"Model daily processes and follow basic algorithms (step-by-step lists of instructions) to complete tasks verbally, kinesthetically, via a programming language, or using a device.",,2025-02-28T17:10:01+00:00
+Subconcept,1.2.4.2,,Variables,,2025-02-28T17:10:01+00:00
+Standard,1.2.4.2.1,1.AP.V.01,"With guidance, model the way programs store and manipulate gradelevel data by using numbers or other symbols to represent information (e.g., encode or decode words using numbers, pictographs or symbols to letters, words, or direction)",,2025-02-28T17:10:01+00:00
+Subconcept,1.2.4.3,,Control,,2025-02-28T17:10:01+00:00
+Standard,1.2.4.3.1,1.AP.C.01,"With guidance, create programs by using creative expression or problem solving, to accomplish tasks that include sequencing and repetition. Programming languages, robot devices, or unplugged activity can serve as the means",,2025-02-28T17:10:01+00:00
+Subconcept,1.2.4.4,,Program Development,,2025-02-28T17:10:01+00:00
+Standard,1.2.4.4.1,1.AP.PD.01,"Create a grade-level appropriate document to illustrate thoughts, ideas, or stories in a sequential manner (e.g., storyboard, story map, sequential graphic organizer).",,2025-02-28T17:10:01+00:00
+Standard,1.2.4.4.2,1.AP.PD.02,"Give attribution to ideas, solutions, and creations of others, verbally, or written, while writing or developing algorithms and programs.",,2025-02-28T17:10:01+00:00
+Standard,1.2.4.4.3,1.AP.PD.03,"Identify and correct errors (debug) in programs which include sequencing and repetition to accomplish a task, through a variety of techniques and strategies that could include an unplugged activity (e.g., changing order or sequence, following steps, trial and error).",,2025-02-28T17:10:01+00:00
+Standard,1.2.4.4.4,1.AP.PD.04,"Use correct terminology (e.g., beginning, middle, end, etc.) and explain choices made during the development of an algorithm and/or program to solve a simple problem.",,2025-02-28T17:10:01+00:00
+Concept,1.2.5,,Impacts of Computing,,2025-02-28T17:10:01+00:00
+Subconcept,1.2.5.1,,Culture and Diversity,,2025-02-28T17:10:01+00:00
+Standard,1.2.5.1.1,1.IC.C.01,Use grade-level appropriate language to identify and describe how people use a variety of technologies and applications in their daily work and personal lives.,,2025-02-28T17:10:01+00:00
+Subconcept,1.2.5.2,,Social Interactions,,2025-02-28T17:10:01+00:00
+Standard,1.2.5.2.1,1.IC.SI.01,Identify and describe appropriate and inappropriate behaviors when participating online.,,2025-02-28T17:10:01+00:00
+Subconcept,1.2.5.3,,"Safety, Law & Ethics",,2025-02-28T17:10:01+00:00
+Standard,1.2.5.3.1,1.IC.SLE.01,Keep login information private and log off devices appropriately.,,2025-02-28T17:10:01+00:00
+Course,1.3,,Grade 2,02,2025-02-28T17:26:53+00:00
+Concept,1.3.1,,Computing Systems,,2025-02-28T17:10:01+00:00
+Subconcept,1.3.1.1,,Devices,,2025-02-28T17:10:01+00:00
+Standard,1.3.1.1.1,2.CS.D.01,Compare and discuss preferences for applications/software with the same primary functionality.,,2025-02-28T17:10:01+00:00
+Subconcept,1.3.1.2,,Hardware & Software,,2025-02-28T17:10:01+00:00
+Standard,1.3.1.2.1,2.CS.HS.01,"Identify internal and external components of a computer system and their basic functions (e.g., hard drive and memory) as well as peripherals (e.g., printers, scanners, external hard drives) and external storage features and their uses (e.g., cloud storage).",,2025-02-28T17:10:01+00:00
+Subconcept,1.3.1.3,,Troubleshooting,,2025-02-28T17:10:01+00:00
+Standard,1.3.1.3.1,2.CS.T.01,"Identify and summarize basic troubleshooting techniques to solve basic hardware and software problems (e.g., turning off and on a device to restart, closing and reopening an application/program, turning on speakers).",,2025-02-28T17:10:01+00:00
+Concept,1.3.2,,Networks and the Internet,,2025-02-28T17:10:01+00:00
+Subconcept,1.3.2.1,,Network Communication & Organization,,2025-02-28T17:10:01+00:00
+Standard,1.3.2.1.1,2.NI.NCO.01,"Recognize that by connecting computing devices together they can share information (e.g., printers, scanners, internet, display devices).",,2025-02-28T17:10:01+00:00
+Subconcept,1.3.2.2,,Cybersecurity,,2025-02-28T17:10:01+00:00
+Standard,1.3.2.2.1,2.NI.C.01,Identify differences between strong and weak passwords and explain the importance of choosing strong passwords to protect devices and information from unauthorized users.,,2025-02-28T17:10:01+00:00
+Concept,1.3.3,,Data Analysis,,2025-02-28T17:10:01+00:00
+Subconcept,1.3.3.1,,Storage,,2025-02-28T17:10:01+00:00
+Standard,1.3.3.1.1,2.DA.S.01,"Create, copy, manipulate, and delete a file on a computing device. Identify the information stored as data",,2025-02-28T17:10:01+00:00
+Subconcept,1.3.3.2,,"Collection, Visualization & Transformation",,2025-02-28T17:10:01+00:00
+Standard,1.3.3.2.1,2.DA.CVT.01,"With guidance, collect, organize, and present the same data in a variety of visual ways (e.g., bar graph, pie chart, table, etc.)",,2025-02-28T17:10:01+00:00
+Subconcept,1.3.3.3,,Inference & Models,,2025-02-28T17:10:01+00:00
+Standard,1.3.3.3.1,2.DA.IM.01,"With guidance, collect, organize, present, and analyze data from a chart or graphical display (visualization) in order to make a prediction, with or without a computing device",,2025-02-28T17:10:01+00:00
+Concept,1.3.4,,Algorithms and Programming,,2025-02-28T17:10:01+00:00
+Subconcept,1.3.4.1,,Algorithms,,2025-02-28T17:10:01+00:00
+Standard,1.3.4.1.1,2.AP.A.01,"Model daily processes by creating and following algorithms (stepby-step lists of instructions) to complete tasks verbally, kinesthetically, via a programming language, or using a device.",,2025-02-28T17:10:01+00:00
+Subconcept,1.3.4.2,,Variables,,2025-02-28T17:10:01+00:00
+Standard,1.3.4.2.1,2.AP.V.01,"Model the way programs store and manipulate grade-level data by using numbers or other symbols to represent information (e.g., encode or decode words using numbers, pictographs or symbols to letters, words, or direction).",,2025-02-28T17:10:01+00:00
+Subconcept,1.3.4.3,,Control,,2025-02-28T17:10:01+00:00
+Standard,1.3.4.3.1,2.AP.C.01,"Create programs using a programming language, robot device, or unplugged activity that utilize sequencing and repetition to solve a problem or express creative ideas.",,2025-03-10T13:18:45+00:00
+Subconcept,1.3.4.4,,Program Development,,2025-02-28T17:10:01+00:00
+Standard,1.3.4.4.1,2.AP.PD.01,"With guidance, create a grade level appropriate document to clarify the steps that will be needed to create a sequential program and can be used to check if the program functionality is correct.",,2025-02-28T17:10:01+00:00
+Standard,1.3.4.4.2,2.AP.PD.02,"Give attribution to ideas, solutions, and creations of others, verbally and written, while writing and developing programs.",,2025-02-28T17:10:01+00:00
+Standard,1.3.4.4.3,2.AP.PD.03,"Develop and debug programs that include sequencing and repetition to accomplish a task, through the use of a programming language and/or unplugged activity.",,2025-02-28T17:10:01+00:00
+Standard,1.3.4.4.4,2.AP.PD.04,"Use correct terminology (e.g., debug, program input/output, code, etc.) to explain the development of a program to solve a problem in an unplugged activity, handson manipulative, or programming language.",,2025-02-28T17:10:01+00:00
+Concept,1.3.5,,Impacts of Computing,,2025-02-28T17:10:01+00:00
+Subconcept,1.3.5.1,,Culture and Diversity,,2025-02-28T17:10:01+00:00
+Standard,1.3.5.1.1,2.IC.C.01,Use grade-level appropriate language to identify and describe how people use a variety of technologies and applications in their daily work and personal lives and the impact of new technologies on daily life.,,2025-02-28T17:10:01+00:00
+Subconcept,1.3.5.2,,Social Interactions,,2025-02-28T17:10:01+00:00
+Standard,1.3.5.2.1,2.IC.SI.01,Develop a code of conduct and explain responsible practices when participating online. Practice the code of conduct and identify and report inappropriate behavior.,,2025-02-28T17:10:01+00:00
+Subconcept,1.3.5.3,,"Safety, Law & Ethics",,2025-02-28T17:10:01+00:00
+Standard,1.3.5.3.1,2.IC.SLE.01,Keep login information private and log off devices appropriately.,,2025-02-28T17:10:01+00:00
+Grade Range,2,,Grades 3-5,03-05,2025-02-28T17:27:22+00:00
+Course,2.1,,Grade 3,03,2025-02-28T17:27:54+00:00
+Concept,2.1.1,,Computing Systems,,2025-02-28T17:10:01+00:00
+Subconcept,2.1.1.1,,Devices,,2025-02-28T17:10:01+00:00
+Standard,2.1.1.1.1,3.CS.D.01,Identify internal and external parts of computing devices that function together to form a system.,,2025-02-28T17:10:01+00:00
+Subconcept,2.1.1.2,,Hardware & Software,,2025-02-28T17:10:01+00:00
+Standard,2.1.1.2.1,3.CS.D.01,Identify a variety of ways computer hardware and software work together as a system to accomplish a task.,,2025-02-28T17:10:01+00:00
+Subconcept,2.1.1.3,,Troubleshooting,,2025-02-28T17:10:01+00:00
+Standard,2.1.1.3.1,3.CS.D.01,"Identify and troubleshoot, using appropriate technical terminology, simple hardware and software problems that may occur during everyday use, discuss problems with peers and adults (e.g., viruses, malware, versions of software and non-working applications, refresh screen, closing/reopening application, adjusting volume on headphones or speakers).",,2025-02-28T17:10:01+00:00
+Concept,2.1.2,,Networks and the Internet,,2025-02-28T17:10:01+00:00
+Subconcept,2.1.2.1,,Network Communication & Organization,,2025-02-28T17:10:01+00:00
+Standard,2.1.2.1.1,3.NI.NCO.01,Recognize how information is sent and received over physical and wireless pathways.,,2025-02-28T17:10:01+00:00
+Subconcept,2.1.2.2,,Cybersecurity,,2025-02-28T17:10:01+00:00
+Standard,2.1.2.2.1,3.NI.C.01,Discuss basic issues that relate to responsible use of computing devices and describe consequences of inappropriate use in a variety of locations.,,2025-02-28T17:10:01+00:00
+Concept,2.1.3,,Data Analysis,,2025-02-28T17:10:01+00:00
+Subconcept,2.1.3.1,,Storage,,2025-02-28T17:10:01+00:00
+Standard,2.1.3.1.1,3.DA.S.01,"Recognize that different types of information are stored in different formats that have varying characteristics, which could include associated programs and storage requirements.",,2025-02-28T17:10:01+00:00
+Subconcept,2.1.3.2,,"Collection, Visualization & Transformation",,2025-02-28T17:10:01+00:00
+Standard,2.1.3.2.1,3.DA.CVT.01,"Collect, organize, and present the same data in a variety of visual formats (e.g., charts, graphs, tables, etc.).",,2025-02-28T17:10:01+00:00
+Subconcept,2.1.3.3,,Inference & Models,,2025-02-28T17:10:01+00:00
+Standard,2.1.3.3.1,3.DA.IM.01,Utilize data to make predictions and discuss whether there are sufficient data to make these predictions and extrapolations.,,2025-02-28T17:10:01+00:00
+Concept,2.1.4,,Algorithms and Programming,,2025-02-28T17:10:01+00:00
+Subconcept,2.1.4.1,,Algorithms,,2025-02-28T17:10:01+00:00
+Standard,2.1.4.1.1,3.AP.A.01,Develop and compare multiple algorithms for the same task.,,2025-02-28T17:10:01+00:00
+Subconcept,2.1.4.2,,Variables,,2025-02-28T17:10:01+00:00
+Standard,2.1.4.2.1,3.AP.V.01,Create programs that use variables to store and modify grade appropriate data.,,2025-02-28T17:10:01+00:00
+Subconcept,2.1.4.3,,Control,,2025-02-28T17:10:01+00:00
+Standard,2.1.4.3.1,3.AP.C.01,"Create programs using a programming language that includes sequences, loops, conditionals, and variables to solve a problem or express an idea.",,2025-02-28T17:10:01+00:00
+Subconcept,2.1.4.4,,Modularity,,2025-02-28T17:10:01+00:00
+Standard,2.1.4.4.1,3.AP.M.01,Decompose a simple problem into a precise set of sequences instructions.,,2025-02-28T17:10:01+00:00
+Standard,2.1.4.4.2,3.AP.M.02,"Modify, remix, or incorporate portions of an existing program into one’s own work, to develop or add more advanced features (grade-level appropriate).",,2025-02-28T17:10:01+00:00
+Subconcept,2.1.4.5,,Program Development,,2025-02-28T17:10:01+00:00
+Standard,2.1.4.5.1,3.AP.PD.01,Use an iterative process to plan the development of a program by including others’ perspectives and considering user preferences while solving simple problems.,,2025-02-28T17:10:01+00:00
+Standard,2.1.4.5.2,3.AP.PD.02,"Identify instances of remixing, when ideas are borrowed and treated upon, and provide attribution",,2025-02-28T17:10:01+00:00
+Standard,2.1.4.5.3,3.AP.PD.03,"Analyze and debug an existing program or algorithm that includes sequencing, repetition, and variables in a programming language.",,2025-02-28T17:10:01+00:00
+Standard,2.1.4.5.4,3.AP.PD.04,"Communicate and explain program development to peers and adults using comments, presentations, and demonstrations.",,2025-02-28T17:10:01+00:00
+Concept,2.1.5,,Impacts of Computing,,2025-02-28T17:10:01+00:00
+Subconcept,2.1.5.1,,Culture and Diversity,,2025-02-28T17:10:01+00:00
+Standard,2.1.5.1.1,3.IC.C.01,Identify how different technologies created by people from diverse backgrounds have contributed to computing and helped to change the world.,,2025-02-28T17:10:01+00:00
+Standard,2.1.5.1.2,3.IC.C.02,Identify potential problems that limit accessibility/usability and how computing devices have built-in features to increase accessibility for all users.,,2025-02-28T17:10:01+00:00
+Subconcept,2.1.5.2,,Social Interactions,,2025-02-28T17:10:01+00:00
+Standard,2.1.5.2.1,3.IC.SI.01,"Develop a code of conduct, explain, and practice grade-level appropriate behavior and responsibilities while participating online. Identify and report inappropriate behavior.",,2025-02-28T17:10:01+00:00
+Standard,2.1.5.2.2,3.IC.SI.02,"Identify how computing devices and computational products have been, or can be, improved by incorporating diverse perspectives.",,2025-02-28T17:10:01+00:00
+Subconcept,2.1.5.3,,"Safety, Law & Ethics",,2025-02-28T17:10:01+00:00
+Standard,2.1.5.3.1,3.IC.SLE.01,"Introduce intellectual property concepts and identify types of digital data (music, videos, photos) that may have intellectual property rights preventing copying and/or requiring attribution",,2025-02-28T17:10:01+00:00
+Course,2.2,,Grade 4,04,2025-02-28T17:27:45+00:00
+Concept,2.2.1,,Computing Systems,,2025-02-28T17:10:01+00:00
+Subconcept,2.2.1.1,,Devices,,2025-02-28T17:10:01+00:00
+Standard,2.2.1.1.1,4.CS.D.01,Describe how internal and external parts of computing devices function to form a system.,,2025-02-28T17:10:01+00:00
+Subconcept,2.2.1.2,,Hardware & Software,,2025-02-28T17:10:01+00:00
+Standard,2.2.1.2.1,4.CS.HS.01,"Identify and describe a variety of ways computer hardware and software work together as a system to accomplish a task, using appropriate technical terminology (e.g., input, output, processors, sensors, storage).",,2025-02-28T17:10:01+00:00
+Subconcept,2.2.1.3,,Troubleshooting,,2025-02-28T17:10:01+00:00
+Standard,2.2.1.3.1,4.CS.T.01,"Identify, using appropriate technical terminology, simple hardware and software problems that may occur during everyday use, discuss problems with peers and adults, and apply various strategies for solving these problems (e.g., rebooting the device, checking the power, forced shutdown of an application, running anti-virus).",,2025-02-28T17:10:01+00:00
+Concept,2.2.2,,Networks and the Internet,,2025-02-28T17:10:01+00:00
+Subconcept,2.2.2.1,,Network Communication & Organization,,2025-02-28T17:10:01+00:00
+Standard,2.2.2.1.1,4.NI.NCO.01,"Summarize how information is sent and received over physical and wireless pathways (e.g., information is deconstructed in smaller pieces called packets, transmitted to final destination, and reassembled).",,2025-02-28T17:10:01+00:00
+Subconcept,2.2.2.2,,Cybersecurity,,2025-02-28T17:10:01+00:00
+Standard,2.2.2.2.1,4.NI.C.01,Identify problems that relate to unsecure networks and inappropriate use of computing devices and potential subsequent consequences,,2025-02-28T17:10:01+00:00
+Concept,2.2.3,,Data Analysis,,2025-02-28T17:10:01+00:00
+Subconcept,2.2.3.1,,Storage,,2025-02-28T17:10:01+00:00
+Standard,2.2.3.1.1,4.DA.S.01,"Store information in various formats for specific purposes (e.g., file type, file size, file compression).",,2025-02-28T17:10:01+00:00
+Subconcept,2.2.3.2,,"Collection, Visualization & Transformation",,2025-02-28T17:10:01+00:00
+Standard,2.2.3.2.1,4.DA.CVT.01,Organize and present collected data in a variety of visual formats to emphasize particular aspects or parts of the data set to make interpretation easier.,,2025-02-28T17:10:01+00:00
+Subconcept,2.2.3.3,,Inference & Models,,2025-02-28T17:10:01+00:00
+Standard,2.2.3.3.1,4.DA.IM.01,Discuss the potential accuracy of conclusions and predictions based on the adequacy of the data set (number of data).,,2025-02-28T17:10:01+00:00
+Concept,2.2.4,,Algorithms and Programming,,2025-02-28T17:10:01+00:00
+Subconcept,2.2.4.1,,Algorithms,,2025-02-28T17:10:01+00:00
+Standard,2.2.4.1.1,4.AP.A.01,"Develop, compare, and refine multiple algorithms for the same task",,2025-02-28T17:10:01+00:00
+Subconcept,2.2.4.2,,Variables,,2025-02-28T17:10:01+00:00
+Standard,2.2.4.2.1,4.AP.V.01,Create programs that use variables to store and modify gradeappropriate data.,,2025-02-28T17:10:01+00:00
+Subconcept,2.2.4.3,,Control,,2025-02-28T17:10:01+00:00
+Standard,2.2.4.3.1,4.AP.C.01,"Create programs using a programming language that includes sequences, loops, conditionals,, and variables that utilize mathematics operations to manipulate values in order to solve a problem or express an idea.",,2025-02-28T17:10:01+00:00
+Subconcept,2.2.4.4,,Modularity,,2025-02-28T17:10:01+00:00
+Standard,2.2.4.4.1,4.AP.M.01,"Decompose a large problem into smaller, manageable sub-problems to facilitate the program development process.",,2025-02-28T17:10:01+00:00
+Standard,2.2.4.4.2,4.AP.M.02,"Modify, remix, or incorporate portions of an existing program into one’s own work, to develop or add more advanced features (grade-level appropriate).",,2025-02-28T17:10:01+00:00
+Subconcept,2.2.4.5,,Program Development,,2025-02-28T17:10:01+00:00
+Standard,2.2.4.5.1,4.AP.PD.01,Use an iterative process to plan the development if a program by including others’ perspectives and considering user preferences while solving simple problems.,,2025-02-28T17:10:01+00:00
+Standard,2.2.4.5.2,4.AP.PD.02,Observe intellectual property rights and give appropriate attribution when creating or remixing programs,,2025-02-28T17:10:01+00:00
+Standard,2.2.4.5.3,4.AP.PD.03,"Create and debug a program or algorithm that includes sequencing, repetition, and variables in a programming language",,2025-02-28T17:10:01+00:00
+Standard,2.2.4.5.4,4.AP.PD.04,"Communicate and explain program development to peers and adults using comments, presentations, and demonstrations",,2025-02-28T17:10:01+00:00
+Concept,2.2.5,,Impacts of Computing,,2025-02-28T17:10:01+00:00
+Subconcept,2.2.5.1,,Culture and Diversity,,2025-02-28T17:10:01+00:00
+Standard,2.2.5.1.1,4.IC.C.01,Summarize how different technologies created by people from diverse backgrounds have contributed to computing and helped to change the world.,,2025-02-28T17:10:01+00:00
+Standard,2.2.5.1.2,4.IC.C.02,Brainstorm solutions to improve accessibility/usability and ways computing could be improved to increase accessibility for all users.,,2025-02-28T17:10:01+00:00
+Subconcept,2.2.5.2,,Social Interactions,,2025-02-28T17:10:01+00:00
+Standard,2.2.5.2.1,4.IC.SI.01,"Develop a code of conduct, explain, and practice grade-level appropriate behavior and responsibilities while participating online. Identify and report inappropriate behavior.",,2025-02-28T17:10:01+00:00
+Standard,2.2.5.2.2,4.IC.SI.02,Discuss ways existing devices or computational products can be improved by collaborating with peers to gain their diverse perspectives.,,2025-02-28T17:10:01+00:00
+Subconcept,2.2.5.3,,"Safety, Law & Ethics",,2025-02-28T17:10:01+00:00
+Standard,2.2.5.3.1,4.IC.SLE.01,Observe intellectual property law and give appropriate credit when using resources.,,2025-02-28T17:10:01+00:00
+Course,2.3,,Grade 5,05,2025-02-28T17:27:36+00:00
+Concept,2.3.1,,Computing Systems,,2025-02-28T17:10:01+00:00
+Subconcept,2.3.1.1,,Devices,,2025-02-28T17:10:01+00:00
+Standard,2.3.1.1.1,5.CS.D.01,Describe and model how internal and external parts of computing devices function to form a system. Describe how some components rely on others for correct functionality,,2025-02-28T17:10:01+00:00
+Subconcept,2.3.1.2,,Hardware & Software,,2025-02-28T17:10:01+00:00
+Standard,2.3.1.2.1,5.CS.HS.01,Model and explain how information flows through hardware and software to accomplish a task.,,2025-02-28T17:10:01+00:00
+Subconcept,2.3.1.3,,Troubleshooting,,2025-02-28T17:10:01+00:00
+Standard,2.3.1.3.1,5.CS.T.01,"Identify, using appropriate technical terminology, simple hardware and software problems that may occur during everyday use, discuss problems with peers and adults, apply a variety of strategies for solving these problems, and provide evidence why these strategies did or did not work.",,2025-02-28T17:10:01+00:00
+Concept,2.3.2,,Networks and the Internet,,2025-02-28T17:10:01+00:00
+Subconcept,2.3.2.1,,Network Communication & Organization,,2025-02-28T17:10:01+00:00
+Standard,2.3.2.1.1,5.NI.NCO.01,"Model how information is deconstructed into packets (smaller pieces), transmitted through multiple devices over the internet and networks, and reassembled at the final destination.",,2025-02-28T17:10:01+00:00
+Subconcept,2.3.2.2,,Cybersecurity,,2025-02-28T17:10:01+00:00
+Standard,2.3.2.2.1,5.NI.C.01,"Define personal identifiable information (e.g., digital footprint) and why it should be protected as related to real-world cyber security problems.",,2025-02-28T17:10:01+00:00
+Standard,2.3.2.2.2,5.NI.C.02,"Discuss realworld cybersecurity problems and explain how personal information can be protected (e.g., antivirus software, backing up data, strong passwords).",,2025-02-28T17:10:01+00:00
+Concept,2.3.3,,Data Analysis,,2025-02-28T17:10:01+00:00
+Subconcept,2.3.3.1,,Storage,,2025-02-28T17:10:01+00:00
+Standard,2.3.3.1.1,5.DA.S.01,Convert different types of information into various formats to be used across multiple software/hardware.,,2025-02-28T17:10:01+00:00
+Subconcept,2.3.3.2,,"Collection, Visualization & Transformation",,2025-02-28T17:10:01+00:00
+Standard,2.3.3.2.1,5.DA.CVT.01,Interpret and communicate data in a variety of visual formats to highlight the relationships among the data to support a claim,,2025-02-28T17:10:01+00:00
+Subconcept,2.3.3.3,,Inference & Models,,2025-02-28T17:10:01+00:00
+Standard,2.3.3.3.1,5.DA.IM.01,"Refer to data sets to highlight or propose cause-and-effect relationships, predict outcomes, or communicate ideas.",,2025-02-28T17:10:01+00:00
+Concept,2.3.4,,Algorithms and Programming,,2025-02-28T17:10:01+00:00
+Subconcept,2.3.4.1,,Algorithms,,2025-02-28T17:10:01+00:00
+Standard,2.3.4.1.1,5.AP.A.01,"Develop, compare, and refine multiple algorithms for the same task and determine which algorithm is the most appropriate.",,2025-02-28T17:10:01+00:00
+Subconcept,2.3.4.2,,Variables,,2025-02-28T17:10:01+00:00
+Standard,2.3.4.2.1,5.AP.V.01,Create programs that use variables to store and modify grade-appropriate data.,,2025-03-10T13:17:47+00:00
+Subconcept,2.3.4.3,,Control,,2025-02-28T17:10:01+00:00
+Standard,2.3.4.3.1,5.AP.C.01,"Create programs using a programming language that includes sequences, loops, conditionals, event handlers, and variables that utilize mathematics operations to manipulate values in order to solve a problem or express an idea.",,2025-02-28T17:10:01+00:00
+Subconcept,2.3.4.4,,Modularity,,2025-02-28T17:10:01+00:00
+Standard,2.3.4.4.1,5.AP.M.01,"Decompose a large problem into smaller, manageable sub-problems and then further into sets of sequenced instructions to facilitate the program development process.",,2025-02-28T17:10:01+00:00
+Standard,2.3.4.4.2,5.AP.M.02,"Modify, remix, or incorporate portions of an existing program into one’s own work, to develop or add more advanced features (grade-level appropriate).",,2025-02-28T17:10:01+00:00
+Subconcept,2.3.4.5,,Program Development,,2025-02-28T17:10:01+00:00
+Standard,2.3.4.5.1,5.AP.PD.01,Use an iterative process to plan the development of a program by including others’ perspectives and considering user preferences while solving problems.,,2025-02-28T17:10:01+00:00
+Standard,2.3.4.5.2,5.AP.PD.02,Observe intellectual property rights and give appropriate attribution when creating or remixing programs,,2025-02-28T17:10:01+00:00
+Standard,2.3.4.5.3,5.AP.PD.03,"Create, test, and debug a program that includes sequencing, repetition, and variables in a programming language to ensure its runs as intended.",,2025-02-28T17:10:01+00:00
+Standard,2.3.4.5.4,5.AP.PD.04,"Communicate and explain program development to peers and adults using comments, presentations, and demonstrations.",,2025-02-28T17:10:01+00:00
+Concept,2.3.5,,Impacts of Computing,,2025-02-28T17:10:01+00:00
+Subconcept,2.3.5.1,,Culture and Diversity,,2025-02-28T17:10:01+00:00
+Standard,2.3.5.1.1,5.IC.C.01,Evaluate how different technologies created by people from diverse backgrounds have contributed to computing and helped to change the world.,,2025-02-28T17:10:01+00:00
+Standard,2.3.5.1.2,5.IC.C.02,"Develop, test, and refine computational artifacts to improve accessibility and usability for all users.",,2025-02-28T17:10:01+00:00
+Subconcept,2.3.5.2,,Social Interactions,,2025-02-28T17:10:01+00:00
+Standard,2.3.5.2.1,5.IC.SI.01,"Develop a code of conduct, explain, and practice grade-level appropriate behavior and responsibilities while participating online. Identify and report inappropriate behavior.",,2025-02-28T17:10:01+00:00
+Standard,2.3.5.2.2,5.IC.SI.02,"Discuss ways existing computing devices or computational products can be improved by collaborating with outside resources (other gradelevels, businesses) to gain their diverse perspectives.",,2025-02-28T17:10:01+00:00
+Subconcept,2.3.5.3,,"Safety, Law & Ethics",,2025-02-28T17:10:01+00:00
+Standard,2.3.5.3.1,5.IC.SLE.01,Discuss personal consequences and social impact of violating intellectual property rights or failing to provide appropriate attribution.,,2025-02-28T17:10:01+00:00
+Grade Range,3,,Grades 6-8,06-08,2025-02-28T17:28:11+00:00
+Course,3.1,,Grade 6,06,2025-02-28T17:28:33+00:00
+Concept,3.1.1,,Computing Systems,,2025-02-28T17:10:01+00:00
+Subconcept,3.1.1.1,,Devices,,2025-02-28T17:10:01+00:00
+Standard,3.1.1.1.1,6.CS.D.01,Evaluate existing computing devices and make recommendations for improvements to design based on analysis of personal interactions and how others interact with the devices,,2025-02-28T17:10:01+00:00
+Subconcept,3.1.1.2,,Hardware & Software,,2025-02-28T17:10:01+00:00
+Standard,3.1.1.2.1,6.CS.HS.01,"Identify ways that hardware and software are combined and work synchronously to collect, store, retrieve, and exchange data.",,2025-02-28T17:10:01+00:00
+Subconcept,3.1.1.3,,Troubleshooting,,2025-02-28T17:10:01+00:00
+Standard,3.1.1.3.1,6.CS.T.01,"Troubleshoot problems with computing devices and networked components (e.g. peripherals, routers, cables, etc.).",,2025-02-28T17:10:01+00:00
+Concept,3.1.2,,Networks and the Internet,,2025-02-28T17:10:01+00:00
+Subconcept,3.1.2.1,,Network Communication & Organization,,2025-02-28T17:10:01+00:00
+Standard,3.1.2.1.1,6.NI.NCO.01,"Model a simple protocol for transferring information, using packets, across networks and the internet",,2025-02-28T17:10:01+00:00
+Subconcept,3.1.2.2,,Cybersecurity,,2025-02-28T17:10:01+00:00
+Standard,3.1.2.2.1,6.NI.C.01,"Identify existing cybersecurity concerns with the internet, its connected devices (i.e. IoT) and the systems it uses.",,2025-02-28T17:10:01+00:00
+Concept,3.1.3,,Data Analysis,,2025-02-28T17:10:01+00:00
+Subconcept,3.1.3.1,,Storage,,2025-02-28T17:10:01+00:00
+Standard,3.1.3.1.1,6.DA.S.01,Identify multiple encoding schemes that can be used to represent the same data.,,2025-02-28T17:10:01+00:00
+Subconcept,3.1.3.2,,"Collection, Visualization & Transformation",,2025-02-28T17:10:01+00:00
+Standard,3.1.3.2.1,6.DA.CVT.01,Collect data using computational tools and transform the data to make it more useful.,,2025-02-28T17:10:01+00:00
+Subconcept,3.1.3.3,,Inference & Models,,2025-02-28T17:10:01+00:00
+Standard,3.1.3.3.1,6.DA.IM.01,"Identify relevant data points and use models and simulations to formulate, refine, and test hypotheses.",,2025-02-28T17:10:01+00:00
+Concept,3.1.4,,Algorithms and Programming,,2025-02-28T17:10:01+00:00
+Subconcept,3.1.4.1,,Algorithms,,2025-02-28T17:10:01+00:00
+Standard,3.1.4.1.1,6.AP.A.01,Use an existing algorithm or pseudocode to solve a problem.,,2025-02-28T17:10:01+00:00
+Subconcept,3.1.4.2,,Variables,,2025-02-28T17:10:01+00:00
+Standard,3.1.4.2.1,6.AP.V.01,Decide when and how to declare and name new variables.,,2025-02-28T17:10:01+00:00
+Subconcept,3.1.4.3,,Control,,2025-02-28T17:10:01+00:00
+Standard,3.1.4.3.1,6.AP.C.01,"Develop secure programs that utilize combinations of loops, conditionals, and the manipulation of variables representing different data types.",,2025-02-28T17:10:01+00:00
+Subconcept,3.1.4.4,,Modularity,,2025-02-28T17:10:01+00:00
+Standard,3.1.4.4.1,6.AP.M.01,"Decompose problems and subproblems into parts to facilitate the secure design, implementation, and review of programs.",,2025-02-28T17:10:01+00:00
+Standard,3.1.4.4.2,6.AP.M.02,Identify and use functions within a program to repeat instructions.,,2025-02-28T17:10:01+00:00
+Subconcept,3.1.4.5,,Program Development,,2025-02-28T17:10:01+00:00
+Standard,3.1.4.5.1,6.AP.PD.01,Seek and incorporate feedback from team members to refine the solution to a problem.,,2025-02-28T17:10:01+00:00
+Standard,3.1.4.5.2,6.AP.PD.02,"Incorporate existing code, media, and libraries into original programs from secure sources, and give appropriate attribution.",,2025-02-28T17:10:01+00:00
+Standard,3.1.4.5.3,6.AP.PD.03,Test and refine existing and original programs.,,2025-02-28T17:10:01+00:00
+Standard,3.1.4.5.4,6.AP.PD.04,Distribute tasks and maintain a project timeline when collaboratively developing computational artifacts.,,2025-02-28T17:10:01+00:00
+Standard,3.1.4.5.5,6.AP.PD.05,"Document programs in order to make them easier to understand, test, and debug.",,2025-02-28T17:10:01+00:00
+Concept,3.1.5,,Impacts of Computing,,2025-02-28T17:10:01+00:00
+Subconcept,3.1.5.1,,Culture and Diversity,,2025-02-28T17:10:01+00:00
+Standard,3.1.5.1.1,6.IC.C.01,"Identify tradeoffs associated with computing technologies that affect people’s everyday activities and future opportunities (e.g., college acceptances, career choices that include security clearances).",,2025-02-28T17:10:01+00:00
+Standard,3.1.5.1.2,6.IC.C.02,Identify issues of bias and accessibility that occur in the design of existing computing technologies.,,2025-02-28T17:10:01+00:00
+Subconcept,3.1.5.2,,Social Interactions,,2025-02-28T17:10:01+00:00
+Standard,3.1.5.2.1,6.IC.SI.01,"Describe and use safe, appropriate, and responsible practices when participating online (e.g., discussion groups, blogs, social networking sites) to maintain a clean record for post-secondary choices that require security clearances and background checks.",,2025-02-28T17:10:01+00:00
+Subconcept,3.1.5.3,,"Safety, Law & Ethics",,2025-02-28T17:10:01+00:00
+Standard,3.1.5.3.1,6.IC.SLE.01,"Differentiate between appropriate and inappropriate content on the internet, and identify unethical and illegal online behavior and consequences.",,2025-02-28T17:10:01+00:00
+Course,3.2,,Grade 7,07,2025-02-28T17:28:27+00:00
+Concept,3.2.1,,Computing Systems,,2025-02-28T17:10:01+00:00
+Subconcept,3.2.1.1,,Devices,,2025-02-28T17:10:01+00:00
+Standard,3.2.1.1.1,7.CS.D.01,"Evaluate existing computing devices and make recommendations for improvements to design that consider usability through a variety of lenses (accessibility, ergonomics, learnability, security).",,2025-02-28T17:10:01+00:00
+Subconcept,3.2.1.2,,Hardware & Software,,2025-02-28T17:10:01+00:00
+Standard,3.2.1.2.1,7.CS.HS.01,"Select appropriate hardware and software components for a project considering what type of data will be collected, stored, retrieved, and exchanged.",,2025-02-28T17:10:01+00:00
+Subconcept,3.2.1.3,,Troubleshooting,,2025-02-28T17:10:01+00:00
+Standard,3.2.1.3.1,7.CS.T.01,"Identify and fix problems with computing devices and their interfaced components using a variety of strategies (e.g. lost data retrieval, hardware password recovery, file restoration, key logging).",,2025-02-28T17:10:01+00:00
+Concept,3.2.2,,Networks and the Internet,,2025-02-28T17:10:01+00:00
+Subconcept,3.2.2.1,,Network Communication & Organization,,2025-02-28T17:10:01+00:00
+Standard,3.2.2.1.1,7.NI.NCO.01,Explain and model the process to replace lost packets using a protocol for information transfer.,,2025-02-28T17:10:01+00:00
+Subconcept,3.2.2.2,,Cybersecurity,,2025-02-28T17:10:01+00:00
+Standard,3.2.2.2.1,7.NI.C.01,Explain how to protect electronic information using both physical (hard drive) and digital measures; explain existing cybersecurity concerns with the internet and the systems it uses.,,2025-02-28T17:10:01+00:00
+Concept,3.2.3,,Data Analysis,,2025-02-28T17:10:01+00:00
+Subconcept,3.2.3.1,,Storage,,2025-02-28T17:10:01+00:00
+Standard,3.2.3.1.1,7.DA.S.01,Represent data using multiple encoding schemes.,,2025-02-28T17:10:01+00:00
+Subconcept,3.2.3.2,,"Collection, Visualization & Transformation",,2025-02-28T17:10:01+00:00
+Standard,3.2.3.2.1,7.DA.CVT.01,"Collect data using computational tools and hardware (e.g., sensors) and transform the data to make it more useful and reliable.",,2025-02-28T17:10:01+00:00
+Subconcept,3.2.3.3,,Inference & Models,,2025-02-28T17:10:01+00:00
+Standard,3.2.3.3.1,7.DA.IM.01,Verify a model’s accuracy by comparing the results with observed data.,,2025-02-28T17:10:01+00:00
+Concept,3.2.4,,Algorithms and Programming,,2025-02-28T17:10:01+00:00
+Subconcept,3.2.4.1,,Algorithms,,2025-02-28T17:10:01+00:00
+Standard,3.2.4.1.1,7.AP.A.01,Select and modify existing algorithms and pseudocode to solve complex problems.,,2025-02-28T17:10:01+00:00
+Subconcept,3.2.4.2,,Variables,,2025-02-28T17:10:01+00:00
+Standard,3.2.4.2.1,7.AP.V.01,Create clearly named variables that represent different types of data.,,2025-02-28T17:10:01+00:00
+Subconcept,3.2.4.3,,Control,,2025-02-28T17:10:01+00:00
+Standard,3.2.4.3.1,7.AP.C.01,"Develop secure programs that utilize combinations of loops, compound conditionals, and the manipulation of variables representing different data types.",,2025-02-28T17:10:01+00:00
+Subconcept,3.2.4.4,,Modularity,,2025-02-28T17:10:01+00:00
+Standard,3.2.4.4.1,7.AP.M.01,"Decompose problems and subproblems into parts to facilitate the secure design, implementation, and review of increasingly complex programs.",,2025-02-28T17:10:01+00:00
+Standard,3.2.4.4.2,7.AP.M.02,Create and use a function in a program to repeat instructions in order to organize code and make it easier to reuse.,,2025-02-28T17:10:01+00:00
+Subconcept,3.2.4.5,,Program Development,,2025-02-28T17:10:01+00:00
+Standard,3.2.4.5.1,7.AP.PD.01,Seek and incorporate feedback from team members and users to refine the solution to a problem.,,2025-02-28T17:10:01+00:00
+Standard,3.2.4.5.2,7.AP.PD.02,"Incorporate existing code, media and libraries into original programs of increasing complexity, from secure sources, and give appropriate attribution",,2025-02-28T17:10:01+00:00
+Standard,3.2.4.5.3,7.AP.PD.03,Test and refine existing and original programs using user input and secure software development guidance.,,2025-02-28T17:10:01+00:00
+Standard,3.2.4.5.4,7.AP.PD.04,Explain how effective communication between participants is required for successful collaboration when developing computational artifacts.,,2025-02-28T17:10:01+00:00
+Standard,3.2.4.5.5,7.AP.PD.05,"Document complex programs in order to make them easier to understand, test, and debug.",,2025-02-28T17:10:01+00:00
+Concept,3.2.5,,Impacts of Computing,,2025-02-28T17:10:01+00:00
+Subconcept,3.2.5.1,,Culture and Diversity,,2025-02-28T17:10:01+00:00
+Standard,3.2.5.1.1,7.IC.C.01,"Explain how computing impacts people’s everyday activities, career options, and diversity in innovation in computing and non-computing fields.",,2025-02-28T17:10:01+00:00
+Standard,3.2.5.1.2,7.IC.C.02,Explain issues of bias and accessibility that occur in the design of existing computing technologies and describe the role and responsibility of a designer in reducing bias.,,2025-02-28T17:10:01+00:00
+Subconcept,3.2.5.2,,Social Interactions,,2025-02-28T17:10:01+00:00
+Standard,3.2.5.2.1,7.IC.SI.01,"Individually and collaboratively use advanced tools to design and create online content (e.g., digital portfolio, multimedia, blog, webpage).",,2025-02-28T17:10:01+00:00
+Subconcept,3.2.5.3,,"Safety, Law & Ethics",,2025-02-28T17:10:01+00:00
+Standard,3.2.5.3.1,7.IC.SLE.01,"Explain the connection between the longevity of data on the internet, personal online identity, and personal privacy.",,2025-02-28T17:10:01+00:00
+Course,3.3,,Grade 8,08,2025-02-28T17:28:20+00:00
+Concept,3.3.1,,Computing Systems,,2025-02-28T17:10:01+00:00
+Subconcept,3.3.1.1,,Devices,,2025-02-28T17:10:01+00:00
+Standard,3.3.1.1.1,8.CS.D.01,Develop and implement a process to evaluate existing computing devices and make recommendations for improvements to design based on analysis of user interaction and other lenses.,,2025-02-28T17:10:01+00:00
+Subconcept,3.3.1.2,,Hardware & Software,,2025-02-28T17:10:01+00:00
+Standard,3.3.1.2.1,8.CS.HS.01,"Design and refine systems where secure hardware and software are combined to collect, store, retrieve, and exchange data and explain why specific components were chosen for optimality.",,2025-02-28T17:10:01+00:00
+Subconcept,3.3.1.3,,Troubleshooting,,2025-02-28T17:10:01+00:00
+Standard,3.3.1.3.1,8.CS.T.01,Systematically identify and fix problems with computing devices and their interfaced components by using a structured system such as a troubleshooting flow diagram.,,2025-02-28T17:10:01+00:00
+Concept,3.3.2,,Networks and the Internet,,2025-02-28T17:10:01+00:00
+Subconcept,3.3.2.1,,Network Communication & Organization,,2025-02-28T17:10:01+00:00
+Standard,3.3.2.1.1,8.NI.NCO.01,"Model and explain how data is sent using protocols to choose the fastest pathway, to deal with missing information, and to deliver data securely.",,2025-02-28T17:10:01+00:00
+Subconcept,3.3.2.2,,Cybersecurity,,2025-02-28T17:10:01+00:00
+Standard,3.3.2.2.1,8.NI.C.01,"Evaluate physical and digital security measures that have been developed and implemented to protect electronic information; discuss the impacts of hacking, ransomware, scams, fake scams, and ethical/legal concerns.",,2025-02-28T17:10:01+00:00
+Concept,3.3.3,,Data Analysis,,2025-02-28T17:10:01+00:00
+Subconcept,3.3.3.1,,Storage,,2025-02-28T17:10:01+00:00
+Standard,3.3.3.1.1,8.DA.S.01,Evaluate different schemes of encoding data in order to effectively choose the most appropriate method of representation.,,2025-02-28T17:10:01+00:00
+Subconcept,3.3.3.2,,"Collection, Visualization & Transformation",,2025-02-28T17:10:01+00:00
+Standard,3.3.3.2.1,8.DA.CVT.01,Develop and implement a refined process that uses computational tools to transform data to a more useful and reliable state,,2025-02-28T17:10:01+00:00
+Subconcept,3.3.3.3,,Inference & Models,,2025-02-28T17:10:01+00:00
+Standard,3.3.3.3.1,8.DA.IM.01,Refine existing or develop and implement new computational models based on observed and generated data.,,2025-02-28T17:10:01+00:00
+Concept,3.3.4,,Algorithms and Programming,,2025-02-28T17:10:01+00:00
+Subconcept,3.3.4.1,,Algorithms,,2025-02-28T17:10:01+00:00
+Standard,3.3.4.1.1,8.AP.A.01,Develop and implement algorithms and pseudocode to solve complex problems.,,2025-02-28T17:10:01+00:00
+Subconcept,3.3.4.2,,Variables,,2025-02-28T17:10:01+00:00
+Standard,3.3.4.2.1,8.AP.V.01,Create clearly named variables of different data types that utilize naming conventions to improve program readability; perform operations on variable values.,,2025-02-28T17:10:01+00:00
+Subconcept,3.3.4.3,,Control,,2025-02-28T17:10:01+00:00
+Standard,3.3.4.3.1,8.AP.C.01,"Develop secure programs that utilize combinations of nested loops, compound conditionals, procedures with and without parameters, and the manipulation of variables representing different data types.",,2025-02-28T17:10:01+00:00
+Subconcept,3.3.4.4,,Modularity,,2025-02-28T17:10:01+00:00
+Standard,3.3.4.4.1,8.AP.M.01,"Decompose problems and subproblems into parts to facilitate the secure design, implementation, and review of complex programs.",,2025-02-28T17:10:01+00:00
+Standard,3.3.4.4.2,8.AP.M.02,Create and use a function with parameters in a program to repeat instructions in order to organize code and make it easier to reuse.,,2025-02-28T17:10:01+00:00
+Subconcept,3.3.4.5,,Program Development,,2025-02-28T17:10:01+00:00
+Standard,3.3.4.5.1,8.AP.PD.01,Seek and incorporate feedback from team members and users to refine the solution to a problem that meets the needs of a diverse group of users.,,2025-02-28T17:10:01+00:00
+Standard,3.3.4.5.2,8.AP.PD.02,"Incorporate existing code, media, and libraries into original programs of increasing complexity, from secure sources, and give appropriate attribution.",,2025-02-28T17:10:01+00:00
+Standard,3.3.4.5.3,8.AP.PD.03,Develop a method or implement an existing method to systematically test and refine existing and original programs using user input and secure software development guidance.,,2025-02-28T17:10:01+00:00
+Standard,3.3.4.5.4,8.AP.PD.04,Evaluate communication between participants to determine best practices in collaboration when developing computational artifacts.,,2025-02-28T17:10:01+00:00
+Standard,3.3.4.5.5,8.AP.PD.05,"Document complex programs, using multiple methods, in order to make them easier to understand, test, and debug.",,2025-02-28T17:10:01+00:00
+Concept,3.3.5,,Impacts of Computing,,2025-02-28T17:10:01+00:00
+Subconcept,3.3.5.1,,Culture and Diversity,,2025-02-28T17:10:01+00:00
+Standard,3.3.5.1.1,8.IC.C.01,"Compare the tradeoffs associated with computing concepts (e.g., automation, communication, privacy, cybersecurity), explaining their effects on economics and global societies.",,2025-02-28T17:10:01+00:00
+Standard,3.3.5.1.2,8.IC.C.02,"Analyze issues of bias and accessibility that occur in the design of everyday computing technologies, the role and responsibility of the designer, and make recommendations for how these issues could be rectified to reduce bias.",,2025-02-28T17:10:01+00:00
+Subconcept,3.3.5.2,,Social Interactions,,2025-02-28T17:10:01+00:00
+Standard,3.3.5.2.1,8.IC.SI.01,"Communicate and publish key ideas and details individually or collaboratively in a way that informs, persuades, and/or entertains using a variety of digital tools and media-rich resources.",,2025-02-28T17:10:01+00:00
+Subconcept,3.3.5.3,,"Safety, Law & Ethics",,2025-02-28T17:10:01+00:00
+Standard,3.3.5.3.1,8.IC.SLE.01,"Discuss the social impacts and ethical considerations associated with cybersecurity, including the positive and malicious purposes of hacking.",,2025-02-28T17:10:01+00:00
+Grade Range,4,,High School,09-12,2025-02-28T17:28:46+00:00
+Course,4.1,,By the end of Grade 10,,2025-02-28T17:10:01+00:00
+Concept,4.1.1,,Computing Systems,,2025-02-28T17:10:01+00:00
+Subconcept,4.1.1.1,,Devices,,2025-02-28T17:10:01+00:00
+Standard,4.1.1.1.1,10.CS.D.01,Explain how abstractions hide the underlying implementation of computing systems embedded in everyday objects.,,2025-02-28T17:10:01+00:00
+Subconcept,4.1.1.2,,Hardware & Software,,2025-02-28T17:10:01+00:00
+Standard,4.1.1.2.1,10.CS.HS.01,"Explain and compare levels of abstraction between application software, system software, and hardware layers.",,2025-02-28T17:10:01+00:00
+Subconcept,4.1.1.3,,Troubleshooting,,2025-02-28T17:10:01+00:00
+Standard,4.1.1.3.1,10.CS.T.01,Develop and evaluate guidelines and criteria that convey systematic troubleshooting strategies that can be used to identify/fix errors.,,2025-02-28T17:10:01+00:00
+Concept,4.1.2,,Networks and the Internet,,2025-02-28T17:10:01+00:00
+Subconcept,4.1.2.1,,Network Communication & Organization,,2025-02-28T17:10:01+00:00
+Standard,4.1.2.1.1,10.NI.NCO.01,"Evaluate the scalability and reliability of networks by identifying and describing the relationship between routers, switches, servers, topology, and addresses.",,2025-02-28T17:10:01+00:00
+Standard,4.1.2.1.2,10.NI.NCO.02,"Describe the issues that impact network functionality (e.g. Bandwidth, load, delay, topology, TCP/IP and OSI Models).",,2025-02-28T17:10:01+00:00
+Subconcept,4.1.2.2,,Cybersecurity,,2025-02-28T17:10:01+00:00
+Standard,4.1.2.2.1,10.NI.C.01,"Illustrate how sensitive data and critical infrastructure can be affected by malware and other attacks and recommend security measures to address various scenarios based on factors such as efficiency, feasibility, and ethical impacts",,2025-02-28T17:10:01+00:00
+Standard,4.1.2.2.2,10.NI.C.02,"Explain tradeoffs when selecting and implementing cybersecurity recommendations from multiple perspectives such as the user, enterprise, and government.",,2025-02-28T17:10:01+00:00
+Standard,4.1.2.2.3,10.NI.C.03,"Understand and identify the relationship between Confidentiality, Integrity, Availability (CIA) Triad and the security measures that address the balance between them as it pertains to data.",,2025-02-28T17:10:01+00:00
+Standard,4.1.2.2.4,10.NI.C.04,"Identify ethical concerns about individual privacy, intellectual property, entering systems without permission, and destroying data and demonstrate the ability to exercise proper judgement and best practices in a variety of different scenarios.",,2025-02-28T17:10:01+00:00
+Standard,4.1.2.2.5,10.NI.C.05,Recognize and prevent social engineering attacks. Differentiate between legitimate and fraudulent information.,,2025-02-28T17:10:01+00:00
+Concept,4.1.3,,Data Analysis,,2025-02-28T17:10:01+00:00
+Subconcept,4.1.3.1,,Storage,,2025-02-28T17:10:01+00:00
+Standard,4.1.3.1.1,10.DA.S.01,"Translate, compare, and evaluate different bit representations of realworld phenomena (large data sets), such as characters, numbers, and images and how they are organized and stored.",,2025-02-28T17:10:01+00:00
+Subconcept,4.1.3.2,,"Collection, Visualization & Transformation",,2025-02-28T17:10:01+00:00
+Standard,4.1.3.2.1,10.DA.CVT.01,Use software tools to develop interactive data representations that help others to better understand real-world phenomena,,2025-02-28T17:10:01+00:00
+Subconcept,4.1.3.3,,Inference & Models,,2025-02-28T17:10:01+00:00
+Standard,4.1.3.3.1,10.DA.IM.01,Design computational models that identify and represent the relationships among different elements of data collected from a phenomenon or process,,2025-02-28T17:10:01+00:00
+Concept,4.1.4,,Algorithms and Programming,,2025-02-28T17:10:01+00:00
+Subconcept,4.1.4.1,,Algorithms,,2025-02-28T17:10:01+00:00
+Standard,4.1.4.1.1,10.AP.A.01,"Develop prototypes that use algorithms (e.g., sequencing, selection, iteration, recursion, etc.) to solve computational problems by leveraging prior student knowledge and personal interest.",,2025-02-28T17:10:01+00:00
+Standard,4.1.4.1.2,10.AP.A.02,Design and implement an algorithm to play a game against a human opponent or solve a problem.,,2025-02-28T17:10:01+00:00
+Subconcept,4.1.4.2,,Variables,,2025-02-28T17:10:01+00:00
+Standard,4.1.4.2.1,10.AP.V.01,Identify common features in multiple lines of code and substitute a single segment that uses lists (arrays) to account for differences.,,2025-02-28T17:10:01+00:00
+Standard,4.1.4.2.2,10.AP.V.02,"Utilize lists to simplify solutions, generalizing computational problems, instead of repeatedly utilizing simple variables.",,2025-02-28T17:10:01+00:00
+Subconcept,4.1.4.3,,Control,,2025-02-28T17:10:01+00:00
+Standard,4.1.4.3.1,10.AP.C.01,"Justify and explain the rationale behind the selection of specific control structures when tradeoffs involve implementation, readability, and program performance.",,2025-02-28T17:10:01+00:00
+Standard,4.1.4.3.2,10.AP.C.02,"Design and iteratively develop computational artifacts for practical intent, personal expression, or to address a societal issue by using events to initiate instructions.",,2025-02-28T17:10:01+00:00
+Subconcept,4.1.4.4,,Modularity,,2025-02-28T17:10:01+00:00
+Standard,4.1.4.4.1,10.AP.M.01,"Systematically analyze problems, using top down design, in order to break them down into smaller components, using procedures, modules, and/or objects to implement abstractions.",,2025-02-28T17:10:01+00:00
+Standard,4.1.4.4.2,10.AP.M.02,"Create computational artifacts by using common structures to organize, manipulate, and process data",,2025-02-28T17:10:01+00:00
+Subconcept,4.1.4.5,,Program Development,,2025-02-28T17:10:01+00:00
+Standard,4.1.4.5.1,10.AP.PD.01,"Systematically design and implement programs for broad audiences, solicit user feedback, and refine programs based on user feedback.",,2025-02-28T17:10:01+00:00
+Standard,4.1.4.5.2,10.AP.PD.02,"Identify and evaluate licenses that limit or restrict use of computational artifacts and consider implications on original work, especially when incorporating libraries and other resources.",,2025-02-28T17:10:01+00:00
+Standard,4.1.4.5.3,10.AP.PD.03,"Evaluate and refine computational artifacts to improve usability, accessibility, and efficiency.",,2025-02-28T17:10:01+00:00
+Standard,4.1.4.5.4,10.AP.PD.04,Design and develop computational artifacts while working collaboratively.,,2025-02-28T17:10:01+00:00
+Standard,4.1.4.5.5,10.AP.PD.05,"Represent the design elements and data flow (e.g., flowcharts, pseudocode, etc.) of the development of a complex program through the use of various visual aids and documentation techniques.",,2025-02-28T17:10:01+00:00
+Concept,4.1.5,,Impacts of Computing,,2025-02-28T17:10:01+00:00
+Subconcept,4.1.5.1,,Culture and Diversity,,2025-02-28T17:10:01+00:00
+Standard,4.1.5.1.1,10.IC.C.01,"Evaluate the ways computing impacts personal, ethical, social, economic, and cultural practices.",,2025-02-28T17:10:01+00:00
+Standard,4.1.5.1.2,10.IC.C.02,Evaluate and refine computational artifacts to reduce bias and equity deficits,,2025-02-28T17:10:01+00:00
+Standard,4.1.5.1.3,10.IC.C.03,Demonstrate and explain how an existing algorithm/computational innovation applies to problems across disciplines.,,2025-02-28T17:10:01+00:00
+Standard,4.1.5.1.4,10.IC.C.04,Demonstrate and explain how an existing algorithm/computational innovation applies to problems in society.,,2025-02-28T17:10:01+00:00
+Subconcept,4.1.5.2,,Social Interactions,,2025-02-28T17:10:01+00:00
+Standard,4.1.5.2.1,10.IC.SI.01,Demonstrate and explain how various methods of collaboration can increase diverse ideas and solutions.,,2025-02-28T17:10:01+00:00
+Subconcept,4.1.5.3,,"Safety, Law & Ethics",,2025-02-28T17:10:01+00:00
+Standard,4.1.5.3.1,10.IC.SLE.01,Explain the positive and negative consequences that intellectual property laws can have on innovation.,,2025-02-28T17:10:01+00:00
+Standard,4.1.5.3.2,10.IC.SLE.02,"Explain the privacy concerns related to the collection, generation, and analysis of large-scaled data that may not be evident to users.",,2025-02-28T17:10:01+00:00
+Standard,4.1.5.3.3,10.IC.SLE.03,"Evaluate the social and economic implications of privacy in the context of safety, law, and ethics.",,2025-02-28T17:10:01+00:00
+Course,4.2,,By the end of Grade 12,,2025-02-28T17:10:01+00:00
+Concept,4.2.1,,Computing Systems,,2025-02-28T17:10:01+00:00
+Subconcept,4.2.1.1,,Hardware & Software,,2025-02-28T17:10:01+00:00
+Standard,4.2.1.1.1,12.CS.HS.01,"Identify, categorize, and illustrate the roles of operating systems to include memory management, data storage/retrieval, process management, and access control.",,2025-02-28T17:10:01+00:00
+Concept,4.2.2,,Networks and the Internet,,2025-02-28T17:10:01+00:00
+Subconcept,4.2.2.1,,Network Communication & Organization,,2025-02-28T17:10:01+00:00
+Standard,4.2.2.1.1,12.NI.NCO.01,"Evaluate the scalability and reliability of networks by identifying and describing the relationship between routers, switches, servers, topology, protocols, and addressing.",,2025-02-28T17:10:01+00:00
+Subconcept,4.2.2.2,,Cybersecurity,,2025-02-28T17:10:01+00:00
+Standard,4.2.2.2.1,12.NI.C.01,Compare and refine ways software developers protect devices and information from unauthorized access including complex encryption algorithms such as public key encryption.,,2025-02-28T17:10:01+00:00
+Concept,4.2.3,,Data Analysis,,2025-02-28T17:10:01+00:00
+Subconcept,4.2.3.1,,"Collection, Visualization & Transformation",,2025-02-28T17:10:01+00:00
+Standard,4.2.3.1.1,12.DA.CVT.01,Use data analysis tools and techniques to identify patterns in data representing complex systems.,,2025-02-28T17:10:01+00:00
+Standard,4.2.3.1.2,12.DA.CVT.02,Use a variety of robust data collection techniques and tools to generate data sets that support a claim or communicate information.,,2025-02-28T17:10:01+00:00
+Subconcept,4.2.3.2,,Inference & Models,,2025-03-10T13:16:43+00:00
+Standard,4.2.3.2.1,12.DA.IM.01,Evaluate the ability of models and simulations to test and support refinement of hypotheses.,,2025-03-10T13:14:32+00:00
+Concept,4.2.4,,Algorithms and Programming,,2025-02-28T17:10:01+00:00
+Subconcept,4.2.4.1,,Algorithms,,2025-02-28T17:10:01+00:00
+Standard,4.2.4.1.1,12.AP.A.01,"Describe how artificial intelligence drives many software and physical systems (e.g., autonomous robots, computer vision, pattern recognition, test analysis).",,2025-02-28T17:10:01+00:00
+Standard,4.2.4.1.2,12.AP.A.02,Design and implement an algorithm to play a game against a human opponent or solve a problem.,,2025-02-28T17:10:01+00:00
+Standard,4.2.4.1.3,12.AP.A.03,Design and implement encryption algorithms to securely store and retrieve information.,,2025-02-28T17:10:01+00:00
+Standard,4.2.4.1.4,12.AP.A.04,Analyze and refine classic algorithms to solve problems.,,2025-02-28T17:10:01+00:00
+Standard,4.2.4.1.5,12.AP.A.05,"Evaluate algorithms (e.g., searching, sorting) in terms of their efficiency, correctness, and clarity.",,2025-02-28T17:10:01+00:00
+Subconcept,4.2.4.2,,Variables,,2025-02-28T17:10:01+00:00
+Standard,4.2.4.2.1,12.AP.V.01,Compare and contrast foundational data structures and their primary functions.,,2025-02-28T17:10:01+00:00
+Subconcept,4.2.4.3,,Control,,2025-02-28T17:10:01+00:00
+Standard,4.2.4.3.1,12.AP.C.01,Illustrate the flow of execution of a recursive algorithm,,2025-02-28T17:10:01+00:00
+Subconcept,4.2.4.4,,Modularity,,2025-02-28T17:10:01+00:00
+Standard,4.2.4.4.1,12.AP.M.01,"Construct solutions to problems using student-created components, such as procedures, modules, and objects to implement abstractions.",,2025-02-28T17:10:01+00:00
+Standard,4.2.4.4.2,12.AP.M.02,Analyze a large-scaled computational problem and identify generalizable patterns that can be applied to a solution,,2025-02-28T17:10:01+00:00
+Standard,4.2.4.4.3,12.AP.M.03,Create programming solutions using libraries and APIs through the application of code reuse.,,2025-02-28T17:10:01+00:00
+Subconcept,4.2.4.5,,Program Development,,2025-02-28T17:10:01+00:00
+Standard,4.2.4.5.1,12.AP.PD.01,"Utilize a software lifecycle process that considers security, to plan and develop programs for all types of users.",,2025-02-28T17:10:01+00:00
+Standard,4.2.4.5.2,12.AP.PD.02,Explain security issues that might lead to comprised computer programs.,,2025-02-28T17:10:01+00:00
+Standard,4.2.4.5.3,12.AP.PD.03,"Develop different programs for various computing platforms (e.g., desktop, web, mobile).",,2025-02-28T17:10:01+00:00
+Standard,4.2.4.5.4,12.AP.PD.04,"Design software collaboratively using integrated development environments (IDEs), with version control and collaboration systems.",,2025-02-28T17:10:01+00:00
+Standard,4.2.4.5.5,12.AP.PD.05,Develop and use a series of test cases to verify that a program performs according to its design specifications.,,2025-02-28T17:10:01+00:00
+Standard,4.2.4.5.6,12.AP.PD.06,"Modify an existing program to add additional functionality and discuss intended and unintended implications (e.g., breaking other functionality).",,2025-02-28T17:10:01+00:00
+Standard,4.2.4.5.7,12.AP.PD.07,Compare multiple programming languages or libraries and discuss how their features make them suitable for solving different types of problems.,,2025-02-28T17:10:01+00:00
+Standard,4.2.4.5.8,12.AP.PD.08,Evaluate key qualities of a program through a process such as code review.,,2025-02-28T17:10:01+00:00
+Concept,4.2.5,,Impacts of Computing,,2025-02-28T17:10:01+00:00
+Subconcept,4.2.5.1,,Culture and Diversity,,2025-02-28T17:10:01+00:00
+Standard,4.2.5.1.1,12.IC.C.01,Evaluate the positive and negative implications computational artifacts have on society,,2025-02-28T17:10:01+00:00
+Standard,4.2.5.1.2,12.IC.C.02,"Evaluate the impact of equity, access, and influence on the distribution of computing resources in the global society.",,2025-02-28T17:10:01+00:00
+Standard,4.2.5.1.3,12.IC.C.03,Predict evolutionary trends of computational innovations that have revolutionized aspects of global society.,,2025-02-28T17:10:01+00:00
+Standard,4.2.5.1.4,12.IC.C.04,Predict how computational innovations may revolutionize aspects of global society,,2025-02-28T17:10:01+00:00
+Subconcept,4.2.5.2,,Social Interactions,,2025-02-28T17:10:01+00:00
+Standard,4.2.5.2.1,12.IC.SI.01,Select and justify the tools and methods used for collaboration on a project to increase diverse ideas and solutions.,,2025-02-28T17:10:01+00:00
+Subconcept,4.2.5.3,,"Safety, Law & Ethics",,2025-02-28T17:10:01+00:00
+Standard,4.2.5.3.1,12.IC.SLE.01,Debate the laws and regulations that govern and impact the development of computing innovations and policies.,,2025-02-28T17:10:01+00:00
+Standard,4.2.5.3.2,12.IC.SLE.02,Investigate reasons new technologies require evaluation of existing laws and regulations and the creation of new legislation.,,2025-02-28T17:10:01+00:00

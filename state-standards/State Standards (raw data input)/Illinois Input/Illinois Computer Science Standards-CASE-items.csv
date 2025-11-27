@@ -1,0 +1,264 @@
+﻿Item Type,Sequence,Human Code,Full Statement,Ed. Level,Last Modified
+Grade Band,1,,Grades K-2 Standards,KG-02,2023-09-29T18:20:04+00:00
+Content Domain,1.1,,Computing Systems,KG-02,2023-09-29T18:20:04+00:00
+Domain,1.1.1,,Devices,KG-02,2023-09-29T18:20:04+00:00
+Standard,1.1.1.1,K-2.CS.1,Select and operate appropriate software to perform a variety of tasks and recognize that users have different needs and preferences for the technology they use.,KG-02,2023-09-29T18:20:04+00:00
+Domain,1.1.2,,Hardware and Software,KG-02,2023-09-29T18:20:04+00:00
+Standard,1.1.2.1,K-2.CS.02,Use appropriate terminology in identifying and describing the function of common physical components of computing systems (hardware).,KG-02,2023-09-29T18:20:04+00:00
+Domain,1.1.3,,Troubleshooting,KG-02,2023-09-29T18:20:04+00:00
+Standard,1.1.3.1,K-2.CS.03,Describe basic hardware and software problems using accurate terminology.,KG-02,2023-09-29T18:20:04+00:00
+Content Domain,1.2,,Networks and the Internet,KG-02,2023-09-29T18:20:04+00:00
+Domain,1.2.1,,Cybersecurity,KG-02,2023-09-29T18:20:04+00:00
+Standard,1.2.1.1,K-2.NI.04,Explain what passwords are and why we use them and use strong passwords to protect devices and information from unauthorized access.,KG-02,2023-09-29T18:20:04+00:00
+Content Domain,1.3,,Data and Analysis,KG-02,2023-09-29T18:20:04+00:00
+Domain,1.3.1,,Storage,KG-02,2023-09-29T18:20:04+00:00
+Standard,1.3.1.1,K-2.DA.05,"Store, copy, search, retrieve, modify, and delete information using a computing device and define the information stored as data.",KG-02,2023-09-29T18:20:04+00:00
+Domain,1.3.2,,"Collection, Visualization, and Transformation",KG-02,2023-09-29T18:20:04+00:00
+Standard,1.3.2.1,K-2.DA.06,Collect and present the same data in various visual formats.,KG-02,2023-09-29T18:20:04+00:00
+Domain,1.3.3,,Interference and Models,KG-02,2023-09-29T18:20:04+00:00
+Standard,1.3.3.1,K-2.DA.07,"Identify and describe patterns in data visualizations, such as charts or graphs, to make predictions.",KG-02,2023-09-29T18:20:04+00:00
+Content Domain,1.4,,Algorithms and Programming,KG-02,2023-09-29T18:20:04+00:00
+Domain,1.4.1,,Algorithms,KG-02,2023-09-29T18:20:04+00:00
+Standard,1.4.1.1,K-2.AP.08,Model daily processes by creating and following algorithms (sets of step-by- step instructions) to complete tasks.,KG-02,2023-09-29T18:20:04+00:00
+Domain,1.4.2,,Variables,KG-02,2023-09-29T18:20:04+00:00
+Standard,1.4.2.1,K-2.AP.09,Model the way programs store and manipulate data by using numbers or other symbols to represent information.,KG-02,2023-09-29T18:20:04+00:00
+Domain,1.4.3,,Control,KG-02,2023-09-29T18:20:04+00:00
+Standard,1.4.3.1,K-2.AP.10,"Develop programs with sequences and simple loops, to express ideas or address a problem.",KG-02,2023-09-29T18:20:04+00:00
+Domain,1.4.4,,Modularity,KG-02,2023-09-29T18:20:04+00:00
+Standard,1.4.4.1,K-2.AP.11,Decompose (break down) the steps needed to solve a problem into a precise sequence of instructions.,KG-02,2023-09-29T18:20:04+00:00
+Domain,1.4.5,,Program Development,KG-02,2023-09-29T18:20:04+00:00
+Standard,1.4.5.1,K-2.AP.12,"Develop plans that describe a program’s sequence of events, goals, and expected outcomes.",KG-02,2023-09-29T18:20:04+00:00
+Standard,1.4.5.2,K-2.AP.13,Give attribution when using the ideas and creations of others while developing programs.,KG-02,2023-09-29T18:20:04+00:00
+Standard,1.4.5.3,K-2.AP.14,Debug (identify and fix) errors in an algorithm or program that includes sequences and simple loops.,KG-02,2023-09-29T18:20:04+00:00
+Standard,1.4.5.4,K-2.AP.15,"Using correct terminology, describe steps taken and choices made during the iterative process of program development.",KG-02,2023-09-29T18:20:04+00:00
+Content Domain,1.5,,Impacts of Computing,KG-02,2023-09-29T18:20:04+00:00
+Domain,1.5.1,,Culture,KG-02,2023-09-29T18:20:04+00:00
+Standard,1.5.1.1,K-2.IC.16,Compare how people live and work before and after the implementation or adoption of new computing technology.,KG-02,2023-09-29T18:20:04+00:00
+Domain,1.5.2,,Social Interactions,KG-02,2023-09-29T18:20:04+00:00
+Standard,1.5.2.1,K-2.IC.17,Work respectfully and responsibly with others online.,KG-02,2023-09-29T18:20:04+00:00
+Domain,1.5.3,,Safety Law and Ethics,KG-02,2023-09-29T18:20:04+00:00
+Standard,1.5.3.1,K-2.IC.18,Keep login information private and log off of devices appropriately.,KG-02,2023-09-29T18:20:04+00:00
+Content Domain,1.6,,Emerging and Future Technologies,KG-02,2023-09-29T18:20:04+00:00
+Standard,1.6.1,K-2.ET.A,Explain that the field of emerging technologies will be evolving and rapidly growing.,KG-02,2023-09-29T18:20:04+00:00
+Standard,1.6.2,K-2.ET.B,"Compare existing and emerging technologies, ideas, and concepts.",KG-02,2023-09-29T18:20:04+00:00
+Standard,1.6.3,K-2.ET.C,Describe how emerging technologies are influencing current events at a local and global scale.,KG-02,2023-09-29T18:20:04+00:00
+Standard,1.6.4,K-2.ET.D,"Predict the positive and negative societal, cultural, and economic impacts that emerging and future technologies may generate.",KG-02,2023-09-29T18:20:04+00:00
+Standard,1.6.5,K-2.ET.E,Create new or original work by applying emerging technologies.,KG-02,2023-09-29T18:20:04+00:00
+Grade Band,2,,Grades 3-5 Standards,03-05,2023-09-29T18:20:14+00:00
+Content Domain,2.1,,Computing Systems,03-05,2023-09-29T18:20:14+00:00
+Domain,2.1.1,,Devices,03-05,2023-09-29T18:20:14+00:00
+Standard,2.1.1.1,3-5.CS.01,Describe how internal and external parts of computing devices function to form a system.,03-05,2023-09-29T18:20:14+00:00
+Domain,2.1.2,,Hardware and Software,03-05,2023-09-29T18:20:14+00:00
+Standard,2.1.2.1,3-5.CS.02,Model how computer hardware and software work together as a system to accomplish tasks. Discuss task specific embedded systems.,03-05,2023-09-29T18:20:14+00:00
+Domain,2.1.3,,Troubleshooting,03-05,2023-09-29T18:20:14+00:00
+Standard,2.1.3.1,3-5.CS.03,Determine potential solutions to solve simple hardware and software problems using common troubleshooting strategies.,03-05,2023-09-29T18:20:14+00:00
+Content Domain,2.2,,Networks and the Internet,03-05,2023-09-29T18:20:14+00:00
+Domain,2.2.1,,Network Communication and Organization,03-05,2023-09-29T18:20:14+00:00
+Standard,2.2.1.1,3-5.NI.04,"Model how information is broken down into smaller pieces, transmitted as packets through multiple devices over networks and the internet, and reassembled at the destination.",03-05,2023-09-29T18:20:14+00:00
+Domain,2.2.2,,Cybersecurity,03-05,2023-09-29T18:20:14+00:00
+Standard,2.2.2.1,3-5.NI.05,Discuss real-world cybersecurity problems and how personal information can be protected.,03-05,2023-09-29T18:20:14+00:00
+Content Domain,2.3,,Data and Analysis,03-05,2023-09-29T18:20:14+00:00
+Domain,2.3.1,,"Collection, Visualization, and Transformation",03-05,2023-09-29T18:20:14+00:00
+Standard,2.3.1.1,3-5.DA.06,Organize and present collected data visually to highlight relationships and support a claim.,03-05,2023-09-29T18:20:14+00:00
+Domain,2.3.2,,Interference and Models,03-05,2023-09-29T18:20:14+00:00
+Standard,2.3.2.1,3-5.DA.07,"Use data to highlight or propose cause-and-effect relationships, predict outcomes, or communicate an idea.",03-05,2023-09-29T18:20:14+00:00
+Content Domain,2.4,,Algorithms and Programming,03-05,2023-09-29T18:20:14+00:00
+Domain,2.4.1,,Algorithms,03-05,2023-09-29T18:20:14+00:00
+Standard,2.4.1.1,3-5.AP.08,Compare and refine multiple algorithms for the same task and determine which is the most appropriate.,03-05,2023-09-29T18:20:14+00:00
+Domain,2.4.2,,Variables,03-05,2023-09-29T18:20:14+00:00
+Standard,2.4.2.1,3-5.AP.09,Create programs that use variables to store and modify data.,03-05,2023-09-29T18:20:14+00:00
+Domain,2.4.3,,Control,03-05,2023-09-29T18:20:14+00:00
+Standard,2.4.3.1,3-5.AP.10,"Create programs that include sequences, events, loops, and conditionals.",03-05,2023-09-29T18:20:14+00:00
+Domain,2.4.4,,Modularity,03-05,2023-09-29T18:20:14+00:00
+Standard,2.4.4.1,3-5.AP.11,"Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.",03-05,2023-09-29T18:20:14+00:00
+Standard,2.4.4.2,3-5.AP.12,"Modify, remix, or incorporate portions of an existing program into one's own work, to develop something new or add more advanced features.",03-05,2023-09-29T18:20:14+00:00
+Domain,2.4.5,,Program Development,03-05,2023-09-29T18:20:14+00:00
+Standard,2.4.5.1,3-5.AP.13,Use an iterative process to plan the development of a program by including others' perspectives and considering user preferences.,03-05,2023-09-29T18:20:14+00:00
+Standard,2.4.5.2,3-5.AP.14,Observe intellectual property rights and give appropriate attribution when creating or remixing programs.,03-05,2023-09-29T18:20:14+00:00
+Standard,2.4.5.3,3-5.AP.15,Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended.,03-05,2023-09-29T18:20:14+00:00
+Standard,2.4.5.4,3-5.AP.16,"Take on varying roles, with teacher guidance, when collaborating with peers during the design, implementation, and review stages of program development.",03-05,2023-09-29T18:20:14+00:00
+Standard,2.4.5.5,3-5.AP.17,"Describe choices made during program development using code comments, presentations, and demonstrations.",03-05,2023-09-29T18:20:14+00:00
+Content Domain,2.5,,Impacts of Computing,03-05,2023-09-29T18:20:14+00:00
+Domain,2.5.1,,Culture,03-05,2023-09-29T18:20:14+00:00
+Standard,2.5.1.1,3-5.IC.18,"Discuss computing technologies that have changed the world and express how those technologies influence, and are influenced by, cultural practices.",03-05,2023-09-29T18:20:14+00:00
+Standard,2.5.1.2,3-5.IC.19,Brainstorm ways to improve the accessibility and usability of technology products for the diverse needs and wants of users.,03-05,2023-09-29T18:20:14+00:00
+Domain,2.5.2,,Social Interactions,03-05,2023-09-29T18:20:14+00:00
+Standard,2.5.2.1,3-5.IC.20,Seek diverse perspectives for the purpose of improving computational artifacts.,03-05,2023-09-29T18:20:14+00:00
+Domain,2.5.3,,Safety Law and Ethics,03-05,2023-09-29T18:20:14+00:00
+Standard,2.5.3.1,3-5.IC.21,Use public domain or Creative Commons media and refrain from copying or using material created by others without permission.,03-05,2023-09-29T18:20:14+00:00
+Content Domain,2.6,,Emerging and Future Technologies,03-05,2023-09-29T18:20:14+00:00
+Standard,2.6.1,3-5.ET.A,Explain that the field of emerging technologies will be evolving and rapidly growing.,03-05,2023-09-29T18:20:14+00:00
+Standard,2.6.2,3-5.ET.B,"Compare existing and emerging technologies, ideas, and concepts.",03-05,2023-09-29T18:20:14+00:00
+Standard,2.6.3,3-5.ET.C,Describe how emerging technologies are influencing current events at a local and global scale.,03-05,2023-09-29T18:20:14+00:00
+Standard,2.6.4,3-5.ET.D,"Predict the positive and negative societal, cultural, and economic impacts that emerging and future technologies may generate.",03-05,2023-09-29T18:20:14+00:00
+Standard,2.6.5,3-5.ET.E,Create new or original work by applying emerging technologies.,03-05,2023-09-29T18:20:14+00:00
+Grade Band,3,,Grades 6-8 Standards,06-08,2023-09-29T18:20:37+00:00
+Content Domain,3.1,,Computing Systems,06-08,2023-09-29T18:20:37+00:00
+Domain,3.1.1,,Devices,06-08,2023-09-29T18:20:37+00:00
+Standard,3.1.1.1,6-8.CS.01,"Recommend improvements to the design of computing devices, based on an analysis of how users interact with the devices.",06-08,2023-09-29T18:20:37+00:00
+Domain,3.1.2,,Hardware and Software,06-08,2023-09-29T18:20:37+00:00
+Standard,3.1.2.1,6-8.CS.02,Design projects that combine hardware and software components to collect and exchange data.,06-08,2023-09-29T18:20:37+00:00
+Domain,3.1.3,,Troubleshooting,06-08,2023-09-29T18:20:37+00:00
+Standard,3.1.3.1,6-8.CS.03,Systematically identify and fix problems with computing devices and their components.,06-08,2023-09-29T18:20:37+00:00
+Content Domain,3.2,,Networks and the Internet,06-08,2023-09-29T18:20:37+00:00
+Domain,3.2.1,,Network Communication and Organization,06-08,2023-09-29T18:20:37+00:00
+Standard,3.2.1.1,6-8.NI.04,Model the role of protocols in transmitting data across networks and the internet.,06-08,2023-09-29T18:20:37+00:00
+Domain,3.2.2,,Cybersecurity,06-08,2023-09-29T18:20:37+00:00
+Standard,3.2.2.1,6-8.NI.05,Explain how physical and digital security measures protect electronic information.,06-08,2023-09-29T18:20:37+00:00
+Standard,3.2.2.2,6-8.NI.06,Apply multiple methods of encryption to model the secure transmission of information.,06-08,2023-09-29T18:20:37+00:00
+Content Domain,3.3,,Data and Analysis,06-08,2023-09-29T18:20:37+00:00
+Domain,3.3.1,,Storage,06-08,2023-09-29T18:20:37+00:00
+Standard,3.3.1.1,6-8.DA.07,Represent data using multiple encoding schemes.,06-08,2023-09-29T18:20:37+00:00
+Domain,3.3.2,,Collection Visualization and Transformation,06-08,2023-09-29T18:20:37+00:00
+Standard,3.3.2.1,6-8.DA.08,Collect data using computational tools and transform the data to make it more useful and reliable.,06-08,2023-09-29T18:20:37+00:00
+Domain,3.3.3,,Interference and Models,06-08,2023-09-29T18:20:37+00:00
+Standard,3.3.3.1,6-8.DA.09,Refine computational models based on the data they have generated.,06-08,2023-09-29T18:20:37+00:00
+Standard,3.3.3.2,6-8.DA.10,Evaluate the misuse of data and impact of distorted outcomes.,06-08,2023-09-29T18:20:37+00:00
+Content Domain,3.4,,Algorithms and Programming,06-08,2023-09-29T18:20:37+00:00
+Domain,3.4.1,,Algorithms,06-08,2023-09-29T18:20:37+00:00
+Standard,3.4.1.1,6-8.AP.11,Use flowcharts or pseudocode to address complex problems as algorithms.,06-08,2023-09-29T18:20:37+00:00
+Domain,3.4.2,,Variables,06-08,2023-09-29T18:20:37+00:00
+Standard,3.4.2.1,6-8.AP.12,Perform operations on student-created variables that possess descriptive names and represent different data types.,06-08,2023-09-29T18:20:37+00:00
+Domain,3.4.3,,Control,06-08,2023-09-29T18:20:37+00:00
+Standard,3.4.3.1,6-8.AP.13,"Design and iteratively develop programs that combine control structures, including nested loops and compound conditionals.",06-08,2023-09-29T18:20:37+00:00
+Domain,3.4.4,,Modularity,06-08,2023-09-29T18:20:37+00:00
+Standard,3.4.4.1,6-8.AP.14,"Decompose problems and subproblems into parts to facilitate the design, implementation, and review of programs.",06-08,2023-09-29T18:20:37+00:00
+Standard,3.4.4.2,6-8.AP.15,Create procedures with parameters to organize code and make it easier to reuse.,06-08,2023-09-29T18:20:37+00:00
+Domain,3.4.5,,Program Development,06-08,2023-09-29T18:20:37+00:00
+Standard,3.4.5.1,6-8.AP.16,Seek and incorporate feedback from team members and users to refine a solution that meets user needs.,06-08,2023-09-29T18:20:37+00:00
+Standard,3.4.5.2,6-8.AP.17,"Incorporate existing code, media, and libraries into original programs and give attribution.",06-08,2023-09-29T18:20:37+00:00
+Standard,3.4.5.3,6-8.AP.18,Systematically test and refine programs using a range of test cases.,06-08,2023-09-29T18:20:37+00:00
+Standard,3.4.5.4,6-8.AP.19,Distribute tasks and maintain a project timeline when collaboratively developing computational artifacts.,06-08,2023-09-29T18:20:37+00:00
+Standard,3.4.5.5,6-8.AP.20,"Document programs to make them easier to follow, test, and debug.",06-08,2023-09-29T18:20:37+00:00
+Content Domain,3.5,,Impacts of Computing,06-08,2023-09-29T18:20:37+00:00
+Domain,3.5.1,,Culture,06-08,2023-09-29T18:20:37+00:00
+Standard,3.5.1.1,6-8.IC.21,Compare tradeoffs associated with computing technologies that affect people's everyday activities and career options.,06-08,2023-09-29T18:20:37+00:00
+Standard,3.5.1.2,6-8.IC.22,Discuss issues of bias and accessibility in the design of existing technologies.,06-08,2023-09-29T18:20:37+00:00
+Domain,3.5.2,,Social Interactions,06-08,2023-09-29T18:20:37+00:00
+Standard,3.5.2.1,6-8.IC.23,Collaborate with many contributors through strategies such as crowdsourcing or surveys when creating a computational artifact.,06-08,2023-09-29T18:20:37+00:00
+Domain,3.5.3,,Safety Law and Ethics,06-08,2023-09-29T18:20:37+00:00
+Standard,3.5.3.1,6-8.IC.24,Describe tradeoffs between allowing information to be public and keeping information private and secure.,06-08,2023-09-29T18:20:37+00:00
+Content Domain,3.6,,Emerging and Future Technologies,06-08,2023-09-29T18:20:37+00:00
+Standard,3.6.1,6-8.ET.A,Explain that the field of emerging technologies will be evolving and rapidly growing.,06-08,2023-09-29T18:20:37+00:00
+Standard,3.6.2,6-8.ET.B,"Compare existing and emerging technologies, ideas, and concepts.",06-08,2023-09-29T18:20:37+00:00
+Standard,3.6.3,6-8.ET.C,Describe how emerging technologies are influencing current events at a local and global scale.,06-08,2023-09-29T18:20:37+00:00
+Standard,3.6.4,6-8.ET.D,"Predict the positive and negative societal, cultural, and economic impacts that emerging and future technologies may generate.",06-08,2023-09-29T18:20:37+00:00
+Standard,3.6.5,6-8.ET.E,Create new or original work by applying emerging technologies.,06-08,2023-09-29T18:20:37+00:00
+Grade Band,4,,Grades 9-10 Standards,09-10,2023-09-29T18:20:45+00:00
+Content Domain,4.1,,Computing Systems,09-10,2023-09-29T18:20:45+00:00
+Domain,4.1.1,,Devices,09-10,2023-09-29T18:20:45+00:00
+Standard,4.1.1.1,9-10.CS.01,Explain how abstractions hide the underlying implementation details of computing systems embedded in everyday objects.,09-10,2023-09-29T18:20:45+00:00
+Domain,4.1.2,,Hardware and Software,09-10,2023-09-29T18:20:45+00:00
+Standard,4.1.2.1,9-10.CS.02,"Compare levels of abstraction and interactions between application software, system software, and hardware layers.",09-10,2023-09-29T18:20:45+00:00
+Domain,4.1.3,,Troubleshooting,09-10,2023-09-29T18:20:45+00:00
+Standard,4.1.3.1,9-10.CS.03,Develop guidelines that convey systematic troubleshooting strategies that others can use to identify and fix errors.,09-10,2023-09-29T18:20:45+00:00
+Content Domain,4.2,,Networks and the Internet,09-10,2023-09-29T18:20:45+00:00
+Domain,4.2.1,,Network Communication and Organization,09-10,2023-09-29T18:20:45+00:00
+Standard,4.2.1.1,9-10.NI.04,"Evaluate the scalability and reliability of networks by describing the relationship between routers, switches, servers, topology, and addressing.",09-10,2023-09-29T18:20:45+00:00
+Standard,4.2.1.2,9-10.NI.05,Give examples to illustrate how sensitive data can be affected by malware and other attacks.,09-10,2023-09-29T18:20:45+00:00
+Standard,4.2.1.3,9-10.NI.06,"Compare various security measures, considering tradeoffs between the usability and security of a computing system.",09-10,2023-09-29T18:20:45+00:00
+Domain,4.2.2,,Cybersecurity,09-10,2023-09-29T18:20:45+00:00
+Standard,4.2.2.1,9-10.NI.07,"Recommend security measures to address various scenarios based on factors such as efficiency, feasibility, and ethical impacts.",09-10,2023-09-29T18:20:45+00:00
+Standard,4.2.2.2,9-10.NI.08,Explain tradeoffs when selecting and implementing cybersecurity recommendations.,09-10,2023-09-29T18:20:45+00:00
+Content Domain,4.3,,Data and Analysis,09-10,2023-09-29T18:20:45+00:00
+Domain,4.3.1,,Storage,09-10,2023-09-29T18:20:45+00:00
+Standard,4.3.1.1,9-10.DA.09,"Translate between different bit representations of real-world phenomena, such as characters, numbers, and images.",09-10,2023-09-29T18:20:45+00:00
+Standard,4.3.1.2,9-10.DA.10,Evaluate the tradeoffs in how data elements are organized and stored.,09-10,2023-09-29T18:20:45+00:00
+Domain,4.3.2,,"Collection, Visualization, and Transformation",09-10,2023-09-29T18:20:45+00:00
+Standard,4.3.2.1,9-10.DA.11,Create interactive data visualizations using software tools to help others better understand real-world phenomena.,09-10,2023-09-29T18:20:45+00:00
+Domain,4.3.3,,Interference and Models,09-10,2023-09-29T18:20:45+00:00
+Standard,4.3.3.1,9-10.DA.12,Create computational models that represent the relationships among different elements of data collected from a phenomenon or process.,09-10,2023-09-29T18:20:45+00:00
+Content Domain,4.4,,Algorithms and Programming,09-10,2023-09-29T18:20:45+00:00
+Domain,4.4.1,,Algorithms,09-10,2023-09-29T18:20:45+00:00
+Standard,4.4.1.1,9-10.AP.13,Create prototypes that use algorithms to solve computational problems by leveraging prior student knowledge and personal interests.,09-10,2023-09-29T18:20:45+00:00
+Domain,4.4.2,,Variables,09-10,2023-09-29T18:20:45+00:00
+Standard,4.4.2.1,9-10.AP.14,"Use lists to simplify solutions, generalizing computational problems instead of repeatedly using simple variables.",09-10,2023-09-29T18:20:45+00:00
+Domain,4.4.3,,Control,09-10,2023-09-29T18:20:45+00:00
+Standard,4.4.3.1,9-10.AP.15,"Justify the selection of specific control structures when tradeoffs involve implementation, readability, and program performance, and explain the benefits and drawbacks of choices made.",09-10,2023-09-29T18:20:45+00:00
+Standard,4.4.3.2,9-10.AP.16,"Design and iteratively develop computational artifacts for practical intent, personal expression, or to address a societal issue by using events to initiate instructions.",09-10,2023-09-29T18:20:45+00:00
+Standard,4.4.3.3,9-10.AP.17,"Decompose problems into smaller components through systematic analysis, using constructs such as procedures, modules, or objects.",09-10,2023-09-29T18:20:45+00:00
+Domain,4.4.4,,Modularity,09-10,2023-09-29T18:20:45+00:00
+Standard,4.4.4.1,9-10.AP.18,"Create artifacts by using procedures within a program, combinations of data and procedures, or independent but interrelated programs.",09-10,2023-09-29T18:20:45+00:00
+Standard,4.4.4.2,9-10.AP.19,Systematically design and develop programs for broad audiences by incorporating feedback from users.,09-10,2023-09-29T18:20:45+00:00
+Domain,4.4.5,,Program Development,09-10,2023-09-29T18:20:45+00:00
+Standard,4.4.5.1,9-10.AP.20,Evaluate licenses that limit or restrict use of computational artifacts when using resources such as libraries.,09-10,2023-09-29T18:20:45+00:00
+Standard,4.4.5.2,9-10.AP.21,Evaluate and refine computational artifacts to make them more usable and accessible.,09-10,2023-09-29T18:20:45+00:00
+Standard,4.4.5.3,9-10.AP.22,Design and develop computational artifacts working in team roles using collaborative tools.,09-10,2023-09-29T18:20:45+00:00
+Standard,4.4.5.4,9-10.AP.23,"Document design decisions using text, graphics, presentations, or demonstrations in the development of complex programs.",09-10,2023-09-29T18:20:45+00:00
+Standard,4.4.5.5,9-10.AP.24,Describe the characteristics and evaluate the impact of human computer interaction.,09-10,2023-09-29T18:20:45+00:00
+Content Domain,4.5,,Impacts of Computing,09-10,2023-09-29T18:20:45+00:00
+Domain,4.5.1,,Culture,09-10,2023-09-29T18:20:45+00:00
+Standard,4.5.1.1,9-10.IC.25,"Evaluate the ways computing impacts personal, ethical, social, economic, and cultural practices.",09-10,2023-09-29T18:20:45+00:00
+Standard,4.5.1.2,9-10.IC.25,"Evaluate the ways digital social interactions impact personal, ethical, social, economic, and cultural practices.",09-10,2023-09-29T18:20:45+00:00
+Standard,4.5.1.3,9-10.IC.26,Test and refine computational artifacts to reduce bias and equity deficits.,09-10,2023-09-29T18:20:45+00:00
+Standard,4.5.1.4,9-10.IC.27,Demonstrate ways a given algorithm applies to problems across disciplines.,09-10,2023-09-29T18:20:45+00:00
+Domain,4.5.2,,Social Interactions,09-10,2023-09-29T18:20:45+00:00
+Standard,4.5.2.1,9-10.IC.28,Use tools and methods for collaboration on a project to increase connectivity of people in different cultures and career fields.,09-10,2023-09-29T18:20:45+00:00
+Domain,4.5.3,,Safety Law and Ethics,09-10,2023-09-29T18:20:45+00:00
+Standard,4.5.3.1,9-10.IC.29,Explain the beneficial and harmful effects that intellectual property laws can have on innovation.,09-10,2023-09-29T18:20:45+00:00
+Standard,4.5.3.2,9-10.IC.30,Explain the privacy concerns related to the collection and generation of data through automated processes that may not be evident to users.,09-10,2023-09-29T18:20:45+00:00
+Standard,4.5.3.3,9-10.IC.31,"Evaluate the social and economic implications of privacy in the context of safety, law, or ethics.",09-10,2023-09-29T18:20:45+00:00
+Content Domain,4.6,,Emerging and Future Technologies,09-10,2023-09-29T18:20:45+00:00
+Standard,4.6.1,9-10.ET.A,Explain that the field of emerging technologies will be evolving and rapidly growing.,09-10,2023-09-29T18:20:45+00:00
+Standard,4.6.2,9-10.ET.B,"Compare existing and emerging technologies, ideas, and concepts.",09-10,2023-09-29T18:20:45+00:00
+Standard,4.6.3,9-10.ET.C,Describe how emerging technologies are influencing current events at a local and global scale.,09-10,2023-09-29T18:20:45+00:00
+Standard,4.6.4,9-10.ET.D,"Predict the positive and negative societal, cultural, and economic impacts that emerging and future technologies may generate.",09-10,2023-09-29T18:20:45+00:00
+Standard,4.6.5,9-10.ET.E,Create new or original work by applying emerging technologies.,09-10,2023-09-29T18:20:45+00:00
+Grade Band,5,,Grades 11-12 Standards,11-12,2023-09-29T18:20:55+00:00
+Content Domain,5.1,,Computing Systems,11-12,2023-09-29T18:20:55+00:00
+Domain,5.1.1,,Devices,11-12,2023-09-29T18:20:55+00:00
+Standard,5.1.1.1,11-12.CS.01,Compare the characteristics and uses of traditional and emerging computing devices and systems.,11-12,2023-09-29T18:20:55+00:00
+Domain,5.1.2,,Hardware and Software,11-12,2023-09-29T18:20:55+00:00
+Standard,5.1.2.1,11-12.CS.02,Categorize the roles of operating system software.,11-12,2023-09-29T18:20:55+00:00
+Domain,5.1.3,,Troubleshooting,11-12,2023-09-29T18:20:55+00:00
+Standard,5.1.3.1,11-12.CS.03,"Illustrate ways computing systems implement logic, input, and output through hardware components.",11-12,2023-09-29T18:20:55+00:00
+Content Domain,5.2,,Networks and the Internet,11-12,2023-09-29T18:20:55+00:00
+Domain,5.2.1,,Network Communication and Organization,11-12,2023-09-29T18:20:55+00:00
+Standard,5.2.1.1,11-12.NI.04,"Describe the issues that impact network functionality (e.g., bandwidth, load, delay, topology).",11-12,2023-09-29T18:20:55+00:00
+Domain,5.2.2,,Cybersecurity,11-12,2023-09-29T18:20:55+00:00
+Standard,5.2.2.1,11-12.NI.05,Compare ways software developers protect devices and information from unauthorized access.,11-12,2023-09-29T18:20:55+00:00
+Content Domain,5.3,,Data and Analysis,11-12,2023-09-29T18:20:55+00:00
+Domain,5.3.1,,"Collection, Visualization, and, Transformation",11-12,2023-09-29T18:20:55+00:00
+Standard,5.3.1.1,11-12.DA.06,Use data analysis tools and techniques to identify patterns in data representing complex systems.,11-12,2023-09-29T18:20:55+00:00
+Standard,5.3.1.2,11-12.DA.07,Select data collection tools and techniques to generate data sets that support a claim or communicate information.,11-12,2023-09-29T18:20:55+00:00
+Standard,5.3.1.3,11-12.DA.08,Analyze the ways in which automated data collection is utilized in society.,11-12,2023-09-29T18:20:55+00:00
+Domain,5.3.2,,Interference and Models,11-12,2023-09-29T18:20:55+00:00
+Standard,5.3.2.1,11-12.DA.09,Evaluate the ability of models and simulations to test and support the refinement of hypotheses.,11-12,2023-09-29T18:20:55+00:00
+Content Domain,5.4,,Algorithms and Programming,11-12,2023-09-29T18:20:55+00:00
+Domain,5.4.1,,Algorithms,11-12,2023-09-29T18:20:55+00:00
+Standard,5.4.1.1,11-12.AP.10,Describe how artificial intelligence drives many software and physical systems.,11-12,2023-09-29T18:20:55+00:00
+Standard,5.4.1.2,11-12.AP.11,Implement an artificial intelligence algorithm to play a game against a human opponent or solve a problem.,11-12,2023-09-29T18:20:55+00:00
+Standard,5.4.1.3,11-12.AP.12,Use and adapt classic algorithms to solve computational problems.,11-12,2023-09-29T18:20:55+00:00
+Standard,5.4.1.4,11-12.AP.13,"Evaluate algorithms in terms of their efficiency, correctness, and clarity.",11-12,2023-09-29T18:20:55+00:00
+Domain,5.4.2,,Variables,11-12,2023-09-29T18:20:55+00:00
+Standard,5.4.2.1,11-12.AP.14,Compare and contrast fundamental data structures and their uses.,11-12,2023-09-29T18:20:55+00:00
+Domain,5.4.3,,Control,11-12,2023-09-29T18:20:55+00:00
+Standard,5.4.3.1,11-12.AP.15,Illustrate the flow of execution of a recursive algorithm.,11-12,2023-09-29T18:20:55+00:00
+Domain,5.4.4,,Modularity,11-12,2023-09-29T18:20:55+00:00
+Standard,5.4.4.1,11-12.AP.16,"Construct solutions to problems using student-created components, such as procedures, modules, or objects.",11-12,2023-09-29T18:20:55+00:00
+Standard,5.4.4.2,11-12.AP.17,Analyze a large-scale computational problem and identify generalizable patterns that can be applied to a solution.,11-12,2023-09-29T18:20:55+00:00
+Standard,5.4.4.3,11-12.AP.18,Demonstrate code reuse by creating programming solutions using libraries and application programming interfaces.,11-12,2023-09-29T18:20:55+00:00
+Domain,5.4.5,,Program Development,11-12,2023-09-29T18:20:55+00:00
+Standard,5.4.5.1,11-12.AP.19,Plan and develop programs for broad audiences using a software life cycle process.,11-12,2023-09-29T18:20:55+00:00
+Standard,5.4.5.2,11-12.AP.20,Demonstrate conversion of source code into machine code using compliers or interpreters.,11-12,2023-09-29T18:20:55+00:00
+Standard,5.4.5.3,11-12.AP.21,Explain security issues that might lead to compromised computer programs.,11-12,2023-09-29T18:20:55+00:00
+Standard,5.4.5.4,11-12.AP-22,Develop programs for multiple computing platforms.,11-12,2023-09-29T18:20:55+00:00
+Standard,5.4.5.5,11-12.AP-23,"Use version control systems, integrated development environments, and collaborative tools and practices (code documentation) in a group software project.",11-12,2023-09-29T18:20:55+00:00
+Standard,5.4.5.6,11-12.AP.24,Develop and use a series of test cases to verify that a program performs according to its design specifications.,11-12,2023-09-29T18:20:55+00:00
+Standard,5.4.5.7,11-12.AP.25,"Discuss social, economic, and ethical consequences of malfunctional software and software updates.",11-12,2023-09-29T18:20:55+00:00
+Standard,5.4.5.8,11-12.AP.26,"Modify an existing program to add additional functionality and discuss intended and unintended implications (e.g., breaking other functionality).",11-12,2023-09-29T18:20:55+00:00
+Standard,5.4.5.9,11-12.AP.27,Evaluate key qualities of a program through a process such as a code review.,11-12,2023-09-29T18:20:55+00:00
+Standard,5.4.5.10,11-12.AP.28,Compare multiple programming languages and discuss how their features make them suitable for solving different types of problems.,11-12,2023-09-29T18:20:55+00:00
+Content Domain,5.5,,Impacts of Computing,11-12,2023-09-29T18:20:55+00:00
+Domain,5.5.1,,Culture,11-12,2023-09-29T18:20:55+00:00
+Standard,5.5.1.1,11-12.IC.29,Evaluate computational artifacts to maximize their beneficial effects and minimize harmful effects on society.,11-12,2023-09-29T18:20:55+00:00
+Standard,5.5.1.2,11-12.IC.30,"Evaluate the impact of equity, access, and influence on the distribution of computing resources in a global society.",11-12,2023-09-29T18:20:55+00:00
+Standard,5.5.1.3,11-12.IC.31,Predict how computational innovations that have revolutionized aspects of our culture might evolve.,11-12,2023-09-29T18:20:55+00:00
+Domain,5.5.2,,Safety Law and Ethics,11-12,2023-09-29T18:20:55+00:00
+Standard,5.5.2.1,11-12.IC.32,Debate laws and regulations that impact the development and use of software.,11-12,2023-09-29T18:20:55+00:00
+Content Domain,5.6,,Emerging and Future Technologies,11-12,2023-09-29T18:20:55+00:00
+Standard,5.6.1,11-12.ET.A,Explain that the field of emerging technologies will be evolving and rapidly growing.,11-12,2023-09-29T18:20:55+00:00
+Standard,5.6.2,11-12.ET.B,"Compare existing and emerging technologies, ideas, and concepts.",11-12,2023-09-29T18:20:55+00:00
+Standard,5.6.3,11-12.ET.C,Describe how emerging technologies are influencing current events at a local and global scale.,11-12,2023-09-29T18:20:55+00:00
+Standard,5.6.4,11-12.ET.D,"Predict the positive and negative societal, cultural, and economic impacts that emerging and future technologies may generate.",11-12,2023-09-29T18:20:55+00:00
+Standard,5.6.5,11-12.ET.E,Create new or original work by applying emerging technologies.,11-12,2023-09-29T18:20:55+00:00

@@ -1,0 +1,301 @@
+﻿Item Type,Sequence,Human Code,Full Statement,Ed. Level,Last Modified
+Course,1,8.1,Computer Science,,2025-02-27T22:43:08+00:00
+Grade Range,1.1,8.1.2,By the End of Grade 2,KG-02,2025-02-27T23:00:55+00:00
+Disciplinary Concept,1.1.1,8.1.2.CS,Computing Systems,KG-02,2025-02-27T23:00:55+00:00
+Core Idea,1.1.1.1,,Individuals use computing devices to perform a variety of tasks accurately and quickly. Computing devices interpret and follow the instructions they are given literally.,KG-02,2025-02-27T23:00:55+00:00
+Performance Expectation,1.1.1.1.1,8.1.2.CS.1,Select and operate computing devices that perform a variety of tasks accurately and quickly based on user needs and preferences.,KG-02,2025-02-27T23:00:55+00:00
+Core Idea,1.1.1.2,,A computing system is composed of software and hardware.,KG-02,2025-02-27T23:00:55+00:00
+Performance Expectation,1.1.1.2.1,8.1.2.CS.2,Explain the functions of common software and hardware components of computing systems.,KG-02,2025-02-27T23:00:55+00:00
+Core Idea,1.1.1.3,,Describing a problem is the first step toward finding a solution when computing systems do not work as expected.,KG-02,2025-02-27T23:00:55+00:00
+Performance Expectation,1.1.1.3.1,8.1.2.CS.3,Describe basic hardware and software problems using accurate terminology.,KG-02,2025-02-27T23:00:55+00:00
+Disciplinary Concept,1.1.2,8.1.2.NI,Networks and the Internet,KG-02,2025-02-27T23:00:55+00:00
+Core Idea,1.1.2.1,,"Computer networks can be used to connect individuals to other individuals, places, information, and ideas. The Internet enables individuals to connect with others worldwide.",KG-02,2025-02-27T23:00:55+00:00
+Performance Expectation,1.1.2.1.1,8.1.2.NI.1,"Model and describe how individuals use computers to connect to other individuals, places, information, and ideas through a network.",KG-02,2025-02-27T23:00:55+00:00
+Performance Expectation,1.1.2.1.2,8.1.2.NI.2,Describe how the Internet enables individuals to connect with others worldwide.,KG-02,2025-02-27T23:00:55+00:00
+Core Idea,1.1.2.2,,"Connecting devices to a network or the Internet provides great benefits, but care must be taken to use authentication measures, such as strong passwords, to protect devices and information from unauthorized access.",KG-02,2025-02-27T23:00:55+00:00
+Performance Expectation,1.1.2.2.1,8.1.2.NI.3,Create a password that secures access to a device. Explain why it is important to create unique passwords that are not shared with others.,KG-02,2025-02-27T23:00:55+00:00
+Performance Expectation,1.1.2.2.2,8.1.2.NI.4,Explain why access to devices need to be secured.,KG-02,2025-02-27T23:00:55+00:00
+Disciplinary Concept,1.1.3,8.1.2.IC,Impacts of Computing,KG-02,2025-02-27T23:00:55+00:00
+Core Idea,1.1.3.1,,"Computing technology has positively and negatively changed the way individuals live and work (e.g., entertainment, communication, productivity tools).",KG-02,2025-02-27T23:00:55+00:00
+Performance Expectation,1.1.3.1.1,8.1.2.IC.1,Compare how individuals live and work before and after the implementation of new computing technology.,KG-02,2025-02-27T23:00:55+00:00
+Disciplinary Concept,1.1.4,8.1.2.DA,Data & Analysis,KG-02,2025-02-27T23:00:55+00:00
+Core Idea,1.1.4.1,,"Individuals collect, use, and display data about individuals and the world around them.",KG-02,2025-02-27T23:00:55+00:00
+Performance Expectation,1.1.4.1.1,8.1.2.DA.1,"Collect and present data, including climate change data, in various visual formats.",KG-02,2025-02-27T23:00:55+00:00
+Core Idea,1.1.4.2,,"Computers store data that can be retrieved later. Data can be copied, stored in multiple locations, and retrieved.",KG-02,2025-02-27T23:00:55+00:00
+Performance Expectation,1.1.4.2.1,8.1.2.DA.2,"Store, copy, search, retrieve, modify, and delete data using a computing device.",KG-02,2025-02-27T23:00:55+00:00
+Core Idea,1.1.4.3,,Data can be used to make predictions about the world.,KG-02,2025-02-27T23:00:55+00:00
+Performance Expectation,1.1.4.3.1,8.1.2.DA.3,Identify and describe patterns in data visualizations.,KG-02,2025-02-27T23:00:55+00:00
+Performance Expectation,1.1.4.3.2,8.1.2.DA.4,Make predictions based on data using charts or graphs.,KG-02,2025-02-27T23:00:55+00:00
+Disciplinary Concept,1.1.5,8.1.2.AP,Algorithms & Programming,KG-02,2025-02-27T23:00:55+00:00
+Core Idea,1.1.5.1,,Individuals develop and follow directions as part of daily life. A sequence of steps can be expressed as an algorithm that a computer can process.,KG-02,2025-02-27T23:00:55+00:00
+Performance Expectation,1.1.5.1.1,8.1.2.AP.1,Model daily processes by creating and following algorithms to complete tasks.,KG-02,2025-02-27T23:00:55+00:00
+Core Idea,1.1.5.2,,"Real world information can be stored and manipulated in programs as data (e.g., numbers, words, colors, images).",KG-02,2025-02-27T23:00:55+00:00
+Performance Expectation,1.1.5.2.1,8.1.2.AP.2,Model the way programs store and manipulate data by using numbers or other symbols to represent information.,KG-02,2025-02-27T23:00:55+00:00
+Core Idea,1.1.5.3,,Computers follow precise sequences of steps that automate tasks.,KG-02,2025-02-27T23:00:55+00:00
+Performance Expectation,1.1.5.3.1,8.1.2.AP.3,Create programs with sequences and simple loops to accomplish tasks.,KG-02,2025-02-27T23:00:55+00:00
+Core Idea,1.1.5.4,,"Complex tasks can be broken down into simpler instructions, some of which can be broken down even further.",KG-02,2025-02-27T23:00:55+00:00
+Performance Expectation,1.1.5.4.1,8.1.2.AP.4,Break down a task into a sequence of steps.,KG-02,2025-02-27T23:00:55+00:00
+Core Idea,1.1.5.5,,"People work together to develop programs for a purpose, such as expressing ideas or addressing problems. The development of a program involves identifying a sequence of events, goals, and expected outcomes, and addressing errors (when necessary).",KG-02,2025-02-27T23:00:55+00:00
+Performance Expectation,1.1.5.5.1,8.1.2.AP.5,"Describe a program’s sequence of events, goals, and expected outcomes.",KG-02,2025-02-27T23:00:55+00:00
+Performance Expectation,1.1.5.5.2,8.1.2.AP.6,Debug errors in an algorithm or program that includes sequences and simple loops.,KG-02,2025-02-27T23:00:55+00:00
+Grade Range,1.2,8.1.5,By the End of Grade 5,03-05,2025-02-27T23:01:39+00:00
+Disciplinary Concept,1.2.1,8.1.5.CS,Computing Systems,03-05,2025-02-27T23:01:39+00:00
+Core Idea,1.2.1.1,,Computing devices may be connected to other devices to form a system as a way to extend their capabilities.,03-05,2025-02-27T23:01:39+00:00
+Performance Expectation,1.2.1.1.1,8.1.5.CS.1,Model how computing devices connect to other components to form a system.,03-05,2025-02-27T23:01:39+00:00
+Core Idea,1.2.1.2,,"Software and hardware work together as a system to accomplish tasks (e.g., sending, receiving, processing, and storing units of information).",03-05,2025-02-27T23:01:39+00:00
+Performance Expectation,1.2.1.2.1,8.1.5.CS.2,Model how computer software and hardware work together as a system to accomplish tasks.,03-05,2025-02-27T23:01:39+00:00
+Core Idea,1.2.1.3,,Shared features allow for common troubleshooting strategies that can be effective for many systems.,03-05,2025-02-27T23:01:39+00:00
+Performance Expectation,1.2.1.3.1,8.1.5.CS.3,Identify potential solutions for simple hardware and software problems using common troubleshooting strategies.,03-05,2025-02-27T23:01:39+00:00
+Disciplinary Concept,1.2.2,8.1.5.NI,Networks and the Internet,03-05,2025-02-27T23:01:39+00:00
+Core Idea,1.2.2.1,,Information needs a physical or wireless path to travel to be sent and received.,03-05,2025-02-27T23:01:39+00:00
+Performance Expectation,1.2.2.1.1,8.1.5.NI.1,Develop models that successfully transmit and receive information using both wired and wireless methods.,03-05,2025-02-27T23:01:39+00:00
+Core Idea,1.2.2.2,,"Distinguishing between public and private information is important for safe and secure online interactions. Information can be protected using various security measures (i.e., physical and digital).",03-05,2025-02-27T23:01:39+00:00
+Performance Expectation,1.2.2.2.1,8.1.5.NI.2,Describe physical and digital security measures for protecting sensitive personal information.,03-05,2025-02-27T23:01:39+00:00
+Disciplinary Concept,1.2.3,8.1.5.IC,Impacts of Computing,03-05,2025-02-27T23:01:39+00:00
+Core Idea,1.2.3.1,,The development and modification of computing technology is driven by individual’s needs and wants and can affect individuals differently.,03-05,2025-02-27T23:01:39+00:00
+Performance Expectation,1.2.3.1.1,8.1.5.IC.1,Identify computing technologies that have impacted how individuals live and work and describe the factors that influenced the changes.,03-05,2025-02-27T23:01:39+00:00
+Performance Expectation,1.2.3.1.2,8.1.5.IC.2,Identify possible ways to improve the accessibility and usability of computing technologies to address the diverse needs and wants of users.,03-05,2025-02-27T23:01:39+00:00
+Disciplinary Concept,1.2.4,8.1.5.DA,Data & Analysis,03-05,2025-02-27T23:01:39+00:00
+Core Idea,1.2.4.1,,"Data can be organized, displayed, and presented to highlight relationships.",03-05,2025-02-27T23:01:39+00:00
+Performance Expectation,1.2.4.1.1,8.1.5.DA.1,"Collect, organize, and display data in order to highlight relationships or support a claim.",03-05,2025-02-27T23:01:39+00:00
+Core Idea,1.2.4.2,,The type of data being stored affects the storage requirements.,03-05,2025-02-27T23:01:39+00:00
+Performance Expectation,1.2.4.2.1,8.1.5.DA.2,Compare the amount of storage space required for different types of data.,03-05,2025-02-27T23:01:39+00:00
+Core Idea,1.2.4.3,,"Individuals can select, organize, and transform data into different visual representations and communicate insights gained from the data.",03-05,2025-02-27T23:01:39+00:00
+Performance Expectation,1.2.4.3.1,8.1.5.DA.3,Organize and present collected data visually to communicate insights gained from different views of the data.,03-05,2025-02-27T23:01:39+00:00
+Performance Expectation,1.2.4.3.2,8.1.5.DA.4,Organize and present climate change data visually to highlight relationships or support a claim.,03-05,2025-02-27T23:01:39+00:00
+Core Idea,1.2.4.4,,Many factors influence the accuracy of inferences and predictions.,03-05,2025-02-27T23:01:39+00:00
+Performance Expectation,1.2.4.4.1,8.1.5.DA.5,"Propose cause and effect relationships, predict outcomes, or communicate ideas using data.",03-05,2025-02-27T23:01:39+00:00
+Disciplinary Concept,1.2.5,8.1.5.AP,Algorithms & Programming,03-05,2025-02-27T23:01:39+00:00
+Core Idea,1.2.5.1,,Different algorithms can achieve the same result. Some algorithms are more appropriate for a specific use than others.,03-05,2025-02-27T23:01:39+00:00
+Performance Expectation,1.2.5.1.1,8.1.5.AP.1,Compare and refine multiple algorithms for the same task and determine which is the most appropriate.,03-05,2025-02-27T23:01:39+00:00
+Core Idea,1.2.5.2,,"Programming languages provide variables, which are used to store and modify data.",03-05,2025-02-27T23:01:39+00:00
+Performance Expectation,1.2.5.2.1,8.1.5.AP.2,Create programs that use clearly named variables to store and modify data.,03-05,2025-02-27T23:01:39+00:00
+Core Idea,1.2.5.3,,"A variety of control structures are used to change the flow of program execution (e.g., sequences, events, loops, conditionals).",03-05,2025-02-27T23:01:39+00:00
+Performance Expectation,1.2.5.3.1,8.1.5.AP.3,"Create programs that include sequences, events, loops, and conditionals.",03-05,2025-02-27T23:01:39+00:00
+Core Idea,1.2.5.4,,"Programs can be broken down into smaller parts to facilitate their design, implementation, and review. Programs can also be created by incorporating smaller portions of programs that already exist.",03-05,2025-02-27T23:01:39+00:00
+Performance Expectation,1.2.5.4.1,8.1.5.AP.4,"Break down problems into smaller, manageable sub-problems to facilitate program development.",03-05,2025-02-27T23:01:39+00:00
+Performance Expectation,1.2.5.4.2,8.1.5.AP.5,"Modify, remix, or incorporate pieces of existing programs into one’s own work to add additional features or create a new program.",03-05,2025-02-27T23:01:39+00:00
+Core Idea,1.2.5.5,,"Individuals develop programs using an iterative process involving design, implementation, testing, and review.",03-05,2025-02-27T23:01:39+00:00
+Performance Expectation,1.2.5.5.1,8.1.5.AP.6,"Develop programs using an iterative process, implement the program design, and test the program to ensure it works as intended.",03-05,2025-02-27T23:01:39+00:00
+Grade Range,1.3,8.1.8,By the End of Grade 8,05-08,2025-02-27T23:01:55+00:00
+Disciplinary Concept,1.3.1,8.1.8.CS,Computing Systems,05-08,2025-02-27T23:01:55+00:00
+Core Idea,1.3.1.1,,The study of human–computer interaction can improve the design of devices and extend the abilities of humans.,05-08,2025-02-27T23:01:55+00:00
+Performance Expectation,1.3.1.1.1,8.1.8.CS.1,Recommend improvements to computing devices in order to improve the ways users interact with the devices.,05-08,2025-02-27T23:01:55+00:00
+Core Idea,1.3.1.2,,Software and hardware determine a computing system’s capability to store and process information. The design or selection of a computing system involves multiple considerations and potential trade-offs.,05-08,2025-02-27T23:01:55+00:00
+Performance Expectation,1.3.1.2.1,8.1.8.CS.2,Design a system that combines hardware and software components to process data.,05-08,2025-02-27T23:01:55+00:00
+Performance Expectation,1.3.1.2.2,8.1.8.CS.3,Justify design decisions and explain potential system trade-offs.,05-08,2025-02-27T23:01:55+00:00
+Core Idea,1.3.1.3,,Troubleshooting a problem is more effective when knowledge of the specific device along with a systematic process is used to identify the source of a problem.,05-08,2025-02-27T23:01:55+00:00
+Performance Expectation,1.3.1.3.1,8.1.8.CS.4,Systematically apply troubleshooting strategies to identify and resolve hardware and software problems in computing systems.,05-08,2025-02-27T23:01:55+00:00
+Disciplinary Concept,1.3.2,8.1.8.NI,Networks and the Internet,05-08,2025-02-27T23:01:55+00:00
+Core Idea,1.3.2.1,,"Protocols, packets, and addressing are the key components for reliable delivery of information across networks.",05-08,2025-02-27T23:01:55+00:00
+Performance Expectation,1.3.2.1.1,8.1.8.NI.1,"Model how information is broken down into smaller pieces, transmitted as addressed packets through multiple devices over networks and the Internet, and reassembled at the destination.",05-08,2025-02-27T23:01:55+00:00
+Performance Expectation,1.3.2.1.2,8.1.8.NI.2,Model the role of protocols in transmitting data across networks and the Internet and how they enable secure and errorless communication.,05-08,2025-02-27T23:01:55+00:00
+Core Idea,1.3.2.2,,The information sent and received across networks can be protected from unauthorized access and modification in a variety of ways. The evolution of malware leads to understanding the key security measures and best practices needed to proactively address the threat to digital data.,05-08,2025-02-27T23:01:55+00:00
+Performance Expectation,1.3.2.2.1,8.1.8.NI.3,"Explain how network security depends on a combination of hardware, software, and practices that control access to data and systems.",05-08,2025-02-27T23:01:55+00:00
+Performance Expectation,1.3.2.2.2,8.1.8.NI.4,Explain how new security measures have been created in response to key malware events.,05-08,2025-02-27T23:01:55+00:00
+Disciplinary Concept,1.3.3,8.1.8.IC,Impacts of Computing,05-08,2025-02-27T23:01:55+00:00
+Core Idea,1.3.3.1,,Advancements in computing technology can change individuals’ behaviors. Society is faced with trade-offs due to the increasing globalization and automation that computing brings.,05-08,2025-02-27T23:01:55+00:00
+Performance Expectation,1.3.3.1.1,8.1.8.IC.1,Compare the trade-offs associated with computing technologies that affect individual’s everyday activities and career options.,05-08,2025-02-27T23:01:55+00:00
+Performance Expectation,1.3.3.1.2,8.1.8.IC.2,Describe issues of bias and accessibility in the design of existing technologies.,05-08,2025-02-27T23:01:55+00:00
+Disciplinary Concept,1.3.4,8.1.8.DA,Data & Analysis,05-08,2025-02-27T23:01:55+00:00
+Core Idea,1.3.4.1,,"People use digital devices and tools to automate the collection, use, and transformation of data. The manner in which data is collected and transformed is influenced by the type of digital device(s) available and the intended use of the data.",05-08,2025-02-27T23:01:55+00:00
+Performance Expectation,1.3.4.1.1,8.1.8.DA.1,Organize and transform data collected using computational tools to make it usable for a specific purpose.,05-08,2025-02-27T23:01:55+00:00
+Core Idea,1.3.4.2,,Data is represented in many formats. Software tools translate the low-level representation of bits into a form understandable by individuals. Data is organized and accessible based on the application used to store it.,05-08,2025-02-27T23:01:55+00:00
+Performance Expectation,1.3.4.2.1,8.1.8.DA.2,Explain the difference between how the computer stores data as bits and how the data is displayed.,05-08,2025-02-27T23:01:55+00:00
+Performance Expectation,1.3.4.2.2,8.1.8.DA.3,Identify the appropriate tool to access data based on its file format.,05-08,2025-02-27T23:01:55+00:00
+Core Idea,1.3.4.3,,The purpose of cleaning data is to remove errors and make it easier for computers to process.,05-08,2025-02-27T23:01:55+00:00
+Performance Expectation,1.3.4.3.1,8.1.8.DA.4,Transform data to remove errors and improve the accuracy of the data for analysis.,05-08,2025-02-27T23:01:55+00:00
+Core Idea,1.3.4.4,,"Computer models can be used to simulate events, examine theories and inferences, or make predictions.",05-08,2025-02-27T23:01:55+00:00
+Performance Expectation,1.3.4.4.1,8.1.8.DA.5,"Test, analyze, and refine computational models.",05-08,2025-02-27T23:01:55+00:00
+Performance Expectation,1.3.4.4.2,8.1.8.DA.6,Analyze climate change computational models and propose refinements.,05-08,2025-02-27T23:01:55+00:00
+Disciplinary Concept,1.3.5,8.1.8.AP,Algorithms & Programming,05-08,2025-02-27T23:01:55+00:00
+Core Idea,1.3.5.1,,"Individuals design algorithms that are reusable in many situations. Algorithms that are readable are easier to follow, test, and debug.",05-08,2025-02-27T23:01:55+00:00
+Performance Expectation,1.3.5.1.1,8.1.8.AP.1,Design and illustrate algorithms that solve complex problems using flowcharts and/or pseudocode.,05-08,2025-02-27T23:01:55+00:00
+Core Idea,1.3.5.2,,Programmers create variables to store data values of different types and perform appropriate operations on their values.,05-08,2025-02-27T23:01:55+00:00
+Performance Expectation,1.3.5.2.1,8.1.8.AP.2,Create clearly named variables that represent different data types and perform operations on their values.,05-08,2025-02-27T23:01:55+00:00
+Core Idea,1.3.5.3,,Control structures are selected and combined in programs to solve more complex problems.,05-08,2025-02-27T23:01:55+00:00
+Performance Expectation,1.3.5.3.1,8.1.8.AP.3,"Design and iteratively develop programs that combine control structures, including nested loops and compound conditionals.",05-08,2025-02-27T23:01:55+00:00
+Core Idea,1.3.5.4,,Programs use procedures to organize code and hide implementation details. Procedures can be repurposed in new programs. Defining parameters for procedures can generalize behavior and increase reusability.,05-08,2025-02-27T23:01:55+00:00
+Performance Expectation,1.3.5.4.1,8.1.8.AP.4,"Decompose problems and sub-problems into parts to facilitate the design, implementation, and review of programs.",05-08,2025-02-27T23:01:55+00:00
+Performance Expectation,1.3.5.4.2,8.1.8.AP.5,Create procedures with parameters to organize code and make it easier to reuse.,05-08,2025-02-27T23:01:55+00:00
+Core Idea,1.3.5.5,,Individuals design and test solutions to identify problems taking into consideration the diverse needs of the users and the community.,05-08,2025-02-27T23:01:55+00:00
+Performance Expectation,1.3.5.5.1,8.1.8.AP.6,Refine a solution that meets users’ needs by incorporating feedback from team members and users.,05-08,2025-02-27T23:01:55+00:00
+Performance Expectation,1.3.5.5.2,8.1.8.AP.7,"Design programs, incorporating existing code, media, and libraries, and give attribution.",05-08,2025-02-27T23:01:55+00:00
+Performance Expectation,1.3.5.5.3,8.1.8.AP.8,Systematically test and refine programs using a range of test cases and users.,05-08,2025-02-27T23:01:55+00:00
+Performance Expectation,1.3.5.5.4,8.1.8.AP.9,"Document programs in order to make them easier to follow, test, and debug.",05-08,2025-02-27T23:01:55+00:00
+Grade Range,1.4,8.1.12,By the End of Grade 12,09-12,2025-02-27T23:02:08+00:00
+Disciplinary Concept,1.4.1,8.1.12.CS,Computing Systems,09-12,2025-02-27T23:02:08+00:00
+Core Idea,1.4.1.1,,"The usability, dependability, security, and accessibility of devices within integrated systems are important considerations in their design as they evolve.",09-12,2025-02-27T23:02:08+00:00
+Performance Expectation,1.4.1.1.1,8.1.12.CS.1,Describe ways in which integrated systems hide underlying implementation details to simplify user experiences.,09-12,2025-02-27T23:02:08+00:00
+Core Idea,1.4.1.2,,"A computing system involves interaction among the user, hardware, application software, and system software.",09-12,2025-02-27T23:02:08+00:00
+Performance Expectation,1.4.1.2.1,8.1.12.CS.2,"Model interactions between application software, system software, and hardware.",09-12,2025-02-27T23:02:08+00:00
+Performance Expectation,1.4.1.2.2,8.1.12.CS.3,"Compare the functions of application software, system software, and hardware.",09-12,2025-02-27T23:02:08+00:00
+Core Idea,1.4.1.3,,"Successful troubleshooting of complex problems involves multiple approaches including research, analysis, reflection, interaction with peers, and drawing on past experiences.",09-12,2025-02-27T23:02:08+00:00
+Performance Expectation,1.4.1.3.1,8.1.12.CS.4,Develop guidelines that convey systematic troubleshooting strategies that others can use to identify and fix errors.,09-12,2025-02-27T23:02:08+00:00
+Disciplinary Concept,1.4.2,8.1.12.NI,Networks and the Internet,09-12,2025-02-27T23:02:08+00:00
+Core Idea,1.4.2.1,,The scalability and reliability of the Internet are enabled by the hierarchy and redundancy in networks. Network topology is determined by many characteristics.,09-12,2025-02-27T23:02:08+00:00
+Performance Expectation,1.4.2.1.1,8.1.12.NI.1,"Evaluate the scalability and reliability of networks, by describing the relationship between routers, switches, servers, topology, and addressing.",09-12,2025-02-27T23:02:08+00:00
+Core Idea,1.4.2.2,,"Network security depends on a combination of hardware, software, and practices that protect data while it is at rest, in transit, and in use. The needs of users and the sensitivity of data determine the level of security implemented. Advanced attacks take advantage of common security vulnerabilities.",09-12,2025-02-27T23:02:08+00:00
+Performance Expectation,1.4.2.2.1,8.1.12.NI.2,Evaluate security measures to address various common security threats.,09-12,2025-02-27T23:02:08+00:00
+Performance Expectation,1.4.2.2.2,8.1.12.NI.3,Explain how the needs of users and the sensitivity of data determine the level of security implemented.,09-12,2025-02-27T23:02:08+00:00
+Performance Expectation,1.4.2.2.3,8.1.12.NI.4,"Explain how decisions on methods to protect data are influenced by whether the data is at rest, in transit, or in use.",09-12,2025-02-27T23:02:08+00:00
+Disciplinary Concept,1.4.3,8.1.12.IC,Impacts of Computing,09-12,2025-02-27T23:02:08+00:00
+Core Idea,1.4.3.1,,The design and use of computing technologies and artifacts can positively or negatively affect equitable access to information and opportunities.,09-12,2025-02-27T23:02:08+00:00
+Performance Expectation,1.4.3.1.1,8.1.12.IC.1,"Evaluate the ways computing impacts personal, ethical, social, economic, and cultural practices.",09-12,2025-02-27T23:02:08+00:00
+Performance Expectation,1.4.3.1.2,8.1.12.IC.2,Test and refine computational artifacts to reduce bias and equity deficits.,09-12,2025-02-27T23:02:08+00:00
+Performance Expectation,1.4.3.1.3,8.1.12.IC.3,"Predict the potential impacts and implications of emerging technologies on larger social, economic, and political structures, using evidence from credible sources.",09-12,2025-02-27T23:02:08+00:00
+Disciplinary Concept,1.4.4,8.1.12.DA,Data & Analysis,09-12,2025-02-27T23:02:08+00:00
+Core Idea,1.4.4.1,,"Individuals select digital tools and design automated processes to collect, transform, generalize, simplify, and present large data sets in different ways to influence how other people interpret and understand the underlying information.",09-12,2025-02-27T23:02:08+00:00
+Performance Expectation,1.4.4.1.1,8.1.12.DA.1,"Create interactive data visualizations using software tools to help others better understand real world phenomena, including climate change.",09-12,2025-02-27T23:02:08+00:00
+Core Idea,1.4.4.2,,"Choices individuals make about how and where data is organized and stored affects cost, speed, reliability, accessibility, privacy, and integrity.",09-12,2025-02-27T23:02:08+00:00
+Performance Expectation,1.4.4.2.1,8.1.12.DA.2,Describe the trade-offs in how and where data is organized and stored.,09-12,2025-02-27T23:02:08+00:00
+Performance Expectation,1.4.4.2.2,8.1.12.DA.3,Translate between decimal numbers and binary numbers.,09-12,2025-02-27T23:02:08+00:00
+Performance Expectation,1.4.4.2.3,8.1.12.DA.4,Explain the relationship between binary numbers and the storage and use of data in a computing device.,09-12,2025-02-27T23:02:08+00:00
+Core Idea,1.4.4.3,,"Large data sets can be transformed, generalized, simplified, and presented in different ways to influence how individuals interpret and understand the underlying information.",09-12,2025-02-27T23:02:08+00:00
+Performance Expectation,1.4.4.3.1,8.1.12.DA.5,"Create data visualizations from large data sets to summarize, communicate, and support different interpretations of real-world phenomena.",09-12,2025-02-27T23:02:08+00:00
+Core Idea,1.4.4.4,,"The accuracy of predictions or inferences made from a computer model is affected by the amount, quality, and diversity of data.",09-12,2025-02-27T23:02:08+00:00
+Performance Expectation,1.4.4.4.1,8.1.12.DA.6,Create and refine computational models to better represent the relationships among different elements of data collected from a phenomenon or process.,09-12,2025-02-27T23:02:08+00:00
+Disciplinary Concept,1.4.5,8.1.12.AP,Algorithms & Programming,09-12,2025-02-27T23:02:08+00:00
+Core Idea,1.4.5.1,,"Individuals evaluate and select algorithms based on performance, reusability, and ease of implementation.",09-12,2025-02-27T23:02:08+00:00
+Performance Expectation,1.4.5.1.1,8.1.12.AP.1,Design algorithms to solve computational problems using a combination of original and existing algorithms.,09-12,2025-02-27T23:02:08+00:00
+Core Idea,1.4.5.2,,"Programmers choose data structures to manage program complexity based on functionality, storage, and performance trade-offs.",09-12,2025-02-27T23:02:08+00:00
+Performance Expectation,1.4.5.2.1,8.1.12.AP.2,Create generalized computational solutions using collections instead of repeatedly using simple variables.,09-12,2025-02-27T23:02:08+00:00
+Core Idea,1.4.5.3,,"Trade-offs related to implementation, readability, and program performance are considered when selecting and combining control structures.",09-12,2025-02-27T23:02:08+00:00
+Performance Expectation,1.4.5.3.1,8.1.12.AP.3,"Select and combine control structures for a specific application based upon performance and readability, and identify trade-offs to justify the choice.",09-12,2025-02-27T23:02:08+00:00
+Performance Expectation,1.4.5.3.2,8.1.12.AP.4,"Design and iteratively develop computational artifacts for practical intent, personal expression, or to address a societal issue.",09-12,2025-02-27T23:02:08+00:00
+Core Idea,1.4.5.4,,"Complex programs are designed as systems of interacting modules, each with a specific role, coordinating for a common overall purpose. Modules allow for better management of complex tasks.",09-12,2025-02-27T23:02:08+00:00
+Performance Expectation,1.4.5.4.1,8.1.12.AP.5,"Decompose problems into smaller components through systematic analysis, using constructs such as procedures, modules, and/or objects.",09-12,2025-02-27T23:02:08+00:00
+Performance Expectation,1.4.5.4.2,8.1.12.AP.6,"Create artifacts by using procedures within a program, combinations of data and procedures, or independent but interrelated programs.",09-12,2025-02-27T23:02:08+00:00
+Core Idea,1.4.5.5,,"Complex programs are developed, tested, and analyzed by teams drawing on the members’ diverse strengths using a variety of resources, libraries, and tools.",09-12,2025-02-27T23:02:08+00:00
+Performance Expectation,1.4.5.5.1,8.1.12.AP.7,Collaboratively design and develop programs and artifacts for broad audiences by incorporating feedback from users.,09-12,2025-02-27T23:02:08+00:00
+Performance Expectation,1.4.5.5.2,8.1.12.AP.8,Evaluate and refine computational artifacts to make them more usable and accessible.,09-12,2025-02-27T23:02:08+00:00
+Performance Expectation,1.4.5.5.3,8.1.12.AP.9,Collaboratively document and present design decisions in the development of complex programs.,09-12,2025-02-27T23:02:08+00:00
+Course,2,8.2,Design Thinking,,2025-02-27T22:43:08+00:00
+Grade Range,2.1,8.2.2,By the End of Grade 2,KG-02,2025-02-27T23:02:28+00:00
+Disciplinary Concept,2.1.1,8.2.2.ED,Engineering Design,KG-02,2025-02-27T23:02:28+00:00
+Core Idea,2.1.1.1,,Engineering design is a creative process for meeting human needs or wants that can result in multiple solutions.,KG-02,2025-02-27T23:02:28+00:00
+Performance Expectation,2.1.1.1.1,8.2.2.ED.1,Communicate the function of a product or device.,KG-02,2025-02-27T23:02:28+00:00
+Performance Expectation,2.1.1.1.2,8.2.2.ED.2,"Collaborate to solve a simple problem, or to illustrate how to build a product using the design process.",KG-02,2025-02-27T23:02:28+00:00
+Performance Expectation,2.1.1.1.3,8.2.2.ED.3,Select and use appropriate tools and materials to build a product using the design process.,KG-02,2025-02-27T23:02:28+00:00
+Core Idea,2.1.1.2,,Limitations (constraints) must be considered when engineering designs.,KG-02,2025-02-27T23:02:28+00:00
+Performance Expectation,2.1.1.2.1,8.2.2.ED.4,Identify constraints and their role in the engineering design process.,KG-02,2025-02-27T23:02:28+00:00
+Disciplinary Concept,2.1.2,8.2.2.ITH,Interaction of Technology and Humans,KG-02,2025-02-27T23:02:28+00:00
+Core Idea,2.1.2.1,,Human needs and desires determine which new tools are developed.,KG-02,2025-02-27T23:02:28+00:00
+Performance Expectation,2.1.2.1.1,8.2.2.ITH.1,Identify products that are designed to meet human wants or needs.,KG-02,2025-02-27T23:02:28+00:00
+Performance Expectation,2.1.2.1.2,8.2.2.ITH.2,Explain the purpose of a product and its value.,KG-02,2025-02-27T23:02:28+00:00
+Core Idea,2.1.2.2,,Technology has changed the way people live and work. Various tools can improve daily tasks and quality of life.,KG-02,2025-02-27T23:02:28+00:00
+Performance Expectation,2.1.2.2.1,8.2.2.ITH.3,Identify how technology impacts or improves life.,KG-02,2025-02-27T23:02:28+00:00
+Performance Expectation,2.1.2.2.2,8.2.2.ITH.4,Identify how various tools reduce work and improve daily tasks.,KG-02,2025-02-27T23:02:28+00:00
+Performance Expectation,2.1.2.2.3,8.2.2.ITH.5,Design a solution to a problem affecting the community in a collaborative team and explain the intended impact of the solution.,KG-02,2025-02-27T23:02:28+00:00
+Disciplinary Concept,2.1.3,8.2.2.NT,Nature of Technology,KG-02,2025-02-27T23:02:28+00:00
+Core Idea,2.1.3.1,,Innovation and the improvement of existing technology involves creative thinking.,KG-02,2025-02-27T23:02:28+00:00
+Performance Expectation,2.1.3.1.1,8.2.2.NT.1,"Model and explain how a product works after taking it apart, identifying the relationship of each part, and putting it back together.",KG-02,2025-02-27T23:02:28+00:00
+Performance Expectation,2.1.3.1.2,8.2.2.NT.2,"Brainstorm how to build a product, improve a designed product, fix a product that has stopped working, or solve a simple problem.",KG-02,2025-02-27T23:02:28+00:00
+Disciplinary Concept,2.1.4,8.2.2.ETW,Effects of Technology on the Natural World,KG-02,2025-02-27T23:02:28+00:00
+Core Idea,2.1.4.1,,"The use of technology developed for the human designed world can affect the environment, including land, water, air, plants, and animals. Technologies that use natural sources can have negative effects on the environment, its quality, and inhabitants. Reusing and recycling materials can save money while preserving natural resources and avoiding damage to the environment.",KG-02,2025-02-27T23:02:28+00:00
+Performance Expectation,2.1.4.1.1,8.2.2.ETW.1,Classify products as resulting from nature or produced as a result of technology.,KG-02,2025-02-27T23:02:28+00:00
+Performance Expectation,2.1.4.1.2,8.2.2.ETW.2,Identify the natural resources needed to create a product.,KG-02,2025-02-27T23:02:28+00:00
+Performance Expectation,2.1.4.1.3,8.2.2.ETW.3,Describe or model the system used for recycling technology.,KG-02,2025-02-27T23:02:28+00:00
+Performance Expectation,2.1.4.1.4,8.2.2.ETW.4,Explain how the disposal of or reusing a product affects the local and global environment.,KG-02,2025-02-27T23:02:28+00:00
+Disciplinary Concept,2.1.5,8.2.2.EC,Ethics & Culture,KG-02,2025-02-27T23:02:28+00:00
+Core Idea,2.1.5.1,,The availability of technology for essential tasks varies in different parts of the world.,KG-02,2025-02-27T23:02:28+00:00
+Performance Expectation,2.1.5.1.1,8.2.2.EC.1,"Identify and compare technology used in different schools, communities, regions, and parts of the world.",KG-02,2025-02-27T23:02:28+00:00
+Grade Range,2.2,8.2.5,By the End of Grade 5,03-05,2025-02-27T23:02:37+00:00
+Disciplinary Concept,2.2.1,8.2.5.ED,Engineering Design,03-05,2025-02-27T23:02:37+00:00
+Core Idea,2.2.1.1,,"Engineering design is a systematic and creative process of communicating and collaborating to meet a design challenge. Often, several design solutions exist, each better in some way than the others.",03-05,2025-02-27T23:02:37+00:00
+Performance Expectation,2.2.1.1.1,8.2.5.ED.1,Explain the functions of a system and its subsystems.,03-05,2025-02-27T23:02:37+00:00
+Performance Expectation,2.2.1.1.2,8.2.5.ED.2,"Collaborate with peers to collect information, brainstorm to solve a problem, and evaluate all possible solutions to provide the best results with supporting sketches or models.",03-05,2025-02-27T23:02:37+00:00
+Performance Expectation,2.2.1.1.3,8.2.5.ED.3,"Follow step by step directions to assemble a product or solve a problem, using appropriate tools to accomplish the task.",03-05,2025-02-27T23:02:37+00:00
+Core Idea,2.2.1.2,,Engineering design requirements include desired features and limitations that need to be considered.,03-05,2025-02-27T23:02:37+00:00
+Performance Expectation,2.2.1.2.1,8.2.5.ED.4,"Explain factors that influence the development and function of products and systems (e.g., resources, criteria, desired features, constraints).",03-05,2025-02-27T23:02:37+00:00
+Performance Expectation,2.2.1.2.2,8.2.5.ED.5,Describe how specifications and limitations impact the engineering design process.,03-05,2025-02-27T23:02:37+00:00
+Performance Expectation,2.2.1.2.3,8.2.5.ED.6,Evaluate and test alternative solutions to a problem using the constraints and tradeoffs identified in the design process.,03-05,2025-02-27T23:02:37+00:00
+Disciplinary Concept,2.2.2,8.2.5.ITH,Interaction of Technology and Humans,03-05,2025-02-27T23:02:37+00:00
+Core Idea,2.2.2.1,,Societal needs and wants determine which new tools are developed to address real-world problems.,03-05,2025-02-27T23:02:37+00:00
+Performance Expectation,2.2.2.1.1,8.2.5.ITH.1,Explain how societal needs and wants influence the development and function of a product and a system.,03-05,2025-02-27T23:02:37+00:00
+Core Idea,2.2.2.2,,A new tool may have favorable or unfavorable results as well as both positive and negative effects on society. Technology spurs new businesses and careers.,03-05,2025-02-27T23:02:37+00:00
+Performance Expectation,2.2.2.2.1,8.2.5.ITH.2,Evaluate how well a new tool has met its intended purpose and identify any shortcomings it might have.,03-05,2025-02-27T23:02:37+00:00
+Performance Expectation,2.2.2.2.2,8.2.5.ITH.3,Analyze the effectiveness of a new product or system and identify the positive and/or negative consequences resulting from its use.,03-05,2025-02-27T23:02:37+00:00
+Performance Expectation,2.2.2.2.3,8.2.5.ITH.4,Describe a technology/tool that has made the way people live easier or has led to a new business or career.,03-05,2025-02-27T23:02:37+00:00
+Disciplinary Concept,2.2.3,8.2.5.NT,Nature of Technology,03-05,2025-02-27T23:02:37+00:00
+Core Idea,2.2.3.1,,Technology innovation and improvement may be influenced by a variety of factors. Engineers create and modify technologies to meet people’s needs and wants; scientists ask questions about the natural world.,03-05,2025-02-27T23:02:37+00:00
+Performance Expectation,2.2.3.1.1,8.2.5.NT.1,Troubleshoot a product that has stopped working and brainstorm ideas to correct the problem.,03-05,2025-02-27T23:02:37+00:00
+Performance Expectation,2.2.3.1.2,8.2.5.NT.2,"Identify new technologies resulting from the demands, values, and interests of individuals, businesses, industries, and societies.",03-05,2025-02-27T23:02:37+00:00
+Performance Expectation,2.2.3.1.3,8.2.5.NT.3,Redesign an existing product for a different purpose in a collaborative team.,03-05,2025-02-27T23:02:37+00:00
+Performance Expectation,2.2.3.1.4,8.2.5.NT.4,Identify how improvement in the understanding of materials science impacts technologies.,03-05,2025-02-27T23:02:37+00:00
+Disciplinary Concept,2.2.4,8.2.5.ETW,Effects of Technology on the Natural World,03-05,2025-02-27T23:02:37+00:00
+Core Idea,2.2.4.1,,The technology developed for the human designed world can have unintended consequences for the environment. Technology must be continually developed and made more efficient to reduce the need for non-renewable resources.,03-05,2025-02-27T23:02:37+00:00
+Performance Expectation,2.2.4.1.1,8.2.5.ETW.1,"Describe how resources such as material, energy, information, time, tools, people, and capital are used in products or systems.",03-05,2025-02-27T23:02:37+00:00
+Performance Expectation,2.2.4.1.2,8.2.5.ETW.2,Describe ways that various technologies are used to reduce improper use of resources.,03-05,2025-02-27T23:02:37+00:00
+Performance Expectation,2.2.4.1.3,8.2.5.ETW.3,"Explain why human-designed systems, products, and environments need to be constantly monitored, maintained, and improved.",03-05,2025-02-27T23:02:37+00:00
+Performance Expectation,2.2.4.1.4,8.2.5.ETW.4,"Explain the impact that resources, such as energy and materials used to develop technology, have on the environment.",03-05,2025-02-27T23:02:37+00:00
+Performance Expectation,2.2.4.1.5,8.2.5.ETW.5,"Identify the impact of a specific technology on the environment and determine what can be done to increase positive effects and to reduce any negative effects, such as climate change.",03-05,2025-02-27T23:02:37+00:00
+Disciplinary Concept,2.2.5,8.2.5.EC,Ethics & Culture,03-05,2025-02-27T23:02:37+00:00
+Core Idea,2.2.5.1,,"Technological choices and opportunities vary due to factors such as differences in economic resources, location, and cultural values.",03-05,2025-02-27T23:02:37+00:00
+Performance Expectation,2.2.5.1.1,8.2.5.EC.1,Analyze how technology has contributed to or reduced inequities in local and global communities and determine its short- and long-term effects.,03-05,2025-02-27T23:02:37+00:00
+Grade Range,2.3,8.2.8,By the End of Grade 8,05-08,2025-02-27T23:02:51+00:00
+Disciplinary Concept,2.3.1,8.2.8.ED,Engineering Design,05-08,2025-02-27T23:02:51+00:00
+Core Idea,2.3.1.1,,"Engineering design is a systematic, creative, and iterative process used to address local and global problems. The process includes generating ideas, choosing the best solution, and making, testing, and redesigning models or prototypes.",05-08,2025-02-27T23:02:51+00:00
+Performance Expectation,2.3.1.1.1,8.2.8.ED.1,"Evaluate the function, value, and aesthetics of a technological product or system, from the perspective of the user and the producer.",05-08,2025-02-27T23:02:51+00:00
+Performance Expectation,2.3.1.1.2,8.2.8.ED.2,Identify the steps in the design process that could be used to solve a problem.,05-08,2025-02-27T23:02:51+00:00
+Performance Expectation,2.3.1.1.3,8.2.8.ED.3,"Develop a proposal for a solution to a real-world problem that includes a model (e.g., physical prototype, graphical/technical sketch).",05-08,2025-02-27T23:02:51+00:00
+Performance Expectation,2.3.1.1.4,8.2.8.ED.4,"Investigate a malfunctioning system, identify its impact, and explain the step-by-step process used to troubleshoot, evaluate, and test options to repair the product in a collaborative team.",05-08,2025-02-27T23:02:51+00:00
+Core Idea,2.3.1.2,,Engineering design requirements and specifications involve making trade-offs between competing requirements and desired design features.,05-08,2025-02-27T23:02:51+00:00
+Performance Expectation,2.3.1.2.1,8.2.8.ED.5,Explain the need for optimization in a design process.,05-08,2025-02-27T23:02:51+00:00
+Performance Expectation,2.3.1.2.2,8.2.8.ED.6,Analyze how trade-offs can impact the design of a product.,05-08,2025-02-27T23:02:51+00:00
+Performance Expectation,2.3.1.2.3,8.2.8.ED.7,"Design a product to address a real-world problem and document the iterative design process, including decisions made as a result of specific constraints and trade-offs (e.g., annotated sketches).",05-08,2025-02-27T23:02:51+00:00
+Disciplinary Concept,2.3.2,8.2.8.ITH,Interaction of Technology and Humans,05-08,2025-02-27T23:02:51+00:00
+Core Idea,2.3.2.1,,"Economic, political, social and cultural aspects of society drive development of new technological products, processes, and systems.",05-08,2025-02-27T23:02:51+00:00
+Performance Expectation,2.3.2.1.1,8.2.8.ITH.1,"Explain how the development and use of technology influences economic, political, social, and cultural issues.",05-08,2025-02-27T23:02:51+00:00
+Core Idea,2.3.2.2,,"Technology interacts with society, sometimes bringing about changes in a society’s economy, politics, and culture, and often leading to the creation of new needs and wants. New needs and wants may create strains on local economies and workforces. Improvements in technology are intended to make the completion of tasks easier, safer, and/or more efficient.",05-08,2025-02-27T23:02:51+00:00
+Performance Expectation,2.3.2.2.1,8.2.8.ITH.2,Compare how technologies have influenced society over time.,05-08,2025-02-27T23:02:51+00:00
+Performance Expectation,2.3.2.2.2,8.2.8.ITH.3,Evaluate the impact of sustainability on the development of a designed product or system.,05-08,2025-02-27T23:02:51+00:00
+Performance Expectation,2.3.2.2.3,8.2.8.ITH.4,Identify technologies that have been designed to reduce the negative consequences of other technologies and explain the change in impact.,05-08,2025-02-27T23:02:51+00:00
+Performance Expectation,2.3.2.2.4,8.2.8.ITH.5,"Compare the impacts of a given technology on different societies, noting factors that may make a technology appropriate and sustainable in one society but not in another.",05-08,2025-02-27T23:02:51+00:00
+Disciplinary Concept,2.3.3,8.2.8.NT,Nature of Technology,05-08,2025-02-27T23:02:51+00:00
+Core Idea,2.3.3.1,,"Technology advances through the processes of innovation and invention which relies upon the imaginative and inventive nature of people. Sometimes a technology developed for one purpose is adapted to serve other purposes. Engineers use a systematic process of creating or modifying technologies that is fueled and constrained by physical laws, cultural norms, and economic resources. Scientists use systematic investigation to understand the natural world.",05-08,2025-02-27T23:02:51+00:00
+Performance Expectation,2.3.3.1.1,8.2.8.NT.1,"Examine a malfunctioning tool, product, or system and propose solutions to the problem.",05-08,2025-02-27T23:02:51+00:00
+Performance Expectation,2.3.3.1.2,8.2.8.NT.2,Analyze an existing technological product that has been repurposed for a different function.,05-08,2025-02-27T23:02:51+00:00
+Performance Expectation,2.3.3.1.3,8.2.8.NT.3,"Examine a system, consider how each part relates to other parts, and redesign it for another purpose.",05-08,2025-02-27T23:02:51+00:00
+Performance Expectation,2.3.3.1.4,8.2.8.NT.4,Explain how a product designed for a specific demand was modified to meet a new demand and led to a new product.,05-08,2025-02-27T23:02:51+00:00
+Disciplinary Concept,2.3.4,8.2.8.ETW,Effects of Technology on the Natural World,05-08,2025-02-27T23:02:51+00:00
+Core Idea,2.3.4.1,,"Resources need to be utilized wisely to have positive effects on the environment and society. Some technological decisions involve tradeoffs between environmental and economic needs, while others have positive effects for both the economy and environment.",05-08,2025-02-27T23:02:51+00:00
+Performance Expectation,2.3.4.1.1,8.2.8.ETW.1,Illustrate how a product is upcycled into a new product and analyze the short- and long-term benefits and costs.,05-08,2025-02-27T23:02:51+00:00
+Performance Expectation,2.3.4.1.2,8.2.8.ETW.2,"Analyze the impact of modifying resources in a product or system (e.g., materials, energy, information, time, tools, people, capital).",05-08,2025-02-27T23:02:51+00:00
+Performance Expectation,2.3.4.1.3,8.2.8.ETW.3,Analyze the design of a product that negatively impacts the environment or society and develop possible solutions to lessen its impact.,05-08,2025-02-27T23:02:51+00:00
+Performance Expectation,2.3.4.1.4,8.2.8.ETW.4,Compare the environmental effects of two alternative technologies devised to address climate change issues and use data to justify which choice is best.,05-08,2025-02-27T23:02:51+00:00
+Disciplinary Concept,2.3.5,8.2.8.EC,Ethics & Culture,05-08,2025-02-27T23:02:51+00:00
+Core Idea,2.3.5.1,,Technological disparities have consequences for public health and prosperity.,05-08,2025-02-27T23:02:51+00:00
+Performance Expectation,2.3.5.1.1,8.2.8.EC.1,Explain ethical issues that may arise from the use of new technologies.,05-08,2025-02-27T23:02:51+00:00
+Performance Expectation,2.3.5.1.2,8.2.8.EC.2,Examine the effects of ethical and unethical practices in product design and development.,05-08,2025-02-27T23:02:51+00:00
+Grade Range,2.4,8.2.12,By the End of Grade 12,09-12,2025-02-27T23:03:00+00:00
+Disciplinary Concept,2.4.1,8.2.12.ED,Engineering Design,09-12,2025-02-27T23:03:00+00:00
+Core Idea,2.4.1.1,,"Engineering design is a complex process in which creativity, content knowledge, research, and analysis are used to address local and global problems. Decisions on trade-offs involve systematic comparisons of all costs and benefits, and final steps that may involve redesigning for optimization.",09-12,2025-02-27T23:03:00+00:00
+Performance Expectation,2.4.1.1.1,8.2.12.ED.1,Use research to design and create a product or system that addresses a problem and make modifications based on input from potential consumers.,09-12,2025-02-27T23:03:00+00:00
+Performance Expectation,2.4.1.1.2,8.2.12.ED.2,Create scaled engineering drawings for a new product or system and make modification to increase optimization based on feedback.,09-12,2025-02-27T23:03:00+00:00
+Performance Expectation,2.4.1.1.3,8.2.12.ED.3,Evaluate several models of the same type of product and make recommendations for a new design based on a cost benefit analysis.,09-12,2025-02-27T23:03:00+00:00
+Performance Expectation,2.4.1.1.4,8.2.12.ED.4,"Design a product or system that addresses a global problem and document decisions made based on research, constraints, trade-offs, and aesthetic and ethical considerations and share this information with an appropriate audience.",09-12,2025-02-27T23:03:00+00:00
+Core Idea,2.4.1.2,,"Engineering design evaluation, a process for determining how well a solution meets requirements, involves systematic comparisons between requirements, specifications, and constraints.",09-12,2025-02-27T23:03:00+00:00
+Performance Expectation,2.4.1.2.1,8.2.12.ED.5,"Evaluate the effectiveness of a product or system based on factors that are related to its requirements, specifications, and constraints (e.g., safety, reliability, economic considerations, quality control, environmental concerns, manufacturability, maintenance and repair, ergonomics).",09-12,2025-02-27T23:03:00+00:00
+Performance Expectation,2.4.1.2.2,8.2.12.ED.6,"Analyze the effects of changing resources when designing a specific product or system (e.g., materials, energy, tools, capital, labor).",09-12,2025-02-27T23:03:00+00:00
+Disciplinary Concept,2.4.2,8.2.12.ITH,Interaction of Technology and Humans,09-12,2025-02-27T23:03:00+00:00
+Core Idea,2.4.2.1,,Decisions to develop new technology are driven by societal and cultural opinions and demands that differ from culture to culture.,09-12,2025-02-27T23:03:00+00:00
+Performance Expectation,2.4.2.1.1,8.2.12.ITH.1,"Analyze a product to determine the impact that economic, political, social, and/or cultural factors have had on its design, including its design constraints.",09-12,2025-02-27T23:03:00+00:00
+Core Idea,2.4.2.2,,"Changes caused by the introduction and use of a new technology can range from gradual to rapid and from subtle to obvious, and can change over time. These changes may vary from society to society as a result of differences in a society’s economy, politics, and culture.",09-12,2025-02-27T23:03:00+00:00
+Performance Expectation,2.4.2.2.1,8.2.12.ITH.2,"Propose an innovation to meet future demands supported by an analysis of the potential costs, benefits, trade-offs, and risks related to the use of the innovation.",09-12,2025-02-27T23:03:00+00:00
+Performance Expectation,2.4.2.2.2,8.2.12.ITH.3,"Analyze the impact that globalization, social media, and access to open source technologies has had on innovation and on a society’s economy, politics, and culture.",09-12,2025-02-27T23:03:00+00:00
+Disciplinary Concept,2.4.3,8.2.12.NT,Nature of Technology,09-12,2025-02-27T23:03:00+00:00
+Core Idea,2.4.3.1,,"Engineers use science, mathematics, and other disciplines to improve technology. Increased collaboration among engineers, scientists, and mathematicians can improve their work and designs. Technology, product, or system redesign can be more difficult than the original design.",09-12,2025-02-27T23:03:00+00:00
+Performance Expectation,2.4.3.1.1,8.2.12.NT.1,Explain how different groups can contribute to the overall design of a product.,09-12,2025-02-27T23:03:00+00:00
+Performance Expectation,2.4.3.1.2,8.2.12.NT.2,Redesign an existing product to improve form or function.,09-12,2025-02-27T23:03:00+00:00
+Disciplinary Concept,2.4.4,8.2.12.ETW,Effects of Technology on the Natural World,09-12,2025-02-27T23:03:00+00:00
+Core Idea,2.4.4.1,,Development and modification of any technological system needs to take into account how the operation of the system will affect natural resources and ecosystems. Impacts of technological systems on the environment need to be monitored and must inform decision-making. Many technologies have been designed to have a positive impact on the environment and to monitor environmental change over time.,09-12,2025-02-27T23:03:00+00:00
+Performance Expectation,2.4.4.1.1,8.2.12.ETW.1,"Evaluate ethical considerations regarding the sustainability of environmental resources that are used for the design, creation, and maintenance of a chosen product.",09-12,2025-02-27T23:03:00+00:00
+Performance Expectation,2.4.4.1.2,8.2.12.ETW.2,Synthesize and analyze data collected to monitor the effects of a technological product or system on the environment.,09-12,2025-02-27T23:03:00+00:00
+Performance Expectation,2.4.4.1.3,8.2.12.ETW.3,"Identify a complex, global environmental or climate change issue, develop a systemic plan of investigation, and propose an innovative sustainable solution.",09-12,2025-02-27T23:03:00+00:00
+Disciplinary Concept,2.4.5,8.2.12.EC,Ethics & Culture,09-12,2025-02-27T23:03:00+00:00
+Core Idea,2.4.5.1,,"The ability to ethically integrate new technologies requires deciding whether to introduce a technology, taking into consideration local resources and the role of culture in acceptance. Consequences of technological use may be different for different groups of people and may change over time. Since technological decisions can have ethical implications, it is essential that individuals analyze issues by gathering evidence from multiple perspectives and conceiving of alternative possibilities before proposing solutions.",09-12,2025-02-27T23:03:00+00:00
+Performance Expectation,2.4.5.1.1,8.2.12.EC.1,"Analyze controversial technological issues and determine the degree to which individuals, businesses, and governments have an ethical role in decisions that are made.",09-12,2025-02-27T23:03:00+00:00
+Performance Expectation,2.4.5.1.2,8.2.12.EC.2,"Assess the positive and negative impacts of emerging technologies on developing countries and evaluate how individuals, non-profit organizations, and governments have responded.",09-12,2025-02-27T23:03:00+00:00
+Performance Expectation,2.4.5.1.3,8.2.12.EC.3,"Synthesize data, analyze trends, and draw conclusions regarding the effect of a technology on the individual, culture, society, and environment and share this information with the appropriate audience.",09-12,2025-02-27T23:03:00+00:00
+Performance Expectation,2.4.5.1.4,8.2.12.EC.4,Research historical tensions between environmental and economic considerations as driven by human needs and wants in the development of a technological product and present the competing viewpoints.,09-12,2025-02-27T23:03:00+00:00
